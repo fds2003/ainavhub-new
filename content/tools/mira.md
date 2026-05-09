@@ -1,0 +1,17 @@
+---
+title: "mira"
+date: "2025-01-01T00:00:00+08:00"
+description: "Mira 是腾讯推出的用于长时视频生成的初步框架。"
+slug: mira
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## mira
+
+Mira 是腾讯推出的用于长时视频生成的初步框架。
+
+## Links
+
+- [Official Website](https://mira-space.github.io/)

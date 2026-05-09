@@ -1,0 +1,17 @@
+---
+title: "chatgpt-artifacts"
+date: "2025-01-01T00:00:00+08:00"
+description: "将 Claude 的 Artifacts 功能引入 ChatGPT"
+slug: chatgpt-artifacts
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## chatgpt-artifacts
+
+将 Claude 的 Artifacts 功能引入 ChatGPT
+
+## Links
+
+- [Official Website](https://github.com/ozgrozer/chatgpt-artifacts/blob/main/readme.md)

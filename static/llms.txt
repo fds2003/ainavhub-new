@@ -1,0 +1,72 @@
+# AINavHub - LLMs.txt
+
+## Site Overview
+
+AINavHub is a curated directory of AI tools and workflows for developers.
+
+**URL:** https://ainavhub.top
+**Description:** Discover The Best AI Tools & Workflows for Developers
+
+---
+
+## Site Structure
+
+### /tools/
+AI tool listings and reviews (1,900+ tools)
+- /tools/[slug]/ - Individual tool detail pages
+
+### /categories/
+Browse tools by category
+- /categories/chat-llm/
+- /categories/coding/
+- /categories/video/
+- /categories/image-generation/
+- /categories/research/
+- /categories/audio/
+- /categories/productivity/
+
+### /guides/
+In-depth tutorials and how-to guides
+
+### /insights/
+Analysis and best practices articles
+
+### /search/
+Search all tools
+
+---
+
+## Core Content Categories
+
+### AI Coding Tools (178)
+AI-powered code editors, assistants, and completion tools.
+
+### Chat/LLM (410)
+Large language model APIs, chatbots, and conversational AI.
+
+### Video (155)
+Video generation, editing, and analysis tools.
+
+### Image Generation (91)
+AI image creation and editing tools.
+
+### Research (84)
+AI research tools for data analysis and discovery.
+
+### Audio (83)
+Speech, music, and audio generation tools.
+
+### Productivity (77)
+AI-powered productivity and workflow automation tools.
+
+---
+
+## Update Frequency
+
+Content is updated daily with new AI tools.
+
+---
+
+## Contact
+
+For tool submissions or corrections: contact@ainavhub.top

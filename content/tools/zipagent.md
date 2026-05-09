@@ -1,0 +1,17 @@
+---
+title: "zipagent"
+date: "2025-01-01T00:00:00+08:00"
+description: "极简 AI 智能体框架"
+slug: zipagent
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## zipagent
+
+极简 AI 智能体框架
+
+## Links
+
+- [Official Website](https://github.com/JiayuXu0/ZipAgent)

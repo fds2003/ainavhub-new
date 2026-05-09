@@ -1,0 +1,17 @@
+---
+title: "ssm-transformer"
+date: "2025-01-01T00:00:00+08:00"
+description: "AI21推出了首个生产级别的基于Mamba的模型Jamba，这是一个创新的SSM-Transformer混合架构模型。"
+slug: ssm-transformer
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## ssm-transformer
+
+AI21推出了首个生产级别的基于Mamba的模型Jamba，这是一个创新的SSM-Transformer混合架构模型。
+
+## Links
+
+- [Official Website](https://www.ai21.com/blog/announcing-jamba)

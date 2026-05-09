@@ -1,0 +1,17 @@
+---
+title: "chatterbox-tts"
+date: "2025-01-01T00:00:00+08:00"
+description: "Chatterbox TTS 是 Resemble AI 开源的生产级TTS模型，它支持情感夸张控制，性能优于ElevenLabs，并且包含水印功能。"
+slug: chatterbox-tts
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## chatterbox-tts
+
+Chatterbox TTS 是 Resemble AI 开源的生产级TTS模型，它支持情感夸张控制，性能优于ElevenLabs，并且包含水印功能。
+
+## Links
+
+- [Official Website](https://github.com/resemble-ai/chatterbox)

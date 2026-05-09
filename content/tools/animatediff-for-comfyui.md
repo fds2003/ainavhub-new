@@ -1,0 +1,17 @@
+---
+title: "animatediff-for-comfyui"
+date: "2025-01-01T00:00:00+08:00"
+description: "改进了ComfyUI的AnimateDiff整合，提供了进阶采样选项，可单独使用。"
+slug: animatediff-for-comfyui
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## animatediff-for-comfyui
+
+改进了ComfyUI的AnimateDiff整合，提供了进阶采样选项，可单独使用。
+
+## Links
+
+- [Official Website](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)

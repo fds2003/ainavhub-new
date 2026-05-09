@@ -1,0 +1,110 @@
+<nav class="nav">
+    <div class="nav-inner">
+        <a href="/" class="nav-brand">
+            <div class="nav-brand-icon">
+                <i data-lucide="sparkles" style="width: 18px; height: 18px; color: white;"></i>
+            </div>
+            <span>AINavHub</span>
+        </a>
+        
+        <div class="nav-links">
+            {{ range .Site.Menus.main }}
+            <a href="{{ .URL }}" class="nav-link{{ if hasPrefix $.RelPermalink .URL }} active{{ end }}">{{ .Name }}</a>
+            {{ end }}
+        </div>
+        
+        <div class="nav-actions">
+            <button class="btn btn-ghost" onclick="toggleTheme()" title="Toggle theme">
+                <i data-lucide="moon" style="width: 18px; height: 18px;" id="theme-icon"></i>
+            </button>
+            <a href="https://github.com/ainavhub" target="_blank" rel="noopener" class="btn btn-ghost">
+                <i data-lucide="github" style="width: 18px; height: 18px;"></i>
+            </a>
+        </div>
+    </div>
+</nav>
+
+<style>
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: rgba(10, 10, 15, 0.8);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid var(--border-color);
+}
+.nav-inner {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 2rem;
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: var(--text-primary);
+    text-decoration: none;
+}
+.nav-brand-icon {
+    width: 32px;
+    height: 32px;
+    background: var(--accent-gradient);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nav-links { display: flex; align-items: center; gap: 0.5rem; }
+.nav-link {
+    padding: 0.5rem 1rem;
+    color: var(--text-secondary);
+    font-weight: 500;
+    font-size: 0.875rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: all 150ms ease;
+}
+.nav-link:hover, .nav-link.active {
+    color: var(--text-primary);
+    background: var(--bg-tertiary);
+}
+.nav-actions { display: flex; align-items: center; gap: 0.75rem; }
+.btn {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    padding: 0.5rem 1rem; font-size: 0.875rem; font-weight: 500;
+    border-radius: 6px; border: none; cursor: pointer;
+    text-decoration: none;
+    transition: all 150ms ease;
+}
+.btn-ghost { background: transparent; color: var(--text-secondary); }
+.btn-ghost:hover { color: var(--text-primary); background: var(--bg-tertiary); }
+.btn-primary { background: var(--accent-gradient); color: white; }
+.btn-primary:hover { transform: translateY(-1px); box-shadow: var(--shadow-glow); }
+@media (max-width: 768px) {
+    .nav-links { display: none; }
+}
+</style>
+
+<script>
+function toggleTheme() {
+    const html = document.documentElement;
+    const icon = document.getElementById('theme-icon');
+    const isDark = html.getAttribute('data-theme') !== 'light';
+    if (isDark) {
+        html.setAttribute('data-theme', 'light');
+        icon.setAttribute('data-lucide', 'sun');
+    } else {
+        html.removeAttribute('data-theme');
+        icon.setAttribute('data-lucide', 'moon');
+    }
+    if (window.lucide) lucide.createIcons();
+}
+</script>

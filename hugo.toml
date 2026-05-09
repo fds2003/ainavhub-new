@@ -1,0 +1,84 @@
+baseURL = "https://ainavhub.top/"
+locale = "en-US"
+title = "AINavHub - AI Tools for Developers"
+theme = "PaperMod"
+timeout = "120s"
+
+# Use static/robots.txt
+enableRobotsTXT = false
+enableGitInfo = false
+enableEmoji = true
+hasCJKLanguage = true
+paginate = 50
+
+# Allow raw HTML in markdown content (from converted tutorials)
+[markup.goldmark.renderer]
+  unsafe = true
+
+# Permalinks
+[permalinks]
+  tools = "/tools/:slug/"
+  guides = "/guides/:slug/"
+  insights = "/insights/:slug/"
+
+# Navigation
+[[menu.main]]
+  identifier = "tools"
+  name = "AI Tools"
+  url = "/tools/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "guides"
+  name = "Guides"
+  url = "/guides/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "insights"
+  name = "Insights"
+  url = "/insights/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 4
+
+# Social Links
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/ainavhub"
+
+# SEO Parameters
+[params]
+  description = "Discover The Best AI Tools & Workflows for Developers"
+  keywords = ["AI tools", "AI coding", "AI workflow", "MCP servers", "AI agent"]
+  author = "AINavHub"
+  
+[params.schema]
+  toolTemplate = "tools/single.html"
+  guideTemplate = "guides/single.html"
+  insightTemplate = "insights/single.html"
+
+# Sitemap
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.8
+
+# Related content
+[related]
+  threshold = 80
+  includeNewer = true
+  toLower = true
+  [[related.indices]]
+    name = "titles"
+    weight = 100
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  [[related.indices]]
+    name = "categories"
+    weight = 60

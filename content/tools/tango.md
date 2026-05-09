@@ -1,0 +1,17 @@
+---
+title: "tango"
+date: "2025-01-01T00:00:00+08:00"
+description: "TANGO是一种通过层次音频-运动嵌入和扩散插值进行的共语手势视频重现技术。"
+slug: tango
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## tango
+
+TANGO是一种通过层次音频-运动嵌入和扩散插值进行的共语手势视频重现技术。
+
+## Links
+
+- [Official Website](https://github.com/CyberAgentAILab/TANGO)

@@ -1,0 +1,17 @@
+---
+title: "space-adventure-story"
+date: "2025-01-01T00:00:00+08:00"
+description: "本地AI语音太空故事"
+slug: space-adventure-story
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## space-adventure-story
+
+本地AI语音太空故事
+
+## Links
+
+- [Official Website](https://github.com/kwindla/gpt-oss-space-game)

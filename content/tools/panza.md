@@ -1,0 +1,17 @@
+---
+title: "panza"
+date: "2025-01-01T00:00:00+08:00"
+description: "个人化的电子邮件助手"
+slug: panza
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## panza
+
+个人化的电子邮件助手
+
+## Links
+
+- [Official Website](https://github.com/IST-DASLab/PanzaMail)

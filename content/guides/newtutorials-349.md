@@ -1,0 +1,32 @@
+---
+title: "Newtutorials"
+date: "2024-01-01 00:00:00+08:00"
+description: Improvements to data analysis in ChatGPT By AiBard123 May 17, 2024 -
+  2 min read ChatGPT read more
+slug: newtutorials-349
+tags:
+- min
+- data
+- chatgpt
+- to
+- by
+draft: false
+related_tools:
+- gamingagent
+- gemini 2.0 flash image generation and editing
+- gemini 2.5
+- lumina-mgpt 2.0
+- gemini coding agent
+---
+
+![blog-thum](https://aibard123.com/images/aitools/2024/05/data-analysis-in-chatgpt.jpg)
+
+[ Improvements to data analysis in ChatGPT ](<https://aibard123.com/newtutorial/2024/05/data-analysis-in-chatgpt/>)
+
+* By [AiBard123](<https://aibard123.com/about>)
+* __May 17, 2024 - 2 min read
+
+
+ChatGPT推出了数据分析的增强功能
+
+[read more __](<https://aibard123.com/newtutorial/2024/05/data-analysis-in-chatgpt/>)

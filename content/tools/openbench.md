@@ -1,0 +1,17 @@
+---
+title: "openbench"
+date: "2025-01-01T00:00:00+08:00"
+description: "语言模型开放基准"
+slug: openbench
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## openbench
+
+语言模型开放基准
+
+## Links
+
+- [Official Website](https://github.com/groq/openbench)

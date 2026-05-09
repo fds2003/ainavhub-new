@@ -1,0 +1,76 @@
+<footer class="footer">
+    <div class="footer-inner">
+        <div class="footer-grid">
+            <div class="footer-brand">
+                <h3>AINavHub</h3>
+                <p>The best AI tools for developers, curated and updated daily. Find coding assistants, agents, and workflow automation tools.</p>
+            </div>
+            <div class="footer-links">
+                <h4>Resources</h4>
+                <ul>
+                    <li><a href="/tools/">All Tools</a></li>
+                    <li><a href="/guides/">Guides</a></li>
+                    <li><a href="/insights/">Insights</a></li>
+                    <li><a href="/categories/">Categories</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4>Categories</h4>
+                <ul>
+                    <li><a href="/categories/ai-tools/">AI Tools</a></li>
+                    <li><a href="/categories/chat-llm/">Chat/LLM</a></li>
+                    <li><a href="/categories/coding/">Coding</a></li>
+                    <li><a href="/categories/video/">Video</a></li>
+                </ul>
+            </div>
+            <div class="footer-links">
+                <h4>Connect</h4>
+                <ul>
+                    <li><a href="https://github.com/ainavhub">GitHub</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <span>&copy; {{ now.Year }} AINavHub. Built with Hugo.</span>
+            <div class="footer-social">
+                <a href="https://github.com/ainavhub" aria-label="GitHub">
+                    <i data-lucide="github" style="width: 20px; height: 20px;"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<style>
+.footer {
+    border-top: 1px solid var(--border-color);
+    padding: 4rem 2rem 2rem;
+    margin-top: 4rem;
+}
+.footer-inner { max-width: 1400px; margin: 0 auto; }
+.footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 3rem;
+    margin-bottom: 3rem;
+}
+.footer-brand h3 { font-size: 1.25rem; font-weight: 700; margin-bottom: 0.75rem; color: var(--text-primary); }
+.footer-brand p { font-size: 0.875rem; color: var(--text-secondary); line-height: 1.6; }
+.footer-links h4 { font-size: 0.875rem; font-weight: 600; margin-bottom: 1rem; color: var(--text-primary); }
+.footer-links ul { list-style: none; }
+.footer-links li { margin-bottom: 0.5rem; }
+.footer-links a { font-size: 0.875rem; color: var(--text-secondary); text-decoration: none; transition: color 150ms ease; }
+.footer-links a:hover { color: var(--text-primary); }
+.footer-bottom {
+    display: flex; align-items: center; justify-content: space-between;
+    padding-top: 2rem; border-top: 1px solid var(--border-color);
+    font-size: 0.875rem; color: var(--text-muted);
+}
+.footer-social { display: flex; gap: 1rem; }
+.footer-social a { color: var(--text-muted); transition: color 150ms ease; }
+.footer-social a:hover { color: var(--text-primary); }
+@media (max-width: 768px) {
+    .footer-grid { grid-template-columns: 1fr; gap: 2rem; }
+    .footer-bottom { flex-direction: column; gap: 1rem; text-align: center; }
+}
+</style>

@@ -1,0 +1,19 @@
+// ⚠️ DO NOT EDIT - Auto-generated file
+// This file listens for Hugo paginator events and navigates the live page.
+// Source: node_modules/hugo-paginator/index.js
+//
+// Since this relies on node_modules, you can install with:
+//   npm install hugo-paginator
+
+(function() {
+    'use strict';
+    const paginator = document.querySelector('.pagination');
+    if (paginator) {
+        const links = paginator.querySelectorAll('a');
+        links.forEach(function(link) {
+            link.addEventListener('click', function(e) {
+                // allow normal navigation
+            });
+        });
+    }
+})();

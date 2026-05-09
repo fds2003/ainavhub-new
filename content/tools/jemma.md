@@ -1,0 +1,17 @@
+---
+title: "jemma"
+date: "2025-01-01T00:00:00+08:00"
+description: "能将你的想法转换成代码，并从中构建出代码原型"
+slug: jemma
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## jemma
+
+能将你的想法转换成代码，并从中构建出代码原型
+
+## Links
+
+- [Official Website](https://github.com/tolitius/jemma)

@@ -1,0 +1,17 @@
+---
+title: "neuralforecast"
+date: "2025-01-01T00:00:00+08:00"
+description: "专为时间序列预测设计的开源库"
+slug: neuralforecast
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## neuralforecast
+
+专为时间序列预测设计的开源库
+
+## Links
+
+- [Official Website](https://github.com/Nixtla/neuralforecast)

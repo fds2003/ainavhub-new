@@ -1,0 +1,36 @@
+# robots.txt for ainavhub.top
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ainavhub.top/sitemap.xml
+
+# Allow AI crawlers (OpenAI, Anthropic, Google AI)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+# Block common spam bots
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /

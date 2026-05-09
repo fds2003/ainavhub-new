@@ -1,0 +1,59 @@
+{{ define "main" }}
+{{ partial "breadcrumb.html" . }}
+
+<article class="insight-page" itemscope itemtype="https://schema.org/Article">
+    <header class="insight-header">
+        <h1 itemprop="headline">{{ .Title }}</h1>
+        <p class="insight-description">{{ .Description }}</p>
+        <div class="insight-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
+            <span class="reading-time">{{ .ReadingTime }} min read</span>
+            {{ with .Params.author }}
+            <span class="author">By {{ . }}</span>
+            {{ end }}
+        </div>
+    </header>
+    
+    <div class="insight-content" itemprop="articleBody">
+        {{ .Content }}
+    </div>
+    
+    <!-- Tags -->
+    {{ with .Params.tags }}
+    <div class="tags">
+        {{ range . }}
+        <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{ end }}
+    </div>
+    {{ end }}
+    
+    <!-- JSON-LD Article Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "{{ .Title }}",
+        "description": "{{ .Description }}",
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
+        "author": {
+            "@type": "Organization",
+            "name": "{{ .Site.Title }}"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "{{ .Site.Title }}",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "{{ .Site.BaseURL }}logo.png"
+            }
+        },
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{ .Permalink }}"
+        }
+    }
+    </script>
+</article>
+{{ end }}

@@ -1,0 +1,17 @@
+---
+title: "claude-coder"
+date: "2025-01-01T00:00:00+08:00"
+description: "Claude Coder是一款适应用户技能水平的VS Code扩展，帮助快速实现创意与编程。"
+slug: claude-coder
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## claude-coder
+
+Claude Coder是一款适应用户技能水平的VS Code扩展，帮助快速实现创意与编程。
+
+## Links
+
+- [Official Website](https://github.com/kodu-ai/claude-coder)

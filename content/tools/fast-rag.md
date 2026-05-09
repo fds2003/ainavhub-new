@@ -1,0 +1,17 @@
+---
+title: "fast-rag"
+date: "2025-01-01T00:00:00+08:00"
+description: "本地隐私RAG"
+slug: fast-rag
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## fast-rag
+
+本地隐私RAG
+
+## Links
+
+- [Official Website](https://github.com/leon0204/fast-rag)

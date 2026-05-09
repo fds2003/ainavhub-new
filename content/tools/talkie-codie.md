@@ -1,0 +1,17 @@
+---
+title: "talkie-codie"
+date: "2025-01-01T00:00:00+08:00"
+description: "AI语音转优化提示词"
+slug: talkie-codie
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## talkie-codie
+
+AI语音转优化提示词
+
+## Links
+
+- [Official Website](https://github.com/cziwen/Talkie-Codie)

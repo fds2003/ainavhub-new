@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#12121a;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6366f1" />
+      <stop offset="50%" style="stop-color:#8b5cf6" />
+      <stop offset="100%" style="stop-color:#d946ef" />
+    </linearGradient>
+    <linearGradient id="glow" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  
+  <!-- Grid pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="100" x2="1200" y2="100" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="200" x2="1200" y2="200" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="300" x2="1200" y2="300" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="400" x2="1200" y2="400" stroke="#fff" stroke-width="0.5"/>
+    <line x1="0" y1="500" x2="1200" y2="500" stroke="#fff" stroke-width="0.5"/>
+    <line x1="100" y1="0" x2="100" y2="630" stroke="#fff" stroke-width="0.5"/>
+    <line x1="300" y1="0" x2="300" y2="630" stroke="#fff" stroke-width="0.5"/>
+    <line x1="500" y1="0" x2="500" y2="630" stroke="#fff" stroke-width="0.5"/>
+    <line x1="700" y1="0" x2="700" y2="630" stroke="#fff" stroke-width="0.5"/>
+    <line x1="900" y1="0" x2="900" y2="630" stroke="#fff" stroke-width="0.5"/>
+    <line x1="1100" y1="0" x2="1100" y2="630" stroke="#fff" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Glow -->
+  <ellipse cx="600" cy="315" rx="500" ry="300" fill="url(#glow)"/>
+  
+  <!-- Sparkle icon (box) -->
+  <rect x="80" y="100" width="64" height="64" rx="12" fill="url(#accent)"/>
+  <text x="112" y="142" font-family="Arial,sans-serif" font-size="28" fill="white" text-anchor="middle" font-weight="bold">AI</text>
+  
+  <!-- Title -->
+  <text x="80" y="290" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="72" fill="#fafafa" font-weight="800">AINavHub</text>
+  
+  <!-- Tagline -->
+  <text x="80" y="355" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="32" fill="#a1a1aa" font-weight="500">AI Tools for Developers</text>
+  
+  <!-- Stats bar -->
+  <rect x="80" y="440" width="320" height="70" rx="12" fill="#16161f" stroke="#27272a" stroke-width="1"/>
+  <text x="240" y="478" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="14" fill="#71717a" text-anchor="middle">Curated Tools</text>
+  <text x="240" y="450" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="22" fill="#6366f1" text-anchor="middle" font-weight="700">1,900+</text>
+  
+  <rect x="420" y="440" width="320" height="70" rx="12" fill="#16161f" stroke="#27272a" stroke-width="1"/>
+  <text x="580" y="478" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="14" fill="#71717a" text-anchor="middle">Expert Guides</text>
+  <text x="580" y="450" font-family="Inter,'Segoe UI',Arial,sans-serif" font-size="22" fill="#22d3ee" text-anchor="middle" font-weight="700">3,600+</text>
+
+  <!-- URL -->
+  <text x="80" y="570" font-family="'JetBrains Mono',monospace" font-size="20" fill="#6366f1" font-weight="500">ainavhub.top</text>
+</svg>

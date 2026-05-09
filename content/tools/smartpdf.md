@@ -1,0 +1,17 @@
+---
+title: "smartpdf"
+date: "2025-01-01T00:00:00+08:00"
+description: "SmartPDF利用AI（Llama 3.3）快速总结PDF并分章节，基于Together AI。"
+slug: smartpdf
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## smartpdf
+
+SmartPDF利用AI（Llama 3.3）快速总结PDF并分章节，基于Together AI。
+
+## Links
+
+- [Official Website](https://github.com/Nutlope/smartpdfs)

@@ -1,0 +1,81 @@
+{{ define "main" }}
+{{ partial "breadcrumb.html" . }}
+
+<article class="guide-page" itemscope itemtype="https://schema.org/HowTo">
+    <header class="guide-header">
+        <h1 itemprop="name">{{ .Title }}</h1>
+        <p class="guide-description">{{ .Description }}</p>
+        <div class="guide-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
+                {{ .Date.Format "January 2, 2006" }}
+            </time>
+            <span class="reading-time">{{ .ReadingTime }} min read</span>
+        </div>
+    </header>
+    
+    <nav class="toc">
+        <h2>Table of Contents</h2>
+        {{ .TableOfContents }}
+    </nav>
+    
+    <div class="guide-content" itemprop="step">
+        {{ .Content }}
+    </div>
+    
+    <!-- FAQ Section -->
+    {{ with .Params.faq }}
+    <section class="faq">
+        <h2>Frequently Asked Questions</h2>
+        {{ range . }}
+        <details>
+            <summary>{{ .question }}</summary>
+            <p>{{ .answer }}</p>
+        </details>
+        {{ end }}
+    </section>
+    {{ end }}
+    
+    <!-- JSON-LD HowTo Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "{{ .Title }}",
+        "description": "{{ .Description }}",
+        "totalTime": "PT{{ .ReadingTime }}M",
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
+        "author": {
+            "@type": "Organization",
+            "name": "{{ .Site.Title }}"
+        },
+        {{ with .Params.steps }}
+        "step": [
+            {{ range $i, $s := . }}
+            {
+                "@type": "HowToStep",
+                "name": "{{ $s.title }}",
+                "text": "{{ $s.description }}"
+            }{{ if lt $i (sub (len .) 1) }},{{ end }}
+            {{ end }}
+        ],
+        {{ end }}
+        "about": {
+            "@type": "Thing",
+            "name": "{{ with .Params.tool }}{{ . }}{{ else }}{{ .Title }}{{ end }}"
+        }
+    }
+    </script>
+    
+    <!-- Related Tools -->
+    {{ with .Params.related_tools }}
+    <section class="related-tools">
+        <h2>Tools Used in This Guide</h2>
+        <div class="tools-list">
+            {{ range . }}
+            <a href="/tools/{{ . | urlize }}/" class="tool-link">{{ . }}</a>
+            {{ end }}
+        </div>
+    </section>
+    {{ end }}
+</article>
+{{ end }}

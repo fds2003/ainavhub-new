@@ -1,0 +1,17 @@
+---
+title: "pointer-ai-chat-assistant"
+date: "2025-01-01T00:00:00+08:00"
+description: "AI聊天、交叉分析与知识管理"
+slug: pointer-ai-chat-assistant
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## pointer-ai-chat-assistant
+
+AI聊天、交叉分析与知识管理
+
+## Links
+
+- [Official Website](https://github.com/experdot/pointer)

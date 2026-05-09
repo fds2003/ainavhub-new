@@ -1,0 +1,17 @@
+---
+title: "agentic-design-patterns"
+date: "2025-01-01T00:00:00+08:00"
+description: "智能体设计模式中英对照翻译"
+slug: agentic-design-patterns
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## agentic-design-patterns
+
+智能体设计模式中英对照翻译
+
+## Links
+
+- [Official Website](https://github.com/ginobefun/agentic-design-patterns-cn)

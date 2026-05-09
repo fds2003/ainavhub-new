@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Build output
+public/
+.hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Data files (large extracted JSON, not committed to git)
+data/*.json
+
+# Scripts (one-time use, not part of source)
+scripts/
+
+# Screenshots - not yet linked to tool pages, bloat the repo
+static/images/screenshots/

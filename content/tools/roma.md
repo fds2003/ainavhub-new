@@ -1,0 +1,17 @@
+---
+title: "roma"
+date: "2025-01-01T00:00:00+08:00"
+description: "ROMA: 递归开放元代理框架"
+slug: roma
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## roma
+
+ROMA: 递归开放元代理框架
+
+## Links
+
+- [Official Website](https://github.com/sentient-agi/ROMA)

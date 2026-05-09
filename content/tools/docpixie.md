@@ -1,0 +1,17 @@
+---
+title: "docpixie"
+date: "2025-01-01T00:00:00+08:00"
+description: "视觉AI文档RAG"
+slug: docpixie
+category: "AI Tools"
+tags: ["AI Tools"]
+draft: false
+---
+
+## docpixie
+
+视觉AI文档RAG
+
+## Links
+
+- [Official Website](https://github.com/qnguyen3/docpixie)
