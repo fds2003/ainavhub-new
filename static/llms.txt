@@ -1,72 +1,35 @@
-# AINavHub - LLMs.txt
+# AINavHub - AI 工具导航
 
-## Site Overview
+## 站点概述
 
-AINavHub is a curated directory of AI tools and workflows for developers.
+AINavHub 是一个 AI 开发工具导航站，收录 1900+ AI 工具和 3600+ 教程指南，涵盖 AI 编程、Agent、MCP 服务器、图像生成、视频处理等领域。
 
-**URL:** https://ainavhub.top
-**Description:** Discover The Best AI Tools & Workflows for Developers
+## 主要页面
 
----
+- 首页: https://ainavhub.top/
+- 工具列表: https://ainavhub.top/tools/
+- 指南教程: https://ainavhub.top/guides/
+- 分类浏览: https://ainavhub.top/categories/
+- 搜索: https://ainavhub.top/search/
 
-## Site Structure
+## 工具分类
 
-### /tools/
-AI tool listings and reviews (1,900+ tools)
-- /tools/[slug]/ - Individual tool detail pages
+- AI 编程 (Coding)
+- 对话/LLM (Chat/LLM)
+- 图像生成 (Image Generation)
+- 视频 (Video)
+- 音频 (Audio)
+- AI 代理 (AI Agents)
+- 研究 (Research)
+- 效率工具 (Productivity)
 
-### /categories/
-Browse tools by category
-- /categories/chat-llm/
-- /categories/coding/
-- /categories/video/
-- /categories/image-generation/
-- /categories/research/
-- /categories/audio/
-- /categories/productivity/
+## 统计
 
-### /guides/
-In-depth tutorials and how-to guides
+- 收录工具: 1,915+
+- 教程指南: 3,600+
+- 分类: 8 个
 
-### /insights/
-Analysis and best practices articles
+## 联系
 
-### /search/
-Search all tools
-
----
-
-## Core Content Categories
-
-### AI Coding Tools (178)
-AI-powered code editors, assistants, and completion tools.
-
-### Chat/LLM (410)
-Large language model APIs, chatbots, and conversational AI.
-
-### Video (155)
-Video generation, editing, and analysis tools.
-
-### Image Generation (91)
-AI image creation and editing tools.
-
-### Research (84)
-AI research tools for data analysis and discovery.
-
-### Audio (83)
-Speech, music, and audio generation tools.
-
-### Productivity (77)
-AI-powered productivity and workflow automation tools.
-
----
-
-## Update Frequency
-
-Content is updated daily with new AI tools.
-
----
-
-## Contact
-
-For tool submissions or corrections: contact@ainavhub.top
+- GitHub: https://github.com/ainavhub
+- 邮箱: hello@ainavhub.top

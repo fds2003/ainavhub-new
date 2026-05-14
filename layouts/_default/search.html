@@ -1,11 +1,11 @@
 {{ define "main" }}
 <div class="page-container" style="text-align: center; padding: 6rem 2rem;">
     <div style="font-size: 3rem; margin-bottom: 1rem;">🔍</div>
-    <h1 style="font-size: 2rem; font-weight: 700; margin-bottom: 1rem;">Search</h1>
+    <h1 style="font-size: 2rem; font-weight: 700; margin-bottom: 1rem;">搜索AI工具</h1>
     <div style="max-width: 600px; margin: 0 auto 3rem;">
         <div style="position: relative;">
             <i data-lucide="search" style="position: absolute; left: 1.25rem; top: 50%; transform: translateY(-50%); color: var(--text-muted); pointer-events: none;"></i>
-            <input type="search" id="search-input" placeholder="Search 1,900+ AI tools and 3,600+ guides..." 
+            <input type="search" id="search-input" placeholder="搜索 1900+ AI工具和 3600+ 指南..." 
                 style="width: 100%; padding: 1rem 1.25rem 1rem 3.25rem; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: var(--radius-lg); font-size: 1rem; color: var(--text-primary); outline: none; box-sizing: border-box;">
         </div>
     </div>
@@ -66,7 +66,7 @@ searchInput.addEventListener('input', function() {
     resultsDiv.innerHTML = results.map((item, i) => `
         <a href="${item.link}" class="search-result-item" style="animation-delay: ${i * 30}ms">
             <div class="search-result-header">
-                <span class="search-type-badge search-type-${item.type}">${item.type === 'tool' ? '🔧 Tool' : '📖 Guide'}</span>
+                <span class="search-type-badge search-type-${item.type}">${item.type === 'tool' ? '🔧 工具' : '📖 指南'}</span>
                 <h3>${item.title}</h3>
             </div>
             <p>${item.desc}</p>
@@ -108,5 +108,7 @@ searchInput.addEventListener('keypress', function(e) {
 }
 .search-type-tool { background: rgba(99, 102, 241, 0.15); color: var(--accent-primary-hover); }
 .search-type-guide { background: rgba(34, 211, 238, 0.15); color: var(--accent-secondary); }
+.search-result-item h3 { font-size: 1rem; font-weight: 600; color: var(--text-primary); }
+.search-result-item p { font-size: 0.875rem; color: var(--text-secondary); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 </style>
 {{ end }}

@@ -1,5 +1,6 @@
 # robots.txt for ainavhub.top
 
+# AINavHub - AI 工具导航
 User-agent: *
 Allow: /
 

@@ -1,24 +1,24 @@
 <nav class="breadcrumb" aria-label="Breadcrumb">
     <ol itemscope itemtype="https://schema.org/BreadcrumbList">
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-            <a href="/" itemprop="item"><span itemprop="name">Home</span></a>
+            <a href="/" itemprop="item"><span itemprop="name">首页</span></a>
             <meta itemprop="position" content="1">
         </li>
         {{ if eq .Type "tools" }}
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-            <a href="/tools/" itemprop="item"><span itemprop="name">AI Tools</span></a>
+            <a href="/tools/" itemprop="item"><span itemprop="name">AI工具</span></a>
             <meta itemprop="position" content="2">
         </li>
         {{ end }}
         {{ if eq .Type "guides" }}
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-            <a href="/guides/" itemprop="item"><span itemprop="name">Guides</span></a>
+            <a href="/guides/" itemprop="item"><span itemprop="name">指南</span></a>
             <meta itemprop="position" content="2">
         </li>
         {{ end }}
         {{ if eq .Type "insights" }}
         <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
-            <a href="/insights/" itemprop="item"><span itemprop="name">Insights</span></a>
+            <a href="/insights/" itemprop="item"><span itemprop="name">洞察</span></a>
             <meta itemprop="position" content="2">
         </li>
         {{ end }}

@@ -1,6 +1,6 @@
 baseURL = "https://ainavhub.top/"
-locale = "en-US"
-title = "AINavHub - AI Tools for Developers"
+locale = "zh-CN"
+title = "AINavHub - AI工具导航"
 theme = "PaperMod"
 timeout = "120s"
 
@@ -24,25 +24,25 @@ paginate = 50
 # Navigation
 [[menu.main]]
   identifier = "tools"
-  name = "AI Tools"
+  name = "AI工具"
   url = "/tools/"
   weight = 1
 
 [[menu.main]]
   identifier = "guides"
-  name = "Guides"
+  name = "指南"
   url = "/guides/"
   weight = 2
 
 [[menu.main]]
   identifier = "insights"
-  name = "Insights"
+  name = "洞察"
   url = "/insights/"
   weight = 3
 
 [[menu.main]]
   identifier = "search"
-  name = "Search"
+  name = "搜索"
   url = "/search/"
   weight = 4
 
@@ -53,8 +53,8 @@ paginate = 50
 
 # SEO Parameters
 [params]
-  description = "Discover The Best AI Tools & Workflows for Developers"
-  keywords = ["AI tools", "AI coding", "AI workflow", "MCP servers", "AI agent"]
+  description = "发现最好的AI开发工具，涵盖AI编程、Agent、MCP服务器和工作流自动化"
+  keywords = ["AI工具", "AI编程", "AI工作流", "MCP服务器", "AI Agent", "LLM"]
   author = "AINavHub"
   
 [params.schema]

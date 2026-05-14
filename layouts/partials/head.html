@@ -11,7 +11,7 @@
 <meta name="keywords" content="{{ with .Keywords }}{{ delimit . ", " }}{{ else }}{{ .Site.Params.keywords | default "[AI tools, AI coding, AI agent, MCP server, LLM]" }}{{ end }}">
 
 <!-- Open Graph -->
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - {{ .Site.Title }}{{ end }}">
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} - AINavHub AI工具导航{{ end }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
