@@ -15,19 +15,19 @@
         {{ end }}
         
         <div class="tool-meta">
-            {{ with .Date }}<div class="meta-item"><i data-lucide="calendar" style="width: 16px; height: 16px;"></i> 添加于: {{ .Format "2006-01-02" }}</div>{{ end }}
-            {{ with .Params.tags }}<div class="meta-item"><i data-lucide="tags" style="width: 16px; height: 16px;"></i> {{ delimit . ", " }}</div>{{ end }}
+            {{ with .Date }}<div class="meta-item">📅 添加于: {{ .Format "2006-01-02" }}</div>{{ end }}
+            {{ with .Params.tags }}<div class="meta-item">🏷️ {{ delimit . ", " }}</div>{{ end }}
         </div>
         
         <div class="tool-actions-bar">
             {{ with .Params.official_url }}
-            <a href="{{ . }}" target="_blank" rel="noopener" class="btn-primary">
-                <i data-lucide="external-link" style="width: 16px; height: 16px;"></i>
+            <a href="{{ . }}" target="_blank" rel="noopener" class="btn btn-primary">
+                ↗
                 访问官网
             </a>
             {{ end }}
             <a href="/tools/" class="btn btn-ghost">
-                <i data-lucide="arrow-left" style="width: 16px; height: 16px;"></i>
+                ←
                 返回工具列表
             </a>
         </div>
@@ -96,10 +96,10 @@
             <h3>分享</h3>
             <div class="share-links">
                 <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" target="_blank" rel="noopener" aria-label="分享到 Twitter">
-                    <i data-lucide="twitter" style="width: 18px; height: 18px;"></i>
+                    𝕏
                 </a>
                 <button onclick="navigator.clipboard.writeText('{{ .Permalink }}')" aria-label="复制链接">
-                    <i data-lucide="link" style="width: 18px; height: 18px;"></i>
+                    🔗
                 </button>
             </div>
         </div>
