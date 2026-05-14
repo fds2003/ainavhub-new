@@ -67,6 +67,10 @@ disableKinds = ["RSS"]
   insightTemplate = "insights/single.html"
 
 # Sitemap
+# Only generate category pages (not tag pages) to reduce file count
+[taxonomies]
+  category = "categories"
+
 [sitemap]
   changefreq = "daily"
   filename = "sitemap.xml"
