@@ -12,6 +12,6 @@ draft: false
 
 AI智能在线PPT全流程创作
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/YOOTeam/OpenPPT)
+- [官网](https://github.com/YOOTeam/OpenPPT)

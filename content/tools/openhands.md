@@ -12,6 +12,6 @@ draft: false
 
 OpenHands是一个基于AI的软件开发平台，旨在简化开发流程，提高生产力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/All-Hands-AI/OpenHands)
+- [官网](https://github.com/All-Hands-AI/OpenHands)

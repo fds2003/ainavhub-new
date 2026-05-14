@@ -12,6 +12,6 @@ draft: false
 
 这个项目是一个代理服务器，使用户能用OpenAI模型（如GPT-4o）来运行Claude Code。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/1rgs/claude-code-openai)
+- [官网](https://github.com/1rgs/claude-code-openai)

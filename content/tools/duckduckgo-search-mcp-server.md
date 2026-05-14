@@ -12,6 +12,6 @@ draft: false
 
 DuckDuckGo Search MCP Server是基于DuckDuckGo的网页搜索服务器，具有内容抓取、速率限制等功能，专为LLM优化输出。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nickclyde/duckduckgo-mcp-server)
+- [官网](https://github.com/nickclyde/duckduckgo-mcp-server)

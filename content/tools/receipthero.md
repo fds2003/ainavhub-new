@@ -12,6 +12,6 @@ draft: false
 
 AI收据管理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/receipthero)
+- [官网](https://github.com/Nutlope/receipthero)

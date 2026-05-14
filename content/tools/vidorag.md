@@ -12,6 +12,6 @@ draft: false
 
 ViDoRAG是基于动态迭代推理Agent的视觉文档检索增强生成框架，旨在提升视觉文档理解和问答效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alibaba-NLP/ViDoRAG)
+- [官网](https://github.com/Alibaba-NLP/ViDoRAG)

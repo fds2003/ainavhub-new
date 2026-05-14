@@ -12,6 +12,6 @@ draft: false
 
 Agent.exe 是一个简洁的 Electron 应用，允许 Claude 3.5 直接控制你的电脑。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/corbt/agent.exe)
+- [官网](https://github.com/corbt/agent.exe)

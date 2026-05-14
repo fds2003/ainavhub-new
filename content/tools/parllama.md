@@ -12,6 +12,6 @@ draft: false
 
 PAR LLAMA 是一款基于 Ollama 的 TUI 应用，支持管理和使用大型语言模型，兼容各种操作系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/paulrobello/parllama)
+- [官网](https://github.com/paulrobello/parllama)

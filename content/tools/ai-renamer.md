@@ -12,6 +12,6 @@ draft: false
 
 AI重命名助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ozgrozer/ai-renamer)
+- [官网](https://github.com/ozgrozer/ai-renamer)

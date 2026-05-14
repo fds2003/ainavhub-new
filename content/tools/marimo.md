@@ -12,6 +12,6 @@ draft: false
 
 Marimo是一个反应式Python笔记本，支持可重复性、Git友好并可部署为脚本或应用程序。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/marimo-team/marimo)
+- [官网](https://github.com/marimo-team/marimo)

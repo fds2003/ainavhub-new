@@ -12,6 +12,6 @@ draft: false
 
 通过React服务器组件实现了将文本和图像提示转换为React UI，并简化了设计工程流程
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vercel/ai)
+- [官网](https://github.com/vercel/ai)

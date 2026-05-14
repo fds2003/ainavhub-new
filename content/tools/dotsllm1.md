@@ -12,6 +12,6 @@ draft: false
 
 dots.llm1：142B参数MoE大模型，开源中间训练检查点
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/rednote-hilab/dots.llm1)
+- [官网](https://github.com/rednote-hilab/dots.llm1)

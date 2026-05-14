@@ -12,6 +12,6 @@ draft: false
 
 AI代码生成助手：Code Puppy
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mpfaffenberger/code_puppy)
+- [官网](https://github.com/mpfaffenberger/code_puppy)

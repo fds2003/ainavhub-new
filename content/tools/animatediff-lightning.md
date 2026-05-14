@@ -12,6 +12,6 @@ draft: false
 
 字节跳动文本到视频的快速生成模型
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/ByteDance/AnimateDiff-Lightning)
+- [官网](https://huggingface.co/ByteDance/AnimateDiff-Lightning)

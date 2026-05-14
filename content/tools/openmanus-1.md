@@ -12,6 +12,6 @@ draft: false
 
 OpenManus是一个开源框架，无需邀请码，即可实现各种AI Agent的想法，快来体验吧！
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mannaandpoem/OpenManus)
+- [官网](https://github.com/mannaandpoem/OpenManus)

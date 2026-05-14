@@ -12,6 +12,6 @@ draft: false
 
 AI桌面自动化助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/withneural/neuralagent)
+- [官网](https://github.com/withneural/neuralagent)

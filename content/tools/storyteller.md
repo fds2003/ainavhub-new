@@ -12,6 +12,6 @@ draft: false
 
 StoryTeller是一个生成长视频描述的系统，结合视觉、音频和文本信息，提升描述的一致性和连贯性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hyc2026/StoryTeller)
+- [官网](https://github.com/hyc2026/StoryTeller)

@@ -12,6 +12,6 @@ draft: false
 
 微软为财务专业人士提供的帮助工具
 
-## Links
+## 链接
 
-- [Official Website](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-for-finance)
+- [官网](https://www.microsoft.com/en-us/microsoft-copilot/microsoft-copilot-for-finance)

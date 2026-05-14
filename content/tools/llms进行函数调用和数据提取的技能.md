@@ -12,6 +12,6 @@ draft: false
 
 DeepLearning.AI推出的一门新课程，旨在教授使用大型语言模型（LLMs）进行函数调用和数据提取的技能。
 
-## Links
+## 链接
 
-- [Official Website](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/)
+- [官网](https://www.deeplearning.ai/short-courses/function-calling-and-data-extraction-with-llms/)

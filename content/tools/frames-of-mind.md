@@ -12,6 +12,6 @@ draft: false
 
 “Frames of Mind”项目旨在可视化R1的思维过程，通过文本链、OpenAI API和t-SNE绘制思维嵌入图。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dhealy05/frames_of_mind/blob/main/readme.md)
+- [官网](https://github.com/dhealy05/frames_of_mind/blob/main/readme.md)

@@ -12,6 +12,6 @@ draft: false
 
 开源的基于矢量的绘图应用程序适用于草图、手写笔记及文档和图片标注
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/flxzt/rnote)
+- [官网](https://github.com/flxzt/rnote)

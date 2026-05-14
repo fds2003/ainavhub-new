@@ -12,6 +12,6 @@ draft: false
 
 结合了LangChain和SearXNG的开源AI搜索引擎项目
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ptonlix/LangChain-SearXNG)
+- [官网](https://github.com/ptonlix/LangChain-SearXNG)

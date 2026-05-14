@@ -12,6 +12,6 @@ draft: false
 
 Research Rabbit是一款AI驱动的网络研究助手，能自动深入用户指定主题并生成总结。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/research-rabbit)
+- [官网](https://github.com/langchain-ai/research-rabbit)

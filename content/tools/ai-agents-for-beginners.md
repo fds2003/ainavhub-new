@@ -12,6 +12,6 @@ draft: false
 
 《AI代理入门》课程包含10节课程，帮助初学者掌握构建AI代理的基础知识与技能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/ai-agents-for-beginners)
+- [官网](https://github.com/microsoft/ai-agents-for-beginners)

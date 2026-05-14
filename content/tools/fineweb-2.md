@@ -12,6 +12,6 @@ draft: false
 
 FineWeb 2 是一个多语言高质量预训练数据集，支持超千种语言，为模型训练提供丰富数据。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huggingface/fineweb-2)
+- [官网](https://github.com/huggingface/fineweb-2)

@@ -12,6 +12,6 @@ draft: false
 
 AI公司研究员应用通过AI技术，实现对公司及其决策者的快速信息研究，节省时间至一分钟内。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mayooear/ai-company-researcher)
+- [官网](https://github.com/mayooear/ai-company-researcher)

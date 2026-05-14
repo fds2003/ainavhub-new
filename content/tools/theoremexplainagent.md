@@ -12,6 +12,6 @@ draft: false
 
 TheoremExplainAgent是一个AI系统，能生成Manim视频解释定理，揭示文本难以发现的推理缺陷，用于研究目的。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)
+- [官网](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)

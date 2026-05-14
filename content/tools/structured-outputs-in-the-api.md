@@ -12,6 +12,6 @@ draft: false
 
 OpenAI引入API结构化输出
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/index/introducing-structured-outputs-in-the-api/)
+- [官网](https://openai.com/index/introducing-structured-outputs-in-the-api/)

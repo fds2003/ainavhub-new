@@ -12,6 +12,6 @@ draft: false
 
 ETF网格交易策略设计工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jorben/etf-grid-design)
+- [官网](https://github.com/jorben/etf-grid-design)

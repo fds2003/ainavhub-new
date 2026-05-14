@@ -12,6 +12,6 @@ draft: false
 
 AI 驱动的开发工作流平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bkdevs/async-server)
+- [官网](https://github.com/bkdevs/async-server)

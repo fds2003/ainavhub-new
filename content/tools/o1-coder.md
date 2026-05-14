@@ -12,6 +12,6 @@ draft: false
 
 O1-CODER是一个基于强化学习和蒙特卡洛树搜索的代码生成模型，旨在提高系统化推理能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ADaM-BJTU/O1-CODER)
+- [官网](https://github.com/ADaM-BJTU/O1-CODER)

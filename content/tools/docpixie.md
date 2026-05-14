@@ -12,6 +12,6 @@ draft: false
 
 视觉AI文档RAG
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/qnguyen3/docpixie)
+- [官网](https://github.com/qnguyen3/docpixie)

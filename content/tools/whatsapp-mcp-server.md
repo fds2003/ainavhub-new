@@ -12,6 +12,6 @@ draft: false
 
 WhatsApp MCP Server是一个连接Claude的工具，通过它用户可以在Claude中搜索、管理和发送个人WhatsApp消息。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lharries/whatsapp-mcp)
+- [官网](https://github.com/lharries/whatsapp-mcp)

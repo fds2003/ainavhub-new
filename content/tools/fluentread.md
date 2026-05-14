@@ -12,6 +12,6 @@ draft: false
 
 流畅阅读是一款支持多翻译引擎和模式的高效浏览器翻译插件。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Bistutu/FluentRead)
+- [官网](https://github.com/Bistutu/FluentRead)

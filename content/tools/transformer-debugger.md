@@ -12,6 +12,6 @@ draft: false
 
 OpenAI为调查小型语言模型行为开发的工具，支持代码前快速探索与干预
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/transformer-debugger)
+- [官网](https://github.com/openai/transformer-debugger)

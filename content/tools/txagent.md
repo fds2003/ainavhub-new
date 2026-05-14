@@ -12,6 +12,6 @@ draft: false
 
 TxAgent是一个AI agent，利用多步骤推理和工具，为治疗性推理提供个性化治疗方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mims-harvard/TxAgent)
+- [官网](https://github.com/mims-harvard/TxAgent)

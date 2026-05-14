@@ -12,6 +12,6 @@ draft: false
 
 开源的 Swift 包，用于简化与 OpenAI API 的交互，并支持 Azure 和 AIProxy 后端。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jamesrochabrun/SwiftOpenAI)
+- [官网](https://github.com/jamesrochabrun/SwiftOpenAI)

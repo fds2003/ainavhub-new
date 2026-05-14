@@ -12,6 +12,6 @@ draft: false
 
 一款免费的本地AI视频转录工具，带有编辑、样式设计和渲染功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dmtrKovalenko/subtitler)
+- [官网](https://github.com/dmtrKovalenko/subtitler)

@@ -12,6 +12,6 @@ draft: false
 
 GitAgent 是一个个人化的 Git 智能助手，支持代码搜索、重构、自动注释等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SuperMK15/GitAgent)
+- [官网](https://github.com/SuperMK15/GitAgent)

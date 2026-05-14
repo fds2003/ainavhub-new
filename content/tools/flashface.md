@@ -12,6 +12,6 @@ draft: false
 
 通过提供一张或几张参考面部图像和文本提示，用户可以在保留高度身份真实性的同时，轻松个性化自己照片的实用工具
 
-## Links
+## 链接
 
-- [Official Website](https://jshilong.github.io/flashface-page/)
+- [官网](https://jshilong.github.io/flashface-page/)

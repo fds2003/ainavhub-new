@@ -12,6 +12,6 @@ draft: false
 
 本地AI语音太空故事
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kwindla/gpt-oss-space-game)
+- [官网](https://github.com/kwindla/gpt-oss-space-game)

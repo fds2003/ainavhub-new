@@ -12,6 +12,6 @@ draft: false
 
 AI Agent Service Toolkit是一个集成LangGraph、FastAPI和Streamlit的完整工具包，便于构建和运行AI代理服务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JoshuaC215/agent-service-toolkit)
+- [官网](https://github.com/JoshuaC215/agent-service-toolkit)

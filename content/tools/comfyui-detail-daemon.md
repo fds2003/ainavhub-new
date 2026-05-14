@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI-Detail-Daemon是一个用于图像处理的节点，通过调整细节参数来增强图像质量。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Jonseed/ComfyUI-Detail-Daemon)
+- [官网](https://github.com/Jonseed/ComfyUI-Detail-Daemon)

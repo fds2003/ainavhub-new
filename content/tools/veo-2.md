@@ -12,6 +12,6 @@ draft: false
 
 Veo 2 是谷歌最先进的视频生成模型。它能够将文本、图像或两者结合转化为视频。该模型擅长理解简单和复杂的指令，可以根据文本或图像提示生成八秒钟的视频片段。Veo 2 的强大之处在于其能够准确地模拟现实世界的物理规律，并捕捉各种视觉和电影风格。
 
-## Links
+## 链接
 
-- [Official Website](https://aistudio.google.com/generate-video)
+- [官网](https://aistudio.google.com/generate-video)

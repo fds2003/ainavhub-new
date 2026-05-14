@@ -12,6 +12,6 @@ draft: false
 
 video-analyzer是一个开源项目，可以用于分析和处理视频内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/byjlw/video-analyzer/blob/main/readme.md)
+- [官网](https://github.com/byjlw/video-analyzer/blob/main/readme.md)

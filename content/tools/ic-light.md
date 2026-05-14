@@ -12,6 +12,6 @@ draft: false
 
 能实现文本条件和背景条件下的图像重照明
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/futo-org/whisper-acft)
+- [官网](https://github.com/futo-org/whisper-acft)

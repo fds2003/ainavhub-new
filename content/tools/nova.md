@@ -12,6 +12,6 @@ draft: false
 
 亚马逊推出的新一代基础模型Nova，旨在提升人工智能应用的智能性和成本效益。
 
-## Links
+## 链接
 
-- [Official Website](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws)
+- [官网](https://www.aboutamazon.com/news/aws/amazon-nova-artificial-intelligence-bedrock-aws)

@@ -12,6 +12,6 @@ draft: false
 
 AI Math Notes 是一个交互式绘图应用，可绘制并计算数学方程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ayushpai/AI-Math-Notes)
+- [官网](https://github.com/ayushpai/AI-Math-Notes)

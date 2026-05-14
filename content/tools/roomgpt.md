@@ -12,6 +12,6 @@ draft: false
 
 RoomGPT是一个基于AI的工具，可以通过上传房间照片重新设计你的房间。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/roomGPT)
+- [官网](https://github.com/Nutlope/roomGPT)

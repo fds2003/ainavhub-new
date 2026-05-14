@@ -12,6 +12,6 @@ draft: false
 
 TANGO是一种通过层次音频-运动嵌入和扩散插值进行的共语手势视频重现技术。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/CyberAgentAILab/TANGO)
+- [官网](https://github.com/CyberAgentAILab/TANGO)

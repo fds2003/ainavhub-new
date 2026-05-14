@@ -12,6 +12,6 @@ draft: false
 
 这是一门由Andrew Ng主讲的基础Python编程和AI应用课程，适合编程新手免费参与。
 
-## Links
+## 链接
 
-- [Official Website](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)
+- [官网](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)

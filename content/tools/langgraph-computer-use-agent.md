@@ -12,6 +12,6 @@ draft: false
 
 LangGraph CUA是Python库，用LangGraph构建具有计算机操作能力的智能体系统，可与电脑互动完成任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/langgraph-cua-py)
+- [官网](https://github.com/langchain-ai/langgraph-cua-py)

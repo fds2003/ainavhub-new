@@ -12,6 +12,6 @@ draft: false
 
 FasterLivePortrait利用TensorRT在RTX 3090上实现真人肖像实时生成，速度达30+ FPS。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/warmshao/FasterLivePortrait)
+- [官网](https://github.com/warmshao/FasterLivePortrait)

@@ -12,6 +12,6 @@ draft: false
 
 ViPer通过学习个体偏好来个性化生成模型的输出，满足不同用户的视觉偏好。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/EPFL-VILAB/ViPer)
+- [官网](https://github.com/EPFL-VILAB/ViPer)

@@ -12,6 +12,6 @@ draft: false
 
 ORION是一个端到端的自动驾驶框架，通过视觉语言模型指导动作生成，实现整体的自主驾驶。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xiaomi-mlab/Orion)
+- [官网](https://github.com/xiaomi-mlab/Orion)

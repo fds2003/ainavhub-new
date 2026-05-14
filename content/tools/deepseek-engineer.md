@@ -12,6 +12,6 @@ draft: false
 
 DeepSeek工程师是一款强大的编码助手应用，集成DeepSeek API进行用户对话处理和文件操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Doriandarko/deepseek-engineer)
+- [官网](https://github.com/Doriandarko/deepseek-engineer)

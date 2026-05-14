@@ -12,6 +12,6 @@ draft: false
 
 YOLOv9是基于深度学习的一种快速、准确的对象检测算法。其主要亮点在于能够在保持较高检测精度的同时，实现快速的检测速度，适合在实时应用中使用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/WongKinYiu/yolov9)
+- [官网](https://github.com/WongKinYiu/yolov9)

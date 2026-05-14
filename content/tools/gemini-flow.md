@@ -12,6 +12,6 @@ draft: false
 
 AI智能体协调编排
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/clduab11/gemini-flow)
+- [官网](https://github.com/clduab11/gemini-flow)

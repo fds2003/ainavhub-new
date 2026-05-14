@@ -12,6 +12,6 @@ draft: false
 
 agentUniverse是一个基于大语言模型构建多智能体应用的开发框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/alipay/agentUniverse)
+- [官网](https://github.com/alipay/agentUniverse)

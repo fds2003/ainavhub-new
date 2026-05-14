@@ -12,6 +12,6 @@ draft: false
 
 通过自然语言处理执行特定任务的AI代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xlang-ai/OpenAgents)
+- [官网](https://github.com/xlang-ai/OpenAgents)

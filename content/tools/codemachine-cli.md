@@ -12,6 +12,6 @@ draft: false
 
 AI多智能体代码生成平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/moazbuilds/CodeMachine-CLI)
+- [官网](https://github.com/moazbuilds/CodeMachine-CLI)

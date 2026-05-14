@@ -12,6 +12,6 @@ draft: false
 
 AI对抗式PDF保护
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lidangzzz/AIGuardPDF)
+- [官网](https://github.com/lidangzzz/AIGuardPDF)

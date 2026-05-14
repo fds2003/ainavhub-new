@@ -12,6 +12,6 @@ draft: false
 
 Facebook广告库MCP服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/trypeggy/facebook-ads-library-mcp)
+- [官网](https://github.com/trypeggy/facebook-ads-library-mcp)

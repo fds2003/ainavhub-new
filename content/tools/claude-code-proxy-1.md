@@ -12,6 +12,6 @@ draft: false
 
 Claude Code 是一个终端编码工具，通过自然语言命令帮助开发者更快地执行常规任务和处理代码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/anthropics/claude-code)
+- [官网](https://github.com/anthropics/claude-code)

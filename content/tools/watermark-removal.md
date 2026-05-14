@@ -12,6 +12,6 @@ draft: false
 
 Watermark-Removal项目使用机器学习方法去除图片水印，效果与原图无区别。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zuruoke/watermark-removal)
+- [官网](https://github.com/zuruoke/watermark-removal)

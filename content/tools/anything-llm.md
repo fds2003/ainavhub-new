@@ -12,6 +12,6 @@ draft: false
 
 AnythingLLM是一个全功能的AI应用，支持多用户、文档交流和自定义设置，操作简单。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Mintplex-Labs/anything-llm)
+- [官网](https://github.com/Mintplex-Labs/anything-llm)

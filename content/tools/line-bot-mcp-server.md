@@ -12,6 +12,6 @@ draft: false
 
 LINE Bot MCP Server是一个实现了MCP协议的服务器，用于将AI Agent连接到LINE官方账号，实现消息互动。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/line/line-bot-mcp-server)
+- [官网](https://github.com/line/line-bot-mcp-server)

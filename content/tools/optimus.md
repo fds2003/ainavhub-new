@@ -12,6 +12,6 @@ draft: false
 
 特斯拉放出了擎天柱机器人最新训练视频
 
-## Links
+## 链接
 
-- [Official Website](https://twitter.com/Tesla_Optimus)
+- [官网](https://twitter.com/Tesla_Optimus)

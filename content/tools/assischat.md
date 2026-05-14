@@ -12,6 +12,6 @@ draft: false
 
 AssisChat是一个基于Swift和SwiftUI开发的，支持iOS/iPadOS/macOS的AI助理聊天应用，可自定义OpenAI/Claude API密钥。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/noobnooc/AssisChat)
+- [官网](https://github.com/noobnooc/AssisChat)

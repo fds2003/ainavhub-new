@@ -12,6 +12,6 @@ draft: false
 
 小米发布的大幅增强SD 图像生成技术SDXS
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/IDKiro/sdxs)
+- [官网](https://github.com/IDKiro/sdxs)

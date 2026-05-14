@@ -12,6 +12,6 @@ draft: false
 
 Tailor3D是一种通过双面图像定制3D资产编辑和生成的新方法。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Qi-Zhangyang/Tailor3D)
+- [官网](https://github.com/Qi-Zhangyang/Tailor3D)

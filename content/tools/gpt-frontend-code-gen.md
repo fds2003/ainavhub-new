@@ -12,6 +12,6 @@ draft: false
 
 gpt-frontend-code-gen 是一款通过对话生成和迭代前端页面的工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bravekingzhang/gpt-frontend-code-gen)
+- [官网](https://github.com/bravekingzhang/gpt-frontend-code-gen)

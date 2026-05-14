@@ -12,6 +12,6 @@ draft: false
 
 MagicQuill是一款智能交互的图像编辑系统，提供精准的本地编辑和AI建议。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/magic-quill/magicquill)
+- [官网](https://github.com/magic-quill/magicquill)

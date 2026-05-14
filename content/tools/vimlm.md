@@ -12,6 +12,6 @@ draft: false
 
 VimLM是一个为Vim设计的本地AI编程助手，提供上下文理解和编码支持，安全离线工作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JosefAlbers/VimLM)
+- [官网](https://github.com/JosefAlbers/VimLM)

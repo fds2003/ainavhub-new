@@ -12,6 +12,6 @@ draft: false
 
 PankoGPT是一个支持Discord和Telegram等平台的AI机器人管理工具，简化了自定义机器人的创建和管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/catalinberta/panko-gpt)
+- [官网](https://github.com/catalinberta/panko-gpt)

@@ -12,6 +12,6 @@ draft: false
 
 高效推理搜索LLM代理系统：SearchAgent-X
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/tiannuo-yang/SearchAgent-X)
+- [官网](https://github.com/tiannuo-yang/SearchAgent-X)

@@ -12,6 +12,6 @@ draft: false
 
 OmniSearch是首个自适应多模态检索增强生成规划代理，旨在实时动态问答中的知识获取。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alibaba-NLP/OmniSearch)
+- [官网](https://github.com/Alibaba-NLP/OmniSearch)

@@ -12,6 +12,6 @@ draft: false
 
 Zola是一款免费开源AI聊天应用，支持多模型，提供文件上传等功能，正处于Beta测试阶段。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ibelick/zola)
+- [官网](https://github.com/ibelick/zola)

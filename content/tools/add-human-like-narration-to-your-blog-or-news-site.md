@@ -12,6 +12,6 @@ draft: false
 
 使用ElevenLabs Audio Native为博客或新闻网站添加拟人化的语音叙述
 
-## Links
+## 链接
 
-- [Official Website](https://elevenlabs.io/blog/audio-native/)
+- [官网](https://elevenlabs.io/blog/audio-native/)

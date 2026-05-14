@@ -12,6 +12,6 @@ draft: false
 
 AI多模态内容生成系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jaguarliuu/xunlong)
+- [官网](https://github.com/jaguarliuu/xunlong)

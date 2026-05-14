@@ -12,6 +12,6 @@ draft: false
 
 PDF-Extract-Kit 提供高质量PDF内容提取，支持布局检测、公式识别和OCR功能
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/opendatalab/PDF-Extract-Kit)
+- [官网](https://github.com/opendatalab/PDF-Extract-Kit)

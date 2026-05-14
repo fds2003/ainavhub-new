@@ -12,6 +12,6 @@ draft: false
 
 ChatGPT对话时间线导航
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Reborn14/chatgpt-conversation-timeline)
+- [官网](https://github.com/Reborn14/chatgpt-conversation-timeline)

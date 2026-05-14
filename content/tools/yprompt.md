@@ -12,6 +12,6 @@ draft: false
 
 AI引导式提示词生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fish2018/YPrompt)
+- [官网](https://github.com/fish2018/YPrompt)

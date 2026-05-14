@@ -12,6 +12,6 @@ draft: false
 
 Claude Coder是一款适应用户技能水平的VS Code扩展，帮助快速实现创意与编程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kodu-ai/claude-coder)
+- [官网](https://github.com/kodu-ai/claude-coder)

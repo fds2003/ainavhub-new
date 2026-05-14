@@ -12,6 +12,6 @@ draft: false
 
 ChatTTS-Nuxt3 WebUI是基于ChatTTS开发的文本转语音Web应用，支持详细参数调整和移动视图。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Gouryella/ChatTTS-webui)
+- [官网](https://github.com/Gouryella/ChatTTS-webui)

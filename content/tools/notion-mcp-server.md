@@ -12,6 +12,6 @@ draft: false
 
 notion-mcp-server是Notion API的MCP服务器实现，支持通过指令或内容ID与Notion交互。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/makenotion/notion-mcp-server)
+- [官网](https://github.com/makenotion/notion-mcp-server)

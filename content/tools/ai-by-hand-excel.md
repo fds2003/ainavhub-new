@@ -12,6 +12,6 @@ draft: false
 
 AI by Hand Excel是一个结合Excel练习与深度学习概念的平台，涵盖基础与高级AI模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ImagineAILab/ai-by-hand-excel)
+- [官网](https://github.com/ImagineAILab/ai-by-hand-excel)

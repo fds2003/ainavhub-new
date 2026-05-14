@@ -12,6 +12,6 @@ draft: false
 
 开源通用多智能体产品
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jd-opensource/joyagent-jdgenie)
+- [官网](https://github.com/jd-opensource/joyagent-jdgenie)

@@ -12,6 +12,6 @@ draft: false
 
 SCEPTER是一个开源代码库,致力于生成式模型的训练、调优和推理,涵盖图像生成、迁移、编辑等一系列下游任务。它整合了社区主流实现以及阿里巴巴通逸实验室自研方法,为生成式领域的研究人员和从业者提供全面、通用的工具集。这个多功能库旨在促进创新,加速这个快速发展的领域的进步。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/modelscope/scepter)
+- [官网](https://github.com/modelscope/scepter)

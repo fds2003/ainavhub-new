@@ -12,6 +12,6 @@ draft: false
 
 Workflow Use通过录制用户操作，创建确定性、可自愈的工作流，简化RPA流程，实现浏览器自动化。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/browser-use/workflow-use)
+- [官网](https://github.com/browser-use/workflow-use)

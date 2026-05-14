@@ -12,6 +12,6 @@ draft: false
 
 AI工具组件库
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xn1cklas/ai-tools-registry)
+- [官网](https://github.com/xn1cklas/ai-tools-registry)

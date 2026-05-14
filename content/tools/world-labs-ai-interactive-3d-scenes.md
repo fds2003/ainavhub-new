@@ -12,6 +12,6 @@ draft: false
 
 World Labs的人工智能系统能从单张照片生成可互动的3D场景，为用户提供沉浸式体验。
 
-## Links
+## 链接
 
-- [Official Website](https://techcrunch.com/2024/12/02/world-labs-ai-can-generate-interactive-3d-scenes-from-a-single-photo/)
+- [官网](https://techcrunch.com/2024/12/02/world-labs-ai-can-generate-interactive-3d-scenes-from-a-single-photo/)

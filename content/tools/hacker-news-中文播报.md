@@ -12,6 +12,6 @@ draft: false
 
 Hacker News 中文播报是一个基于 AI 的自动新闻播客，每日提供 Hacker News 热门文章的中文总结。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ccbikai/hacker-news)
+- [官网](https://github.com/ccbikai/hacker-news)

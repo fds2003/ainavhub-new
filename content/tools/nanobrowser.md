@@ -12,6 +12,6 @@ draft: false
 
 Nanobrowser是一个开源的AI网络自动化工具，可在浏览器中运行，免费且注重隐私。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nanobrowser/nanobrowser)
+- [官网](https://github.com/nanobrowser/nanobrowser)

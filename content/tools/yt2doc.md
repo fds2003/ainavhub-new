@@ -12,6 +12,6 @@ draft: false
 
 yt2doc 是一款将视频转录为可读Markdown文档的工具，支持YouTube和Twitter。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shun-liang/yt2doc)
+- [官网](https://github.com/shun-liang/yt2doc)

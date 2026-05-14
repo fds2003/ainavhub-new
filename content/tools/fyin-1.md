@@ -12,6 +12,6 @@ draft: false
 
 fyin是一种开源工具，可本地运行，作为Perplexity AI的替代方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shadowfax92/Fyin)
+- [官网](https://github.com/shadowfax92/Fyin)

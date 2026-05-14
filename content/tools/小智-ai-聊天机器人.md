@@ -12,6 +12,6 @@ draft: false
 
 小智 AI 聊天机器人是基于ESP32开发的开源项目，旨在帮助用户学习AI硬件开发。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/78/xiaozhi-esp32)
+- [官网](https://github.com/78/xiaozhi-esp32)

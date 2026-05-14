@@ -12,6 +12,6 @@ draft: false
 
 Anus是一个开源AI代理框架，旨在通过自动化任务革新，提供强大的多代理协作和灵活的模型集成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nikmcfly/ANUS)
+- [官网](https://github.com/nikmcfly/ANUS)

@@ -12,6 +12,6 @@ draft: false
 
 2024年《AI 50》展示了一代AI如何开始转变企业生产力
 
-## Links
+## 链接
 
-- [Official Website](https://www.sequoiacap.com/article/ai-50-2024/)
+- [官网](https://www.sequoiacap.com/article/ai-50-2024/)

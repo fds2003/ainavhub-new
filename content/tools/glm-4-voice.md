@@ -12,6 +12,6 @@ draft: false
 
 GLM-4-Voice是智谱AI推出的语音模型，可进行中英文实时语音对话并调节语音特性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THUDM/GLM-4-Voice)
+- [官网](https://github.com/THUDM/GLM-4-Voice)

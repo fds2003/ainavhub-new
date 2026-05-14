@@ -12,6 +12,6 @@ draft: false
 
 Wozway 是一个安全高效的服务，帮助开发者管理聊天应用与大型语言模型的通信。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Defend-AI-Tech-Inc/wozway)
+- [官网](https://github.com/Defend-AI-Tech-Inc/wozway)

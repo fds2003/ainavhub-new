@@ -12,6 +12,6 @@ draft: false
 
 大模型自动代码基准生成器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark)
+- [官网](https://github.com/Tencent-Hunyuan/AutoCodeBenchmark)

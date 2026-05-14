@@ -12,6 +12,6 @@ draft: false
 
 ChatterUI是一个用于管理聊天文件和角色卡的本地移动前端应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Vali-98/ChatterUI)
+- [官网](https://github.com/Vali-98/ChatterUI)

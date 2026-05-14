@@ -12,6 +12,6 @@ draft: false
 
 RAG Me Up 是一款轻量级框架，方便用户在自己数据集上运行RAG。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AI-Commandos/RAGMeUp)
+- [官网](https://github.com/AI-Commandos/RAGMeUp)

@@ -12,6 +12,6 @@ draft: false
 
 ElevenLabs宣布进军音乐创作领域ElevenLabs Music
 
-## Links
+## 链接
 
-- [Official Website](https://elevenlabs.io/)
+- [官网](https://elevenlabs.io/)

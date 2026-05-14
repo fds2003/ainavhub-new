@@ -12,6 +12,6 @@ draft: false
 
 twitterbio项目利用AI生成个性化Twitter简介，简化用户创建社交媒体个人资料的过程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/twitterbio)
+- [官网](https://github.com/Nutlope/twitterbio)

@@ -12,6 +12,6 @@ draft: false
 
 文档智能切分API
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lumina-ai-inc/chunkr)
+- [官网](https://github.com/lumina-ai-inc/chunkr)

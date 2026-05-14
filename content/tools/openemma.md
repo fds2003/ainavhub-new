@@ -12,6 +12,6 @@ draft: false
 
 OpenEMMA是一个开源的端到端自主驾驶多模态模型，旨在推进自动驾驶研究。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/taco-group/openemma)
+- [官网](https://github.com/taco-group/openemma)

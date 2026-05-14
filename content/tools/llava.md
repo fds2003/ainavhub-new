@@ -12,6 +12,6 @@ draft: false
 
 通过整合 LLaMA-3 和 Phi-3，来扩展现有的视觉能力和语言模型的功能
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mbzuai-oryx/LLaVA-pp)
+- [官网](https://github.com/mbzuai-oryx/LLaVA-pp)

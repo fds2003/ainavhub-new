@@ -12,6 +12,6 @@ draft: false
 
 AI语言模型和API提供商的比较分析，帮助用户选择最佳方案。
 
-## Links
+## 链接
 
-- [Official Website](https://artificialanalysis.ai/)
+- [官网](https://artificialanalysis.ai/)

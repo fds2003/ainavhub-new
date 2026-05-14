@@ -12,6 +12,6 @@ draft: false
 
 LivePortrait是KwaiVGI在Hugging Face发布的一个正在运行的项目。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/spaces/KwaiVGI/LivePortrait)
+- [官网](https://huggingface.co/spaces/KwaiVGI/LivePortrait)

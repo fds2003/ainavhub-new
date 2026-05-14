@@ -12,6 +12,6 @@ draft: false
 
 PearAI是一个开源AI驱动的代码编辑器，旨在通过减少编码时间提升开发效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/trypear/pearai-app)
+- [官网](https://github.com/trypear/pearai-app)

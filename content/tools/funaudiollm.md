@@ -12,6 +12,6 @@ draft: false
 
 FunAudioLLM是一个为人类和大型语言模型（LLMs）之间自然语音交互打造的语音理解和生成基础框架。
 
-## Links
+## 链接
 
-- [Official Website](https://fun-audio-llm.github.io/)
+- [官网](https://fun-audio-llm.github.io/)

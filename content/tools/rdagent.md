@@ -12,6 +12,6 @@ draft: false
 
 RDAgent旨在自动化数据驱动的研发过程，通过迭代改进模型和数据，提供数据挖掘和研究助手等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/RD-Agent)
+- [官网](https://github.com/microsoft/RD-Agent)

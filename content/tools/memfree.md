@@ -12,6 +12,6 @@ draft: false
 
 MemFree是一款开源的混合AI搜索引擎，可搜索个人知识库和互联网。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/memfreeme/memfree)
+- [官网](https://github.com/memfreeme/memfree)

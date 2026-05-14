@@ -12,6 +12,6 @@ draft: false
 
 AI实时金融研究助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ralliesai/rallies-cli)
+- [官网](https://github.com/ralliesai/rallies-cli)

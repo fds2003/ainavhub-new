@@ -12,6 +12,6 @@ draft: false
 
 可定制移动智能体系统框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/IPADS-SAI/MobiAgent)
+- [官网](https://github.com/IPADS-SAI/MobiAgent)

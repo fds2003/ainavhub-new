@@ -12,6 +12,6 @@ draft: false
 
 PDFToChat 是一个能快速与PDF文档聊天的工具，基于Together AI与Pinecone技术。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/pdftochat)
+- [官网](https://github.com/Nutlope/pdftochat)

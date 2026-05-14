@@ -12,6 +12,6 @@ draft: false
 
 内部竞赛AI交易系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FinStep-AI/ContestTrade)
+- [官网](https://github.com/FinStep-AI/ContestTrade)

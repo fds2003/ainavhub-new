@@ -12,6 +12,6 @@ draft: false
 
 DragAnything是一种通过实体表示实现可控视频生成中对象运动控制的先进方法。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/showlab/DragAnything)
+- [官网](https://github.com/showlab/DragAnything)

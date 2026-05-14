@@ -12,6 +12,6 @@ draft: false
 
 单图生成多部件3D模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wgsxm/PartCrafter)
+- [官网](https://github.com/wgsxm/PartCrafter)

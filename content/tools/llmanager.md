@@ -12,6 +12,6 @@ draft: false
 
 LLManager是一个LangGraph工作流，用于管理审批请求，通过反思和动态提示不断学习和改进。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/llmanager)
+- [官网](https://github.com/langchain-ai/llmanager)

@@ -12,6 +12,6 @@ draft: false
 
 Generative Models By Stability Ai Stability Ai Ai Sdxl Turbo is an AI-powered tool designed for developers and creators.
 
-## Links
+## 链接
 
-- [Official Website](#)
+- [官网](#)

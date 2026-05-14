@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI-B-LoRA 是一个加载并应用B-LoRA模型的定制节点，可以实现高质量的风格内容混合。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/liusida/ComfyUI-B-LoRA)
+- [官网](https://github.com/liusida/ComfyUI-B-LoRA)

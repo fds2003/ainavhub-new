@@ -12,6 +12,6 @@ draft: false
 
 教育标准与学习数据知识图谱
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/learning-commons-org/knowledge-graph)
+- [官网](https://github.com/learning-commons-org/knowledge-graph)

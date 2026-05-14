@@ -12,6 +12,6 @@ draft: false
 
 Character.AI的联合创始人Noam Shazeer将加入谷歌
 
-## Links
+## 链接
 
-- [Official Website](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)
+- [官网](https://techcrunch.com/2024/08/02/character-ai-ceo-noam-shazeer-returns-to-google/)

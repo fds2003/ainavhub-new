@@ -12,6 +12,6 @@ draft: false
 
 智能代码贡献代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ishaan1013/shadow)
+- [官网](https://github.com/ishaan1013/shadow)

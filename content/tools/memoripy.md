@@ -12,6 +12,6 @@ draft: false
 
 Memoripy 是一个 Python 库，用于管理上下文感知的短期和长期记忆，支持 AI 应用的记忆管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/caspianmoon/memoripy)
+- [官网](https://github.com/caspianmoon/memoripy)

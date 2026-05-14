@@ -12,6 +12,6 @@ draft: false
 
 AI赋能的Paperless-ngx文档管理工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/icereed/paperless-gpt)
+- [官网](https://github.com/icereed/paperless-gpt)

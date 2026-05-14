@@ -12,6 +12,6 @@ draft: false
 
 AI智能绘图与图表
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/joeseesun/img-cool)
+- [官网](https://github.com/joeseesun/img-cool)

@@ -12,6 +12,6 @@ draft: false
 
 ACE-Step是一个用于音乐生成的开源基础模型，它结合扩散模型与线性转换器，快速生成高质量音乐。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ace-step/ACE-Step)
+- [官网](https://github.com/ace-step/ACE-Step)

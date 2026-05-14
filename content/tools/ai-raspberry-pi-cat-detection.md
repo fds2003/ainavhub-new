@@ -12,6 +12,6 @@ draft: false
 
 用树莓派和AI检测猫咪行为，违规时发送通知并进行语音叙述
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ykhli/AI-RPi-detection)
+- [官网](https://github.com/ykhli/AI-RPi-detection)

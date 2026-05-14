@@ -12,6 +12,6 @@ draft: false
 
 提供了一系列命令来管理和操作机器学习模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lmstudio-ai/lms)
+- [官网](https://github.com/lmstudio-ai/lms)

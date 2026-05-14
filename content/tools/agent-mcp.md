@@ -12,6 +12,6 @@ draft: false
 
 Agent MCP是一个利用模型上下文协议(MCP)创建多智能体系统的框架，旨在实现协同高效的AI合作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/rinadelph/Agent-MCP)
+- [官网](https://github.com/rinadelph/Agent-MCP)

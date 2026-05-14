@@ -12,6 +12,6 @@ draft: false
 
 法国 AI 实验室 Kyutai 刚刚推出了开源 复刻GPT-4o - Moshi
 
-## Links
+## 链接
 
-- [Official Website](https://moshi.chat/)
+- [官网](https://moshi.chat/)

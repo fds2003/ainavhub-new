@@ -12,6 +12,6 @@ draft: false
 
 AGI内存系统是一种复杂的数据库设计，模拟人类认知，实现多种记忆存储与检索机制。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cognitivecomputations/agi_memory)
+- [官网](https://github.com/cognitivecomputations/agi_memory)

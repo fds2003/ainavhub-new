@@ -12,6 +12,6 @@ draft: false
 
 Orpheus TTS是基于Llama-3b的开源TTS系统，具备语音克隆、情感控制和低延迟等能力。它超越了 ElevenLabs 和 OpenAI 等开源和闭源模型的能力！
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/canopyai/Orpheus-TTS)
+- [官网](https://github.com/canopyai/Orpheus-TTS)

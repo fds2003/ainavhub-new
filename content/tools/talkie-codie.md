@@ -12,6 +12,6 @@ draft: false
 
 AI语音转优化提示词
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cziwen/Talkie-Codie)
+- [官网](https://github.com/cziwen/Talkie-Codie)

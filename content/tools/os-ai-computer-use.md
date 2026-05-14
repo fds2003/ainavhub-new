@@ -12,6 +12,6 @@ draft: false
 
 AI桌面自动化
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/777genius/os-ai-computer-use)
+- [官网](https://github.com/777genius/os-ai-computer-use)

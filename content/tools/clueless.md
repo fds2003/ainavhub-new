@@ -12,6 +12,6 @@ draft: false
 
 AI会议转录与洞察
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vijaythecoder/clueless)
+- [官网](https://github.com/vijaythecoder/clueless)

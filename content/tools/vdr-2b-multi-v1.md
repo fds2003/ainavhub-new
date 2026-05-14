@@ -12,6 +12,6 @@ draft: false
 
 vdr-2b-multi-v1是一款多语言视觉文档检索模型，支持高效搜索丰富的多语言文档。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/blog/vdr-2b-multilingual)
+- [官网](https://huggingface.co/blog/vdr-2b-multilingual)

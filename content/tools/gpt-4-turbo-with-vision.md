@@ -12,6 +12,6 @@ draft: false
 
 OpenAI发布集成视觉能力的先进人工智能模型GPT-4 Turbo with Vision
 
-## Links
+## 链接
 
-- [Official Website](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)
+- [官网](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)

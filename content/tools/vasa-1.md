@@ -12,6 +12,6 @@ draft: false
 
 微软实时生成会说话的头像
 
-## Links
+## 链接
 
-- [Official Website](https://www.microsoft.com/en-us/research/project/vasa-1/)
+- [官网](https://www.microsoft.com/en-us/research/project/vasa-1/)

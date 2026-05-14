@@ -12,6 +12,6 @@ draft: false
 
 Gemini-Search是一个基于Google Gemini 2.0的搜索引擎，可实时获取带引用的AI答案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ammaarreshi/Gemini-Search)
+- [官网](https://github.com/ammaarreshi/Gemini-Search)

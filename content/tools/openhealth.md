@@ -12,6 +12,6 @@ draft: false
 
 OpenHealth是一个本地运行的AI健康助手，可帮助您管理和理解个人健康数据。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenHealthForAll/open-health)
+- [官网](https://github.com/OpenHealthForAll/open-health)

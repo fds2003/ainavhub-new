@@ -12,6 +12,6 @@ draft: false
 
 Linly-Talker是一个集成多种AI技术、支持图像和语音的智能交互对话系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Kedreamix/Linly-Talker)
+- [官网](https://github.com/Kedreamix/Linly-Talker)

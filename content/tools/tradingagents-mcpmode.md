@@ -12,6 +12,6 @@ draft: false
 
 MCP多智能体智投决策系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/guangxiangdebizi/TradingAgents-MCPmode)
+- [官网](https://github.com/guangxiangdebizi/TradingAgents-MCPmode)

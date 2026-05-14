@@ -12,6 +12,6 @@ draft: false
 
 RedCache-ai 提供了一个用于大型语言模型和智能代理的动态记忆框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chisasaw/redcache-ai)
+- [官网](https://github.com/chisasaw/redcache-ai)

@@ -12,6 +12,6 @@ draft: false
 
 OllamaYTSumm 是一个使用本地AI服务器的Python脚本，用于对YouTube视频进行总结。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HariTrigger/OllamaYTSumm)
+- [官网](https://github.com/HariTrigger/OllamaYTSumm)

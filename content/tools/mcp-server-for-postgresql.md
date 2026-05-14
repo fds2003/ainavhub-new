@@ -12,6 +12,6 @@ draft: false
 
 PostgreSQL 智能运维监控平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/call518/MCP-PostgreSQL-Ops)
+- [官网](https://github.com/call518/MCP-PostgreSQL-Ops)

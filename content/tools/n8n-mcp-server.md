@@ -12,6 +12,6 @@ draft: false
 
 n8n MCP Server 是一个模型上下文协议服务器，使AI助手能用自然语言与n8n工作流交互。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/leonardsellem/n8n-mcp-server)
+- [官网](https://github.com/leonardsellem/n8n-mcp-server)

@@ -12,6 +12,6 @@ draft: false
 
 用AI通过声音与用户进行实时交流
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vocodedev/vocode-python)
+- [官网](https://github.com/vocodedev/vocode-python)

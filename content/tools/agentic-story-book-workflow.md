@@ -12,6 +12,6 @@ draft: false
 
 Agentic Story Book Workflow 是一个基于AutoGen的多代理流程，用于创建儿童图画书。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/breakstring/Agentic_Story_Book_Workflow)
+- [官网](https://github.com/breakstring/Agentic_Story_Book_Workflow)

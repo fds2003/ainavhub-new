@@ -12,6 +12,6 @@ draft: false
 
 本地化AI开发部署框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/llama-farm/llamafarm)
+- [官网](https://github.com/llama-farm/llamafarm)

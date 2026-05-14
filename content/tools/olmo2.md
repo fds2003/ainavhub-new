@@ -12,6 +12,6 @@ draft: false
 
 OLMo 2是迄今为止最优秀的完全开放语言模型，推动了开放语言模型的发展。
 
-## Links
+## 链接
 
-- [Official Website](https://allenai.org/blog/olmo2)
+- [官网](https://allenai.org/blog/olmo2)

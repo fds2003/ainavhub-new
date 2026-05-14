@@ -12,6 +12,6 @@ draft: false
 
 ExploreToM 是首个支持大规模生成多样且具有挑战性的Mind Reasoning理论数据的框架，用于强健训练与评估。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/ExploreToM)
+- [官网](https://github.com/facebookresearch/ExploreToM)

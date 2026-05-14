@@ -12,6 +12,6 @@ draft: false
 
 Freeze-Omni是一种智能、低延迟的语音对话模型，基于冻结的文本大语言模型，支持流式语音输入输出。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VITA-MLLM/Freeze-Omni)
+- [官网](https://github.com/VITA-MLLM/Freeze-Omni)

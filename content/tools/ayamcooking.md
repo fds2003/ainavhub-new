@@ -12,6 +12,6 @@ draft: false
 
 AyaMCooking是一款支持多语言的语音助手，帮助用户生成食谱、提供烹饪建议及营养信息。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bhavnicksm/AyaMCooking)
+- [官网](https://github.com/bhavnicksm/AyaMCooking)

@@ -12,6 +12,6 @@ draft: false
 
 从头开始实现Llama3，通过加载元数据提供的模型文件中的权重一步步构建张量和矩阵乘法
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/naklecha/llama3-from-scratch)
+- [官网](https://github.com/naklecha/llama3-from-scratch)

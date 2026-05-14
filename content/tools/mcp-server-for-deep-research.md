@@ -12,6 +12,6 @@ draft: false
 
 MCP Server for Deep Research是一个深度研究工具，能够生成结构化的、引用充分的综合研究报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/reading-plus-ai/mcp-server-deep-research)
+- [官网](https://github.com/reading-plus-ai/mcp-server-deep-research)

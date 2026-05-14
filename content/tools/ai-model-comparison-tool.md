@@ -12,6 +12,6 @@ draft: false
 
 AI模型对比工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hubhubgogo/AI-model-comparison)
+- [官网](https://github.com/hubhubgogo/AI-model-comparison)

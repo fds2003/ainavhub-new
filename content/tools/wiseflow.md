@@ -12,6 +12,6 @@ draft: false
 
 WiseFlow 是一个智能信息提取工具，可从多个来源自动分类并上传数据到数据库。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TeamWiseFlow/wiseflow)
+- [官网](https://github.com/TeamWiseFlow/wiseflow)

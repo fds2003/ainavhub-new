@@ -12,6 +12,6 @@ draft: false
 
 SpeechGPT2是复旦大学开发的模仿人类情感表达的语音对话模型。
 
-## Links
+## 链接
 
-- [Official Website](https://0nutation.github.io/SpeechGPT2.github.io/)
+- [官网](https://0nutation.github.io/SpeechGPT2.github.io/)

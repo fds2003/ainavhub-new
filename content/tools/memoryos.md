@@ -12,6 +12,6 @@ draft: false
 
 AI智能体个性化记忆操作系统：MemoryOS
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BAI-LAB/MemoryOS)
+- [官网](https://github.com/BAI-LAB/MemoryOS)

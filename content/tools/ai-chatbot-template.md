@@ -12,6 +12,6 @@ draft: false
 
 可定制AI聊天机器人模板
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/rryyqn/ai-chatbot)
+- [官网](https://github.com/rryyqn/ai-chatbot)

@@ -12,6 +12,6 @@ draft: false
 
 GitIngest是一款能够将任意Git仓库转换为适合大型语言模型提示的文本摘要工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cyclotruc/gitingest)
+- [官网](https://github.com/cyclotruc/gitingest)

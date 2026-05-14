@@ -12,6 +12,6 @@ draft: false
 
 starline 是一款专为线条绘图设计的严格着色机器学习工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mattyamonaca/starline)
+- [官网](https://github.com/mattyamonaca/starline)

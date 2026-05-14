@@ -12,6 +12,6 @@ draft: false
 
 该脚本通过逐页分析PDF书籍，智能提取知识点并生成进度摘要，提升阅读理解。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/echohive42/AI-reads-books-page-by-page)
+- [官网](https://github.com/echohive42/AI-reads-books-page-by-page)

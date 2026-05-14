@@ -12,6 +12,6 @@ draft: false
 
 LLMDocParser是一个使用大语言模型解析和分析PDF内容的工具包。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lazyFrogLOL/llmdocparser)
+- [官网](https://github.com/lazyFrogLOL/llmdocparser)

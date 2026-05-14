@@ -12,6 +12,6 @@ draft: false
 
 先进的直接文本到视频合成系统，以高清晰度和多样的比例生成视频，不带水印
 
-## Links
+## 链接
 
-- [Official Website](https://hotshot.co/act-one)
+- [官网](https://hotshot.co/act-one)

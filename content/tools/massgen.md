@@ -12,6 +12,6 @@ draft: false
 
 GenAI多智能体协作扩展系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Leezekun/MassGen)
+- [官网](https://github.com/Leezekun/MassGen)

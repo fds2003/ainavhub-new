@@ -12,6 +12,6 @@ draft: false
 
 Follow-Your-Emoji 是一个基于扩散模型的精细控制与表现力丰富的肖像动画框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mayuelala/FollowYourEmoji)
+- [官网](https://github.com/mayuelala/FollowYourEmoji)

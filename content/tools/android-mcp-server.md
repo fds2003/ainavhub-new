@@ -12,6 +12,6 @@ draft: false
 
 Android MCP Server是一个通过ADB协议，提供设备控制、截图、UI分析等功能的服务器，可被客户端调用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/minhalvp/android-mcp-server)
+- [官网](https://github.com/minhalvp/android-mcp-server)

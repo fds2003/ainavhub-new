@@ -12,6 +12,6 @@ draft: false
 
 使用 Viggle 和 Domo AI 成为蜘蛛侠！
 
-## Links
+## 链接
 
-- [Official Website](https://x.com/0xFramer/status/1803510191339741334)
+- [官网](https://x.com/0xFramer/status/1803510191339741334)

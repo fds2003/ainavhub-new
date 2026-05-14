@@ -12,6 +12,6 @@ draft: false
 
 CharacterAI复现版开源，以创建角色、自定义主题并开始聊天
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cyanff/anime.gf)
+- [官网](https://github.com/cyanff/anime.gf)

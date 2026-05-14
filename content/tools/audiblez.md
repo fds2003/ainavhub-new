@@ -12,6 +12,6 @@ draft: false
 
 Audiblez 可将普通的 .epub 电子书转换为高质量的 .m4b 有声书，支持多种语言和声音选择。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/santinic/audiblez)
+- [官网](https://github.com/santinic/audiblez)

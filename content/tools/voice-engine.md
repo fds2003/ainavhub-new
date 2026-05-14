@@ -12,6 +12,6 @@ draft: false
 
 OpenAI推出了名为Voice Engine的模型，可根据文本和15秒音频样本生成自然发音
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)
+- [官网](https://openai.com/blog/navigating-the-challenges-and-opportunities-of-synthetic-voices)

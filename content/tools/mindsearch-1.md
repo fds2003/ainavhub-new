@@ -12,6 +12,6 @@ draft: false
 
 MindSearch 是一个模拟人类思维的开源深度 AI 搜索引擎框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/InternLM/MindSearch)
+- [官网](https://github.com/InternLM/MindSearch)

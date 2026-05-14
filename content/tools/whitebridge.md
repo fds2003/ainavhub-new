@@ -12,6 +12,6 @@ draft: false
 
 AI代理人数据智能DePIN
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AiWhitebridge/AI-Agents-Network)
+- [官网](https://github.com/AiWhitebridge/AI-Agents-Network)

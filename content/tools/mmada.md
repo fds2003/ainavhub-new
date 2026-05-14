@@ -12,6 +12,6 @@ draft: false
 
 MMaDA是多模态扩散大语言模型，擅长文本推理、多模态理解和文图生成，具有统一扩散架构和混合CoT微调策略。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Gen-Verse/MMaDA)
+- [官网](https://github.com/Gen-Verse/MMaDA)

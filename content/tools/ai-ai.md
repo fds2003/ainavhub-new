@@ -12,6 +12,6 @@ draft: false
 
 AIGC 综合性社区交流平台是一个专为 AI 爱好者搭建的社区平台，提供 AI 相关知识交流、学习资源分享、技术讨论等功能。平台更新及时，提供精选资源下载，拥有高速下载和 5x8h 服务。同时还提供 ComfyUI、Webui 和 Chatgpt 等圈子动态。
 
-## Links
+## 链接
 
-- [Official Website](https://ainewsto.com/)
+- [官网](https://ainewsto.com/)

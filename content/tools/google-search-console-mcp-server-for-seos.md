@@ -12,6 +12,6 @@ draft: false
 
 Google Search Console MCP server 连接 GSC 和 Claude AI，让 SEO 通过自然语言对话分析网站数据，提升优化效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AminForou/mcp-gsc)
+- [官网](https://github.com/AminForou/mcp-gsc)

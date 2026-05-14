@@ -12,6 +12,6 @@ draft: false
 
 InfiniteYou利用Diffusion Transformer，实现高保真、个性化图像生成与灵活编辑。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bytedance/InfiniteYou)
+- [官网](https://github.com/bytedance/InfiniteYou)

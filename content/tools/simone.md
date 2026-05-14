@@ -12,6 +12,6 @@ draft: false
 
 把视频内容转换成博客文章
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/rajtilakjee/simone)
+- [官网](https://github.com/rajtilakjee/simone)

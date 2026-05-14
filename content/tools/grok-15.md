@@ -12,6 +12,6 @@ draft: false
 
 具备更强的推理能力和128,000词元的上下文长度，即将在𝕏平台提供
 
-## Links
+## 链接
 
-- [Official Website](https://x.ai/blog/grok-1.5)
+- [官网](https://x.ai/blog/grok-1.5)

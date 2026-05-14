@@ -12,6 +12,6 @@ draft: false
 
 Gemini 转 OpenAI 兼容 API
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/su-kaka/gcli2api)
+- [官网](https://github.com/su-kaka/gcli2api)

@@ -12,6 +12,6 @@ draft: false
 
 Gemini 2.0 Flash能通过文本生成图像，并用自然语言编辑现有图像，支持对话式迭代修改。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart)
+- [官网](https://github.com/google-gemini/gemini-image-editing-nextjs-quickstart)

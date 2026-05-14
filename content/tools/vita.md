@@ -12,6 +12,6 @@ draft: false
 
 VITA是首个开源的交互式多模态大语言模型，能同时处理视频、图像、文本和音频。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VITA-MLLM/VITA)
+- [官网](https://github.com/VITA-MLLM/VITA)

@@ -12,6 +12,6 @@ draft: false
 
 本地图谱RAG：多跳推理与可信溯源
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bibinprathap/VeritasGraph)
+- [官网](https://github.com/bibinprathap/VeritasGraph)

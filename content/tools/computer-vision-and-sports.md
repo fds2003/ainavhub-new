@@ -12,6 +12,6 @@ draft: false
 
 计算机视觉在体育中被用来检测和分析运动员和场地的关键点与图像。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/roboflow/sports)
+- [官网](https://github.com/roboflow/sports)

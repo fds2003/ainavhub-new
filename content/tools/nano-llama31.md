@@ -12,6 +12,6 @@ draft: false
 
 nano-llama31是一个简化Llama 3.1运行环境，通过PyTorch和tiktoken实现并准备添加微调。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/karpathy/nano-llama31)
+- [官网](https://github.com/karpathy/nano-llama31)

@@ -12,6 +12,6 @@ draft: false
 
 AI自主电脑操作平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LLmHub-dev/open-computer-use)
+- [官网](https://github.com/LLmHub-dev/open-computer-use)

@@ -12,6 +12,6 @@ draft: false
 
 Solos AirGo Vision智能眼镜对抗Meta的Ray-Ban，通过支持ChatGPT-4o提供更先进的AI功能。
 
-## Links
+## 链接
 
-- [Official Website](https://littwebsite.com/2024/07/01/solos-airgo-vision-launch-features-photos-price/)
+- [官网](https://littwebsite.com/2024/07/01/solos-airgo-vision-launch-features-photos-price/)

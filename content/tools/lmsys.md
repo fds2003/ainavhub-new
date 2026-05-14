@@ -12,6 +12,6 @@ draft: false
 
 Chatbot Arena 现在支持图片上传
 
-## Links
+## 链接
 
-- [Official Website](https://chat.lmsys.org/)
+- [官网](https://chat.lmsys.org/)

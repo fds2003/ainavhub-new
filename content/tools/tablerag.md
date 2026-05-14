@@ -12,6 +12,6 @@ draft: false
 
 异构文档混合RAG推理框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yxh-y/TableRAG)
+- [官网](https://github.com/yxh-y/TableRAG)

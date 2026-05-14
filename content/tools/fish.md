@@ -12,6 +12,6 @@ draft: false
 
 Fish是一个基于AI的音乐多模态项目，可以生成和识别和弦、节拍、歌词和旋律等音乐元素。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JoinMusic/fish)
+- [官网](https://github.com/JoinMusic/fish)

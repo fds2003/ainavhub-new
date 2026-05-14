@@ -12,6 +12,6 @@ draft: false
 
 一种先进的虚拟试衣技术
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yisol/IDM-VTON)
+- [官网](https://github.com/yisol/IDM-VTON)

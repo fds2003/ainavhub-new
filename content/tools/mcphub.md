@@ -12,6 +12,6 @@ draft: false
 
 MCPHub简化了AI服务中MCP服务器的集成，提供配置、管理和连接MCP服务器的统一方法，支持多种AI框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Cognitive-Stack/mcphub)
+- [官网](https://github.com/Cognitive-Stack/mcphub)

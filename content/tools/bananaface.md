@@ -12,6 +12,6 @@ draft: false
 
 AI 智能捏脸造型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ZHO-ZHO-ZHO/BananaFace)
+- [官网](https://github.com/ZHO-ZHO-ZHO/BananaFace)

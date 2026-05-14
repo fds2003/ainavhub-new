@@ -12,6 +12,6 @@ draft: false
 
 本教程利用Whisper、Ollama和Bark，教你本地构建自己的语音助手并运行。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vndee/local-talking-llm)
+- [官网](https://github.com/vndee/local-talking-llm)

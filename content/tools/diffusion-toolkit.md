@@ -12,6 +12,6 @@ draft: false
 
 AI图像管理工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RupertAvery/DiffusionToolkit)
+- [官网](https://github.com/RupertAvery/DiffusionToolkit)

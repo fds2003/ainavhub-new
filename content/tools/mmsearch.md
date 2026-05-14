@@ -12,6 +12,6 @@ draft: false
 
 MMSearch是一个评估大型多模态模型作为搜索引擎潜力的工具，支持多种搜索任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/CaraJ7/MMSearch)
+- [官网](https://github.com/CaraJ7/MMSearch)

@@ -12,6 +12,6 @@ draft: false
 
 ReasonRank：强推理段落重排
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/8421BCD/ReasonRank)
+- [官网](https://github.com/8421BCD/ReasonRank)

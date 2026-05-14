@@ -12,6 +12,6 @@ draft: false
 
 AI-ClothingTryOn 是一个Python桌面应用，利用Google Gemini API生成虚拟试穿效果图，方便用户预览穿搭。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/speedTD/AI-ClothingTryOn)
+- [官网](https://github.com/speedTD/AI-ClothingTryOn)

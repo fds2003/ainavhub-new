@@ -12,6 +12,6 @@ draft: false
 
 TankWork是一个开源桌面代理框架，通过计算机视觉与系统交互，实现AI对电脑的理解和控制。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AgentTankOS/tankwork)
+- [官网](https://github.com/AgentTankOS/tankwork)

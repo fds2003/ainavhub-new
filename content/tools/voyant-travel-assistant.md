@@ -12,6 +12,6 @@ draft: false
 
 元代理旅行助手：智能工具与验证
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chernistry/voyant)
+- [官网](https://github.com/chernistry/voyant)

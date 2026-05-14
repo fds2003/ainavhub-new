@@ -12,6 +12,6 @@ draft: false
 
 图片重复与篡改检测
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/summerness/dupcheck)
+- [官网](https://github.com/summerness/dupcheck)

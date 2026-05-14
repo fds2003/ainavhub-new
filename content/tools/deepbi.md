@@ -12,6 +12,6 @@ draft: false
 
 基于人工智能的数据分析平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DeepInsight-AI/DeepBI)
+- [官网](https://github.com/DeepInsight-AI/DeepBI)

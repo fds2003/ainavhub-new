@@ -12,6 +12,6 @@ draft: false
 
 NVIDIA Cosmos是一个面向开发者的平台，旨在加速物理AI系统的构建，提供预训练模型和训练脚本。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NVIDIA/Cosmos)
+- [官网](https://github.com/NVIDIA/Cosmos)

@@ -12,6 +12,6 @@ draft: false
 
 AI: Art Impostor是一个3-8人的AI绘画派对游戏。你是一个进步的艺术家,指挥AI生成图像,你不需要审美天赋就可以画出好的艺术作品。每局游戏只需5分钟,支持Steam、Android和iOS之间的多人联机!
 
-## Links
+## 链接
 
-- [Official Website](https://www.pocketpair.jp/ai-artimpostor)
+- [官网](https://www.pocketpair.jp/ai-artimpostor)

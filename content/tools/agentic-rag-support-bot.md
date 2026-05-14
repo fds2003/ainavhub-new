@@ -12,6 +12,6 @@ draft: false
 
 专门为雪佛兰汽车设计的客服聊天机器人
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/redis-developer/agentic-rag)
+- [官网](https://github.com/redis-developer/agentic-rag)

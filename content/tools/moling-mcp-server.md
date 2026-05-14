@@ -12,6 +12,6 @@ draft: false
 
 MoLing是一个免依赖的MCP服务器，通过系统API实现文件操作、命令执行和浏览器控制。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gojue/moling)
+- [官网](https://github.com/gojue/moling)

@@ -12,6 +12,6 @@ draft: false
 
 DreamRunner是一款通过检索增强运动适应生成细致故事视频的工具，提升视频创作质量。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wz0919/DreamRunner)
+- [官网](https://github.com/wz0919/DreamRunner)

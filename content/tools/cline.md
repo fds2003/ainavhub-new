@@ -12,6 +12,6 @@ draft: false
 
 Cline 是一款强大的 AI 助手，能够在开发过程中执行复杂任务并与用户的编辑器和终端无缝协作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cline/cline)
+- [官网](https://github.com/cline/cline)

@@ -12,6 +12,6 @@ draft: false
 
 开源AI换发型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AIRI-Institute/HairFastGAN)
+- [官网](https://github.com/AIRI-Institute/HairFastGAN)

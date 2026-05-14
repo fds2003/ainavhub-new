@@ -12,6 +12,6 @@ draft: false
 
 Extract2MD是一个强大的客户端JavaScript库，可以将PDF转换为Markdown，提供多种提取方法和可选的LLM增强功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hashangit/Extract2MD)
+- [官网](https://github.com/hashangit/Extract2MD)

@@ -12,6 +12,6 @@ draft: false
 
 KAG（知识增强生成）是一种框架，使大型语言模型与知识图谱高效结合，提升专业领域的知识服务能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenSPG/KAG)
+- [官网](https://github.com/OpenSPG/KAG)

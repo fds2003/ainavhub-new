@@ -12,6 +12,6 @@ draft: false
 
 Claude Code 多模型代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chachako/freecc)
+- [官网](https://github.com/chachako/freecc)

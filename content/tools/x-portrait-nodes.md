@@ -12,6 +12,6 @@ draft: false
 
 X-Portrait Nodes 可通过输入视频和参考图像，动画化人像，适用于 ComfyUI。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/akatz-ai/ComfyUI-X-Portrait-Nodes)
+- [官网](https://github.com/akatz-ai/ComfyUI-X-Portrait-Nodes)

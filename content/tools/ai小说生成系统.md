@@ -12,6 +12,6 @@ draft: false
 
 AI小说智能创作系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yefeng2renxing/AIxiezuo)
+- [官网](https://github.com/yefeng2renxing/AIxiezuo)

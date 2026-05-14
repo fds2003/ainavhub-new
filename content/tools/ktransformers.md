@@ -12,6 +12,6 @@ draft: false
 
 KTransformers是一个灵活的框架，旨在通过先进的内核优化和并行策略提升大型语言模型的推理性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kvcache-ai/ktransformers)
+- [官网](https://github.com/kvcache-ai/ktransformers)

@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的数据丰富工具：Fire Enrich
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mendableai/fire-enrich)
+- [官网](https://github.com/mendableai/fire-enrich)

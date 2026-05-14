@@ -12,6 +12,6 @@ draft: false
 
 AI IDE界面设计代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/superdesigndev/superdesign)
+- [官网](https://github.com/superdesigndev/superdesign)

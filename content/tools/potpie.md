@@ -12,6 +12,6 @@ draft: false
 
 Potpie是一个开源平台，能够为您的代码库创建AI代理，自动化代码分析、测试和开发任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/potpie-ai/potpie)
+- [官网](https://github.com/potpie-ai/potpie)

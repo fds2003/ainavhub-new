@@ -12,6 +12,6 @@ draft: false
 
 Eigent：多智能体AI生产力平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/eigent-ai/eigent)
+- [官网](https://github.com/eigent-ai/eigent)

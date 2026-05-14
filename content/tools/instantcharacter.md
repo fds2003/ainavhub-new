@@ -12,6 +12,6 @@ draft: false
 
 InstantCharacter通过扩散Transformer框架，仅用单张图片即可个性化角色生成，支持多种下游任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/InstantCharacter)
+- [官网](https://github.com/Tencent/InstantCharacter)

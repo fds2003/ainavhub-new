@@ -12,6 +12,6 @@ draft: false
 
 MCP Registry是一个社区驱动的MCP服务器注册服务，提供集中存储库，用于发现和管理MCP实现及其元数据。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/modelcontextprotocol/registry)
+- [官网](https://github.com/modelcontextprotocol/registry)

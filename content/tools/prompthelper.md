@@ -12,6 +12,6 @@ draft: false
 
 AI Prompt智能管理助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dongshuyan/PromptHelper)
+- [官网](https://github.com/dongshuyan/PromptHelper)

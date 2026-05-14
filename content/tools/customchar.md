@@ -12,6 +12,6 @@ draft: false
 
 允许你创建和定制自己的 AI 角色
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nrl-ai/CustomChar)
+- [官网](https://github.com/nrl-ai/CustomChar)

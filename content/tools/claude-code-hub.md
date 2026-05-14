@@ -12,6 +12,6 @@ draft: false
 
 智能 AI API 代理中转服务平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zsio/claude-code-hub)
+- [官网](https://github.com/zsio/claude-code-hub)

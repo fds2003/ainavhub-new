@@ -12,6 +12,6 @@ draft: false
 
 Mini-Omni是一款开源大型语言模型，具备实时语音对话和边思考边发声的能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gpt-omni/mini-omni)
+- [官网](https://github.com/gpt-omni/mini-omni)

@@ -12,6 +12,6 @@ draft: false
 
 基于大型语言模型的提高代码质量工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gptlint/gptlint)
+- [官网](https://github.com/gptlint/gptlint)

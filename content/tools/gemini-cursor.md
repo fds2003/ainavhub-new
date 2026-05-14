@@ -12,6 +12,6 @@ draft: false
 
 Gemini Cursor 是一款智能桌面鼠标，能够识别屏幕、听取语音并进行对话。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/13point5/gemini-cursor)
+- [官网](https://github.com/13point5/gemini-cursor)

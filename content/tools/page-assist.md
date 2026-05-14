@@ -12,6 +12,6 @@ draft: false
 
 一个开源Chrome扩展，提供与本地AI模型交互的侧边栏和Web UI
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/n4ze3m/page-assist)
+- [官网](https://github.com/n4ze3m/page-assist)

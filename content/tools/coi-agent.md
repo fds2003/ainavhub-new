@@ -12,6 +12,6 @@ draft: false
 
 CoI-Agent是一款利用大型语言模型推动新创意发展的研究工具，旨在革新研究方法。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DAMO-NLP-SG/CoI-Agent)
+- [官网](https://github.com/DAMO-NLP-SG/CoI-Agent)

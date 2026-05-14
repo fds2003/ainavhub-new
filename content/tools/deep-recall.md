@@ -12,6 +12,6 @@ draft: false
 
 Deep Recall是一个开源LLM的记忆框架，提供企业级存储、检索和整合用户交互记录，以实现个性化响应。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jkanalakis/deep-recall)
+- [官网](https://github.com/jkanalakis/deep-recall)

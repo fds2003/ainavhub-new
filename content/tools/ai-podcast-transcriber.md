@@ -12,6 +12,6 @@ draft: false
 
 AI播客转录与智能总结
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wendy7756/podcast-transcriber)
+- [官网](https://github.com/wendy7756/podcast-transcriber)

@@ -12,6 +12,6 @@ draft: false
 
 李开复01.AI开源9B大型语言模型
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/01-ai/Yi-9B)
+- [官网](https://huggingface.co/01-ai/Yi-9B)

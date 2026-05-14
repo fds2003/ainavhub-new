@@ -12,6 +12,6 @@ draft: false
 
 AIMedia是一款全自动AI媒体软件，具备热点新闻抓取和自动发布功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Anning01/AIMedia)
+- [官网](https://github.com/Anning01/AIMedia)

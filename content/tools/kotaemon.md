@@ -12,6 +12,6 @@ draft: false
 
 Kotaemon是一个开源、可定制的文档聊天界面，旨在为用户和开发者提供RAG（检索增强生成）体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Cinnamon/kotaemon)
+- [官网](https://github.com/Cinnamon/kotaemon)

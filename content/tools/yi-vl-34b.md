@@ -12,6 +12,6 @@ draft: false
 
 Yi-VL-34B是Yi Vision Language（Yi-VL）多模态语言大模型的一个版本，基于Yi语言模型开发。它在全新多模态基准测试MMMU中表现出色，取得了41.6%的准确率，成功超越了一系列多模态大模型，仅次于GPT-4V。Yi-VL-34B展现出强大的跨学科知识理解和应用能力，并展现了在复杂跨学科任务上的强大实力。此外，Yi-VL-34B在针对中文场景打造的CMMMU数据集上的准确率也达到了36.5%，领先于当前最前沿的开源多模态模型。Yi-VL-34B的出色表现证明了其在图文理解和对话生成能力上的卓越表现。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/01-ai/Yi-VL-34B)
+- [官网](https://huggingface.co/01-ai/Yi-VL-34B)

@@ -12,6 +12,6 @@ draft: false
 
 提供闪电般快速文本到语音服务的API
 
-## Links
+## 链接
 
-- [Official Website](https://deepgram.com/learn/aura-text-to-speech-tts-api-voice-ai-agents-launch)
+- [官网](https://deepgram.com/learn/aura-text-to-speech-tts-api-voice-ai-agents-launch)

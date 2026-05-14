@@ -12,6 +12,6 @@ draft: false
 
 Agentic Radar是一款用于分析Agentic系统安全性的扫描工具，可识别漏洞并生成详细报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/splx-ai/agentic-radar)
+- [官网](https://github.com/splx-ai/agentic-radar)

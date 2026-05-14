@@ -12,6 +12,6 @@ draft: false
 
 快手版Sora「可灵」开放测试，生成超长1080p视频，模拟真实物理与复杂运动。
 
-## Links
+## 链接
 
-- [Official Website](https://kling.kuaishou.com/)
+- [官网](https://kling.kuaishou.com/)

@@ -12,6 +12,6 @@ draft: false
 
 Meetily 是一款开源的 AI 会议助手，能实时录音、转录并生成会议摘要，保护用户隐私。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Zackriya-Solutions/meeting-minutes)
+- [官网](https://github.com/Zackriya-Solutions/meeting-minutes)

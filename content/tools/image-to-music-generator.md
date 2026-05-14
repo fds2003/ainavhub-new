@@ -12,6 +12,6 @@ draft: false
 
 图片转换成音乐的工具
 
-## Links
+## 链接
 
-- [Official Website](https://imagetomusic.top/)
+- [官网](https://imagetomusic.top/)

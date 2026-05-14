@@ -12,6 +12,6 @@ draft: false
 
 基于Python的大型语言模型(LLM)推理和服务框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ModelTC/lightllm)
+- [官网](https://github.com/ModelTC/lightllm)

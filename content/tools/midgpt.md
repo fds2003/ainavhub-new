@@ -12,6 +12,6 @@ draft: false
 
 midGPT是一个基于Jax和Equinox的可实验性LLM预训练仓库，支持大型模型跨多设备训练。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AllanYangZhou/midGPT)
+- [官网](https://github.com/AllanYangZhou/midGPT)

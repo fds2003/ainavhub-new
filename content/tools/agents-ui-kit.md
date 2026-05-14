@@ -12,6 +12,6 @@ draft: false
 
 AI智能体UI组件库
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/agents-ui/agents-kit)
+- [官网](https://github.com/agents-ui/agents-kit)

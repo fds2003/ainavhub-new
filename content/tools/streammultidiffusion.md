@@ -12,6 +12,6 @@ draft: false
 
 StreamMultiDiffusion是首个基于区域文本提示的实时文本到图像生成框架，实现了高速且互动的图像生成。
 
-## Links
+## 链接
 
-- [Official Website](https://jaerinlee.com/research/streammultidiffusion)
+- [官网](https://jaerinlee.com/research/streammultidiffusion)

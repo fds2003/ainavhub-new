@@ -12,6 +12,6 @@ draft: false
 
 Austen是一款AI驱动的Angular应用，能用Mermaidjs图表分析书籍角色关系并生成可视化图形。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/herol3oy/austen)
+- [官网](https://github.com/herol3oy/austen)

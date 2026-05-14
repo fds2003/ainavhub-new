@@ -12,6 +12,6 @@ draft: false
 
 GraphGen利用知识图谱生成高质量合成数据，优化大型语言模型的监督微调效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/open-sciencelab/GraphGen)
+- [官网](https://github.com/open-sciencelab/GraphGen)

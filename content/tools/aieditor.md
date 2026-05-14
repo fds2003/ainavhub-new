@@ -12,6 +12,6 @@ draft: false
 
 AiEditor是一款基于AI的多功能富文本编辑器，支持多种前端框架及灵活配置。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aieditor-team/AiEditor/)
+- [官网](https://github.com/aieditor-team/AiEditor/)

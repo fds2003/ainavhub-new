@@ -12,6 +12,6 @@ draft: false
 
 Thinking Claude 是一个项目，结合思维协议和浏览器扩展，使 Claude 高效且透明地进行深入思考和回应。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/richards199999/Thinking-Claude)
+- [官网](https://github.com/richards199999/Thinking-Claude)

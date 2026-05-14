@@ -12,6 +12,6 @@ draft: false
 
 gptpdf 是一个利用VLLM解析PDF为Markdown的工具，几乎完美支持数学公式、表格等。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/CosmosShadow/gptpdf)
+- [官网](https://github.com/CosmosShadow/gptpdf)

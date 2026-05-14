@@ -12,6 +12,6 @@ draft: false
 
 高效、灵活、可定制化的虚拟数字人制作平台
 
-## Links
+## 链接
 
-- [Official Website](https://studio.d-id.com/agents)
+- [官网](https://studio.d-id.com/agents)

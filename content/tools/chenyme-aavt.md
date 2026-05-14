@@ -12,6 +12,6 @@ draft: false
 
 用于视频和音频的自动识别与翻译
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Chenyme/Chenyme-AAVT)
+- [官网](https://github.com/Chenyme/Chenyme-AAVT)

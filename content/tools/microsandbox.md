@@ -12,6 +12,6 @@ draft: false
 
 MICROSANDBOX是一个易于使用且安全的沙盒环境，可用于执行不受信任的用户或AI代码，具有快速启动和灵活控制的特点。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsandbox/microsandbox)
+- [官网](https://github.com/microsandbox/microsandbox)

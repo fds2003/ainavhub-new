@@ -12,6 +12,6 @@ draft: false
 
 deepseek.cpp 是一个基于 C++ 的 CPU-only 推理实现，旨在为 DeepSeek 大语言模型提供支持，专注于简洁性和低硬件需求。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/andrewkchan/deepseek.cpp)
+- [官网](https://github.com/andrewkchan/deepseek.cpp)

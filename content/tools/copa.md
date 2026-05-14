@@ -12,6 +12,6 @@ draft: false
 
 先进的机器人操作框架
 
-## Links
+## 链接
 
-- [Official Website](https://copa-2024.github.io/)
+- [官网](https://copa-2024.github.io/)

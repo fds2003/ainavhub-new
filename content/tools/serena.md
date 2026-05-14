@@ -12,6 +12,6 @@ draft: false
 
 Serena是免费且强大的编码助手，能直接操作代码库，语义检索并编辑，兼容多种LLM。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/oraios/serena)
+- [官网](https://github.com/oraios/serena)

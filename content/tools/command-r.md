@@ -12,6 +12,6 @@ draft: false
 
 款为企业设计的可扩展大型语言模型，专注于实现高效率与准确性的平衡。
 
-## Links
+## 链接
 
-- [Official Website](https://txt.cohere.com/command-r-plus-microsoft-azure/)
+- [官网](https://txt.cohere.com/command-r-plus-microsoft-azure/)

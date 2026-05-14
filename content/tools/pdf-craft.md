@@ -12,6 +12,6 @@ draft: false
 
 PDF-craft是一个能将扫描书籍PDF转换为多种格式(如Markdown, EPUB)的工具，利用AI技术提取内容并处理格式问题。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/oomol-lab/pdf-craft)
+- [官网](https://github.com/oomol-lab/pdf-craft)

@@ -12,6 +12,6 @@ draft: false
 
 基于任何格式文件和数据库的本地知识库问答系统，支持离线安装使用
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/netease-youdao/QAnything)
+- [官网](https://github.com/netease-youdao/QAnything)

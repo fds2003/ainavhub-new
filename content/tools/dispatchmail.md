@@ -12,6 +12,6 @@ draft: false
 
 AI智能收件箱
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dbish/DispatchMail)
+- [官网](https://github.com/dbish/DispatchMail)

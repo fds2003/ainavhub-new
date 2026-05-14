@@ -12,6 +12,6 @@ draft: false
 
 Search-o1是一个增强大型推理模型的框架，通过智能检索机制提升其推理能力和准确性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sunnynexus/Search-o1)
+- [官网](https://github.com/sunnynexus/Search-o1)

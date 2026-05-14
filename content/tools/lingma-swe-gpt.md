@@ -12,6 +12,6 @@ draft: false
 
 Lingma SWE-GPT是一个开源大语言模型，专注于软件工程领域的智能辅助和改进任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LingmaTongyi/Lingma-SWE-GPT)
+- [官网](https://github.com/LingmaTongyi/Lingma-SWE-GPT)

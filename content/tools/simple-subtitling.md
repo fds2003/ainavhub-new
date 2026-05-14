@@ -12,6 +12,6 @@ draft: false
 
 Simple subtitling利用WhisperX和说话人聚类，从音频文件生成带时间戳和说话人ID的字幕。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JaesungHuh/simple-subtitling)
+- [官网](https://github.com/JaesungHuh/simple-subtitling)

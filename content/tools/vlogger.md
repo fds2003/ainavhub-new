@@ -12,6 +12,6 @@ draft: false
 
 从单个人物图像生成文本和音频驱动的说话视频
 
-## Links
+## 链接
 
-- [Official Website](https://enriccorona.github.io/vlogger/)
+- [官网](https://enriccorona.github.io/vlogger/)

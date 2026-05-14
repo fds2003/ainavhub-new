@@ -12,6 +12,6 @@ draft: false
 
 fairseq是一个用于训练自定义翻译、摘要和语言模型等序列模型的工具包。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/fairseq)
+- [官网](https://github.com/facebookresearch/fairseq)

@@ -12,6 +12,6 @@ draft: false
 
 将图像生成和编辑能力结合的先进技术，通过提高图像处理的灵活性和精细度
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/spaces/multimodalart/cosxl)
+- [官网](https://huggingface.co/spaces/multimodalart/cosxl)

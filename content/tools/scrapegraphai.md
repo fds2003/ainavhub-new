@@ -12,6 +12,6 @@ draft: false
 
 大型语言模型（LLM）和直接图逻辑来为网站、文档和XML文件创建爬取管道
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VinciGit00/Scrapegraph-ai)
+- [官网](https://github.com/VinciGit00/Scrapegraph-ai)

@@ -12,6 +12,6 @@ draft: false
 
 Clevrr Computer 是一个自动化代理，使用 PyAutoGUI 库高效精确地执行用户系统操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Clevrr-AI/Clevrr-Computer)
+- [官网](https://github.com/Clevrr-AI/Clevrr-Computer)

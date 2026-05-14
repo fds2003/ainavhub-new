@@ -12,6 +12,6 @@ draft: false
 
 Tabled是一个小型库，用于检测和提取PDF中的表格，支持多种输出格式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VikParuchuri/tabled)
+- [官网](https://github.com/VikParuchuri/tabled)

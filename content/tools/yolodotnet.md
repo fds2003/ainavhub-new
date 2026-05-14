@@ -12,6 +12,6 @@ draft: false
 
 YoloDotNet 是基于C#的实时目标检测库，支持分类、目标检测、OBB检测、分割和姿态估计。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NickSwardh/YoloDotNet)
+- [官网](https://github.com/NickSwardh/YoloDotNet)

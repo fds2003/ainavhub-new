@@ -12,6 +12,6 @@ draft: false
 
 Kraken是一个开源项目，旨在提供强大的开发工具和自动化工作流程管理功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jasonxtn/Kraken/blob/main/readme.md)
+- [官网](https://github.com/jasonxtn/Kraken/blob/main/readme.md)

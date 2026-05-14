@@ -12,6 +12,6 @@ draft: false
 
 Minion Agent是一个简易的代理框架，支持浏览器操作、MCP、自动规划和深度研究等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/femto/minion-agent)
+- [官网](https://github.com/femto/minion-agent)

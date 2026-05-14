@@ -12,6 +12,6 @@ draft: false
 
 该课程教授如何构建和部署适用于H&M时尚商品的实时个性化推荐系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/decodingml/hands-on-personalized-recommender)
+- [官网](https://github.com/decodingml/hands-on-personalized-recommender)

@@ -12,6 +12,6 @@ draft: false
 
 Optexity通过人类演示训练AI模型，自动化完成网页任务，效果优于Gemini和GPT-4o。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Optexity/ComputerGYM)
+- [官网](https://github.com/Optexity/ComputerGYM)

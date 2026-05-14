@@ -12,6 +12,6 @@ draft: false
 
 Zerox OCR 是一种经济高效且准确的文档OCR工具，适用于AI数据处理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/getomni-ai/zeroX)
+- [官网](https://github.com/getomni-ai/zeroX)

@@ -12,6 +12,6 @@ draft: false
 
 TinyTroupe是一个基于大型语言模型的Python库，能够模拟个性化多代理角色，助力商业洞察与创意拓展。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/TinyTroupe)
+- [官网](https://github.com/microsoft/TinyTroupe)

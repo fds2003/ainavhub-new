@@ -12,6 +12,6 @@ draft: false
 
 Suna是开源AI助手，通过自然对话实现研究、数据分析和自动化工作流等任务，并集成多种工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kortix-ai/suna)
+- [官网](https://github.com/kortix-ai/suna)

@@ -12,6 +12,6 @@ draft: false
 
 AI模型对齐评估框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenAlign/AlignLab)
+- [官网](https://github.com/OpenAlign/AlignLab)

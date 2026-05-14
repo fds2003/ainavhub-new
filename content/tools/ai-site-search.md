@@ -12,6 +12,6 @@ draft: false
 
 这是一个基于AI的开源项目搜索引擎，旨在帮助用户快速找到合适的GitHub仓库作为项目起始模板。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cameronking4/github-repo-tavily-ai-search)
+- [官网](https://github.com/cameronking4/github-repo-tavily-ai-search)

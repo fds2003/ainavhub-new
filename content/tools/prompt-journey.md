@@ -12,6 +12,6 @@ draft: false
 
 帮助讲故事者和创意人士打造独特的midjourney图片提示
 
-## Links
+## 链接
 
-- [Official Website](https://www.promptjourney.co/)
+- [官网](https://www.promptjourney.co/)

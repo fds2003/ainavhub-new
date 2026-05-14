@@ -12,6 +12,6 @@ draft: false
 
 全新的多模态生图AI工具，以其优秀的文字渲染能力和生图能力受到业界瞩目
 
-## Links
+## 链接
 
-- [Official Website](https://ideogram.ai/)
+- [官网](https://ideogram.ai/)

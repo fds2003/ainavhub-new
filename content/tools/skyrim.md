@@ -12,6 +12,6 @@ draft: false
 
 极其强大且易于使用的天气模型运行工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/secondlaw-ai/skyrim)
+- [官网](https://github.com/secondlaw-ai/skyrim)

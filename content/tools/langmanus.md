@@ -12,6 +12,6 @@ draft: false
 
 LangManus是一个社区驱动的AI自动化框架，整合语言模型和专业工具，助力任务自动化并回馈开源社区。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langmanus/langmanus)
+- [官网](https://github.com/langmanus/langmanus)

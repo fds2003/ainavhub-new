@@ -12,6 +12,6 @@ draft: false
 
 任意LLM提供商统一接口
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mozilla-ai/any-llm)
+- [官网](https://github.com/mozilla-ai/any-llm)

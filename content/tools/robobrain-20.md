@@ -12,6 +12,6 @@ draft: false
 
 RoboBrain 2.0：更强大的具身智能大脑模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FlagOpen/RoboBrain2.0)
+- [官网](https://github.com/FlagOpen/RoboBrain2.0)

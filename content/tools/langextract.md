@@ -12,6 +12,6 @@ draft: false
 
 大模型文本信息结构化提取
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/google/langextract)
+- [官网](https://github.com/google/langextract)

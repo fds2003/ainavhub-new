@@ -12,6 +12,6 @@ draft: false
 
 Dippy致力于开发开源高端语音模型，为用户提供沉浸式人机对话体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/impel-intelligence/dippy-speech-subnet)
+- [官网](https://github.com/impel-intelligence/dippy-speech-subnet)

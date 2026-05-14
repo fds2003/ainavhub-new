@@ -12,6 +12,6 @@ draft: false
 
 TranslateBookWithLLM是基于Ollama API的Python应用，用于本地LLM驱动的大规模文本翻译，提供Web和CLI界面。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hydropix/TranslateBookWithLLM)
+- [官网](https://github.com/hydropix/TranslateBookWithLLM)

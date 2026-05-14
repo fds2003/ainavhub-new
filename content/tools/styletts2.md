@@ -12,6 +12,6 @@ draft: false
 
 通过风格扩散与大型语音语言模型对抗训练实现接近人类水平的文本到语音合成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yl4579/StyleTTS2)
+- [官网](https://github.com/yl4579/StyleTTS2)

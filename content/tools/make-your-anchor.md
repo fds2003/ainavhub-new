@@ -12,6 +12,6 @@ draft: false
 
 自动生成带有精确躯干和手部动作的主播风格视频
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ictmcg/make-your-anchor)
+- [官网](https://github.com/ictmcg/make-your-anchor)

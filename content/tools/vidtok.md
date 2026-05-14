@@ -12,6 +12,6 @@ draft: false
 
 VidTok是一种先进的视频标记器，支持连续和离散标记，提升了视频处理的效率和质量。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/VidTok)
+- [官网](https://github.com/microsoft/VidTok)

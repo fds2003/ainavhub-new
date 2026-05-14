@@ -12,6 +12,6 @@ draft: false
 
 为语音数据集标记标签的实用程序脚本集合
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huggingface/dataspeech)
+- [官网](https://github.com/huggingface/dataspeech)

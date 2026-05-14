@@ -12,6 +12,6 @@ draft: false
 
 增强Agent搜索能力的通用预训练框架：MaskSearch
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alibaba-NLP/MaskSearch)
+- [官网](https://github.com/Alibaba-NLP/MaskSearch)

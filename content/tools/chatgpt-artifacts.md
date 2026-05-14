@@ -12,6 +12,6 @@ draft: false
 
 将 Claude 的 Artifacts 功能引入 ChatGPT
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ozgrozer/chatgpt-artifacts/blob/main/readme.md)
+- [官网](https://github.com/ozgrozer/chatgpt-artifacts/blob/main/readme.md)

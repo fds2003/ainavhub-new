@@ -12,6 +12,6 @@ draft: false
 
 该程序利用 OCR 技术自动识别小猿口算中的数字并进行比大小操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gmkrxb/xiaoyuankousuan)
+- [官网](https://github.com/gmkrxb/xiaoyuankousuan)

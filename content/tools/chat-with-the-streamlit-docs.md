@@ -12,6 +12,6 @@ draft: false
 
 基于Streamlit开发的聊天机器人应用
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/carolinedlu/llamaindex-chat-with-streamlit-docs)
+- [官网](https://github.com/carolinedlu/llamaindex-chat-with-streamlit-docs)

@@ -12,6 +12,6 @@ draft: false
 
 Void是一个开源的Cursor替代品，欢迎新用户参与开发和贡献。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/voideditor/void)
+- [官网](https://github.com/voideditor/void)

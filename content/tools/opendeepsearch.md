@@ -12,6 +12,6 @@ draft: false
 
 OpenDeepSearch是轻量级开源搜索工具，通过推理模型和智能代理，赋能AI Agent深度网络搜索和信息检索能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sentient-agi/OpenDeepSearch)
+- [官网](https://github.com/sentient-agi/OpenDeepSearch)

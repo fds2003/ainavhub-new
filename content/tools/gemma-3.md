@@ -12,6 +12,6 @@ draft: false
 
 Gemma 3是Google基于Gemini 2.0研发的轻量级开源模型系列，可在单GPU或TPU上运行，性能强大。
 
-## Links
+## 链接
 
-- [Official Website](https://blog.google/technology/developers/gemma-3/)
+- [官网](https://blog.google/technology/developers/gemma-3/)

@@ -12,6 +12,6 @@ draft: false
 
 EchoMimicV2是一款致力于简化的半身体人类动画生成技术，能通过音频驱动实现生动表现。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/antgroup/echomimic_v2)
+- [官网](https://github.com/antgroup/echomimic_v2)

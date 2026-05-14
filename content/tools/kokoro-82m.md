@@ -12,6 +12,6 @@ draft: false
 
 Kokoro-82M是一个先进的文本转语音模型，参数量为8200万。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/hexgrad/Kokoro-82M)
+- [官网](https://huggingface.co/hexgrad/Kokoro-82M)

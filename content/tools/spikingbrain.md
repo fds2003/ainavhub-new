@@ -12,6 +12,6 @@ draft: false
 
 脉冲类脑大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BICLab/SpikingBrain-7B)
+- [官网](https://github.com/BICLab/SpikingBrain-7B)

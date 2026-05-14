@@ -12,6 +12,6 @@ draft: false
 
 OpenChat是一个AI驱动的全栈聊天应用，支持Web、移动和桌面端，采用现代技术栈构建。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/akazwz/openchat-monorepo)
+- [官网](https://github.com/akazwz/openchat-monorepo)

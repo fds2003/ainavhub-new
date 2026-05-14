@@ -12,6 +12,6 @@ draft: false
 
 AI写作助手是一个基于Next.js的工具，支持多种LLM，助你定制写作风格并生成高质量内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GeekyWizKid/writing-helper)
+- [官网](https://github.com/GeekyWizKid/writing-helper)

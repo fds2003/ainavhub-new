@@ -12,6 +12,6 @@ draft: false
 
 升级中国水墨画风格2.0
 
-## Links
+## 链接
 
-- [Official Website](https://domoai.app/)
+- [官网](https://domoai.app/)

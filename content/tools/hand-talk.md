@@ -12,6 +12,6 @@ draft: false
 
 利用3D角色和人工智能将文字和音频自动翻译成手语的应用程序
 
-## Links
+## 链接
 
-- [Official Website](https://www.handtalk.me/en/app/)
+- [官网](https://www.handtalk.me/en/app/)

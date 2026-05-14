@@ -12,6 +12,6 @@ draft: false
 
 ElevenLabs Reader App使用高质量语音，帮助您随时随地聆听各种文本内容。
 
-## Links
+## 链接
 
-- [Official Website](https://elevenlabs.io/text-reader)
+- [官网](https://elevenlabs.io/text-reader)

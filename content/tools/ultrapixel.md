@@ -12,6 +12,6 @@ draft: false
 
 UltraPixel是一种推进超高分辨率图像合成的新技术。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/catcathh/UltraPixel)
+- [官网](https://github.com/catcathh/UltraPixel)

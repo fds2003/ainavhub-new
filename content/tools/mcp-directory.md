@@ -12,6 +12,6 @@ draft: false
 
 MCP Directory 是一个用于优秀 MCP 服务器的目录，提供快速启动和社区支持。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chatmcp/mcp-directory)
+- [官网](https://github.com/chatmcp/mcp-directory)

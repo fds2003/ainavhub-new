@@ -12,6 +12,6 @@ draft: false
 
 AI Fleet：终端AI开发者助手，轻松管理AI Agent集群
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nachoal/ai-fleet)
+- [官网](https://github.com/nachoal/ai-fleet)

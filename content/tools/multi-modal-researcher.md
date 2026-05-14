@@ -12,6 +12,6 @@ draft: false
 
 多模态研究播客生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/multi-modal-researcher)
+- [官网](https://github.com/langchain-ai/multi-modal-researcher)

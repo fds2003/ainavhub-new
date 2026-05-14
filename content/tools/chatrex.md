@@ -12,6 +12,6 @@ draft: false
 
 ChatRex是一个多模态大语言模型，能精准回答问题并关联具体对象，适用于多场景感知任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/IDEA-Research/ChatRex)
+- [官网](https://github.com/IDEA-Research/ChatRex)

@@ -12,6 +12,6 @@ draft: false
 
 字节跳动推出UniFL：通过统一反馈学习提高稳定扩散
 
-## Links
+## 链接
 
-- [Official Website](https://uni-fl.github.io/)
+- [官网](https://uni-fl.github.io/)

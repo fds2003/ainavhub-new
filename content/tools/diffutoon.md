@@ -12,6 +12,6 @@ draft: false
 
 Diffutoon是一种适合高分辨率快速运动视频渲染的卡通着色技术。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/Diffutoon)
+- [官网](https://github.com/modelscope/DiffSynth-Studio/tree/main/examples/Diffutoon)

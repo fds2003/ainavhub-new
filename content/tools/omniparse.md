@@ -12,6 +12,6 @@ draft: false
 
 OmniParse是一个将各种非结构化数据转换为结构化、适用于生成式AI（LLM）应用的平台。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/adithya-s-k/omniparse)
+- [官网](https://github.com/adithya-s-k/omniparse)

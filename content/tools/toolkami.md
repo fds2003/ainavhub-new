@@ -12,6 +12,6 @@ draft: false
 
 Toolkami是用7个工具驱动的极简AI代理，支持免手动Turbo模式和热重载自修改。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aperoc/toolkami)
+- [官网](https://github.com/aperoc/toolkami)

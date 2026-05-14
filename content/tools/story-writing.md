@@ -12,6 +12,6 @@ draft: false
 
 该应用通过LangGraph代理帮助用户编写和编辑故事，提供多版本章节选择。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/story-writing)
+- [官网](https://github.com/langchain-ai/story-writing)

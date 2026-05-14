@@ -12,6 +12,6 @@ draft: false
 
 Chrome MCP Server：AI驱动的浏览器自动化助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hangwin/mcp-chrome)
+- [官网](https://github.com/hangwin/mcp-chrome)

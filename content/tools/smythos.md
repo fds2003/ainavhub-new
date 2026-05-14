@@ -12,6 +12,6 @@ draft: false
 
 AI智能体操作系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SmythOS/sre)
+- [官网](https://github.com/SmythOS/sre)

@@ -12,6 +12,6 @@ draft: false
 
 Cursor Auto Register是一个用于自动化Cursor Pro注册的开源项目，基于Python，提供API和UI界面进行账号管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ddCat-main/cursor-auto-register)
+- [官网](https://github.com/ddCat-main/cursor-auto-register)

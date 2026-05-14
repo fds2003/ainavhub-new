@@ -12,6 +12,6 @@ draft: false
 
 世界首款开源的实时翻译应用，支持多人多语言对话。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/niedev/RTranslator)
+- [官网](https://github.com/niedev/RTranslator)

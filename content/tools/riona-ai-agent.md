@@ -12,6 +12,6 @@ draft: false
 
 Riona-AI-Agent是一款基于AI的自动化工具，可高效管理社交媒体账号并生成吸引人的内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/David-patrick-chuks/Riona-AI-Agent)
+- [官网](https://github.com/David-patrick-chuks/Riona-AI-Agent)

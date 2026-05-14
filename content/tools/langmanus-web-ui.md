@@ -12,6 +12,6 @@ draft: false
 
 LangManus Web UI是LangManus的默认Web界面，基于开源社区，提供AI自动化框架的可视化操作界面。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langmanus/langmanus-web)
+- [官网](https://github.com/langmanus/langmanus-web)

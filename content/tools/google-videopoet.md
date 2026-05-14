@@ -12,6 +12,6 @@ draft: false
 
 Google AI生成视频的实验性大型语言模型
 
-## Links
+## 链接
 
-- [Official Website](https://sites.research.google/videopoet)
+- [官网](https://sites.research.google/videopoet)

@@ -12,6 +12,6 @@ draft: false
 
 本地AI代理浏览器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nxtscape/nxtscape)
+- [官网](https://github.com/nxtscape/nxtscape)

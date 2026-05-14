@@ -12,6 +12,6 @@ draft: false
 
 用户输入提示词创建任何GIF
 
-## Links
+## 链接
 
-- [Official Website](https://gifshift.xyz/)
+- [官网](https://gifshift.xyz/)

@@ -12,6 +12,6 @@ draft: false
 
 Superposition Prompting是一种新方法，旨在提升和加速信息检索增强生成的效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/apple/ml-superposition-prompting)
+- [官网](https://github.com/apple/ml-superposition-prompting)

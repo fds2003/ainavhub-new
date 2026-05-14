@@ -12,6 +12,6 @@ draft: false
 
 长时多说话人对话语音合成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/VibeVoice)
+- [官网](https://github.com/microsoft/VibeVoice)

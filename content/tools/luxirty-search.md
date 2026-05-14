@@ -12,6 +12,6 @@ draft: false
 
 Luxirty Search是一个基于Google的无广告、无跟踪搜索引擎，内置内容农场屏蔽和优质网站权重提升功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/KoriIku/luxirty-search)
+- [官网](https://github.com/KoriIku/luxirty-search)

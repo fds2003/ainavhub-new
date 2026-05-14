@@ -12,6 +12,6 @@ draft: false
 
 Aide 是 VSCode 中一键注释和代码转换的高效工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nicepkg/aide)
+- [官网](https://github.com/nicepkg/aide)

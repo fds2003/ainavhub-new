@@ -12,6 +12,6 @@ draft: false
 
 Multimodal Open R1项目通过开源的数学推理数据集和模型，推动多模态强化学习的发展与研究。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
+- [官网](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)

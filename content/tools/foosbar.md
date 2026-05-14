@@ -12,6 +12,6 @@ draft: false
 
 Foosbar是一款完全自动化的桌上足球机器人，能与人类玩家对战，具备防守、传球和射门能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/misprit7/foosbar)
+- [官网](https://github.com/misprit7/foosbar)

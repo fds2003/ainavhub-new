@@ -12,6 +12,6 @@ draft: false
 
 Perplexity Pages是一款简化内容创作、轻松分享知识的全新工具。
 
-## Links
+## 链接
 
-- [Official Website](https://www.perplexity.ai/hub/blog/perplexity-pages)
+- [官网](https://www.perplexity.ai/hub/blog/perplexity-pages)

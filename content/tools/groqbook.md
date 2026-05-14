@@ -12,6 +12,6 @@ draft: false
 
 Groqbook是一款使用Groq和Llama3在几秒内生成整本书的streamlit应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Bklieger/groqbook)
+- [官网](https://github.com/Bklieger/groqbook)

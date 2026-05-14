@@ -12,6 +12,6 @@ draft: false
 
 Day 3 OpenAI 布了 Sora
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/sora/)
+- [官网](https://openai.com/sora/)

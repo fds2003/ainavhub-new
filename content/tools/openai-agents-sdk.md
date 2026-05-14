@@ -12,6 +12,6 @@ draft: false
 
 OpenAI Agents SDK是一个轻量级框架，用于构建多智能体工作流程，支持handoffs、guardrails和tracing功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/openai-agents-python)
+- [官网](https://github.com/openai/openai-agents-python)

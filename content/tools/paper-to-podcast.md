@@ -12,6 +12,6 @@ draft: false
 
 Paper-to-Podcast是一个将学术研究论文转换为生动对话播客的工具，便于听众轻松吸收复杂信息。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Azzedde/paper_to_podcast)
+- [官网](https://github.com/Azzedde/paper_to_podcast)

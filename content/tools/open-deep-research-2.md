@@ -12,6 +12,6 @@ draft: false
 
 ReSearch利用强化学习训练LLM，使其学会通过搜索进行推理，从而提高问答效果，无需监督数据。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Agent-RL/ReSearch)
+- [官网](https://github.com/Agent-RL/ReSearch)

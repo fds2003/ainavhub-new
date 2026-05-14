@@ -12,6 +12,6 @@ draft: false
 
 Chatbox是一个开源的桌面客户端，支持多种语言模型，适用于Windows、Mac和Linux系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Bin-Huang/chatbox)
+- [官网](https://github.com/Bin-Huang/chatbox)

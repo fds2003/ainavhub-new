@@ -12,6 +12,6 @@ draft: false
 
 Agent-Wiz是Python CLI工具，用于从AI框架提取agent工作流并进行自动化威胁评估。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Repello-AI/Agent-Wiz)
+- [官网](https://github.com/Repello-AI/Agent-Wiz)

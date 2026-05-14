@@ -12,6 +12,6 @@ draft: false
 
 Gem-assist是Python终端个人助理，利用LLM提供文件操作、网络搜索等工具，支持扩展和自定义。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Fus3n/gem-assist)
+- [官网](https://github.com/Fus3n/gem-assist)

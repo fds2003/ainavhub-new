@@ -12,6 +12,6 @@ draft: false
 
 腾讯AI实验室利用多代理大语言模型协作翻译超长文学文本，以应对复杂语言和文化挑战。
 
-## Links
+## 链接
 
-- [Official Website](https://arxiv.org/abs/2405.11804)
+- [官网](https://arxiv.org/abs/2405.11804)

@@ -12,6 +12,6 @@ draft: false
 
 AI Artifacts是一个开源应用，使用Anthropic的AI模型和E2B的SDK，来安全执行AI生成的代码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/e2b-dev/ai-artifacts)
+- [官网](https://github.com/e2b-dev/ai-artifacts)

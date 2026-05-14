@@ -12,6 +12,6 @@ draft: false
 
 RAG知识路由信息筛选
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MinghoKwok/DeepSieve)
+- [官网](https://github.com/MinghoKwok/DeepSieve)

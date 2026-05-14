@@ -12,6 +12,6 @@ draft: false
 
 Meta发布SAM 2,是一种用于图像和视频的高效实时可提示分割模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/segment-anything-2)
+- [官网](https://github.com/facebookresearch/segment-anything-2)

@@ -12,6 +12,6 @@ draft: false
 
 aisuite是一个统一接口的库，简化了开发者与多个生成式AI服务的交互与比较。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/andrewyng/aisuite)
+- [官网](https://github.com/andrewyng/aisuite)

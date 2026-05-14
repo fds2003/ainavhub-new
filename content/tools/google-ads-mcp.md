@@ -12,6 +12,6 @@ draft: false
 
 Google Ads MCP: 连接Google Ads和Claude AI，通过自然语言对话分析广告数据，优化广告效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cohnen/mcp-google-ads)
+- [官网](https://github.com/cohnen/mcp-google-ads)

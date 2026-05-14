@@ -12,6 +12,6 @@ draft: false
 
 零监督多智能体系统设计：MAS-Zero
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SalesforceAIResearch/MAS-Zero)
+- [官网](https://github.com/SalesforceAIResearch/MAS-Zero)

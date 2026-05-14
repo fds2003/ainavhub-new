@@ -12,6 +12,6 @@ draft: false
 
 Cloudflare Workers AI 安全代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/imnotnoahhh/AI-Proxy-Worker)
+- [官网](https://github.com/imnotnoahhh/AI-Proxy-Worker)

@@ -12,6 +12,6 @@ draft: false
 
 MediaGo是一款支持m3u8视频提取和流媒体下载的多功能工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/caorushizi/mediago)
+- [官网](https://github.com/caorushizi/mediago)

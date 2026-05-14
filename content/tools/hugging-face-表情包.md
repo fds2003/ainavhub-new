@@ -12,6 +12,6 @@ draft: false
 
 这套 HF 表情，包括特别设计的龙年 Huggy，由 Hugging Face 团队的 UI/UX 设计师 ChunTe 设计制作和发布
 
-## Links
+## 链接
 
-- [Official Website](https://chunte-hfba.static.hf.space/index.html)
+- [官网](https://chunte-hfba.static.hf.space/index.html)

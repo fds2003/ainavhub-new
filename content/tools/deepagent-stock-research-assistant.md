@@ -12,6 +12,6 @@ draft: false
 
 AI驱动股票研究助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sagar-n/deepagents)
+- [官网](https://github.com/sagar-n/deepagents)

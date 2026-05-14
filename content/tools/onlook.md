@@ -12,6 +12,6 @@ draft: false
 
 设计师的AI驱动视觉化代码编辑器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/onlook-dev/onlook)
+- [官网](https://github.com/onlook-dev/onlook)

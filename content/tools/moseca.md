@@ -12,6 +12,6 @@ draft: false
 
 能将音乐轨道中的人声、鼓声、贝斯等音源分离出来的工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fabiogra/moseca)
+- [官网](https://github.com/fabiogra/moseca)

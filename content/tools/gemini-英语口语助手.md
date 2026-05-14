@@ -12,6 +12,6 @@ draft: false
 
 Gemini英语口语助手通过AI实时反馈帮助用户提高英语发音和语法纠正。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nishuzumi/gemini-teacher)
+- [官网](https://github.com/nishuzumi/gemini-teacher)

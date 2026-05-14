@@ -12,6 +12,6 @@ draft: false
 
 Groqqle 2.0是一款免费AI搜索引擎，能快速生成多语言原创内容，适用于各种市场需求。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jgravelle/Groqqle)
+- [官网](https://github.com/jgravelle/Groqqle)

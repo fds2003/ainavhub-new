@@ -12,6 +12,6 @@ draft: false
 
 OpenContracts是一个开源的企业文档分析工具，支持自动化与手动注释功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JSv4/OpenContracts)
+- [官网](https://github.com/JSv4/OpenContracts)

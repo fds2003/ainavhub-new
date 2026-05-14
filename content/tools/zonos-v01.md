@@ -12,6 +12,6 @@ draft: false
 
 Zonos-v0.1是一个多语言文本转语音模型，支持声音克隆与情感调控，音质优越。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Zyphra/Zonos)
+- [官网](https://github.com/Zyphra/Zonos)

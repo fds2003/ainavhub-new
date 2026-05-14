@@ -12,6 +12,6 @@ draft: false
 
 Gemini CLI转API代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gzzhongqi/geminicli2api)
+- [官网](https://github.com/gzzhongqi/geminicli2api)

@@ -12,6 +12,6 @@ draft: false
 
 Continue是领先的开源AI代码助手，支持在VS Code和JetBrains中构建自定义自动补全和聊天体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/continuedev/continue)
+- [官网](https://github.com/continuedev/continue)

@@ -12,6 +12,6 @@ draft: false
 
 Ideogram发布1.0重大升级，引入图片描述、改善渲染质量与速度控制等新特性
 
-## Links
+## 链接
 
-- [Official Website](https://about.ideogram.ai/1.0-upgrade)
+- [官网](https://about.ideogram.ai/1.0-upgrade)

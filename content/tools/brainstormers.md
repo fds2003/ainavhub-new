@@ -12,6 +12,6 @@ draft: false
 
 Brainstormers 是一款基于 LangChain 和 Streamlit 的创新头脑风暴工具，提供多种优化的创意生成方法。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Azzedde/brainstormers/blob/main/readme.md)
+- [官网](https://github.com/Azzedde/brainstormers/blob/main/readme.md)

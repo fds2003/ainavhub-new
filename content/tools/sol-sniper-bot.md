@@ -12,6 +12,6 @@ draft: false
 
 Sol Sniper Bot 是一个自动购Token的工具，可在Solana平台快速获取新Raydium WSOL流动性池的Token。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/solmemelabs/sol-sniper-bot)
+- [官网](https://github.com/solmemelabs/sol-sniper-bot)

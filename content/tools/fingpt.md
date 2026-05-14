@@ -12,6 +12,6 @@ draft: false
 
 FinGPT是一个开源的金融大模型，旨在通过轻量化适应和人类反馈强化学习，提升金融数据处理能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AI4Finance-Foundation/FinGPT)
+- [官网](https://github.com/AI4Finance-Foundation/FinGPT)

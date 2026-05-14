@@ -12,6 +12,6 @@ draft: false
 
 Azure DevOps 本地 MCP 服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/azure-devops-mcp)
+- [官网](https://github.com/microsoft/azure-devops-mcp)

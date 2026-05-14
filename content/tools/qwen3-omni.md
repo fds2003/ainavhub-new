@@ -12,6 +12,6 @@ draft: false
 
 全模态多语言实时交互大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/Qwen3-Omni)
+- [官网](https://github.com/QwenLM/Qwen3-Omni)

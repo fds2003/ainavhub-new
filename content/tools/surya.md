@@ -12,6 +12,6 @@ draft: false
 
 强大的文档光学字符识别（OCR）工具包
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VikParuchuri/surya)
+- [官网](https://github.com/VikParuchuri/surya)

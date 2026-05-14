@@ -12,6 +12,6 @@ draft: false
 
 MedRAX是一款集成多种胸部X光分析工具的AI代理，能高效处理复杂的医疗查询。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bowang-lab/MedRAX)
+- [官网](https://github.com/bowang-lab/MedRAX)

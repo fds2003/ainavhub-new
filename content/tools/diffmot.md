@@ -12,6 +12,6 @@ draft: false
 
 前沿的多目标追踪（Multiple Object Tracking，简称MOT）方法
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Kroery/DiffMOT)
+- [官网](https://github.com/Kroery/DiffMOT)

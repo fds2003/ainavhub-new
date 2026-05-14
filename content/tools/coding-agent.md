@@ -12,6 +12,6 @@ draft: false
 
 Coding-Agent 是一个开源的网页应用，旨在简化开发者的编程任务，基于 Next.js 和 LangGraph 构建。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AbhinavTheDev/coding-agent)
+- [官网](https://github.com/AbhinavTheDev/coding-agent)

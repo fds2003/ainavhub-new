@@ -12,6 +12,6 @@ draft: false
 
 Chitu是一个高性能大语言模型推理框架，注重效率、灵活性和可用性，支持DeepSeek、LLaMA等模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/thu-pacman/chitu)
+- [官网](https://github.com/thu-pacman/chitu)

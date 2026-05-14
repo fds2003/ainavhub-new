@@ -12,6 +12,6 @@ draft: false
 
 该仓库提供了“Memory Layers at Scale”论文的参考实现，支持大规模分布式训练与评估。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/memory)
+- [官网](https://github.com/facebookresearch/memory)

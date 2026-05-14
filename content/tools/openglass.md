@@ -12,6 +12,6 @@ draft: false
 
 使任何普通眼镜通过不超过25美元的现成组件变成可编程的智能眼镜
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BasedHardware/openglass)
+- [官网](https://github.com/BasedHardware/openglass)

@@ -12,6 +12,6 @@ draft: false
 
 Cursor免费使用助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/thedulikaifazr/Free-Cursor)
+- [官网](https://github.com/thedulikaifazr/Free-Cursor)

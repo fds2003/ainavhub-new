@@ -12,6 +12,6 @@ draft: false
 
 Qwen3是阿里云发布的最新通义千问大模型，提供多种尺寸和专家模型，具备优秀推理、对话和工具使用能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/qwen3)
+- [官网](https://github.com/QwenLM/qwen3)

@@ -12,6 +12,6 @@ draft: false
 
 高质量的虚拟试穿系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ihmily/outfit-anyone)
+- [官网](https://github.com/ihmily/outfit-anyone)

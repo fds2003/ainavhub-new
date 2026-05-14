@@ -12,6 +12,6 @@ draft: false
 
 FantasyTalking 通过连贯的运动合成，逼真地生成说话人像，并已开源代码和模型权重。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Fantasy-AMAP/fantasy-talking)
+- [官网](https://github.com/Fantasy-AMAP/fantasy-talking)

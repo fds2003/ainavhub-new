@@ -12,6 +12,6 @@ draft: false
 
 Gemini OpenAI API 适配器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GewoonJaap/gemini-cli-openai)
+- [官网](https://github.com/GewoonJaap/gemini-cli-openai)

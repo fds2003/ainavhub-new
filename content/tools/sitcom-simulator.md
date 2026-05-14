@@ -12,6 +12,6 @@ draft: false
 
 能够自动生成由 AI 创作的恶搞视频片段
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/joshmoody24/sitcom-simulator)
+- [官网](https://github.com/joshmoody24/sitcom-simulator)

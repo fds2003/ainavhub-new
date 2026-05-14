@@ -12,6 +12,6 @@ draft: false
 
 Claude 自动化任务管理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/benbasha/Claude-Autopilot)
+- [官网](https://github.com/benbasha/Claude-Autopilot)

@@ -12,6 +12,6 @@ draft: false
 
 AI漫画创作平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/morsoli/aimangastudio)
+- [官网](https://github.com/morsoli/aimangastudio)

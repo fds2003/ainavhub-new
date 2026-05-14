@@ -12,6 +12,6 @@ draft: false
 
 能够将 ChatGPT 接口化，让用户能够通过HTTP请求来使用ChatGPT的功能
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aurora-develop/Duck2api)
+- [官网](https://github.com/aurora-develop/Duck2api)

@@ -12,6 +12,6 @@ draft: false
 
 Neural Gaffer 是一种2D重光模型，可在单张图像上实现多种光照效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Haian-Jin/Neural_Gaffer)
+- [官网](https://github.com/Haian-Jin/Neural_Gaffer)

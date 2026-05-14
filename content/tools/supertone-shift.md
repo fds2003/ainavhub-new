@@ -12,6 +12,6 @@ draft: false
 
 实时自由地转换您的声音
 
-## Links
+## 链接
 
-- [Official Website](https://product.supertone.ai/shift)
+- [官网](https://product.supertone.ai/shift)

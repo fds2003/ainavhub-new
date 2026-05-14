@@ -12,6 +12,6 @@ draft: false
 
 跨协议工具调用标准
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/universal-tool-calling-protocol/python-utcp)
+- [官网](https://github.com/universal-tool-calling-protocol/python-utcp)

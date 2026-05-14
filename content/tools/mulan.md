@@ -12,6 +12,6 @@ draft: false
 
 一款多语言扩散模型框架，支持无需微调适配110多种语言
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mulanai/MuLan)
+- [官网](https://github.com/mulanai/MuLan)

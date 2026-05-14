@@ -12,6 +12,6 @@ draft: false
 
 Anthropic推出的模型上下文协议(MCP)是一种新标准，旨在连接AI助手与各种数据源，优化响应质量。
 
-## Links
+## 链接
 
-- [Official Website](https://www.anthropic.com/news/model-context-protocol)
+- [官网](https://www.anthropic.com/news/model-context-protocol)

@@ -12,6 +12,6 @@ draft: false
 
 PDF转音频转换器可以将PDF文件转换为音频播客、讲座和摘要，支持多种自定义选项。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lamm-mit/PDF2Audio)
+- [官网](https://github.com/lamm-mit/PDF2Audio)

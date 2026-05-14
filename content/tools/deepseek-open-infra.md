@@ -12,6 +12,6 @@ draft: false
 
 DeepSeek将逐日开源五个项目，共享透明进展与创新。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/deepseek-ai/open-infra-index)
+- [官网](https://github.com/deepseek-ai/open-infra-index)

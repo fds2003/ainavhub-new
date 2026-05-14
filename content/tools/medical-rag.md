@@ -12,6 +12,6 @@ draft: false
 
 医疗RAG问答系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yolo-hyl/medical-rag)
+- [官网](https://github.com/yolo-hyl/medical-rag)

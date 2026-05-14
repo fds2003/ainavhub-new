@@ -12,6 +12,6 @@ draft: false
 
 OpenReasoningEngine是一个模块化的开源推理引擎，旨在通过开放协作提升模型能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mshumer/OpenReasoningEngine)
+- [官网](https://github.com/mshumer/OpenReasoningEngine)

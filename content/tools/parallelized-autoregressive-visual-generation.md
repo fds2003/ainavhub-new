@@ -12,6 +12,6 @@ draft: false
 
 并行自回归视觉生成（PAR）是一种高效的图像生成方法，旨在提升生成质量与速度。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Epiphqny/PAR)
+- [官网](https://github.com/Epiphqny/PAR)

@@ -12,6 +12,6 @@ draft: false
 
 Padel Analytics利用计算机视觉技术，从padel比赛录像中提取球员及球的运动数据和分析。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Joao-M-Silva/padel_analytics)
+- [官网](https://github.com/Joao-M-Silva/padel_analytics)

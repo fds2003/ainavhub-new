@@ -12,6 +12,6 @@ draft: false
 
 Node.js Sandbox MCP Server是一个用Docker隔离运行JavaScript代码并动态安装npm依赖的Node.js服务器。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/alfonsograziano/node-code-sandbox-mcp)
+- [官网](https://github.com/alfonsograziano/node-code-sandbox-mcp)

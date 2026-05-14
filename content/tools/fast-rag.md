@@ -12,6 +12,6 @@ draft: false
 
 本地隐私RAG
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/leon0204/fast-rag)
+- [官网](https://github.com/leon0204/fast-rag)

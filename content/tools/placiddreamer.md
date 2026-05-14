@@ -12,6 +12,6 @@ draft: false
 
 PlacidDreamer是用于提升文本到3D生成效果的工具，由清华大学和快手研究团队开发。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HansenHuang0823/PlacidDreamer)
+- [官网](https://github.com/HansenHuang0823/PlacidDreamer)

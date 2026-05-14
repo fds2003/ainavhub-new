@@ -12,6 +12,6 @@ draft: false
 
 AI视频多平台转录、翻译与摘要
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wendy7756/AI-Video-Transcriber)
+- [官网](https://github.com/wendy7756/AI-Video-Transcriber)

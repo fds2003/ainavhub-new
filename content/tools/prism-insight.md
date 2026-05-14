@@ -12,6 +12,6 @@ draft: false
 
 AI股票分析与模拟交易
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dragon1086/prism-insight)
+- [官网](https://github.com/dragon1086/prism-insight)

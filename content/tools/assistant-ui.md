@@ -12,6 +12,6 @@ draft: false
 
 Assistant-ui 是一套用于 AI 聊天的 React 组件，支持多种模型和自定义 API 集成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Yonom/assistant-ui)
+- [官网](https://github.com/Yonom/assistant-ui)

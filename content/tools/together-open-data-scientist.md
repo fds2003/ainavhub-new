@@ -12,6 +12,6 @@ draft: false
 
 AI数据科学助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/togethercomputer/open-data-scientist)
+- [官网](https://github.com/togethercomputer/open-data-scientist)

@@ -12,6 +12,6 @@ draft: false
 
 AI Auto Free 是一款支持多语言的自动化工具，帮助用户不限次数使用 AI 编程环境。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kodu67/ai-auto-free)
+- [官网](https://github.com/kodu67/ai-auto-free)

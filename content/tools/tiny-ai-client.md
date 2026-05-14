@@ -12,6 +12,6 @@ draft: false
 
 Tiny AI Client 是一个简洁易用的工具，支持快速切换和使用多种LLM模型，并具备视觉和工具功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/piEsposito/tiny-ai-client)
+- [官网](https://github.com/piEsposito/tiny-ai-client)

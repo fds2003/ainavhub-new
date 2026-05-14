@@ -12,6 +12,6 @@ draft: false
 
 Shandu是一款AI研究系统，利用先进语言模型、智能网络爬取，自动生成全面且结构化的研究报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jolovicdev/shandu)
+- [官网](https://github.com/jolovicdev/shandu)

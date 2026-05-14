@@ -12,6 +12,6 @@ draft: false
 
 便携式离线大模型记事本
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/runzhouye/Local_LLM_Notepad)
+- [官网](https://github.com/runzhouye/Local_LLM_Notepad)

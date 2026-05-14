@@ -12,6 +12,6 @@ draft: false
 
 开源的数据检索增强生成应用，支持多种数据类型和语言模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/weaviate/Verba)
+- [官网](https://github.com/weaviate/Verba)

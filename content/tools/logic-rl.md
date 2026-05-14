@@ -12,6 +12,6 @@ draft: false
 
 Logic RL是一个基于强化学习的逻辑推理模型，成功在2K逻辑难题数据集上复现DeepSeek R1 Zero。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Unakar/Logic-RL)
+- [官网](https://github.com/Unakar/Logic-RL)

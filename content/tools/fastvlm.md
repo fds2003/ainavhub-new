@@ -12,6 +12,6 @@ draft: false
 
 FastVLM是一种高效视觉语言模型，通过创新视觉编码器FastViTHD，显著减少高分辨率图像的编码时间。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/apple/ml-fastvlm)
+- [官网](https://github.com/apple/ml-fastvlm)

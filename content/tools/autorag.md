@@ -12,6 +12,6 @@ draft: false
 
 AutoRAG 是一款自动化工具，可帮助用户根据数据优化检索增强生成（RAG）管道。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Marker-Inc-Korea/AutoRAG)
+- [官网](https://github.com/Marker-Inc-Korea/AutoRAG)

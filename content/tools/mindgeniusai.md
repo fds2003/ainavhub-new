@@ -12,6 +12,6 @@ draft: false
 
 MindGeniusAI使用ChatGPT自动生成思维导图，并支持节点编辑和自定义。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xianjianlf2/MindGeniusAI)
+- [官网](https://github.com/xianjianlf2/MindGeniusAI)

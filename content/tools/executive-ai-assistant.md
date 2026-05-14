@@ -12,6 +12,6 @@ draft: false
 
 执行AI助手（EAIA）是一款人工智能助手，旨在替代传统的执行助理，处理日常事务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/executive-ai-assistant)
+- [官网](https://github.com/langchain-ai/executive-ai-assistant)

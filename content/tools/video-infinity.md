@@ -12,6 +12,6 @@ draft: false
 
 Video-Infinity利用多GPU快速生成长视频，无需额外训练。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Yuanshi9815/Video-Infinity)
+- [官网](https://github.com/Yuanshi9815/Video-Infinity)

@@ -12,6 +12,6 @@ draft: false
 
 AgenticSeek是一款完全本地化、注重隐私的AI助手，无需云端依赖，即可实现智能网络浏览、代码编写和任务规划。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Fosowl/agenticSeek)
+- [官网](https://github.com/Fosowl/agenticSeek)

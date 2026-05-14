@@ -12,6 +12,6 @@ draft: false
 
 多模型AI Agent CLI
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nearmetips/DailiCode)
+- [官网](https://github.com/nearmetips/DailiCode)

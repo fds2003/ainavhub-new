@@ -12,6 +12,6 @@ draft: false
 
 使用AI让你从会议记录、文档或笔记中生成美观、易于浏览的文档
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hrishioa/lumentis)
+- [官网](https://github.com/hrishioa/lumentis)

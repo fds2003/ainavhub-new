@@ -12,6 +12,6 @@ draft: false
 
 Consistent Character 能生成同一角色的多个不同姿势图像。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fofr/cog-consistent-character)
+- [官网](https://github.com/fofr/cog-consistent-character)

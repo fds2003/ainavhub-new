@@ -12,6 +12,6 @@ draft: false
 
 ColorFlow 是一种三阶段扩散框架，用于自动彩色化黑白图像序列，适用于工业应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TencentARC/ColorFlow)
+- [官网](https://github.com/TencentARC/ColorFlow)

@@ -12,6 +12,6 @@ draft: false
 
 数据库智能交互与分析
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Din829/DbRheo-CLI)
+- [官网](https://github.com/Din829/DbRheo-CLI)

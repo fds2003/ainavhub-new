@@ -12,6 +12,6 @@ draft: false
 
 地址：https://github.com/mshumer/gpt-prompt-engineer
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mshumer/gpt-prompt-engineer)
+- [官网](https://github.com/mshumer/gpt-prompt-engineer)

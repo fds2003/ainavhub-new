@@ -12,6 +12,6 @@ draft: false
 
 人工通用智能的任务数据集和测试界面
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fchollet/ARC-AGI)
+- [官网](https://github.com/fchollet/ARC-AGI)

@@ -12,6 +12,6 @@ draft: false
 
 MCP工具智能体基准测试
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/icip-cas/LiveMCPBench)
+- [官网](https://github.com/icip-cas/LiveMCPBench)

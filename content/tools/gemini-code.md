@@ -12,6 +12,6 @@ draft: false
 
 Gemini Code是终端AI编程助手，由Gemini 2.5 Pro驱动，支持多种LLM模型，并能自动使用工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/raizamartin/gemini-code)
+- [官网](https://github.com/raizamartin/gemini-code)

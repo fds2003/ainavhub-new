@@ -12,6 +12,6 @@ draft: false
 
 生产级智能体系统开发框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jd-opensource/OxyGent)
+- [官网](https://github.com/jd-opensource/OxyGent)

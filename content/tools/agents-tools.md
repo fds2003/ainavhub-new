@@ -12,6 +12,6 @@ draft: false
 
 Agents Tools是一个Python库，提供构建、扩展和部署AI代理的全面工具集，涵盖文件操作、API交互等。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/strands-agents/tools)
+- [官网](https://github.com/strands-agents/tools)

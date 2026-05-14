@@ -12,6 +12,6 @@ draft: false
 
 CodeScientist是一个半自动科学发现系统，通过结合论文与代码示例，利用LLM设计、迭代和分析科学实验，并生成报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/allenai/codescientist)
+- [官网](https://github.com/allenai/codescientist)

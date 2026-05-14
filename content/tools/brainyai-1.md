@@ -12,6 +12,6 @@ draft: false
 
 BrainyAI 是一个完全免费且开源的浏览器侧边栏插件，提供如 Sider 等产品的替代方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/luyu0279/BrainyAI)
+- [官网](https://github.com/luyu0279/BrainyAI)

@@ -12,6 +12,6 @@ draft: false
 
 Stable Diffusion 3 API现已推出，提供先进的文本到图像生成能力和改进的模型架构。
 
-## Links
+## 链接
 
-- [Official Website](https://stability.ai/news/stable-diffusion-3-api)
+- [官网](https://stability.ai/news/stable-diffusion-3-api)

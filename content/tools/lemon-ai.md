@@ -12,6 +12,6 @@ draft: false
 
 Lemon AI是一款开源通用AI Agent，能独立思考、系统规划，灵活调用工具，自动化完成需求规划到结果交付的全过程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hexdocom/lemonai)
+- [官网](https://github.com/hexdocom/lemonai)

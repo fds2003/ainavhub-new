@@ -12,6 +12,6 @@ draft: false
 
 可以生成 4 秒的高清视频
 
-## Links
+## 链接
 
-- [Official Website](https://haiper.ai/)
+- [官网](https://haiper.ai/)

@@ -12,6 +12,6 @@ draft: false
 
 本地AI代理浏览器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/browseros-ai/BrowserOS)
+- [官网](https://github.com/browseros-ai/BrowserOS)

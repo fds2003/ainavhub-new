@@ -12,6 +12,6 @@ draft: false
 
 将视觉设计直接转换为前段代码自动化前端工程流程
 
-## Links
+## 链接
 
-- [Official Website](https://salt-nlp.github.io/Design2Code/)
+- [官网](https://salt-nlp.github.io/Design2Code/)

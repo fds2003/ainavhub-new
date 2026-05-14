@@ -12,6 +12,6 @@ draft: false
 
 EasyR1是一个高效、可扩展的多模态强化学习训练框架，支持各种语言和视觉模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hiyouga/EasyR1)
+- [官网](https://github.com/hiyouga/EasyR1)

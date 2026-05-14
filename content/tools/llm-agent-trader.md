@@ -12,6 +12,6 @@ draft: false
 
 大模型回测交易智能体
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jason8745/llm-agent-trader)
+- [官网](https://github.com/jason8745/llm-agent-trader)

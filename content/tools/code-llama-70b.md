@@ -12,6 +12,6 @@ draft: false
 
 AMA是一款Chrome扩展，允许用户以自然语言询问任何网站内容，利用Firecrawl和GPT-4o-mini技术。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/andrewgcodes/ama)
+- [官网](https://github.com/andrewgcodes/ama)

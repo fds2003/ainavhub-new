@@ -12,6 +12,6 @@ draft: false
 
 AI金融代理是一个旨在探索AI在投资研究中应用的教育项目，不用于真实交易。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/virattt/ai-financial-agent)
+- [官网](https://github.com/virattt/ai-financial-agent)

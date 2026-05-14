@@ -12,6 +12,6 @@ draft: false
 
 ReCamMaster是一种通过单视频生成摄像机控制的生成渲染，可重新捕捉具有新颖相机轨迹的视频。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/KwaiVGI/ReCamMaster)
+- [官网](https://github.com/KwaiVGI/ReCamMaster)

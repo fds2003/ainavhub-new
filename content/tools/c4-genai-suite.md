@@ -12,6 +12,6 @@ draft: false
 
 生成式AI聊天套件
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/codecentric/c4-genai-suite)
+- [官网](https://github.com/codecentric/c4-genai-suite)

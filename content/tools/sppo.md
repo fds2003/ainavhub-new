@@ -12,6 +12,6 @@ draft: false
 
 SPPO通过自玩偏好优化高效调整大语言模型，显著提升模型性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/uclaml/SPPO)
+- [官网](https://github.com/uclaml/SPPO)

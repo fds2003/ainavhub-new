@@ -12,6 +12,6 @@ draft: false
 
 深度研究代理综合评测基准（DeepResearch Bench）
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Ayanami0730/deep_research_bench)
+- [官网](https://github.com/Ayanami0730/deep_research_bench)

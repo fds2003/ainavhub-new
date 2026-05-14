@@ -12,6 +12,6 @@ draft: false
 
 智能体任务自动生成与扩展
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OPPO-PersonalAI/TaskCraft)
+- [官网](https://github.com/OPPO-PersonalAI/TaskCraft)

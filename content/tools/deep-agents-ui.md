@@ -12,6 +12,6 @@ draft: false
 
 深度智能体用户界面
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/deep-agents-ui)
+- [官网](https://github.com/langchain-ai/deep-agents-ui)

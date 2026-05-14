@@ -12,6 +12,6 @@ draft: false
 
 NotebookLlama是一个开源项目，旨在将PDF文档转换为播客，涵盖多个处理步骤。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama/)
+- [官网](https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama/)

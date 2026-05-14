@@ -12,6 +12,6 @@ draft: false
 
 Tabby VSCode AI 终端控制
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SteffMet/tabby-vscode-agent)
+- [官网](https://github.com/SteffMet/tabby-vscode-agent)

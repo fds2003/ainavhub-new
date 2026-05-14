@@ -12,6 +12,6 @@ draft: false
 
 Claude Artifacts的开源平替，用一句话生成小应用
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/llamacoder)
+- [官网](https://github.com/Nutlope/llamacoder)

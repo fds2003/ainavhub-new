@@ -12,6 +12,6 @@ draft: false
 
 Desktop Commander MCP：通过Claude执行终端命令，管理进程，并提供文件读写、搜索、编辑等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wonderwhy-er/ClaudeDesktopCommander)
+- [官网](https://github.com/wonderwhy-er/ClaudeDesktopCommander)

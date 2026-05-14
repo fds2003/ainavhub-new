@@ -12,6 +12,6 @@ draft: false
 
 科学智能体构建与实验平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Melmaphother/Science-Star)
+- [官网](https://github.com/Melmaphother/Science-Star)

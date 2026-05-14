@@ -12,6 +12,6 @@ draft: false
 
 通过音频输入来驱动人物图像，使其产生逼真的面部动画效果
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fudan-generative-vision/hallo)
+- [官网](https://github.com/fudan-generative-vision/hallo)

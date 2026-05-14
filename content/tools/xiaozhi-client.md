@@ -12,6 +12,6 @@ draft: false
 
 小智客户端：AI MCP统一接入
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shenjingnan/xiaozhi-client)
+- [官网](https://github.com/shenjingnan/xiaozhi-client)

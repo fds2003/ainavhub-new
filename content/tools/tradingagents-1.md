@@ -12,6 +12,6 @@ draft: false
 
 基于LLM的多智能体金融交易框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TauricResearch/TradingAgents)
+- [官网](https://github.com/TauricResearch/TradingAgents)

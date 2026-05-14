@@ -12,6 +12,6 @@ draft: false
 
 AutoCoder社区新成员autocoder-nano是auto-coder.chat的轻量级版本，旨在提升开发者效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/w4n9H/autocoder-nano)
+- [官网](https://github.com/w4n9H/autocoder-nano)

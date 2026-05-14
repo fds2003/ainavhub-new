@@ -12,6 +12,6 @@ draft: false
 
 OmAgent是一个简易的Python库，用于构建支持多模态交互的语言代理，方便开发者与研究人员。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/om-ai-lab/OmAgent)
+- [官网](https://github.com/om-ai-lab/OmAgent)

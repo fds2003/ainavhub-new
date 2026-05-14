@@ -12,6 +12,6 @@ draft: false
 
 多模型AI对话平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NiladriHazra/Open-Fiesta)
+- [官网](https://github.com/NiladriHazra/Open-Fiesta)

@@ -12,6 +12,6 @@ draft: false
 
 macOS 设计的简洁易用的词典翻译应用
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/tisfeng/Easydict)
+- [官网](https://github.com/tisfeng/Easydict)

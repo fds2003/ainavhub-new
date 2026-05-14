@@ -12,6 +12,6 @@ draft: false
 
 Abogen是一款强大的文本转语音工具，支持多种格式，并可生成同步字幕，效果自然。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/denizsafak/abogen)
+- [官网](https://github.com/denizsafak/abogen)

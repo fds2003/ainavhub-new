@@ -12,6 +12,6 @@ draft: false
 
 Claude 3.5推出了升级版Sonnet和新模型Haiku，并引入计算机使用功能。
 
-## Links
+## 链接
 
-- [Official Website](https://www.anthropic.com/news/3-5-models-and-computer-use)
+- [官网](https://www.anthropic.com/news/3-5-models-and-computer-use)

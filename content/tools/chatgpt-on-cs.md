@@ -12,6 +12,6 @@ draft: false
 
 基于大型语言模型的智能对话客服工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lrhh123/ChatGPT-On-CS)
+- [官网](https://github.com/lrhh123/ChatGPT-On-CS)

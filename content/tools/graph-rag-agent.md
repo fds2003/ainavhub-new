@@ -12,6 +12,6 @@ draft: false
 
 GraphRAG与DeepSearch融合的智能问答Agent
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/1517005260/graph-rag-agent)
+- [官网](https://github.com/1517005260/graph-rag-agent)

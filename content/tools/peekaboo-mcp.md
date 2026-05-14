@@ -12,6 +12,6 @@ draft: false
 
 macOS截图与AI分析助手：Peekaboo MCP
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/steipete/Peekaboo)
+- [官网](https://github.com/steipete/Peekaboo)

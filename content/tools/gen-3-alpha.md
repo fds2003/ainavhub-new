@@ -12,6 +12,6 @@ draft: false
 
 由Runway推出的高保真可控视频生成模型。
 
-## Links
+## 链接
 
-- [Official Website](https://runwayml.com/blog/introducing-gen-3-alpha/)
+- [官网](https://runwayml.com/blog/introducing-gen-3-alpha/)

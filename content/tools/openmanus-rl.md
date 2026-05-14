@@ -12,6 +12,6 @@ draft: false
 
 OpenManus-RL是由UIUC和MetaGPT合作的开源项目，旨在探索基于强化学习的大语言模型智能体调优新范式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenManus/OpenManus-RL/blob/main/Readme.md)
+- [官网](https://github.com/OpenManus/OpenManus-RL/blob/main/Readme.md)

@@ -12,6 +12,6 @@ draft: false
 
 使用 AI 将您的粗略草图变成精致的图像
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/replicate/scribble-diffusion)
+- [官网](https://github.com/replicate/scribble-diffusion)

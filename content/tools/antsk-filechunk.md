@@ -12,6 +12,6 @@ draft: false
 
 AI语义文档切片服务
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xuzeyu91/AntSK-FileChunk)
+- [官网](https://github.com/xuzeyu91/AntSK-FileChunk)

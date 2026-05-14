@@ -12,6 +12,6 @@ draft: false
 
 .NET实现LangChain
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/tryAGI/LangChain)
+- [官网](https://github.com/tryAGI/LangChain)

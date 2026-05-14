@@ -12,6 +12,6 @@ draft: false
 
 现在你可以像ChatGPT一样直接和它聊天了
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ptsochantaris/emeltal)
+- [官网](https://github.com/ptsochantaris/emeltal)

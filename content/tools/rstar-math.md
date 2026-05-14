@@ -12,6 +12,6 @@ draft: false
 
 rStar-Math是一个小型语言模型，通过自我演化的深度思维，提升数学推理能力的研究项目。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/rStar)
+- [官网](https://github.com/microsoft/rStar)

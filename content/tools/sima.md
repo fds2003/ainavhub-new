@@ -12,6 +12,6 @@ draft: false
 
 面向 3D 虚拟环境的多面手 AI 代理
 
-## Links
+## 链接
 
-- [Official Website](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)
+- [官网](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)

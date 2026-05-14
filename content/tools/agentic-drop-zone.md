@@ -12,6 +12,6 @@ draft: false
 
 智能体文件处理自动化
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/disler/agentic-drop-zones)
+- [官网](https://github.com/disler/agentic-drop-zones)

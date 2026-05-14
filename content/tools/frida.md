@@ -12,6 +12,6 @@ draft: false
 
 FRIDA是一个协作机器人画家，可以根据语言描述或图像在画布上作画。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cmubig/Frida)
+- [官网](https://github.com/cmubig/Frida)

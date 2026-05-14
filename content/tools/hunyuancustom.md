@@ -12,6 +12,6 @@ draft: false
 
 HunyuanCustom是腾讯开源的多模态定制视频生成框架，支持图像、音频、视频和文本输入，实现高一致性、可控的视频生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/HunyuanCustom)
+- [官网](https://github.com/Tencent/HunyuanCustom)

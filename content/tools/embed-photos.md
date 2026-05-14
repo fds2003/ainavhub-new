@@ -12,6 +12,6 @@ draft: false
 
 照片相似性搜索引擎
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/harperreed/photo-similarity-search)
+- [官网](https://github.com/harperreed/photo-similarity-search)

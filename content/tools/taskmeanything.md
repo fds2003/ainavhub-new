@@ -12,6 +12,6 @@ draft: false
 
 TaskMeAnything是一个生成大规模多模态语言模型（MLM）基准测试的引擎。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JieyuZ2/TaskMeAnything)
+- [官网](https://github.com/JieyuZ2/TaskMeAnything)

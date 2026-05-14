@@ -12,6 +12,6 @@ draft: false
 
 Computer Using Agent Sample App是一个利用OpenAI API构建计算机使用代理的示例应用，可操控不同环境的计算机。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/openai-cua-sample-app)
+- [官网](https://github.com/openai/openai-cua-sample-app)

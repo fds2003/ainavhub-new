@@ -12,6 +12,6 @@ draft: false
 
 MyCoder是一个开源的AI编程工具，基于Anthropic的Claude API，具备代码生成、迁移和重构等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/drivecore/mycoder)
+- [官网](https://github.com/drivecore/mycoder)

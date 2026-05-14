@@ -12,6 +12,6 @@ draft: false
 
 ChatGPT 发布 Mac上的应用
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/chatgpt/mac/)
+- [官网](https://openai.com/chatgpt/mac/)

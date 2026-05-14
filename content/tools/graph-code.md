@@ -12,6 +12,6 @@ draft: false
 
 多语言代码图谱RAG系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vitali87/code-graph-rag)
+- [官网](https://github.com/vitali87/code-graph-rag)

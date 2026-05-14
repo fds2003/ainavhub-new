@@ -12,6 +12,6 @@ draft: false
 
 Gradio WebRTC 是一个实时视频音频流组件，支持网页应用中的声音和图像传输功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/freddyaboulton/gradio-webrtc)
+- [官网](https://github.com/freddyaboulton/gradio-webrtc)

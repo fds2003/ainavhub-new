@@ -12,6 +12,6 @@ draft: false
 
 Browser-Use是一个开源项目，利用大型语言模型实现自然的网站自动化交互。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gregpr07/browser-use)
+- [官网](https://github.com/gregpr07/browser-use)

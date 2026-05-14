@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的回答引擎
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/miurla/morphic)
+- [官网](https://github.com/miurla/morphic)

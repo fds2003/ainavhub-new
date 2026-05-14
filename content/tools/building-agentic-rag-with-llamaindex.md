@@ -12,6 +12,6 @@ draft: false
 
 由Jerry Liu教授、专注于使用LlamaIndex构建能对文档进行推理和回答复杂问题的代理研究型RAG的新课程
 
-## Links
+## 链接
 
-- [Official Website](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)
+- [官网](https://www.deeplearning.ai/short-courses/building-agentic-rag-with-llamaindex/)

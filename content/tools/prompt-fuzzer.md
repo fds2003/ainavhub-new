@@ -12,6 +12,6 @@ draft: false
 
 通过模拟不同的攻击场景来评估系统提示（system prompt）的安全性
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/prompt-security/ps-fuzz)
+- [官网](https://github.com/prompt-security/ps-fuzz)

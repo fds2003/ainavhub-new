@@ -12,6 +12,6 @@ draft: false
 
 [新功能] — Avatar in Motion 1.0 🏃‍♂️ ✨
 
-## Links
+## 链接
 
-- [Official Website](https://www.heygen.com/)
+- [官网](https://www.heygen.com/)

@@ -12,6 +12,6 @@ draft: false
 
 苹果文档AI助手集成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MightyDillah/apple-doc-mcp)
+- [官网](https://github.com/MightyDillah/apple-doc-mcp)

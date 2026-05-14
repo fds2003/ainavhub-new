@@ -12,6 +12,6 @@ draft: false
 
 client-researcher是一款基于AI的内容研究和报告工具，可根据客户个性化需求生成报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/k3nnethfrancis/client-researcher)
+- [官网](https://github.com/k3nnethfrancis/client-researcher)

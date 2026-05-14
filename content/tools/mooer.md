@@ -12,6 +12,6 @@ draft: false
 
 MooER（摩耳）是Moore Threads开发的基于LLM的语音识别与翻译模型，支持中英文转录与翻译。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MooreThreads/MooER)
+- [官网](https://github.com/MooreThreads/MooER)

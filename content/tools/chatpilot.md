@@ -12,6 +12,6 @@ draft: false
 
 ChatPilot是一个支持谷歌搜索、文件网址对话和代码解释的智能对话工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shibing624/ChatPilot)
+- [官网](https://github.com/shibing624/ChatPilot)

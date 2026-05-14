@@ -12,6 +12,6 @@ draft: false
 
 AAIELA允许用户通过音频指令修改图像，实现语言与视觉的无缝转换。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ShaShekhar/aaiela)
+- [官网](https://github.com/ShaShekhar/aaiela)

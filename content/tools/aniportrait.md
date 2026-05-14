@@ -12,6 +12,6 @@ draft: false
 
 根据音频和图像输入生成会说话、唱歌的动态视频
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Zejun-Yang/AniPortrait)
+- [官网](https://github.com/Zejun-Yang/AniPortrait)

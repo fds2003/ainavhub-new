@@ -12,6 +12,6 @@ draft: false
 
 FastMCP是一个简洁高效的Python库，用于快速构建MCP服务器，支持LLMs功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jlowin/fastmcp)
+- [官网](https://github.com/jlowin/fastmcp)

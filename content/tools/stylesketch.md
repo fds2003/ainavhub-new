@@ -12,6 +12,6 @@ draft: false
 
 通过少量数据和生成模型提取多种风格人脸草图的技术
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kwanyun/StyleSketch)
+- [官网](https://github.com/kwanyun/StyleSketch)

@@ -12,6 +12,6 @@ draft: false
 
 CogAgent是一款开源的基于视觉语言模型的GUI代理，支持中英文互动并具备优秀的任务广泛性和推理准确性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THUDM/CogAgent)
+- [官网](https://github.com/THUDM/CogAgent)

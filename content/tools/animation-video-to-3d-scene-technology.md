@@ -12,6 +12,6 @@ draft: false
 
 Autodesk推出Wonder Animation，可将视频转化为3D动画场景，助力动画创作。
 
-## Links
+## 链接
 
-- [Official Website](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)
+- [官网](https://adsknews.autodesk.com/en/news/autodesk-launches-wonder-animation-video-to-3d-scene-technology/)

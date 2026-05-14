@@ -12,6 +12,6 @@ draft: false
 
 Marco-o1是一个模仿OpenAI o1，使用思维链，旨在解决复杂的现实问题，强调开放式答案和多语言应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AIDC-AI/Marco-o1)
+- [官网](https://github.com/AIDC-AI/Marco-o1)

@@ -12,6 +12,6 @@ draft: false
 
 单提示词图像编辑
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/easyedit)
+- [官网](https://github.com/Nutlope/easyedit)

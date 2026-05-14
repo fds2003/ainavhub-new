@@ -12,6 +12,6 @@ draft: false
 
 UMI on Legs把基于操纵的全身控制策略应用于拥有机械臂的四足机器人。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/real-stanford/umi-on-legs)
+- [官网](https://github.com/real-stanford/umi-on-legs)

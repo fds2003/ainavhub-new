@@ -12,6 +12,6 @@ draft: false
 
 Playwright 持久化评估环境
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mitsuhiko/playwrightess-mcp)
+- [官网](https://github.com/mitsuhiko/playwrightess-mcp)

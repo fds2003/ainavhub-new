@@ -12,6 +12,6 @@ draft: false
 
 使人物画像在多方面高度一致成为可能。
 
-## Links
+## 链接
 
-- [Official Website](https://www.midjourney.com/home)
+- [官网](https://www.midjourney.com/home)

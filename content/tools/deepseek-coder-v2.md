@@ -12,6 +12,6 @@ draft: false
 
 开源的多专家代码语言模型，支持338种编程语言。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/deepseek-ai/DeepSeek-Coder-V2)
+- [官网](https://github.com/deepseek-ai/DeepSeek-Coder-V2)

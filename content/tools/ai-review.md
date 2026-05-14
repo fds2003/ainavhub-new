@@ -12,6 +12,6 @@ draft: false
 
 AI论文评审与优化
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NeuroDong/Ai-Review)
+- [官网](https://github.com/NeuroDong/Ai-Review)

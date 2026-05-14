@@ -12,6 +12,6 @@ draft: false
 
 Chai-1是一个多模态基础模型，能够高效预测蛋白质、小分子、DNA等分子结构。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chaidiscovery/chai-lab)
+- [官网](https://github.com/chaidiscovery/chai-lab)

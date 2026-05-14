@@ -12,6 +12,6 @@ draft: false
 
 该课程教授如何构建和部署多智能体系统，应用于项目规划、数据分析等实际场景。
 
-## Links
+## 链接
 
-- [Official Website](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)
+- [官网](https://www.deeplearning.ai/short-courses/practical-multi-ai-agents-and-advanced-use-cases-with-crewai/)

@@ -12,6 +12,6 @@ draft: false
 
 半中心化多智能体直接通信系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Coral-Protocol/Anemoi)
+- [官网](https://github.com/Coral-Protocol/Anemoi)

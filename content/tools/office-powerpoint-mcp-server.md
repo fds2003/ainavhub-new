@@ -12,6 +12,6 @@ draft: false
 
 PowerPoint MCP Server: Python演示文稿操作工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server)
+- [官网](https://github.com/GongRzhe/Office-PowerPoint-MCP-Server)

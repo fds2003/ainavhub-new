@@ -12,6 +12,6 @@ draft: false
 
 将拍摄的照片转换成诗歌并打印出来
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/carolynz/poetry-camera-rpi)
+- [官网](https://github.com/carolynz/poetry-camera-rpi)

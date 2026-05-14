@@ -12,6 +12,6 @@ draft: false
 
 LLMOps Python Package是一个基于Python的工具包，提供最佳实践，支持LLM模型的全生命周期管理，包含模型注册、实验追踪和部署等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/callmesora/llmops-python-package)
+- [官网](https://github.com/callmesora/llmops-python-package)

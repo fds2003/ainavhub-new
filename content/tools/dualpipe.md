@@ -12,6 +12,6 @@ draft: false
 
 DualPipe是DeepSeek-V3提出的创新双向流水线并行算法，可实现前向后向计算通信全重叠并减少流水线气泡。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/deepseek-ai/DualPipe)
+- [官网](https://github.com/deepseek-ai/DualPipe)

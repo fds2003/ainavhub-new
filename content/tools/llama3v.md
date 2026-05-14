@@ -12,6 +12,6 @@ draft: false
 
 llama3v模型通过结合Llama3 8B和siglip-so400m，实现了图像-文本生成的顶级性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mustafaaljadery/llama3v)
+- [官网](https://github.com/mustafaaljadery/llama3v)

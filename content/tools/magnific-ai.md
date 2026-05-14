@@ -12,6 +12,6 @@ draft: false
 
 使用AI技术进行图片放大、增强和变换的神奇工具，可通过自定义提示增加细节
 
-## Links
+## 链接
 
-- [Official Website](https://magnific.ai/)
+- [官网](https://magnific.ai/)

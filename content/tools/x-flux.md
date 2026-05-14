@@ -12,6 +12,6 @@ draft: false
 
 该项目提供用于微调Flux模型的脚本，包括LoRA和ControlNet两种模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/XLabs-AI/x-flux)
+- [官网](https://github.com/XLabs-AI/x-flux)

@@ -12,6 +12,6 @@ draft: false
 
 Awesome AI System Prompts 收集了多个AI平台（如ChatGPT、Claude等）的系统提示，用于提升AI性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dontriskit/awesome-ai-system-prompts)
+- [官网](https://github.com/dontriskit/awesome-ai-system-prompts)

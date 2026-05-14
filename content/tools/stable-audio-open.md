@@ -12,6 +12,6 @@ draft: false
 
 Stable Audio Open是一个开源的文本到音频生成模型，可生成长达47秒的音频样本和音效。
 
-## Links
+## 链接
 
-- [Official Website](https://stability.ai/news/introducing-stable-audio-open)
+- [官网](https://stability.ai/news/introducing-stable-audio-open)

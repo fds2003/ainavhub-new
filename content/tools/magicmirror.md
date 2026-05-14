@@ -12,6 +12,6 @@ draft: false
 
 MagicMirror是一款即刻体验脸部交换、发型和服装的AI应用，简单易用，完全离线处理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/idootop/MagicMirror)
+- [官网](https://github.com/idootop/MagicMirror)

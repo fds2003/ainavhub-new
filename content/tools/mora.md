@@ -12,6 +12,6 @@ draft: false
 
 利用多智能体合作生成视频任务的多智能体框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lichao-sun/Mora)
+- [官网](https://github.com/lichao-sun/Mora)

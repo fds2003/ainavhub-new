@@ -12,6 +12,6 @@ draft: false
 
 Speakr是自托管的Web应用，用于转录录音、生成摘要和标题，并提供AI聊天交互，安全管理您的会议记录。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/murtaza-nasir/speakr/blob/master/readme.md)
+- [官网](https://github.com/murtaza-nasir/speakr/blob/master/readme.md)

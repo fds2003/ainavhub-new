@@ -12,6 +12,6 @@ draft: false
 
 AI赋能Git命令行助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/exodus-tola-mindCoder/gissy)
+- [官网](https://github.com/exodus-tola-mindCoder/gissy)

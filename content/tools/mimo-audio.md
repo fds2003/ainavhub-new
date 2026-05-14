@@ -12,6 +12,6 @@ draft: false
 
 小样本音频语言模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/XiaomiMiMo/MiMo-Audio)
+- [官网](https://github.com/XiaomiMiMo/MiMo-Audio)

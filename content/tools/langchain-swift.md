@@ -12,6 +12,6 @@ draft: false
 
 为iOS、macOS、watchOS 开发的LangChain 的Swift库
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/buhe/langchain-swift)
+- [官网](https://github.com/buhe/langchain-swift)

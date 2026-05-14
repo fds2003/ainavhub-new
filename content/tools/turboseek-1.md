@@ -12,6 +12,6 @@ draft: false
 
 TurboSeek 是一个由 Together.ai 提供支持的开源人工智能搜索引擎。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/turboseek)
+- [官网](https://github.com/Nutlope/turboseek)

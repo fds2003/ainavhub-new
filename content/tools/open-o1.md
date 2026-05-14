@@ -12,6 +12,6 @@ draft: false
 
 Open O1是一个开源项目，旨在创建可与OpenAI O1模型相媲美的高级替代品，推动社区的AI创新。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenSource-O1/Open-O1)
+- [官网](https://github.com/OpenSource-O1/Open-O1)

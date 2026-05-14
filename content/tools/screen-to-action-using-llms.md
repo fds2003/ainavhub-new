@@ -12,6 +12,6 @@ draft: false
 
 利用大语言模型，通过屏幕内容自动生成行动或任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/louis030195/screen-pipe)
+- [官网](https://github.com/louis030195/screen-pipe)

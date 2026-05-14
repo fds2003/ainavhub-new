@@ -12,6 +12,6 @@ draft: false
 
 Markdown笔记应用，它支持LLM（大型语言模型）驱动的文本完成、聊天和语义搜索等功能
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fynnfluegge/rocketnotes)
+- [官网](https://github.com/fynnfluegge/rocketnotes)

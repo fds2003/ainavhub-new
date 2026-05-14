@@ -12,6 +12,6 @@ draft: false
 
 AnimeGamer是一个动漫生活模拟器，它能根据指令生成动态动画和角色状态，预测游戏状态。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TencentARC/AnimeGamer)
+- [官网](https://github.com/TencentARC/AnimeGamer)

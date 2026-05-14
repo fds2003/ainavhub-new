@@ -12,6 +12,6 @@ draft: false
 
 “Agents Evaluate Agents”项目通过引入“Agent-as-a-Judge”框架，实现了自动化评估，有效提升了智能系统的评判效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/metauto-ai/agent-as-a-judge)
+- [官网](https://github.com/metauto-ai/agent-as-a-judge)

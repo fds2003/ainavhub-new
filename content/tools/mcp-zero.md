@@ -12,6 +12,6 @@ draft: false
 
 大模型工具链主动构建
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xfey/MCP-Zero)
+- [官网](https://github.com/xfey/MCP-Zero)

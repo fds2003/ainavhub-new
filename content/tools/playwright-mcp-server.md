@@ -12,6 +12,6 @@ draft: false
 
 Playwright MCP Server是一个使用Playwright的MCP服务器，让LLM能自动化浏览器操作，截图和执行JavaScript。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/executeautomation/mcp-playwright)
+- [官网](https://github.com/executeautomation/mcp-playwright)

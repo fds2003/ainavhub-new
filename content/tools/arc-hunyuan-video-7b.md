@@ -12,6 +12,6 @@ draft: false
 
 多模态短视频结构化理解大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TencentARC/ARC-Hunyuan-Video-7B)
+- [官网](https://github.com/TencentARC/ARC-Hunyuan-Video-7B)

@@ -12,6 +12,6 @@ draft: false
 
 阿里巴巴一款小型 MoE 模型，只有 27 亿个激活参数，但性能与最先进的 7B 模型（如 Mistral 7B 和 Qwen1.5-7B）相匹配
 
-## Links
+## 链接
 
-- [Official Website](https://qwenlm.github.io/blog/qwen-moe/)
+- [官网](https://qwenlm.github.io/blog/qwen-moe/)

@@ -12,6 +12,6 @@ draft: false
 
 大模型时间感知与计算
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jlumbroso/passage-of-time-mcp)
+- [官网](https://github.com/jlumbroso/passage-of-time-mcp)

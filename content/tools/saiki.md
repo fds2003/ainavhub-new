@@ -12,6 +12,6 @@ draft: false
 
 Saiki是一个AI工具，利用自然语言控制你的工具、应用和服务，简化自动化工作流程和原型设计。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/truffle-ai/saiki)
+- [官网](https://github.com/truffle-ai/saiki)

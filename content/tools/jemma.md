@@ -12,6 +12,6 @@ draft: false
 
 能将你的想法转换成代码，并从中构建出代码原型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/tolitius/jemma)
+- [官网](https://github.com/tolitius/jemma)

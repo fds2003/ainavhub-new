@@ -12,6 +12,6 @@ draft: false
 
 在ComfyUI中直接使用TripoSR进行快速3D重建
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR)
+- [官网](https://github.com/flowtyone/ComfyUI-Flowty-TripoSR)

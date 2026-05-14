@@ -12,6 +12,6 @@ draft: false
 
 AingDesk是一款简单易用的AI助手，支持知识库、模型API和智能代理等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aingdesk/AingDesk)
+- [官网](https://github.com/aingdesk/AingDesk)

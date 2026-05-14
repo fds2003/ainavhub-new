@@ -12,6 +12,6 @@ draft: false
 
 AI 编程代理记忆框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/campfirein/cipher)
+- [官网](https://github.com/campfirein/cipher)

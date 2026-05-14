@@ -12,6 +12,6 @@ draft: false
 
 ReaderLM-v2是一个支持29种语言的强大模型，专用于将HTML转换为高质量的Markdown或JSON。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/jinaai/ReaderLM-v2)
+- [官网](https://huggingface.co/jinaai/ReaderLM-v2)

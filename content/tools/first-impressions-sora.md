@@ -12,6 +12,6 @@ draft: false
 
 Sora是一个创新的模型，能够帮助创意人士实现新奇和超现实的想法，让不可能成为可能
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/blog/sora-first-impressions)
+- [官网](https://openai.com/blog/sora-first-impressions)

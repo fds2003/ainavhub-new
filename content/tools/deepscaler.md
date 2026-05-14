@@ -12,6 +12,6 @@ draft: false
 
 DeepScaleR是一个开源项目，旨在通过强化学习技术使大型语言模型的训练和应用更普及。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/agentica-project/deepscaler)
+- [官网](https://github.com/agentica-project/deepscaler)

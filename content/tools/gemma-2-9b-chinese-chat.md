@@ -12,6 +12,6 @@ draft: false
 
 Gemma-2-9B-Chinese-Chat是首个为中英文用户设计的指令微调语言模型，具备角色扮演等多种能力。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/shenzhi-wang/Gemma-2-9B-Chinese-Chat)
+- [官网](https://huggingface.co/shenzhi-wang/Gemma-2-9B-Chinese-Chat)

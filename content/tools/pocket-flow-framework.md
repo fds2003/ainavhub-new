@@ -12,6 +12,6 @@ draft: false
 
 Pocket Flow是一个快速构建企业级AI系统的框架，基于嵌套有向图，模块化且不依赖特定厂商。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/The-Pocket-World/Pocket-Flow-Framework)
+- [官网](https://github.com/The-Pocket-World/Pocket-Flow-Framework)

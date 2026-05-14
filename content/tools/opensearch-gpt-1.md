@@ -12,6 +12,6 @@ draft: false
 
 OpenSearch GPT是一款能够根据用户兴趣个性化学习的AI搜索引擎。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/supermemoryai/opensearch-ai)
+- [官网](https://github.com/supermemoryai/opensearch-ai)

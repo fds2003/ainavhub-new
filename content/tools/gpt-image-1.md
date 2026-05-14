@@ -12,6 +12,6 @@ draft: false
 
 GPT-image-1 是 OpenAI 最新、最先进的图像生成模型。它是一个原生的多模态语言模型，于今天凌晨1点30通过 API 向全球开发者开放使用。
 
-## Links
+## 链接
 
-- [Official Website](https://platform.openai.com/docs/guides/image-generation?image-generation-model=gpt-image-1)
+- [官网](https://platform.openai.com/docs/guides/image-generation?image-generation-model=gpt-image-1)

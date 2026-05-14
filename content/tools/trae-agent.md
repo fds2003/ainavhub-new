@@ -12,6 +12,6 @@ draft: false
 
 AI软件工程智能体
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bytedance/trae-agent)
+- [官网](https://github.com/bytedance/trae-agent)

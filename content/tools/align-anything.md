@@ -12,6 +12,6 @@ draft: false
 
 Align-Anything 通过各种对齐算法将大模型对齐到人类意图和价值上。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PKU-Alignment/align-anything)
+- [官网](https://github.com/PKU-Alignment/align-anything)

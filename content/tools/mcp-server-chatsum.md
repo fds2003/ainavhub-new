@@ -12,6 +12,6 @@ draft: false
 
 mcp-server-chatsum 是一个MCP服务器，能通过查询和总结聊天记录来帮助用户理解对话内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chatmcp/mcp-server-chatsum)
+- [官网](https://github.com/chatmcp/mcp-server-chatsum)

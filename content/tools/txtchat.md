@@ -12,6 +12,6 @@ draft: false
 
 txtchat 利用检索增强生成模型和语言模型构建智能对话搜索应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/neuml/txtchat)
+- [官网](https://github.com/neuml/txtchat)

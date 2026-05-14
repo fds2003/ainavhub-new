@@ -12,6 +12,6 @@ draft: false
 
 VisionReward 是一种多维度人类偏好学习模型，用于图像和视频生成的精细化评估。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THUDM/VisionReward)
+- [官网](https://github.com/THUDM/VisionReward)

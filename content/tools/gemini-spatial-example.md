@@ -12,6 +12,6 @@ draft: false
 
 如何使用Gemini模型获取和显示边界框信息，适合开发者扩展
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GrantCuster/gemini-spatial-example)
+- [官网](https://github.com/GrantCuster/gemini-spatial-example)

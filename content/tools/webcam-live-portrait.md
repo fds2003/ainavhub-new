@@ -12,6 +12,6 @@ draft: false
 
 Webcam Live Portrait 是一个开源项目，用于实时生成人像动态效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Mrkomiljon/Webcam_Live_Portrait/blob/main/readme.md)
+- [官网](https://github.com/Mrkomiljon/Webcam_Live_Portrait/blob/main/readme.md)

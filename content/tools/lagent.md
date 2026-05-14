@@ -12,6 +12,6 @@ draft: false
 
 轻量级的开源框架，旨在帮助用户高效创建基于大型语言模型（LLM）的智能代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/InternLM/lagent)
+- [官网](https://github.com/InternLM/lagent)

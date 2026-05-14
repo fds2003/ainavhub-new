@@ -12,6 +12,6 @@ draft: false
 
 该研究提出了一种区域感知的文本到图像生成方法，通过硬绑定和软细化实现精确的布局组合。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NJU-PCALab/RAG-Diffusion)
+- [官网](https://github.com/NJU-PCALab/RAG-Diffusion)

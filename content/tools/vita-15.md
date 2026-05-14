@@ -12,6 +12,6 @@ draft: false
 
 VITA-1.5是一款强大的开源交互式多模态大语言模型，支持实时视觉与语音交互。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VITA-MLLM/VITA)
+- [官网](https://github.com/VITA-MLLM/VITA)

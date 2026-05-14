@@ -12,6 +12,6 @@ draft: false
 
 人工智能帮助用户在短时间内创建网站的工具
 
-## Links
+## 链接
 
-- [Official Website](https://www.wix.com/ai-website-builder)
+- [官网](https://www.wix.com/ai-website-builder)

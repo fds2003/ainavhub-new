@@ -12,6 +12,6 @@ draft: false
 
 开放智能体智能
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MoonshotAI/Kimi-K2)
+- [官网](https://github.com/MoonshotAI/Kimi-K2)

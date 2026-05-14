@@ -12,6 +12,6 @@ draft: false
 
 AI Youtube Shorts Generator是一款利用GPT-4和Whisper从长视频生成短视频的Python工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator)
+- [官网](https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator)

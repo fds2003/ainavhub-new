@@ -12,6 +12,6 @@ draft: false
 
 RTX 4090上实现实时的视频转视频翻译和风格化功能
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Jeff-LiangF/streamv2v)
+- [官网](https://github.com/Jeff-LiangF/streamv2v)

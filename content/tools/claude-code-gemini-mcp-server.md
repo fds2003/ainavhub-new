@@ -12,6 +12,6 @@ draft: false
 
 Claude Code + Gemini AI 协作平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RaiAnsar/claude_code-gemini-mcp)
+- [官网](https://github.com/RaiAnsar/claude_code-gemini-mcp)

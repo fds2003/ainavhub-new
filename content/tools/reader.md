@@ -12,6 +12,6 @@ draft: false
 
 Reader是一个为语言模型（LLM）设计的工具，旨在改善这些模型处理网页内容时的输入质量。它通过简化的方式将任意URL的内容转换成更适合语言模型处理的格式。这种处理不仅包括提取主要内容，去除不必要的格式和杂质，还可能包括将内容分解为更容易由模型处理的形式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jina-ai/reader)
+- [官网](https://github.com/jina-ai/reader)

@@ -12,6 +12,6 @@ draft: false
 
 Local-NotebookLM是本地AI工具，可将PDF转换为播客，支持多种LLM和TTS模型，并提供API接口。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM)
+- [官网](https://github.com/Goekdeniz-Guelmez/Local-NotebookLM)

@@ -12,6 +12,6 @@ draft: false
 
 Seed-Thinking-v1.5利用强化学习提升推理能力，在数学、编程等领域表现出色，具有广泛适用性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)
+- [官网](https://github.com/ByteDance-Seed/Seed-Thinking-v1.5)

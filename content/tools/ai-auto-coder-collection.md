@@ -12,6 +12,6 @@ draft: false
 
 AI Auto Coder Collection是一款智能代码生成与改进系统，可根据需求自动生成和优化Python代码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/echohive42/deepdeek-r1-experiments)
+- [官网](https://github.com/echohive42/deepdeek-r1-experiments)

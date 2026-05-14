@@ -12,6 +12,6 @@ draft: false
 
 利用语言模型（LM），比如GPT-4，将其变成能够修复GitHub仓库中的BUG和问题的软件工程代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/princeton-nlp/SWE-agent)
+- [官网](https://github.com/princeton-nlp/SWE-agent)

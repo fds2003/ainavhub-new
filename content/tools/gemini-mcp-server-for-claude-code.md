@@ -12,6 +12,6 @@ draft: false
 
 Claude Code 增强：Gemini MCP 服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BeehiveInnovations/gemini-mcp-server)
+- [官网](https://github.com/BeehiveInnovations/gemini-mcp-server)

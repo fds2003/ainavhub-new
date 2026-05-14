@@ -12,6 +12,6 @@ draft: false
 
 通过交互式3D操作创造高质量内容的技术
 
-## Links
+## 链接
 
-- [Official Website](https://interactive-3d.github.io/)
+- [官网](https://interactive-3d.github.io/)

@@ -12,6 +12,6 @@ draft: false
 
 Qwen ASR 语音转录工作台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yeahhe365/Qwen3-ASR-Studio)
+- [官网](https://github.com/yeahhe365/Qwen3-ASR-Studio)

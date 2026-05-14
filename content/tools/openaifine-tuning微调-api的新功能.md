@@ -12,6 +12,6 @@ draft: false
 
 OpenAI推出新的精调API功能，增强自定义模型计划。
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program)
+- [官网](https://openai.com/blog/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program)

@@ -12,6 +12,6 @@ draft: false
 
 Groq 驱动的可定制代码 CLI
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/build-with-groq/groq-code-cli)
+- [官网](https://github.com/build-with-groq/groq-code-cli)

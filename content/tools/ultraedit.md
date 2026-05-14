@@ -12,6 +12,6 @@ draft: false
 
 UltraEdit是一个大规模自动生成的图像编辑指令数据集，支持区域编辑。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HaozheZhao/UltraEdit)
+- [官网](https://github.com/HaozheZhao/UltraEdit)

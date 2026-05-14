@@ -12,6 +12,6 @@ draft: false
 
 Report mAIstro 是一个灵活的报告生成工具，可以根据用户提供的主题和结构快速创建定制化报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/report-mAIstro)
+- [官网](https://github.com/langchain-ai/report-mAIstro)

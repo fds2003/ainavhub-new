@@ -12,6 +12,6 @@ draft: false
 
 这是一个无需代理的LLM网络搜索引擎，支持多引擎搜索、智能解析和异步处理，适用于大模型外部知识调用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/itshyao/proxyless-llm-websearch)
+- [官网](https://github.com/itshyao/proxyless-llm-websearch)

@@ -12,6 +12,6 @@ draft: false
 
 Granite Retrieval Agent是一款结合本地文档和网络检索的智能助手工具，旨在提升个人生产力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ibm-granite-community/granite-retrieval-agent)
+- [官网](https://github.com/ibm-granite-community/granite-retrieval-agent)

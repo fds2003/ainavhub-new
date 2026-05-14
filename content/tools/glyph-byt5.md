@@ -12,6 +12,6 @@ draft: false
 
 10 种语言文本准确渲染，将文本渲染的准确性从提高到近 90% ，同时还能实现段落渲染+自动布局
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AIGText/Glyph-ByT5)
+- [官网](https://github.com/AIGText/Glyph-ByT5)

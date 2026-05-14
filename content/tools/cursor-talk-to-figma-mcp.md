@@ -12,6 +12,6 @@ draft: false
 
 Cursor Talk to Figma MCP 是一个项目，旨在实现 Cursor AI (一个代码编辑器) 与 Figma (一个设计工具) 之间的集成，利用 Model Context Protocol (MCP) 实现双向通信。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)
+- [官网](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp)

@@ -12,6 +12,6 @@ draft: false
 
 使用大模型自动执行基于浏览器的工作流
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Skyvern-AI/skyvern)
+- [官网](https://github.com/Skyvern-AI/skyvern)

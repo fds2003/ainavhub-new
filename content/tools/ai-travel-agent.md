@@ -12,6 +12,6 @@ draft: false
 
 AI旅行代理人利用LangGraph构建智能旅行助手，支持航班查询、酒店预订及个性化邮件发送。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nirbar1985/ai-travel-agent)
+- [官网](https://github.com/nirbar1985/ai-travel-agent)

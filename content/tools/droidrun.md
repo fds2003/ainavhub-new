@@ -12,6 +12,6 @@ draft: false
 
 DroidRun是一个强大的框架，通过LLM代理用自然语言控制安卓设备，实现自动化操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/droidrun/droidrun)
+- [官网](https://github.com/droidrun/droidrun)

@@ -12,6 +12,6 @@ draft: false
 
 PixelHacker是一个基于扩散模型的图像修复方法，具有优秀的结构和语义一致性，并在多个数据集上取得了SOTA性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hustvl/PixelHacker)
+- [官网](https://github.com/hustvl/PixelHacker)

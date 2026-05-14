@@ -12,6 +12,6 @@ draft: false
 
 nanoDeepResearch是一个受DeerFlow启发的Deep Research项目，旨在从零构建ReAct智能体工作流，便于理解其底层原理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/liyuan24/nanoDeepResearch)
+- [官网](https://github.com/liyuan24/nanoDeepResearch)

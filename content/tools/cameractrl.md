@@ -12,6 +12,6 @@ draft: false
 
 CameraCtrl是一个支持文本到视频生成中精确相机控制的新模型。
 
-## Links
+## 链接
 
-- [Official Website](https://hehao13.github.io/projects-CameraCtrl/)
+- [官网](https://hehao13.github.io/projects-CameraCtrl/)

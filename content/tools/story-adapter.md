@@ -12,6 +12,6 @@ draft: false
 
 Story-Adapter是一个无训练、迭代的长篇故事可视化框架，通过逐步优化生成图像以保持语义一致性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/UCSC-VLAA/story-adapter)
+- [官网](https://github.com/UCSC-VLAA/story-adapter)

@@ -12,6 +12,6 @@ draft: false
 
 Flow是一个轻量级任务引擎，专注于构建简单灵活的AI代理，支持并发执行和动态调度。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lmnr-ai/flow)
+- [官网](https://github.com/lmnr-ai/flow)

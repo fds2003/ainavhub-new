@@ -12,6 +12,6 @@ draft: false
 
 多智能体PPT智能生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/johnson7788/MultiAgentPPT)
+- [官网](https://github.com/johnson7788/MultiAgentPPT)

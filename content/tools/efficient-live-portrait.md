@@ -12,6 +12,6 @@ draft: false
 
 Efficient-Live-Portrait优化了实时肖像动画任务，支持ONNX和TensorRT模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aihacker111/Efficient-Live-Portrait)
+- [官网](https://github.com/aihacker111/Efficient-Live-Portrait)

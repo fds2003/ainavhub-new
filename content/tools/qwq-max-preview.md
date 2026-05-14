@@ -12,6 +12,6 @@ draft: false
 
 QwQ-Max-Preview是Qwen系列的新进展，专注于深层推理和多领域问题解决，未来将开源。
 
-## Links
+## 链接
 
-- [Official Website](https://qwenlm.github.io/blog/qwq-max-preview/)
+- [官网](https://qwenlm.github.io/blog/qwq-max-preview/)

@@ -12,6 +12,6 @@ draft: false
 
 notesGPT是一款智能语音笔记应用，可以快速生成行动项，提升效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/notesGPT)
+- [官网](https://github.com/Nutlope/notesGPT)

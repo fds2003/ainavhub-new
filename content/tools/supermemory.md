@@ -12,6 +12,6 @@ draft: false
 
 SuperMemory帮助您保存和管理网络内容，创建属于自己的第二大脑。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/supermemoryai/supermemory)
+- [官网](https://github.com/supermemoryai/supermemory)

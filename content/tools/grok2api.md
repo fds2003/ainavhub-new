@@ -12,6 +12,6 @@ draft: false
 
 Grok多功能OpenAI兼容API
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chenyme/grok2api)
+- [官网](https://github.com/chenyme/grok2api)

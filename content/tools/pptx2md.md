@@ -12,6 +12,6 @@ draft: false
 
 PPTX2MD是一个将PowerPoint文件转换为Markdown的工具，支持多种格式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ssine/pptx2md)
+- [官网](https://github.com/ssine/pptx2md)

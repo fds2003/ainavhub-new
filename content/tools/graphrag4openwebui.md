@@ -12,6 +12,6 @@ draft: false
 
 GraphRAG4OpenWebUI将微软的GraphRAG技术集成到Open WebUI，实现高级信息检索功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/win4r/GraphRAG4OpenWebUI)
+- [官网](https://github.com/win4r/GraphRAG4OpenWebUI)

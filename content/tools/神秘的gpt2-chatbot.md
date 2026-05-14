@@ -12,6 +12,6 @@ draft: false
 
 神秘的gpt2-chatbot 表现和GPT4不分上下
 
-## Links
+## 链接
 
-- [Official Website](https://chat.lmsys.org/)
+- [官网](https://chat.lmsys.org/)

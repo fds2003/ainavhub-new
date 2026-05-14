@@ -12,6 +12,6 @@ draft: false
 
 Draw2Img 是一个简单的网页界面工具，用于基于文本指导的图像生成，适合任何年龄和技能水平。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GradientSurfer/Draw2Img)
+- [官网](https://github.com/GradientSurfer/Draw2Img)

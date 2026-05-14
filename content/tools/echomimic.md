@@ -12,6 +12,6 @@ draft: false
 
 EchoMimic通过可编辑的标志点条件实现逼真的音频驱动的头像动画。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BadToBest/EchoMimic)
+- [官网](https://github.com/BadToBest/EchoMimic)

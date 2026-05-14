@@ -12,6 +12,6 @@ draft: false
 
 免费试用Gemini Pro 1.5
 
-## Links
+## 链接
 
-- [Official Website](https://aistudio.google.com/)
+- [官网](https://aistudio.google.com/)

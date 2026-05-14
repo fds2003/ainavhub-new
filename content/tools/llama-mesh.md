@@ -12,6 +12,6 @@ draft: false
 
 LLaMA-Mesh通过语言模型实现3D网格生成，支持文本与3D数据的统一处理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nv-tlabs/LLaMA-Mesh)
+- [官网](https://github.com/nv-tlabs/LLaMA-Mesh)

@@ -12,6 +12,6 @@ draft: false
 
 Show-Me是一个开源应用，通过可视化推理与透明化过程，增强用户与大型语言模型的互动体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/marlaman/show-me)
+- [官网](https://github.com/marlaman/show-me)

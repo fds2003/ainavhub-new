@@ -12,6 +12,6 @@ draft: false
 
 LLM辅助的OCR项目旨在利用大型语言模型提升光学字符识别的准确性和可读性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Dicklesworthstone/llm_aided_ocr)
+- [官网](https://github.com/Dicklesworthstone/llm_aided_ocr)

@@ -12,6 +12,6 @@ draft: false
 
 EscherNet是一个通过多视图条件编码实现高精度与连续相机变换的生成式模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kxhit/EscherNet)
+- [官网](https://github.com/kxhit/EscherNet)

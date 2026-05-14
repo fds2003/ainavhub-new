@@ -12,6 +12,6 @@ draft: false
 
 Vibe Draw是一个通过涂鸦草图快速生成3D模型的工具，让创意轻松转化为3D世界。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/martin226/vibe-draw)
+- [官网](https://github.com/martin226/vibe-draw)

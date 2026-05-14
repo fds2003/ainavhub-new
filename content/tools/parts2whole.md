@@ -12,6 +12,6 @@ draft: false
 
 一种可控人像生成框架，通过多个参考图像生成定制肖像
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huanngzh/Parts2Whole)
+- [官网](https://github.com/huanngzh/Parts2Whole)

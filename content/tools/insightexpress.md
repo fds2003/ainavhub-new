@@ -12,6 +12,6 @@ draft: false
 
 InsightExpress是一款基于AI的应用，能够生成研究报告并通过邮箱发送给用户。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/misbahsy/InsightExpress)
+- [官网](https://github.com/misbahsy/InsightExpress)

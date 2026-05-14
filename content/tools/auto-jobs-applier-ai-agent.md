@@ -12,6 +12,6 @@ draft: false
 
 Freysa是一款以人工智能为基础的全球竞技游戏，玩家需尝试说服AI释放奖金。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/0xfreysa/agent)
+- [官网](https://github.com/0xfreysa/agent)

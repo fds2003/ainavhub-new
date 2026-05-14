@@ -12,6 +12,6 @@ draft: false
 
 一个强大的多模态大语言模型，支持图像和视频任务的零样本推理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LLaVA-VL/LLaVA-NeXT)
+- [官网](https://github.com/LLaVA-VL/LLaVA-NeXT)

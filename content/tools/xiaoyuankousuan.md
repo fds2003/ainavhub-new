@@ -12,6 +12,6 @@ draft: false
 
 XiaoYuanKouSuan项目通过修改答案实现安卓口算应用的秒级答题自动化，极大提升了效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cr4n5/XiaoYuanKouSuan)
+- [官网](https://github.com/cr4n5/XiaoYuanKouSuan)

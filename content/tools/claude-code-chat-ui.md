@@ -12,6 +12,6 @@ draft: false
 
 Claude Code Windows 原生聊天界面
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LKbaba/Claude-code-ChatInWindows)
+- [官网](https://github.com/LKbaba/Claude-code-ChatInWindows)

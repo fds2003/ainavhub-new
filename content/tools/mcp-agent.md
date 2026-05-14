@@ -12,6 +12,6 @@ draft: false
 
 mcp-agent是一个基于模型上下文协议(MCP)的轻量级框架，旨在简化构建有效、可组合的智能体应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lastmile-ai/mcp-agent)
+- [官网](https://github.com/lastmile-ai/mcp-agent)

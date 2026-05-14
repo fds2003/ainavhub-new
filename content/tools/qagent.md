@@ -12,6 +12,6 @@ draft: false
 
 搜索优先的问答代理：RAG的替代方案
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/javiramos1/qagent)
+- [官网](https://github.com/javiramos1/qagent)

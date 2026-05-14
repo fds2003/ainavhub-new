@@ -12,6 +12,6 @@ draft: false
 
 Whisper Web 是一个在浏览器中运行的机器学习语音识别项目。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xenova/whisper-web)
+- [官网](https://github.com/xenova/whisper-web)

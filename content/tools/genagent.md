@@ -12,6 +12,6 @@ draft: false
 
 GenAgent是一个构建协作AI系统的框架，支持自动生成工作流程，提升复杂任务的执行效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xxyQwQ/GenAgent)
+- [官网](https://github.com/xxyQwQ/GenAgent)

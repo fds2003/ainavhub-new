@@ -12,6 +12,6 @@ draft: false
 
 高效地解析和表示文件，以便通过LlamaIndex框架进行高效检索和上下文增强
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/run-llama/llama_parse)
+- [官网](https://github.com/run-llama/llama_parse)

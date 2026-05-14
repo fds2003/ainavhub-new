@@ -12,6 +12,6 @@ draft: false
 
 利用预训练扩散模型生成无限长文本驱动的视频
 
-## Links
+## 链接
 
-- [Official Website](https://jjihwan.github.io/projects/FIFO-Diffusion)
+- [官网](https://jjihwan.github.io/projects/FIFO-Diffusion)

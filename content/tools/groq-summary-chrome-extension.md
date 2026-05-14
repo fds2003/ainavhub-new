@@ -12,6 +12,6 @@ draft: false
 
 Groq Chrome扩展能够快速总结网页内容，帮助用户提升在线浏览体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jose-mdz/groq-chrome-ext)
+- [官网](https://github.com/jose-mdz/groq-chrome-ext)

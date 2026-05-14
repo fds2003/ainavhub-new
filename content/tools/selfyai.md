@@ -12,6 +12,6 @@ draft: false
 
 SelfyAI是一个平台，用户可以创建、拥有和货币化个性化的智能AI代理，即虚拟世界资产(VWA)。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aubler/SelfyAI)
+- [官网](https://github.com/aubler/SelfyAI)

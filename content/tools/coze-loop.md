@@ -12,6 +12,6 @@ draft: false
 
 AI 智能体全生命周期管理平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/coze-dev/coze-loop)
+- [官网](https://github.com/coze-dev/coze-loop)

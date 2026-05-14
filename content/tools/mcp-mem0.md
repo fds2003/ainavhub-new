@@ -12,6 +12,6 @@ draft: false
 
 MCP-Mem0是一个集成了Mem0的MCP服务器模板，为AI代理提供长期记忆的存储、检索和语义搜索功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/coleam00/mcp-mem0)
+- [官网](https://github.com/coleam00/mcp-mem0)

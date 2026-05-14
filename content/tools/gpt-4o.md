@@ -12,6 +12,6 @@ draft: false
 
 GPT-4o是OpenAI发布的新一代免费模型，支持文本、语音和图像的实时交互。
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/index/hello-gpt-4o/)
+- [官网](https://openai.com/index/hello-gpt-4o/)

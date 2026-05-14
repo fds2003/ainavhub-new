@@ -12,6 +12,6 @@ draft: false
 
 Qwen3：多功能文本嵌入与排序模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/Qwen3-Embedding)
+- [官网](https://github.com/QwenLM/Qwen3-Embedding)

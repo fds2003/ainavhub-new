@@ -12,6 +12,6 @@ draft: false
 
 Django MCP Server: 连接 AI 智能体与 Django 应用
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/omarbenhamid/django-mcp-server)
+- [官网](https://github.com/omarbenhamid/django-mcp-server)

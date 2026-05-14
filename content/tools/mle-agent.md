@@ -12,6 +12,6 @@ draft: false
 
 MLE-Agent是为机器学习工程师和研究人员设计的智能助手，旨在简化AI工程与研究流程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MLSysOps/MLE-agent)
+- [官网](https://github.com/MLSysOps/MLE-agent)

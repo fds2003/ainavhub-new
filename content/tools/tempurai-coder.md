@@ -12,6 +12,6 @@ draft: false
 
 AI命令行代码助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/tempurai/coder)
+- [官网](https://github.com/tempurai/coder)

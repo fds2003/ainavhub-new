@@ -12,6 +12,6 @@ draft: false
 
 NodeRAG是一个基于异构图的RAG系统，支持精细检索、可视化和高效性能，旨在提升RAG效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Terry-Xu-666/NodeRAG)
+- [官网](https://github.com/Terry-Xu-666/NodeRAG)

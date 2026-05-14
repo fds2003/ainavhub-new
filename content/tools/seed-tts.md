@@ -12,6 +12,6 @@ draft: false
 
 强大的文本到语音转换工具
 
-## Links
+## 链接
 
-- [Official Website](https://bytedancespeech.github.io/seedtts_tech_report/)
+- [官网](https://bytedancespeech.github.io/seedtts_tech_report/)

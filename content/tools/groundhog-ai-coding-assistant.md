@@ -12,6 +12,6 @@ draft: false
 
 Groundhog AI 是一个用 Rust 构建的教学工具，旨在帮助用户理解代码助手的工作原理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ghuntley/groundhog)
+- [官网](https://github.com/ghuntley/groundhog)

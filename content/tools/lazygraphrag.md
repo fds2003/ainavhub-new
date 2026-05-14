@@ -12,6 +12,6 @@ draft: false
 
 LazyGraphRAG是一种用于处理大规模图数据的高效图神经网络架构。
 
-## Links
+## 链接
 
-- [Official Website](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)
+- [官网](https://www.microsoft.com/en-us/research/blog/lazygraphrag-setting-a-new-standard-for-quality-and-cost/)

@@ -12,6 +12,6 @@ draft: false
 
 Insight-V是一个初步探索长链视觉推理的多模态大语言模型，旨在提升视觉推理能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dongyh20/Insight-V)
+- [官网](https://github.com/dongyh20/Insight-V)

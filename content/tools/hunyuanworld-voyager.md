@@ -12,6 +12,6 @@ draft: false
 
 单图可控3D世界视频生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)
+- [官网](https://github.com/Tencent-Hunyuan/HunyuanWorld-Voyager)

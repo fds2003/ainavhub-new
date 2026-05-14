@@ -12,6 +12,6 @@ draft: false
 
 Kimi-Dev-72B：用于问题解决的开源编码LLM
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MoonshotAI/Kimi-Dev)
+- [官网](https://github.com/MoonshotAI/Kimi-Dev)

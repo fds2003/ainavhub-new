@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI-Fast-Style-Transfer 是一个用于快速风格迁移的 ComfyUI 节点。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zeroxoxo/ComfyUI-Fast-Style-Transfer)
+- [官网](https://github.com/zeroxoxo/ComfyUI-Fast-Style-Transfer)

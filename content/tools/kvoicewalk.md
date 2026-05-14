@@ -12,6 +12,6 @@ draft: false
 
 KVoiceWalk通过随机游走算法和混合评分，克隆目标声音，为Kokoro生成新的声音风格张量。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RobViren/kvoicewalk)
+- [官网](https://github.com/RobViren/kvoicewalk)

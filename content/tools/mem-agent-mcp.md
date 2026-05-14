@@ -12,6 +12,6 @@ draft: false
 
 大模型记忆MCP服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/firstbatchxyz/mem-agent-mcp)
+- [官网](https://github.com/firstbatchxyz/mem-agent-mcp)

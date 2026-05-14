@@ -12,6 +12,6 @@ draft: false
 
 OpenAI GPT-OSS 模型优化与微调
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huggingface/gpt-oss-recipes)
+- [官网](https://github.com/huggingface/gpt-oss-recipes)

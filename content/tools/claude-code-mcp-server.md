@@ -12,6 +12,6 @@ draft: false
 
 Claude Code MCP Server是一个MCP服务器，它允许以绕过权限的方式运行Claude Code，从而增强 Claude 的代码处理能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/steipete/claude-code-mcp)
+- [官网](https://github.com/steipete/claude-code-mcp)

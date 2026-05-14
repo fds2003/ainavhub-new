@@ -12,6 +12,6 @@ draft: false
 
 Microsoft Power Automate利用自动化和AI来革新工作方式，提高生产力。
 
-## Links
+## 链接
 
-- [Official Website](https://powerautomate.microsoft.com/en-us/blog/revolutionize-the-way-you-work-with-automation-and-ai/)
+- [官网](https://powerautomate.microsoft.com/en-us/blog/revolutionize-the-way-you-work-with-automation-and-ai/)

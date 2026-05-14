@@ -12,6 +12,6 @@ draft: false
 
 Claude Code 邮箱遥控
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JessyTsui/Claude-Code-Remote)
+- [官网](https://github.com/JessyTsui/Claude-Code-Remote)

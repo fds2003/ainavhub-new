@@ -12,6 +12,6 @@ draft: false
 
 开放权重推理与智能体模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/gpt-oss)
+- [官网](https://github.com/openai/gpt-oss)

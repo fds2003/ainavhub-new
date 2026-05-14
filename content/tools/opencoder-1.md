@@ -12,6 +12,6 @@ draft: false
 
 OpenCoder是一款开放的代码大语言模型，支持中英文，致力于推动代码AI的发展。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenCoder-llm/OpenCoder-llm)
+- [官网](https://github.com/OpenCoder-llm/OpenCoder-llm)

@@ -12,6 +12,6 @@ draft: false
 
 一个用于开发LLM(大型语言模型)应用的平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langgenius/dify)
+- [官网](https://github.com/langgenius/dify)

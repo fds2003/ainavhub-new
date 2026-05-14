@@ -12,6 +12,6 @@ draft: false
 
 VibeGit是一个AI驱动的Git工具，通过语义分析和AI生成提交信息，帮助开发者更高效地进行代码提交和仓库管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kklemon/vibegit)
+- [官网](https://github.com/kklemon/vibegit)

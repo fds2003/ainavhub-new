@@ -12,6 +12,6 @@ draft: false
 
 ALIEN是一个基于CUDA的人工生命模拟工具，允许用户探索和创建复杂的数字生命形式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chrxh/alien)
+- [官网](https://github.com/chrxh/alien)

@@ -12,6 +12,6 @@ draft: false
 
 防遗忘智能角色扮演系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/howyoungchen/deepRolePlay)
+- [官网](https://github.com/howyoungchen/deepRolePlay)

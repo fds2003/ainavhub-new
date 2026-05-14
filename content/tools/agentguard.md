@@ -12,6 +12,6 @@ draft: false
 
 AI成本守护
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dipampaul17/AgentGuard)
+- [官网](https://github.com/dipampaul17/AgentGuard)

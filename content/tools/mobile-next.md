@@ -12,6 +12,6 @@ draft: false
 
 Mobile Next是一个MCP服务器，通过平台无关的界面，实现可扩展的移动自动化，无需特定iOS或Android知识。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mobile-next/mobile-mcp)
+- [官网](https://github.com/mobile-next/mobile-mcp)

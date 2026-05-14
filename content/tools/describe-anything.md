@@ -12,6 +12,6 @@ draft: false
 
 Describe Anything模型(DAM)能根据图像/视频区域生成详细描述，并提供DLC-Bench评估基准。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NVlabs/describe-anything)
+- [官网](https://github.com/NVlabs/describe-anything)

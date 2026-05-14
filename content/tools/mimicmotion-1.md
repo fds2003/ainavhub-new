@@ -12,6 +12,6 @@ draft: false
 
 MimicMotion 腾讯开源的通过姿态指导生成高质量任意长度人类运动视频的框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/MimicMotion)
+- [官网](https://github.com/Tencent/MimicMotion)

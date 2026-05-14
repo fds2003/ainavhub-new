@@ -12,6 +12,6 @@ draft: false
 
 PromptWizard是一种自我演变的任务感知提示优化框架，通过反馈驱动的改进技术，持续提升提示和示例的有效性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/PromptWizard)
+- [官网](https://github.com/microsoft/PromptWizard)

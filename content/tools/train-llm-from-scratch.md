@@ -12,6 +12,6 @@ draft: false
 
 本文介绍了一种从零开始使用PyTorch训练大型语言模型（LLM）的方法，支持在单个GPU上训练千万至十亿参数的模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FareedKhan-dev/train-llm-from-scratch)
+- [官网](https://github.com/FareedKhan-dev/train-llm-from-scratch)

@@ -12,6 +12,6 @@ draft: false
 
 voicechat2是一款使用WebSockets进行快速、本地化AI语音聊天的软件。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lhl/voicechat2)
+- [官网](https://github.com/lhl/voicechat2)

@@ -12,6 +12,6 @@ draft: false
 
 Lumina-mGPT是一种多模态自回归模型，尤其擅长将文本描述生成灵活逼真的图像。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alpha-VLLM/Lumina-mGPT)
+- [官网](https://github.com/Alpha-VLLM/Lumina-mGPT)

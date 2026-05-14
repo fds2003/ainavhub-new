@@ -12,6 +12,6 @@ draft: false
 
 Mixture-of-Agents利用多层大型语言模型来提升AI性能，并通过Gradio界面提供直观交互。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/severian42/MoA-Ollama-Chat)
+- [官网](https://github.com/severian42/MoA-Ollama-Chat)

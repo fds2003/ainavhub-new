@@ -12,6 +12,6 @@ draft: false
 
 MinusX是一个AI数据科学家，能在Jupyter和Metabase等工具中进行数据分析和处理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/minusxai/minusx)
+- [官网](https://github.com/minusxai/minusx)

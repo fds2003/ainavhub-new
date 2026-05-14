@@ -12,6 +12,6 @@ draft: false
 
 AI图片背景去除
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/withoutbg/withoutbg)
+- [官网](https://github.com/withoutbg/withoutbg)

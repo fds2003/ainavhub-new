@@ -12,6 +12,6 @@ draft: false
 
 BrushEdit是一个先进的图像修复与编辑统一AI工具，支持自动与互动编辑功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TencentARC/BrushEdit)
+- [官网](https://github.com/TencentARC/BrushEdit)

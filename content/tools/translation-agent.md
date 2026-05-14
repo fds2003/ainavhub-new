@@ -12,6 +12,6 @@ draft: false
 
 Translation Agent 吴恩达老师开源翻译工作流Agent
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/andrewyng/translation-agent)
+- [官网](https://github.com/andrewyng/translation-agent)

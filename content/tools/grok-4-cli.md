@@ -12,6 +12,6 @@ draft: false
 
 Grok 4 命令行工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ComposioHQ/grok-cli)
+- [官网](https://github.com/ComposioHQ/grok-cli)

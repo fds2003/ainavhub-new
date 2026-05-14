@@ -12,6 +12,6 @@ draft: false
 
 Sora 2 视频生成与混编工作台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/alasano/sora-2-playground)
+- [官网](https://github.com/alasano/sora-2-playground)

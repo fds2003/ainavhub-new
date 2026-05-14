@@ -12,6 +12,6 @@ draft: false
 
 全能模型聊天
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yeahhe365/All-Model-Chat)
+- [官网](https://github.com/yeahhe365/All-Model-Chat)

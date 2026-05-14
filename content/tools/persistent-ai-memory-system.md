@@ -12,6 +12,6 @@ draft: false
 
 AI持久化记忆与行为追踪
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/savantskie/persistent-ai-memory)
+- [官网](https://github.com/savantskie/persistent-ai-memory)

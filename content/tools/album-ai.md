@@ -12,6 +12,6 @@ draft: false
 
 Album AI 是一个支持自然语言对话的智能相册工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gcui-art/album-ai)
+- [官网](https://github.com/gcui-art/album-ai)

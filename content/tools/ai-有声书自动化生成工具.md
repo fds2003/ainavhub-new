@@ -12,6 +12,6 @@ draft: false
 
 该工具利用Gemini等大模型，自动化爬取小说、区分角色、生成多角色有声书，并支持批量管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zqq-nuli/auto-audio-book)
+- [官网](https://github.com/zqq-nuli/auto-audio-book)

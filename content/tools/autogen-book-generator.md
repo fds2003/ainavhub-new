@@ -12,6 +12,6 @@ draft: false
 
 AutoGen书籍生成器是一个基于Python的系统，通过多个AI代理合作生成完整且结构化的书籍。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/adamwlarson/ai-book-writer)
+- [官网](https://github.com/adamwlarson/ai-book-writer)

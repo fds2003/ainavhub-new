@@ -12,6 +12,6 @@ draft: false
 
 iAgents是一个旨在实现人与代理协作的新型平台，支持多代理系统和信息共享。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/thunlp/iAgents)
+- [官网](https://github.com/thunlp/iAgents)

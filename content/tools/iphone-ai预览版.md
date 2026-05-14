@@ -12,6 +12,6 @@ draft: false
 
 苹果推送iOS 18.1带来Apple Intelligence预览
 
-## Links
+## 链接
 
-- [Official Website](https://www.apple.com/apple-intelligence/)
+- [官网](https://www.apple.com/apple-intelligence/)

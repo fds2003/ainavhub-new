@@ -12,6 +12,6 @@ draft: false
 
 如何使用Cloudflare构建一个完整的RAG应用，结合多种搜索技术和AI服务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RafalWilinski/cloudflare-rag)
+- [官网](https://github.com/RafalWilinski/cloudflare-rag)

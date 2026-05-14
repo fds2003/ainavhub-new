@@ -12,6 +12,6 @@ draft: false
 
 Qwen多模态模型PyTorch精简复现
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Emericen/tiny-qwen)
+- [官网](https://github.com/Emericen/tiny-qwen)

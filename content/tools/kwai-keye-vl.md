@@ -12,6 +12,6 @@ draft: false
 
 Kwai Keye-VL视频视觉推理大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Kwai-Keye/Keye)
+- [官网](https://github.com/Kwai-Keye/Keye)

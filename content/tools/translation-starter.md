@@ -12,6 +12,6 @@ draft: false
 
 translation-starter是一个开源项目，它允许你很快地部署一个应用程序，这个应用可以将任何视频翻译成任何语言，并通过AI技术实现口型与声音的完美同步。如果你需要快速集成视频翻译、声音克隆和口型同步到你的业务或流程中，这个工具可以在15分钟内帮助你搭建起来。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/synchronicity-labs/translation-starter)
+- [官网](https://github.com/synchronicity-labs/translation-starter)

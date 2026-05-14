@@ -12,6 +12,6 @@ draft: false
 
 Perplexity推出的Deep Research是一款免费的深度研究工具，性能超越多个主流AI模型。
 
-## Links
+## 链接
 
-- [Official Website](https://www.perplexity.ai/)
+- [官网](https://www.perplexity.ai/)

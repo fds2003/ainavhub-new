@@ -12,6 +12,6 @@ draft: false
 
 可复现高性能AI智能体框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MiroMindAI/MiroFlow)
+- [官网](https://github.com/MiroMindAI/MiroFlow)

@@ -12,6 +12,6 @@ draft: false
 
 可视化AI工作流编排平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ComposioHQ/agent-flow)
+- [官网](https://github.com/ComposioHQ/agent-flow)

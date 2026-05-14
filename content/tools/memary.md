@@ -12,6 +12,6 @@ draft: false
 
 Memary 是一个模拟人类记忆、增强AI代理的开源Python库。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kingjulio8238/Memary)
+- [官网](https://github.com/kingjulio8238/Memary)

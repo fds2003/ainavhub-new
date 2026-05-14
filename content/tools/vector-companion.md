@@ -12,6 +12,6 @@ draft: false
 
 一个友好的人工智能助手，具备两个独特人格，相互对话并与用户实时互动
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SingularityMan/vector_companion)
+- [官网](https://github.com/SingularityMan/vector_companion)

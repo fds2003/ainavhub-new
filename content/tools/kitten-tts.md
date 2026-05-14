@@ -12,6 +12,6 @@ draft: false
 
 轻量高音质文本转语音模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/KittenML/KittenTTS)
+- [官网](https://github.com/KittenML/KittenTTS)

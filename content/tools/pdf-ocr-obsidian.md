@@ -12,6 +12,6 @@ draft: false
 
 pdf-ocr-obsidian利用Mistral AI将PDF转换为Obsidian风格的Markdown，提取文本和图像并自动组织。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/diegomarzaa/pdf-ocr-obsidian)
+- [官网](https://github.com/diegomarzaa/pdf-ocr-obsidian)

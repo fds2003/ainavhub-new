@@ -12,6 +12,6 @@ draft: false
 
 完全本地运行的文档聊天应用，无需连接网络即可使用
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jacoblee93/fully-local-pdf-chatbot)
+- [官网](https://github.com/jacoblee93/fully-local-pdf-chatbot)

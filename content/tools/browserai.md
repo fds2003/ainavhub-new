@@ -12,6 +12,6 @@ draft: false
 
 BrowserAI 是一个开源项目，允许在浏览器中快速运行 LLM 模型，保障用户隐私且无需服务器。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sauravpanda/BrowserAI)
+- [官网](https://github.com/sauravpanda/BrowserAI)

@@ -12,6 +12,6 @@ draft: false
 
 允许在保持背景不变的情况下，用个性化参照物替换图片中任意对象
 
-## Links
+## 链接
 
-- [Official Website](https://swap-anything.github.io/)
+- [官网](https://swap-anything.github.io/)

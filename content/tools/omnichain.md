@@ -12,6 +12,6 @@ draft: false
 
 OmniChain是一个自我更新的可视化工作流工具，适用于大型语言模型的自动化、机器人及集成应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zenoverflow/omnichain)
+- [官网](https://github.com/zenoverflow/omnichain)

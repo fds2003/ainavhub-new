@@ -12,6 +12,6 @@ draft: false
 
 Writing Tools是一款适用于Windows的人工智能写作助手，提供语法修正、重写和多语言支持功能，完全免费且注重隐私。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/theJayTea/WritingTools)
+- [官网](https://github.com/theJayTea/WritingTools)

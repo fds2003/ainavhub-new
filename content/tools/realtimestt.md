@@ -12,6 +12,6 @@ draft: false
 
 RealtimeSTT 是一款易用、低延迟的实时语音转文字库，适用于语音助手等应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS)
+- [官网](https://github.com/Ikaros-521/RealtimeSTT_LLM_TTS)

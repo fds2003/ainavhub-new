@@ -12,6 +12,6 @@ draft: false
 
 AppAgentX利用进化框架，通过记忆和学习，使GUI智能体更高效、准确地操作智能手机应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Westlake-AGI-Lab/AppAgentX)
+- [官网](https://github.com/Westlake-AGI-Lab/AppAgentX)

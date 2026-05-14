@@ -12,6 +12,6 @@ draft: false
 
 创新的自动动画着色解决方案
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ykdai/BasicPBC)
+- [官网](https://github.com/ykdai/BasicPBC)

@@ -12,6 +12,6 @@ draft: false
 
 30 秒内从一张图片生成 3D 模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TencentARC/InstantMesh)
+- [官网](https://github.com/TencentARC/InstantMesh)

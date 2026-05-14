@@ -12,6 +12,6 @@ draft: false
 
 开源高级智能体模型与框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MiroMindAI/MiroThinker)
+- [官网](https://github.com/MiroMindAI/MiroThinker)

@@ -12,6 +12,6 @@ draft: false
 
 RooFlow是VS Code扩展，通过持久项目上下文和优化的模式交互，增强AI辅助开发，降低token消耗。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GreatScottyMac/RooFlow)
+- [官网](https://github.com/GreatScottyMac/RooFlow)

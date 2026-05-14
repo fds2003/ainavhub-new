@@ -12,6 +12,6 @@ draft: false
 
 vLLM大模型服务CLI
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Chen-zexi/vllm-cli)
+- [官网](https://github.com/Chen-zexi/vllm-cli)

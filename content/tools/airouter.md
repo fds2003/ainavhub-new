@@ -12,6 +12,6 @@ draft: false
 
 LLM统一API智能路由器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THESIS-AGENT/AIRouter)
+- [官网](https://github.com/THESIS-AGENT/AIRouter)

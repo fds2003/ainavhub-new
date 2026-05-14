@@ -12,6 +12,6 @@ draft: false
 
 AI 多人聊天室是一个支持多人同时对话、可自定义角色的实时聊天应用，提供群聊互动体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/maojindao55/botgroup.chat)
+- [官网](https://github.com/maojindao55/botgroup.chat)

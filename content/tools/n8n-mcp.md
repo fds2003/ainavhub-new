@@ -12,6 +12,6 @@ draft: false
 
 AI赋能n8n工作流自动化与管理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/czlonkowski/n8n-mcp)
+- [官网](https://github.com/czlonkowski/n8n-mcp)

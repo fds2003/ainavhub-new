@@ -12,6 +12,6 @@ draft: false
 
 谷歌DeepMind和同构实验室推出AlphaFold 3 AI模型，旨在精确预测生命分子的结构和相互作用。
 
-## Links
+## 链接
 
-- [Official Website](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model)
+- [官网](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model)

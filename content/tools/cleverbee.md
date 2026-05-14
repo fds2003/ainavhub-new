@@ -12,6 +12,6 @@ draft: false
 
 CleverBee是基于AI的在线数据整合助手，利用LLM和网页浏览技术辅助用户进行研究，提升效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SureScaleAI/cleverbee)
+- [官网](https://github.com/SureScaleAI/cleverbee)

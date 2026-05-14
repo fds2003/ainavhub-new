@@ -12,6 +12,6 @@ draft: false
 
 NSFW Detector是一款基于AI的NSFW内容检测工具，支持多种文件类型，确保数据安全。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/tmplink/nsfw_detector)
+- [官网](https://github.com/tmplink/nsfw_detector)

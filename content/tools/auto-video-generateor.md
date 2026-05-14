@@ -12,6 +12,6 @@ draft: false
 
 自动视频生成器通过用户输入主题，利用大语言模型生成故事及配图，最终合成解说视频。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kuangdd2024/auto-video-generateor)
+- [官网](https://github.com/kuangdd2024/auto-video-generateor)

@@ -12,6 +12,6 @@ draft: false
 
 K8s智能体沙盒
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kubernetes-sigs/agent-sandbox)
+- [官网](https://github.com/kubernetes-sigs/agent-sandbox)

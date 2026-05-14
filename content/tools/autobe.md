@@ -12,6 +12,6 @@ draft: false
 
 AutoBE是后端服务器的Vibe Coding Agent，利用AI和编译反馈自动生成TypeScript、NestJS等代码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wrtnlabs/autobe)
+- [官网](https://github.com/wrtnlabs/autobe)

@@ -12,6 +12,6 @@ draft: false
 
 Deep Research Assistant PY 是一款基于AI的Python研究工具，助您深入探索话题并生成报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/epuerta9/deep-research-py)
+- [官网](https://github.com/epuerta9/deep-research-py)

@@ -12,6 +12,6 @@ draft: false
 
 多模态长期记忆推理智能体
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ByteDance-Seed/m3-agent)
+- [官网](https://github.com/ByteDance-Seed/m3-agent)

@@ -12,6 +12,6 @@ draft: false
 
 Lumina-mGPT 2.0是上海AI实验室等机构发布的自回归图像生成模型，支持多种图像生成任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)
+- [官网](https://github.com/Alpha-VLLM/Lumina-mGPT-2.0)

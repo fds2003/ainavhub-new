@@ -12,6 +12,6 @@ draft: false
 
 MiniMax-M1：首个开源混合注意力推理大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MiniMax-AI/MiniMax-M1)
+- [官网](https://github.com/MiniMax-AI/MiniMax-M1)

@@ -12,6 +12,6 @@ draft: false
 
 SciAgents通过多智能体图推理自动化科学发现，揭示了生物启发材料领域的隐藏跨学科关系。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lamm-mit/SciAgentsDiscovery)
+- [官网](https://github.com/lamm-mit/SciAgentsDiscovery)

@@ -12,6 +12,6 @@ draft: false
 
 企业智能编程与安全管理平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chaitin/MonkeyCode)
+- [官网](https://github.com/chaitin/MonkeyCode)

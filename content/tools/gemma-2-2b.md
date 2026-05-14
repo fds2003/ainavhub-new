@@ -12,6 +12,6 @@ draft: false
 
 Gemma 2 2B是一个优先考虑安全性和透明性的高性能、轻量级AI模型。
 
-## Links
+## 链接
 
-- [Official Website](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/)
+- [官网](https://developers.googleblog.com/en/smaller-safer-more-transparent-advancing-responsible-ai-with-gemma/)

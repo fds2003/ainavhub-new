@@ -12,6 +12,6 @@ draft: false
 
 DIAMOND是一种在漫反射世界模型中训练的强化学习代理，用于提升Atari游戏的视觉细节。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/eloialonso/diamond)
+- [官网](https://github.com/eloialonso/diamond)

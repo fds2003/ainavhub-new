@@ -12,6 +12,6 @@ draft: false
 
 AI 应用图标生成器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/betomoedano/snapai)
+- [官网](https://github.com/betomoedano/snapai)

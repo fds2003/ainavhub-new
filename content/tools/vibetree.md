@@ -12,6 +12,6 @@ draft: false
 
 AI Git Worktree 并行开发
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sahithvibudhi/vibe-tree)
+- [官网](https://github.com/sahithvibudhi/vibe-tree)

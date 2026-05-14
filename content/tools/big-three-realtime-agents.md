@@ -12,6 +12,6 @@ draft: false
 
 三大AI智能体实时语音编排
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/disler/big-3-super-agent)
+- [官网](https://github.com/disler/big-3-super-agent)

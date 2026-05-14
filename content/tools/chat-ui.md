@@ -12,6 +12,6 @@ draft: false
 
 Chat UI是一个基于开源模型的聊天界面，支持快速部署和本地运行，适用于不同的对话生成需求。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huggingface/chat-ui)
+- [官网](https://github.com/huggingface/chat-ui)

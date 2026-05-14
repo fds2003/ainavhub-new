@@ -12,6 +12,6 @@ draft: false
 
 LlamaV-o1是一种大型多模态模型，专注于逐步视觉推理，已在多个基准测试中表现优异。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mbzuai-oryx/LlamaV-o1)
+- [官网](https://github.com/mbzuai-oryx/LlamaV-o1)

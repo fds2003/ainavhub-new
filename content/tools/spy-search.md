@@ -12,6 +12,6 @@ draft: false
 
 开源agentic搜索框架，快速高效替代方案
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JasonHonKL/spy-search)
+- [官网](https://github.com/JasonHonKL/spy-search)

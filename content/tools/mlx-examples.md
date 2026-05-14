@@ -12,6 +12,6 @@ draft: false
 
 在 iPhone 15 Pro 上运行 Llama-3.1 8B
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ml-explore/mlx-examples)
+- [官网](https://github.com/ml-explore/mlx-examples)

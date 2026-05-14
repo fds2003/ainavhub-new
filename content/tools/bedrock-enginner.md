@@ -12,6 +12,6 @@ draft: false
 
 Bedrock Engineer是一个智能开发助手，集成语言模型与文件操作、网络搜索等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/daisuke-awaji/bedrock-engineer)
+- [官网](https://github.com/daisuke-awaji/bedrock-engineer)

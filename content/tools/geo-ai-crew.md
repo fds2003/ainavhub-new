@@ -12,6 +12,6 @@ draft: false
 
 AI网页内容优化审计
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/brightdata/geo-ai-agent)
+- [官网](https://github.com/brightdata/geo-ai-agent)

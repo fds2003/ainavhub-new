@@ -12,6 +12,6 @@ draft: false
 
 大语言模型代理训练框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/agent-lightning)
+- [官网](https://github.com/microsoft/agent-lightning)

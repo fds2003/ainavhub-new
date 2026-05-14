@@ -12,6 +12,6 @@ draft: false
 
 DeepSearcher结合强大的大型语言模型和向量数据库，可基于私有数据实现高效搜索与智能问答。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zilliztech/deep-searcher)
+- [官网](https://github.com/zilliztech/deep-searcher)

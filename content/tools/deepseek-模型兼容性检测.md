@@ -12,6 +12,6 @@ draft: false
 
 DeepSeek模型兼容性检测用于评估不同模型之间的兼容性和适应性。
 
-## Links
+## 链接
 
-- [Official Website](https://tools.thinkinai.xyz/)
+- [官网](https://tools.thinkinai.xyz/)

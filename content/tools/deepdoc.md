@@ -12,6 +12,6 @@ draft: false
 
 本地文档智能研究报告
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Datalore-ai/deepdoc)
+- [官网](https://github.com/Datalore-ai/deepdoc)

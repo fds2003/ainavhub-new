@@ -12,6 +12,6 @@ draft: false
 
 phidata是一个框架，用于构建具有记忆、知识、工具和推理能力的AI代理系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/phidatahq/phidata)
+- [官网](https://github.com/phidatahq/phidata)

@@ -12,6 +12,6 @@ draft: false
 
 ControlNet++ 是一个支持多种图像生成与编辑控制的全能模型。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0)
+- [官网](https://huggingface.co/xinsir/controlnet-union-sdxl-1.0)

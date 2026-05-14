@@ -12,6 +12,6 @@ draft: false
 
 长动画动态记忆生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/CN-makers/LongAnimation)
+- [官网](https://github.com/CN-makers/LongAnimation)

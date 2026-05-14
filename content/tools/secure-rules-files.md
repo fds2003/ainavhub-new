@@ -12,6 +12,6 @@ draft: false
 
 AI生成代码安全基线规则文件
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wiz-sec-public/secure-rules-files)
+- [官网](https://github.com/wiz-sec-public/secure-rules-files)

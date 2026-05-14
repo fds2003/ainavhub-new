@@ -12,6 +12,6 @@ draft: false
 
 一个完全免费、快速的聊天机器人前端，支持多种模型和并行工具调用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zakkor/lluminous)
+- [官网](https://github.com/zakkor/lluminous)

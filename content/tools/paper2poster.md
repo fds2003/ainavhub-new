@@ -12,6 +12,6 @@ draft: false
 
 Paper2Poster是一个多模态系统，能从科研论文自动生成海报，并提供评估方法，包括视觉质量和内容连贯性等指标。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Paper2Poster/Paper2Poster)
+- [官网](https://github.com/Paper2Poster/Paper2Poster)

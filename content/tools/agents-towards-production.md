@@ -12,6 +12,6 @@ draft: false
 
 GenAI智能体生产实战手册
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NirDiamant/agents-towards-production)
+- [官网](https://github.com/NirDiamant/agents-towards-production)

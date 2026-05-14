@@ -12,6 +12,6 @@ draft: false
 
 Mira 是腾讯推出的用于长时视频生成的初步框架。
 
-## Links
+## 链接
 
-- [Official Website](https://mira-space.github.io/)
+- [官网](https://mira-space.github.io/)

@@ -12,6 +12,6 @@ draft: false
 
 Craftgen.ai是一个开源AI平台，提供直观工作流、代理功能和实时监控，支持快速原型到生产。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/craftgen/craftgen)
+- [官网](https://github.com/craftgen/craftgen)

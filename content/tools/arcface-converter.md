@@ -12,6 +12,6 @@ draft: false
 
 ArcFace Converter是一款可以在不同ArcFace模型之间转换人脸特征的工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facefusion/facefusion-labs/tree/master/arcface_converter)
+- [官网](https://github.com/facefusion/facefusion-labs/tree/master/arcface_converter)

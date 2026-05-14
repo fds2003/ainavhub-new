@@ -12,6 +12,6 @@ draft: false
 
 根据互联网搜索来写出类似于维基百科的文章
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/stanford-oval/storm)
+- [官网](https://github.com/stanford-oval/storm)

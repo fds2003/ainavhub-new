@@ -12,6 +12,6 @@ draft: false
 
 IMAGDressing是一款模块化交互虚拟试衣系统，支持服装的生成和自定义编辑。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/muzishen/IMAGDressing)
+- [官网](https://github.com/muzishen/IMAGDressing)

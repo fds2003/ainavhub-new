@@ -12,6 +12,6 @@ draft: false
 
 Claude Vision Object Detection 是一款强大的 Python 工具，利用 Claude 3.5 API 实现图像中物体的检测和可视化。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Doriandarko/Claude-Vision-Object-Detection)
+- [官网](https://github.com/Doriandarko/Claude-Vision-Object-Detection)

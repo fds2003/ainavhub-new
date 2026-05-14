@@ -12,6 +12,6 @@ draft: false
 
 Gemini CLI 本地 API 封装与 OpenAI 兼容代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/justlovemaki/Gemini-CLI-2-API)
+- [官网](https://github.com/justlovemaki/Gemini-CLI-2-API)

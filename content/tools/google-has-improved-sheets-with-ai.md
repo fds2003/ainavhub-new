@@ -12,6 +12,6 @@ draft: false
 
 Google 使用 AI 改进了 Sheets
 
-## Links
+## 链接
 
-- [Official Website](https://workspace.google.com/%22)
+- [官网](https://workspace.google.com/%22)

@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI-KLingAI-API是一个自定义节点，允许直接在ComfyUI中使用KLing AI API。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/KwaiVGI/ComfyUI-KLingAI-API)
+- [官网](https://github.com/KwaiVGI/ComfyUI-KLingAI-API)

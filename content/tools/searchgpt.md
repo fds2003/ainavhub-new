@@ -12,6 +12,6 @@ draft: false
 
 OpenAI 推出新的AI搜索功能SearchGPT
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/index/searchgpt-prototype/)
+- [官网](https://openai.com/index/searchgpt-prototype/)

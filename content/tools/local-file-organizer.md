@@ -12,6 +12,6 @@ draft: false
 
 本地文件整理器利用AI技术在用户设备上自动整理文件，保护隐私，提升文件管理效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QiuYannnn/Local-File-Organizer)
+- [官网](https://github.com/QiuYannnn/Local-File-Organizer)

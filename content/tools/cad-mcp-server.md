@@ -12,6 +12,6 @@ draft: false
 
 CAD-MCP Server是能通过自然语言控制主流CAD软件绘图的创新服务，支持多种绘图和NLP功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/daobataotie/CAD-MCP)
+- [官网](https://github.com/daobataotie/CAD-MCP)

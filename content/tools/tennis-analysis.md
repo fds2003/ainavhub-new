@@ -12,6 +12,6 @@ draft: false
 
 该项目利用YOLO和CNN分析网球视频中的选手和球速。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/abdullahtarek/tennis_analysis)
+- [官网](https://github.com/abdullahtarek/tennis_analysis)

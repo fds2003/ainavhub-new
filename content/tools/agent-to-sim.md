@@ -12,6 +12,6 @@ draft: false
 
 Agent-to-Sim项目通过学习日常视频中的互动行为，推动了4D重建和动作生成技术的发展。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/agent2sim)
+- [官网](https://github.com/facebookresearch/agent2sim)

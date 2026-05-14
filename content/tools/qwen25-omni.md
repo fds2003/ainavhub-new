@@ -12,6 +12,6 @@ draft: false
 
 阿里巴巴开源的全新全模态大模型Qwen2.5-Omni
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/Qwen2.5-Omni)
+- [官网](https://github.com/QwenLM/Qwen2.5-Omni)

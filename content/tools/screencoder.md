@@ -12,6 +12,6 @@ draft: false
 
 UI自动化代码生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/leigest519/ScreenCoder)
+- [官网](https://github.com/leigest519/ScreenCoder)

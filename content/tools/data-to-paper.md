@@ -12,6 +12,6 @@ draft: false
 
 科学研究AI小助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Technion-Kishony-lab/data-to-paper)
+- [官网](https://github.com/Technion-Kishony-lab/data-to-paper)

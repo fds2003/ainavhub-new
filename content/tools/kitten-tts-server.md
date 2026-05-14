@@ -12,6 +12,6 @@ draft: false
 
 Kitten TTS：高性能轻量级语音合成服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/devnen/Kitten-TTS-Server)
+- [官网](https://github.com/devnen/Kitten-TTS-Server)

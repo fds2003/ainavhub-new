@@ -12,6 +12,6 @@ draft: false
 
 该应用利用大型语言模型和数据检索技术，从新闻和财务数据中提取股票市场洞察。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vinay-gatech/stocks-insights-ai-agent)
+- [官网](https://github.com/vinay-gatech/stocks-insights-ai-agent)

@@ -12,6 +12,6 @@ draft: false
 
 用于组织和部署基于检索增强生成（RAG）技术的应用程序
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/truefoundry/cognita)
+- [官网](https://github.com/truefoundry/cognita)

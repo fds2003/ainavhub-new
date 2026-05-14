@@ -12,6 +12,6 @@ draft: false
 
 WhiteRabbitNeo-7B-v1.5a 是WhiteRabbitNeo系列的一个版本，这是一系列大规模、面向自然语言处理任务的预训练语言模型。该模型能够支持文本生成、摘要、翻译等多种任务。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/WhiteRabbitNeo/WhiteRabbitNeo-7B-v1.5a)
+- [官网](https://huggingface.co/WhiteRabbitNeo/WhiteRabbitNeo-7B-v1.5a)

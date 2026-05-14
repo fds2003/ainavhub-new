@@ -12,6 +12,6 @@ draft: false
 
 GPT图像编辑模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wyhlovecpp/GPT-Image-Edit)
+- [官网](https://github.com/wyhlovecpp/GPT-Image-Edit)

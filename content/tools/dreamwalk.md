@@ -12,6 +12,6 @@ draft: false
 
 DreamWalk通过扩散指导实现风格空间的精细控制和探索。
 
-## Links
+## 链接
 
-- [Official Website](https://mshu1.github.io/dreamwalk.github.io/)
+- [官网](https://mshu1.github.io/dreamwalk.github.io/)

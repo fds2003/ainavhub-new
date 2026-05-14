@@ -12,6 +12,6 @@ draft: false
 
 基于对话的SQL客户端，自然语言与数据库交互实现查询、修改和删除操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sqlchat/sqlchat)
+- [官网](https://github.com/sqlchat/sqlchat)

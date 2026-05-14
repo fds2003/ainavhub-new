@@ -12,6 +12,6 @@ draft: false
 
 LLaMA-Omni是基于Llama-3.1-8B-Instruct构建的语音语言模型，支持高质量低延迟的语音互动。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ictnlp/LLaMA-Omni)
+- [官网](https://github.com/ictnlp/LLaMA-Omni)

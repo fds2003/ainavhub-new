@@ -12,6 +12,6 @@ draft: false
 
 更高效地编程和管理代码库
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/entropy-research/Devon)
+- [官网](https://github.com/entropy-research/Devon)

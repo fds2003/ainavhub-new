@@ -12,6 +12,6 @@ draft: false
 
 Hunyuan3D是一款先进的3D合成系统，能够高效生成高分辨率纹理3D资产。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/Hunyuan3D-2)
+- [官网](https://github.com/Tencent/Hunyuan3D-2)

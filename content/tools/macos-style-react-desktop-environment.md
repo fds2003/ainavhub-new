@@ -12,6 +12,6 @@ draft: false
 
 MacAlverse 是一个用React构建的开源macOS风格桌面环境。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ssochi/MacAIverse)
+- [官网](https://github.com/ssochi/MacAIverse)

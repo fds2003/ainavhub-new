@@ -12,6 +12,6 @@ draft: false
 
 LLM自然语言编程数据处理库
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/anishathalye/semlib)
+- [官网](https://github.com/anishathalye/semlib)

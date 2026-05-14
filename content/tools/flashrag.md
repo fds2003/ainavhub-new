@@ -12,6 +12,6 @@ draft: false
 
 FlashRAG是一个高效研发RAG的Python工具包，包含32个基准数据集及12个先进算法。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RUC-NLPIR/FlashRAG)
+- [官网](https://github.com/RUC-NLPIR/FlashRAG)

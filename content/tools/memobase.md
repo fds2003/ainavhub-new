@@ -12,6 +12,6 @@ draft: false
 
 Memobase是一种基于用户资料的记忆系统，使生成式AI应用能长期记住用户信息并进行个性化服务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/memodb-io/memobase)
+- [官网](https://github.com/memodb-io/memobase)

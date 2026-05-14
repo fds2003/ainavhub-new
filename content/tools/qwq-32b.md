@@ -12,6 +12,6 @@ draft: false
 
 QwQ-32B是Qwen系列推理模型，具有325亿参数，擅长解决难题，推荐使用特定参数以标准化输出格式。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/Qwen/QwQ-32B)
+- [官网](https://huggingface.co/Qwen/QwQ-32B)

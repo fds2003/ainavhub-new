@@ -12,6 +12,6 @@ draft: false
 
 深度研究智能体大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alibaba-NLP/DeepResearch)
+- [官网](https://github.com/Alibaba-NLP/DeepResearch)

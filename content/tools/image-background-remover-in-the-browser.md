@@ -12,6 +12,6 @@ draft: false
 
 这是一款基于React和Vite的浏览器应用，能一键去除图像背景，处理过程完全本地化。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/addyosmani/bg-remove)
+- [官网](https://github.com/addyosmani/bg-remove)

@@ -12,6 +12,6 @@ draft: false
 
 Fragments by E2B 是一个开源项目，支持安全执行 AI 生成的代码，兼容多种技术栈和 LLM 提供商。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/e2b-dev/fragments)
+- [官网](https://github.com/e2b-dev/fragments)

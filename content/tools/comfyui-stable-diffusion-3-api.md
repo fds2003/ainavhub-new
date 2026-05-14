@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI Stable Diffusion 3 API让你通过接口在ComfyUI中使用Stable 3模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ZHO-ZHO-ZHO/ComfyUI-StableDiffusion3-API)
+- [官网](https://github.com/ZHO-ZHO-ZHO/ComfyUI-StableDiffusion3-API)

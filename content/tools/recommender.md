@@ -12,6 +12,6 @@ draft: false
 
 Recommender 是一款基于 Plex 库和评分提供个性化电影与电视节目推荐的应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gorgarp/Recommender)
+- [官网](https://github.com/gorgarp/Recommender)

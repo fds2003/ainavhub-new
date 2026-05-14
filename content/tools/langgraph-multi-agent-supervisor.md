@@ -12,6 +12,6 @@ draft: false
 
 LangGraph Multi-Agent Supervisor是一个Python库，用于创建层次化的多智能体系统，通过超级智能体协调多个专业智能体的任务与沟通。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/langgraph-supervisor)
+- [官网](https://github.com/langchain-ai/langgraph-supervisor)

@@ -12,6 +12,6 @@ draft: false
 
 NVIDIA-Ingest是一个高性能的文档内容及元数据提取微服务，支持PDF、Word和PPT等多种格式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NVIDIA/nv-ingest)
+- [官网](https://github.com/NVIDIA/nv-ingest)

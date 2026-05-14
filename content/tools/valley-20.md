@@ -12,6 +12,6 @@ draft: false
 
 Valley 2.0是字节跳动开发的一款先进多模态大模型，可处理文本、图像和视频数据。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bytedance/Valley)
+- [官网](https://github.com/bytedance/Valley)

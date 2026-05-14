@@ -12,6 +12,6 @@ draft: false
 
 Pydfy 是一个简化生成 PDF 报告的工具，支持多种组件和自定义。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BiteStreams/pydfy)
+- [官网](https://github.com/BiteStreams/pydfy)

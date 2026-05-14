@@ -12,6 +12,6 @@ draft: false
 
 MagicAnimate利用扩散模型实现人像动画，确保时间一致性，支持多种人像动画应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/magic-research/magic-animate)
+- [官网](https://github.com/magic-research/magic-animate)

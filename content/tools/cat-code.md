@@ -12,6 +12,6 @@ draft: false
 
 猫咪代码随机修改
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/koki-develop/cat-code)
+- [官网](https://github.com/koki-develop/cat-code)

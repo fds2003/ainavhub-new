@@ -12,6 +12,6 @@ draft: false
 
 Rewind功能是一个个性化的人工智能工具，它能够记录和整理用户在电脑上看到、说过、或听过的所有内容。Rewind的主要优势在于，它可以帮助用户更高效地完成工作，尤其是在以下几种情况下特别有用：
 
-## Links
+## 链接
 
-- [Official Website](https://www.rewind.ai/)
+- [官网](https://www.rewind.ai/)

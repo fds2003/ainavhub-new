@@ -12,6 +12,6 @@ draft: false
 
 AudioX是一款统一的扩散Transformer模型，可实现高质量的任意到音频生成，支持多种模态输入和自然语言控制。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ZeyueT/AudioX)
+- [官网](https://github.com/ZeyueT/AudioX)

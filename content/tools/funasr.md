@@ -12,6 +12,6 @@ draft: false
 
 阿里巴巴的语音转文字
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/alibaba-damo-academy/FunASR)
+- [官网](https://github.com/alibaba-damo-academy/FunASR)

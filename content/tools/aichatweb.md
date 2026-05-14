@@ -12,6 +12,6 @@ draft: false
 
 基于现代聊天模型（例如GPT系列）构建的Web应用程序框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nanjiren01/AIChatWeb)
+- [官网](https://github.com/Nanjiren01/AIChatWeb)

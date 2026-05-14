@@ -12,6 +12,6 @@ draft: false
 
 Light-R1-32B通过课程学习超越R1-Distill，仅用约1000美元训练成本，在数学问题上表现出色。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Qihoo360/Light-R1)
+- [官网](https://github.com/Qihoo360/Light-R1)

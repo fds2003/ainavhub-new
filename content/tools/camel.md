@@ -12,6 +12,6 @@ draft: false
 
 致力于研究多语言模型中的自主沟通代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/camel-ai/camel)
+- [官网](https://github.com/camel-ai/camel)

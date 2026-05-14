@@ -12,6 +12,6 @@ draft: false
 
 LangGraph RAG Research Agent 模板是一个用于开发研究代理的起始项目，旨在便捷处理文档索引与查询。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/rag-research-agent-template)
+- [官网](https://github.com/langchain-ai/rag-research-agent-template)

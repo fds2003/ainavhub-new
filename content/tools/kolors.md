@@ -12,6 +12,6 @@ draft: false
 
 Kolors是基于潜在扩散的大规模中英双语文本生成图像模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Kwai-Kolors/Kolors)
+- [官网](https://github.com/Kwai-Kolors/Kolors)

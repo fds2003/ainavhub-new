@@ -12,6 +12,6 @@ draft: false
 
 Llama-Slides是一款幻灯片生成器，可根据演讲笔记自动生成简洁美观的幻灯片。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/run-llama/llama-slides)
+- [官网](https://github.com/run-llama/llama-slides)

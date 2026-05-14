@@ -12,6 +12,6 @@ draft: false
 
 LLaVA-Mini是一种高效的多模态模型，仅需一个视觉令牌即可理解图像和视频。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ictnlp/LLaVA-Mini)
+- [官网](https://github.com/ictnlp/LLaVA-Mini)

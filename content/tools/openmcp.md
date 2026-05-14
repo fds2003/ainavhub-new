@@ -12,6 +12,6 @@ draft: false
 
 OpenAPI 转 MCP 服务器工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/getdatanaut/openmcp)
+- [官网](https://github.com/getdatanaut/openmcp)

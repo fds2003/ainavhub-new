@@ -12,6 +12,6 @@ draft: false
 
 阿里巴巴ViViD是一种利用扩散模型实现视频虚拟试穿的新框架。
 
-## Links
+## 链接
 
-- [Official Website](https://becauseimbatman0.github.io/ViViD)
+- [官网](https://becauseimbatman0.github.io/ViViD)

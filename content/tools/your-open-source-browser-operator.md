@@ -12,6 +12,6 @@ draft: false
 
 Openator是一款开源浏览器代理工具，能够执行自然语言制定的操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/agentlabs-dev/openator)
+- [官网](https://github.com/agentlabs-dev/openator)

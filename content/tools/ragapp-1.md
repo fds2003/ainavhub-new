@@ -12,6 +12,6 @@ draft: false
 
 RAGapp 通过 Docker 实现简单易用的 Agentic RAG 部署，支持自有云基础设施。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ragapp/ragapp)
+- [官网](https://github.com/ragapp/ragapp)

@@ -12,6 +12,6 @@ draft: false
 
 Audio-Reasoner是一个大型音频语言模型，通过CoT推理，在MMAU和AIR-Bench-Chat上表现出色。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xzf-thu/Audio-Reasoner)
+- [官网](https://github.com/xzf-thu/Audio-Reasoner)

@@ -12,6 +12,6 @@ draft: false
 
 IBM推出的一系列编码生成模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ibm-granite/granite-code-models)
+- [官网](https://github.com/ibm-granite/granite-code-models)

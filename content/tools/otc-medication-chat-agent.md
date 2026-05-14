@@ -12,6 +12,6 @@ draft: false
 
 OTC用药推荐助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yixinzhang98/otc_med_chat_agent)
+- [官网](https://github.com/yixinzhang98/otc_med_chat_agent)

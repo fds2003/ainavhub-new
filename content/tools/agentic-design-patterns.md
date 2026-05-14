@@ -12,6 +12,6 @@ draft: false
 
 智能体设计模式中英对照翻译
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ginobefun/agentic-design-patterns-cn)
+- [官网](https://github.com/ginobefun/agentic-design-patterns-cn)

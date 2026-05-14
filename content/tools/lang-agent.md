@@ -12,6 +12,6 @@ draft: false
 
 LangGraph AI Agent 可视化编排
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cqzyys/lang-agent)
+- [官网](https://github.com/cqzyys/lang-agent)

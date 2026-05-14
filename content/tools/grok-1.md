@@ -12,6 +12,6 @@ draft: false
 
 马斯克开源的Grok-1模型，目前为止最大的开源大语言模型
 
-## Links
+## 链接
 
-- [Official Website](https://x.ai/blog/grok-os)
+- [官网](https://x.ai/blog/grok-os)

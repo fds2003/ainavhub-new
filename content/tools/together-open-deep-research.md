@@ -12,6 +12,6 @@ draft: false
 
 Together Open Deep Research是AI驱动的深度研究工具，能生成含引用、多阶段的综合性报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/togethercomputer/open_deep_research)
+- [官网](https://github.com/togethercomputer/open_deep_research)

@@ -12,6 +12,6 @@ draft: false
 
 专注于中文处理的大型语言模型，它有20亿参数，主要用中文数据进行训练
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Chinese-Tiny-LLM/Chinese-Tiny-LLM)
+- [官网](https://github.com/Chinese-Tiny-LLM/Chinese-Tiny-LLM)

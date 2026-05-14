@@ -12,6 +12,6 @@ draft: false
 
 AI自动化Windows
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/CursorTouch/Windows-Use)
+- [官网](https://github.com/CursorTouch/Windows-Use)

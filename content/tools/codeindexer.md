@@ -12,6 +12,6 @@ draft: false
 
 AI代码智能索引与语义搜索
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zilliztech/CodeIndexer)
+- [官网](https://github.com/zilliztech/CodeIndexer)

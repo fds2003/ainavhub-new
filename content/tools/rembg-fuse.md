@@ -12,6 +12,6 @@ draft: false
 
 Fusion 智能抠图插件
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Akascape/Rembg-Fuse)
+- [官网](https://github.com/Akascape/Rembg-Fuse)

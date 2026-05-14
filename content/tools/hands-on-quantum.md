@@ -12,6 +12,6 @@ draft: false
 
 本课程通过动手实践，教授谷歌量子AI的量子错误纠正基础知识，适合中级学习者。
 
-## Links
+## 链接
 
-- [Official Website](https://www.coursera.org/learn/quantum-error-correction)
+- [官网](https://www.coursera.org/learn/quantum-error-correction)

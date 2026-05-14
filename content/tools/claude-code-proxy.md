@@ -12,6 +12,6 @@ draft: false
 
 Claude Code OpenAI兼容代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fuergaosi233/claude-code-proxy)
+- [官网](https://github.com/fuergaosi233/claude-code-proxy)

@@ -12,6 +12,6 @@ draft: false
 
 Windows无WSL运行Claude Code
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/somersby10ml/win-claude-code)
+- [官网](https://github.com/somersby10ml/win-claude-code)

@@ -12,6 +12,6 @@ draft: false
 
 FuzzyAI Fuzzer是一个自动化测试工具，帮助开发者和安全研究人员识别和修复LLM API中的安全漏洞。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cyberark/FuzzyAI)
+- [官网](https://github.com/cyberark/FuzzyAI)

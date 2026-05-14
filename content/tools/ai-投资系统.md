@@ -12,6 +12,6 @@ draft: false
 
 AI投资系统是一个基于人工智能的教育项目，通过多个智能代理分析市场数据，辅助投资决策。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/24mlight/A_Share_investment_Agent)
+- [官网](https://github.com/24mlight/A_Share_investment_Agent)

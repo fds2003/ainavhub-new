@@ -12,6 +12,6 @@ draft: false
 
 Turbular是一个开源模型上下文协议(MCP)服务器，为LLM提供统一API，连接多种数据库，实现无缝数据交互。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/raeudigerRaeffi/turbular)
+- [官网](https://github.com/raeudigerRaeffi/turbular)

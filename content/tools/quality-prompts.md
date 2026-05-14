@@ -12,6 +12,6 @@ draft: false
 
 Quality Prompts是一个包含58种提示技术的工具库，可以快速评估和使用提示方法。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sarthakrastogi/quality-prompts)
+- [官网](https://github.com/sarthakrastogi/quality-prompts)

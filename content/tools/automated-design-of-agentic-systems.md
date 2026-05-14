@@ -12,6 +12,6 @@ draft: false
 
 本研究领域旨在自动设计智能系统，通过新颖构件的发明和组合，提升系统能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ShengranHu/ADAS)
+- [官网](https://github.com/ShengranHu/ADAS)

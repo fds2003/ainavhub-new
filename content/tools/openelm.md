@@ -12,6 +12,6 @@ draft: false
 
 OpenELM是苹果机器学习研究团队发布的高效开源语言模型家族
 
-## Links
+## 链接
 
-- [Official Website](https://machinelearning.apple.com/research/openelm)
+- [官网](https://machinelearning.apple.com/research/openelm)

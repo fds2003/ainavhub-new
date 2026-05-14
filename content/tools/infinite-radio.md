@@ -12,6 +12,6 @@ draft: false
 
 智能上下文音乐电台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LaurieWired/InfiniteRadio)
+- [官网](https://github.com/LaurieWired/InfiniteRadio)

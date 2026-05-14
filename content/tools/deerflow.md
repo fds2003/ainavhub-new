@@ -12,6 +12,6 @@ draft: false
 
 DeerFlow是社区驱动的深度研究框架，结合语言模型与专业工具，致力于回馈开源社区。(源于开源，回馈开源)
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bytedance/deer-flow)
+- [官网](https://github.com/bytedance/deer-flow)

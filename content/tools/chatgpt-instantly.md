@@ -12,6 +12,6 @@ draft: false
 
 无需注册即可立即使用ChatGPT
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/blog/start-using-chatgpt-instantly)
+- [官网](https://openai.com/blog/start-using-chatgpt-instantly)

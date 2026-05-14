@@ -12,6 +12,6 @@ draft: false
 
 致力于人形机器人研发的初创公司
 
-## Links
+## 链接
 
-- [Official Website](https://apptronik.com/)
+- [官网](https://apptronik.com/)

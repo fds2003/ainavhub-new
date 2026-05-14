@@ -12,6 +12,6 @@ draft: false
 
 OSWorld是一款用于真实计算机环境中多模态代理开放式任务基准测试的先进平台
 
-## Links
+## 链接
 
-- [Official Website](https://os-world.github.io/)
+- [官网](https://os-world.github.io/)

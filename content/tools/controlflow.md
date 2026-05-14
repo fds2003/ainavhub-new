@@ -12,6 +12,6 @@ draft: false
 
 ControlFlow 是一个用于构建AI工作流的Python框架，结合任务、代理和流程管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PrefectHQ/ControlFlow)
+- [官网](https://github.com/PrefectHQ/ControlFlow)

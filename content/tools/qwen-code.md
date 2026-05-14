@@ -12,6 +12,6 @@ draft: false
 
 Qwen代码AI命令行工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/qwen-code)
+- [官网](https://github.com/QwenLM/qwen-code)

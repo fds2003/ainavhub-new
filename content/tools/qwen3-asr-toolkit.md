@@ -12,6 +12,6 @@ draft: false
 
 Qwen ASR 超长音视频转录
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/Qwen3-ASR-Toolkit)
+- [官网](https://github.com/QwenLM/Qwen3-ASR-Toolkit)

@@ -12,6 +12,6 @@ draft: false
 
 AI代理Git差分记忆
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Growth-Kinetics/DiffMem)
+- [官网](https://github.com/Growth-Kinetics/DiffMem)

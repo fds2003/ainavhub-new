@@ -12,6 +12,6 @@ draft: false
 
 MotionGPT是一个统一、多功能的人体运动与语言模型，能够处理多种与运动相关的任务。
 
-## Links
+## 链接
 
-- [Official Website](https://motion-gpt.github.io/)
+- [官网](https://motion-gpt.github.io/)

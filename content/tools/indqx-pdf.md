@@ -12,6 +12,6 @@ draft: false
 
 Indqx PDF 翻译提供论文PDF的自动化翻译，确保格式不变并可在本地运行。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Mega-Gorilla/Index_PDF_Translation)
+- [官网](https://github.com/Mega-Gorilla/Index_PDF_Translation)

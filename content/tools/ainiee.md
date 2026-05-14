@@ -12,6 +12,6 @@ draft: false
 
 AI多格式长文本翻译工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NEKOparapa/AiNiee)
+- [官网](https://github.com/NEKOparapa/AiNiee)

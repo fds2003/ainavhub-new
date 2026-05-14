@@ -12,6 +12,6 @@ draft: false
 
 RA.Aid是一款强大的人工智能命令行工具，可以自动化开发任务，提供智能助理支持。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ai-christianson/RA.Aid)
+- [官网](https://github.com/ai-christianson/RA.Aid)

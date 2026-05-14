@@ -12,6 +12,6 @@ draft: false
 
 适用于个人或团队共享 ChatGPT Plus 账号的管理解决方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chatpire/chatgpt-web-share)
+- [官网](https://github.com/chatpire/chatgpt-web-share)

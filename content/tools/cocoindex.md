@@ -12,6 +12,6 @@ draft: false
 
 CocoIndex是开源数据索引引擎，支持自定义转换逻辑和增量更新，易于提取、转换和索引数据。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cocoindex-io/cocoindex)
+- [官网](https://github.com/cocoindex-io/cocoindex)

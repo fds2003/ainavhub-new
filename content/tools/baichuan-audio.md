@@ -12,6 +12,6 @@ draft: false
 
 百川-Audio是一个开源端到端语音交互模型，支持高质量、可控的实时中英双语对话。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/baichuan-inc/Baichuan-Audio)
+- [官网](https://github.com/baichuan-inc/Baichuan-Audio)

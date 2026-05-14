@@ -12,6 +12,6 @@ draft: false
 
 AivisSpeech是一款基于VOICEVOX的日语文本转语音合成软件，支持情感丰富的音频生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Aivis-Project/AivisSpeech)
+- [官网](https://github.com/Aivis-Project/AivisSpeech)

@@ -12,6 +12,6 @@ draft: false
 
 微软推出9款更逼真的AI语音，现已全面开放使用，适合各种对话场景
 
-## Links
+## 链接
 
-- [Official Website](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/9-more-realistic-ai-voices-for-conversations-now-generally/ba-p/4099471)
+- [官网](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/9-more-realistic-ai-voices-for-conversations-now-generally/ba-p/4099471)

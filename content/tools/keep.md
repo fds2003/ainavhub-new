@@ -12,6 +12,6 @@ draft: false
 
 KEEP是一种基于卡尔曼滤波的特征传播方法，旨在提升视频人脸超分辨率效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jnjaby/KEEP)
+- [官网](https://github.com/jnjaby/KEEP)

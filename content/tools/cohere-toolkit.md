@@ -12,6 +12,6 @@ draft: false
 
 构建和部署基于检索增强生成技术
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cohere-ai/cohere-toolkit)
+- [官网](https://github.com/cohere-ai/cohere-toolkit)

@@ -12,6 +12,6 @@ draft: false
 
 Claude Code Powerline 状态栏增强
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Owloops/claude-powerline)
+- [官网](https://github.com/Owloops/claude-powerline)

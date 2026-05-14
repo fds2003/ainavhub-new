@@ -12,6 +12,6 @@ draft: false
 
 AI自动化代码审查
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/spherical-up/Easy-AI-CodeReview)
+- [官网](https://github.com/spherical-up/Easy-AI-CodeReview)

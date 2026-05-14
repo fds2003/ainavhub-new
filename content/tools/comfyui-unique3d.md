@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI Unique3D 是将 Unique3D 集成到 ComfyUI 的自定义节点。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jtydhr88/ComfyUI-Unique3D)
+- [官网](https://github.com/jtydhr88/ComfyUI-Unique3D)

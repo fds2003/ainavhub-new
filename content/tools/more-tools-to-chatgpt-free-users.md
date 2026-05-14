@@ -12,6 +12,6 @@ draft: false
 
 GPT-4o的5个使用场景
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
+- [官网](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)

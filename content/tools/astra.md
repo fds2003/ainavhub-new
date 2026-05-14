@@ -12,6 +12,6 @@ draft: false
 
 AI软件助手自主红队系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PurCL/ASTRA)
+- [官网](https://github.com/PurCL/ASTRA)

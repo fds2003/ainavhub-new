@@ -12,6 +12,6 @@ draft: false
 
 TinyFusion是一种用于深度修剪扩散变换器的可学习方法，显著提高了训练效率与模型性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VainF/TinyFusion)
+- [官网](https://github.com/VainF/TinyFusion)

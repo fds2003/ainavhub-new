@@ -12,6 +12,6 @@ draft: false
 
 Wan2.1是一款开源的视频生成模型，支持多种任务和分辨率，性能领先于现有模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Wan-Video/Wan2.1)
+- [官网](https://github.com/Wan-Video/Wan2.1)

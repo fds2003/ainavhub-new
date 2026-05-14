@@ -12,6 +12,6 @@ draft: false
 
 MusiConGen利用预训练的MusicGen实现文本到音乐生成并可控制节奏和和弦。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Cyan0731/MusiConGen)
+- [官网](https://github.com/Cyan0731/MusiConGen)

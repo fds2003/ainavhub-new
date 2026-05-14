@@ -12,6 +12,6 @@ draft: false
 
 OpenAI Codex CLI是轻量级终端编码助手，具备ChatGPT推理能力，可运行代码、操作文件并迭代，实现代码版本控制。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/codex)
+- [官网](https://github.com/openai/codex)

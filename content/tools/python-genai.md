@@ -12,6 +12,6 @@ draft: false
 
 Python-genai是Google的Gen AI SDK，提供Python接口访问Google AI模型，支持文本生成、图像生成等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/googleapis/python-genai)
+- [官网](https://github.com/googleapis/python-genai)

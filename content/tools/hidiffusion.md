@@ -12,6 +12,6 @@ draft: false
 
 扩散模型能够生成更高分辨率的图像
 
-## Links
+## 链接
 
-- [Official Website](https://hidiffusion.github.io/)
+- [官网](https://hidiffusion.github.io/)

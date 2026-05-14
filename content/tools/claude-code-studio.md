@@ -12,6 +12,6 @@ draft: false
 
 Claude AI开发：上下文解限与代理系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/arnaldo-delisio/claude-code-studio)
+- [官网](https://github.com/arnaldo-delisio/claude-code-studio)

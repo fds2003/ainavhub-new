@@ -12,6 +12,6 @@ draft: false
 
 DevSeeker：AI代码生成与改进工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/iBz-04/Devseeker)
+- [官网](https://github.com/iBz-04/Devseeker)

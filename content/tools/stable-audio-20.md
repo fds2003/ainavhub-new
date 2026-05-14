@@ -12,6 +12,6 @@ draft: false
 
 支持生成高品质音乐并具有音频到音频转换功能的AI工具
 
-## Links
+## 链接
 
-- [Official Website](https://stableaudio.com/)
+- [官网](https://stableaudio.com/)

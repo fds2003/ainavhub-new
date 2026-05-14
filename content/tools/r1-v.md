@@ -12,6 +12,6 @@ draft: false
 
 R1-V项目旨在通过强化学习提升视觉语言模型的泛化能力与训练效率，贡献开源研究。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Deep-Agent/R1-V)
+- [官网](https://github.com/Deep-Agent/R1-V)

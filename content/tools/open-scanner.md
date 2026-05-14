@@ -12,6 +12,6 @@ draft: false
 
 Open Scanner是一款免费快速的文档扫描应用，支持多设备同步，尊重隐私。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/pencilresearch/OpenScanner)
+- [官网](https://github.com/pencilresearch/OpenScanner)

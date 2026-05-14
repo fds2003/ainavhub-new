@@ -12,6 +12,6 @@ draft: false
 
 Web Agent Protocol(WAP)是一种标准化框架，通过记录和重放浏览器行为，实现用户、Web代理和浏览器之间的无缝交互。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OTA-Tech-AI/web-agent-protocol)
+- [官网](https://github.com/OTA-Tech-AI/web-agent-protocol)

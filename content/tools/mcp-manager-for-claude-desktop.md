@@ -12,6 +12,6 @@ draft: false
 
 MCP Manager for Claude Desktop是一款Mac应用，方便管理MCP服务器，增强Claude的上下文访问能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ZukAi-MCP/mcp-manager)
+- [官网](https://github.com/ZukAi-MCP/mcp-manager)

@@ -12,6 +12,6 @@ draft: false
 
 MiMo是小米从头训练的7B模型，旨在通过预训练和后训练策略，释放语言模型的推理潜力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/XiaomiMiMo/MiMo)
+- [官网](https://github.com/XiaomiMiMo/MiMo)

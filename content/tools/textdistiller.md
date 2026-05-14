@@ -12,6 +12,6 @@ draft: false
 
 TextDistiller是一款AI驱动的文档摘要工具，能够高效提炼书籍的章节或整体内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/johngai19/TextDistiller)
+- [官网](https://github.com/johngai19/TextDistiller)

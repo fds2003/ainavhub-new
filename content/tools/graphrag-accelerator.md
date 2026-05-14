@@ -12,6 +12,6 @@ draft: false
 
 GraphRAG Accelerator是一个基于Azure的API加速器，用于索引和查询知识图谱。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Azure-Samples/graphrag-accelerator)
+- [官网](https://github.com/Azure-Samples/graphrag-accelerator)

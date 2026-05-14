@@ -12,6 +12,6 @@ draft: false
 
 WebWalker 是一个基准工具，旨在评估大型语言模型在网页导航任务中的表现。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alibaba-nlp/WebWalker)
+- [官网](https://github.com/Alibaba-nlp/WebWalker)

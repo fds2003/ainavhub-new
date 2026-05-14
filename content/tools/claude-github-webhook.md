@@ -12,6 +12,6 @@ draft: false
 
 Claude GitHub Webhook：AI驱动的GitHub全自动开发机器人
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/claude-did-this/claude-hub)
+- [官网](https://github.com/claude-did-this/claude-hub)

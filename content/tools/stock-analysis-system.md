@@ -12,6 +12,6 @@ draft: false
 
 股票分析系统是A股专业分析工具，提供单股、批量扫描及高级技术指标分析，辅助投资决策。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DR-lin-eng/stock-scanner)
+- [官网](https://github.com/DR-lin-eng/stock-scanner)

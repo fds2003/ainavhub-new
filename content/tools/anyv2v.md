@@ -12,6 +12,6 @@ draft: false
 
 新颖的视频编辑框架，可以帮助用户通过两个简单步骤来编辑视频,提示（prompt-based）的编辑,风格转移，身份操控都不在话下
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TIGER-AI-Lab/AnyV2V)
+- [官网](https://github.com/TIGER-AI-Lab/AnyV2V)

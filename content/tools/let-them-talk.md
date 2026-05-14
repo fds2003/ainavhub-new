@@ -12,6 +12,6 @@ draft: false
 
 语音驱动的多人对话视频生成：Let Them Talk
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MeiGen-AI/MultiTalk)
+- [官网](https://github.com/MeiGen-AI/MultiTalk)

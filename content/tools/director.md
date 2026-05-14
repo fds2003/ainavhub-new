@@ -12,6 +12,6 @@ draft: false
 
 Director是一个视频代理框架，能够自动处理复杂的视频任务，如搜索、编辑和生成等。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/video-db/director)
+- [官网](https://github.com/video-db/director)

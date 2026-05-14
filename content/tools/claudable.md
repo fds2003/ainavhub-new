@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的Web应用构建与部署
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/opactorai/Claudable)
+- [官网](https://github.com/opactorai/Claudable)

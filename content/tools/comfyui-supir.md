@@ -12,6 +12,6 @@ draft: false
 
 图像和视频增强的工具，专门围绕SUPIR模型开发，通过ComfyUI界面增强用户体验
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kijai/ComfyUI-SUPIR)
+- [官网](https://github.com/kijai/ComfyUI-SUPIR)

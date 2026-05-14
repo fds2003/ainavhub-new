@@ -12,6 +12,6 @@ draft: false
 
 R1-OneVision是一个开源的多模态大语言模型，具备强大的推理能力，在视觉推理任务中表现出色。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Fancy-MLLM/R1-Onevision)
+- [官网](https://github.com/Fancy-MLLM/R1-Onevision)

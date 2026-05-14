@@ -12,6 +12,6 @@ draft: false
 
 Xata Agent是开源AI助手，监控PostgreSQL数据库，诊断问题，并提供修复和优化建议。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xataio/agent)
+- [官网](https://github.com/xataio/agent)

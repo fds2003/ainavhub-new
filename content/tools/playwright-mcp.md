@@ -12,6 +12,6 @@ draft: false
 
 Playwright MCP是利用Playwright的MCP服务器，通过结构化数据赋能LLM进行快速可靠的网页自动化操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/playwright-mcp)
+- [官网](https://github.com/microsoft/playwright-mcp)

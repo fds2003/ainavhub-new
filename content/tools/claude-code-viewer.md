@@ -12,6 +12,6 @@ draft: false
 
 Claude 代码项目Web管理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/d-kimuson/claude-code-viewer)
+- [官网](https://github.com/d-kimuson/claude-code-viewer)

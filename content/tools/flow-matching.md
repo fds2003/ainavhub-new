@@ -12,6 +12,6 @@ draft: false
 
 Flow Matching是一个基于PyTorch的库，提供连续与离散流匹配算法的实现，适用于文本和图像。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/flow_matching)
+- [官网](https://github.com/facebookresearch/flow_matching)

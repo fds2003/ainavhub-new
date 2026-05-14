@@ -12,6 +12,6 @@ draft: false
 
 基于GPT-2模型的聊天机器人
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xcapt0/gpt2_chatbot)
+- [官网](https://github.com/xcapt0/gpt2_chatbot)

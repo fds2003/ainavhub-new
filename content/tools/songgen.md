@@ -12,6 +12,6 @@ draft: false
 
 SongGen是一种单阶段自回归变换器，可根据文本生成歌曲，支持多种控制方式与模式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LiuZH-19/SongGen)
+- [官网](https://github.com/LiuZH-19/SongGen)

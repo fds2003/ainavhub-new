@@ -12,6 +12,6 @@ draft: false
 
 跨语言AI智能体平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/runagent-dev/runagent)
+- [官网](https://github.com/runagent-dev/runagent)

@@ -12,6 +12,6 @@ draft: false
 
 DiffusionDrive是一种新型截断扩散模型，实现端到端的自主驾驶，具有更快、更准确和多样化的性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hustvl/DiffusionDrive)
+- [官网](https://github.com/hustvl/DiffusionDrive)

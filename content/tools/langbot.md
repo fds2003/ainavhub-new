@@ -12,6 +12,6 @@ draft: false
 
 LangBot 是一个高稳定性、大模型支持的即时通信机器人平台，适用于多种聊天工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RockChinQ/LangBot)
+- [官网](https://github.com/RockChinQ/LangBot)

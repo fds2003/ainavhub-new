@@ -12,6 +12,6 @@ draft: false
 
 ChatTTS 是专为对话场景设计的文本到语音模型，支持中文和英文生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/2noise/ChatTTS)
+- [官网](https://github.com/2noise/ChatTTS)

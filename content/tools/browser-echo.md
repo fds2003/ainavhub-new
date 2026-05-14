@@ -12,6 +12,6 @@ draft: false
 
 开发终端浏览器日志流
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/instructa/browser-echo)
+- [官网](https://github.com/instructa/browser-echo)

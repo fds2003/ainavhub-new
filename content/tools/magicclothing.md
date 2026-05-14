@@ -12,6 +12,6 @@ draft: false
 
 虚拟服装试穿技术
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/frankchieng/ComfyUI_MagicClothing)
+- [官网](https://github.com/frankchieng/ComfyUI_MagicClothing)

@@ -12,6 +12,6 @@ draft: false
 
 OSINT开源情报信息收集工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bytillo/spyder-osint)
+- [官网](https://github.com/bytillo/spyder-osint)

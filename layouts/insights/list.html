@@ -2,51 +2,27 @@
 <div class="page-container">
     <div class="page-header">
         <h1>{{ .Title }}</h1>
-        <p class="page-desc">Analysis, reviews, and best practices for AI-powered development.</p>
+        <p class="page-desc">AI 开发深度分析、评测和最佳实践。</p>
     </div>
     {{ if .Pages }}
-    <div class="insights-list">
+    <div class="guides-list">
         {{ range .Pages.ByDate.Reverse }}
-        <div class="insight-card">
+        <article class="guide-card">
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <p>{{ .Description }}</p>
-            <time>{{ .Date.Format "Jan 2, 2006" }}</time>
-        </div>
+            <time>{{ .Date.Format "2006-01-02" }}</time>
+        </article>
         {{ end }}
     </div>
     {{ else }}
-    <div class="empty-state">
+    <div class="page-container" style="text-align: center; padding: 4rem 2rem;">
         <div style="font-size: 3rem; margin-bottom: 1rem;">💡</div>
-        <h2>Insights Coming Soon</h2>
-        <p>We're preparing in-depth analysis and best practices for the AI development ecosystem.</p>
-        <a href="/tools/" class="btn btn-primary" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: var(--accent-gradient); color: white; font-weight: 600; border-radius: 6px; text-decoration: none; margin-top: 1.5rem;">
-            Browse Tools
+        <h2 style="font-size: 1.5rem; font-weight: 700; margin-bottom: 0.75rem;">洞察即将上线</h2>
+        <p style="color: var(--text-secondary);">我们正在准备 AI 开发的深度分析和最佳实践内容。</p>
+        <a href="/tools/" class="btn btn-primary" style="margin-top: 1.5rem;">
+            浏览工具
         </a>
     </div>
     {{ end }}
 </div>
-
-<style>
-.page-container { max-width: 800px; margin: 0 auto; padding: 3rem 2rem; }
-.page-header { margin-bottom: 3rem; }
-.page-header h1 { font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem; }
-.page-desc { color: var(--text-secondary); font-size: 1.125rem; }
-.insights-list { display: flex; flex-direction: column; gap: 1.25rem; }
-.insight-card {
-    background: var(--bg-card);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-md);
-    padding: 1.5rem;
-    transition: all 200ms ease;
-}
-.insight-card:hover { background: var(--bg-card-hover); border-color: var(--border-light); }
-.insight-card h2 { font-size: 1.125rem; font-weight: 600; margin-bottom: 0.5rem; }
-.insight-card h2 a { color: var(--text-primary); }
-.insight-card h2 a:hover { color: var(--accent-primary-hover); }
-.insight-card p { color: var(--text-secondary); font-size: 0.875rem; margin-bottom: 0.75rem; }
-.insight-card time { color: var(--text-muted); font-size: 0.75rem; }
-.empty-state { text-align: center; padding: 4rem 2rem; }
-.empty-state h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.75rem; }
-.empty-state p { color: var(--text-secondary); }
-</style>
 {{ end }}

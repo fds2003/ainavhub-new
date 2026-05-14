@@ -12,6 +12,6 @@ draft: false
 
 Claude Memory是一款Chrome扩展，能存储和检索与你的Claude对话中的重要信息，使互动更个性化。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/deshraj/claude-memory)
+- [官网](https://github.com/deshraj/claude-memory)

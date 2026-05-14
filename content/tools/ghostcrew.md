@@ -12,6 +12,6 @@ draft: false
 
 AI渗透测试助手：GHOSTCREW
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GH05TCREW/ghostcrew)
+- [官网](https://github.com/GH05TCREW/ghostcrew)

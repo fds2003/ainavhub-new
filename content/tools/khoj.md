@@ -12,6 +12,6 @@ draft: false
 
 Khoj是一款开源个人AI应用，帮助用户扩展数字记忆和能力，支持各种文件和平台。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/khoj-ai/khoj)
+- [官网](https://github.com/khoj-ai/khoj)

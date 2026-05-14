@@ -12,6 +12,6 @@ draft: false
 
 Llama Tutor 是一个开源的AI个人导师，使用Llama 3 70B和Together.ai技术。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/llamatutor)
+- [官网](https://github.com/Nutlope/llamatutor)

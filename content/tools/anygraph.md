@@ -12,6 +12,6 @@ draft: false
 
 AnyGraph是一个图基础模型，可在多个领域实现零样本预测，具备快速适应和广泛泛化能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HKUDS/AnyGraph)
+- [官网](https://github.com/HKUDS/AnyGraph)

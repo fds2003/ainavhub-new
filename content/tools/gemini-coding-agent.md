@@ -12,6 +12,6 @@ draft: false
 
 Gemini Coding Agent是基于Gemini模型的Python交互式编程助手，可读写文件、执行命令，并提供安全沙箱环境。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/voxmenthe/coding-agent)
+- [官网](https://github.com/voxmenthe/coding-agent)

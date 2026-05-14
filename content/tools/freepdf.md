@@ -12,6 +12,6 @@ draft: false
 
 多语言PDF阅读翻译问答
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zstar1003/FreePDF)
+- [官网](https://github.com/zstar1003/FreePDF)

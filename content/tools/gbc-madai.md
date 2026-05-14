@@ -12,6 +12,6 @@ draft: false
 
 智能医疗助手系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zhanlangerba/gbc-madai)
+- [官网](https://github.com/zhanlangerba/gbc-madai)

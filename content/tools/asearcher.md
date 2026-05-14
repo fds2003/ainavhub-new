@@ -12,6 +12,6 @@ draft: false
 
 搜索智能体大规模强化学习框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/inclusionAI/ASearcher)
+- [官网](https://github.com/inclusionAI/ASearcher)

@@ -12,6 +12,6 @@ draft: false
 
 GraphRAG 微软开源的知识图谱RAG
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/graphrag)
+- [官网](https://github.com/microsoft/graphrag)

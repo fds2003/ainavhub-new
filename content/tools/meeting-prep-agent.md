@@ -12,6 +12,6 @@ draft: false
 
 Meeting Prep Agent利用Tavily搜索和MCP，实时分析会议信息，助你充分准备会议。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/tavily-ai/meeting-prep-agent)
+- [官网](https://github.com/tavily-ai/meeting-prep-agent)

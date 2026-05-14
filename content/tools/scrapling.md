@@ -12,6 +12,6 @@ draft: false
 
 Scrapling是高性能的Python网页抓取库，可自动适应网站变化，轻松高效地抓取网页。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/D4Vinci/Scrapling)
+- [官网](https://github.com/D4Vinci/Scrapling)

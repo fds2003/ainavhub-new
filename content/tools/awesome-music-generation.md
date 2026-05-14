@@ -12,6 +12,6 @@ draft: false
 
 Awesome-Music-Generation是一个基于旋律指导的音乐生成模型，能为短视频生成个性化背景音乐。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shaopengw/Awesome-Music-Generation)
+- [官网](https://github.com/shaopengw/Awesome-Music-Generation)

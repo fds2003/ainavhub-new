@@ -12,6 +12,6 @@ draft: false
 
 Weebo是一款基于Whisper、Llama和Kokoro的实时语音对话聊天机器人，支持多种语音响应。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/amanvirparhar/weebo)
+- [官网](https://github.com/amanvirparhar/weebo)

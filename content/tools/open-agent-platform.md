@@ -12,6 +12,6 @@ draft: false
 
 Open Agent Platform是无代码Agent构建平台，支持RAG集成、Agent监督和多种工具连接，简化Agent管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/open-agent-platform)
+- [官网](https://github.com/langchain-ai/open-agent-platform)

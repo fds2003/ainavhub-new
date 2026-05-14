@@ -12,6 +12,6 @@ draft: false
 
 AutoStudio提供无需训练的多智能体框架，实现多回合交互式一致性图像生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/donahowe/AutoStudio)
+- [官网](https://github.com/donahowe/AutoStudio)

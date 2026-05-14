@@ -12,6 +12,6 @@ draft: false
 
 具备中英双语理解和多轮对话能力的多分辨率扩散式文本生成图像模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/HunyuanDiT)
+- [官网](https://github.com/Tencent/HunyuanDiT)

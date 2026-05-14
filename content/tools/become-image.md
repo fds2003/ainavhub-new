@@ -12,6 +12,6 @@ draft: false
 
 将任意人脸图片转换为另一幅图像的模型，可通过Replicate或ComfyUI运行。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fofr/cog-become-image)
+- [官网](https://github.com/fofr/cog-become-image)

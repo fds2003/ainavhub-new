@@ -12,6 +12,6 @@ draft: false
 
 Robo Blogger通过语音记录和自动生成技术，简化博客文章的创作过程，使内容更专业、结构更清晰。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/robo-blogger)
+- [官网](https://github.com/langchain-ai/robo-blogger)

@@ -12,6 +12,6 @@ draft: false
 
 EasyRec是一种基于语言模型的推荐系统，通过对用户和物品的协同信息进行处理，提升推荐效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HKUDS/EasyRec)
+- [官网](https://github.com/HKUDS/EasyRec)

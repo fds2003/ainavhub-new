@@ -12,6 +12,6 @@ draft: false
 
 Figma 是一个集设计、原型制作与跨团队协作的强大工具。
 
-## Links
+## 链接
 
-- [Official Website](https://www.figma.com/whats-new/)
+- [官网](https://www.figma.com/whats-new/)

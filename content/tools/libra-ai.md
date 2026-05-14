@@ -12,6 +12,6 @@ draft: false
 
 AI原生的Web应用开发平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nextify-limited/libra)
+- [官网](https://github.com/nextify-limited/libra)

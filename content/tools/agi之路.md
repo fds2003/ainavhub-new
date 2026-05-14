@@ -12,6 +12,6 @@ draft: false
 
 《AGI之路》深入探讨大模型的构建与应用，涵盖预训练、微调、量化等关键技术。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/luhengshiwo/LLMForEverybody)
+- [官网](https://github.com/luhengshiwo/LLMForEverybody)

@@ -12,6 +12,6 @@ draft: false
 
 Open Operator是一个概念验证工具，旨在提供构建网页代理所需的所有工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/browserbase/open-operator)
+- [官网](https://github.com/browserbase/open-operator)

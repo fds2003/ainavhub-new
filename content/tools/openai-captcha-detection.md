@@ -12,6 +12,6 @@ draft: false
 
 openai-captcha-detection 是一个基于 OpenAI 技术的高效验证码识别工具，准确率达100%。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/XiaomingX/openai-captcha-detection)
+- [官网](https://github.com/XiaomingX/openai-captcha-detection)

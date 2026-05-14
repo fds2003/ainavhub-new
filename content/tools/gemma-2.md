@@ -12,6 +12,6 @@ draft: false
 
 Google发布Gemma 2，面向研究人员和开发者的下一代开源模型。
 
-## Links
+## 链接
 
-- [Official Website](https://blog.google/technology/developers/google-gemma-2/)
+- [官网](https://blog.google/technology/developers/google-gemma-2/)

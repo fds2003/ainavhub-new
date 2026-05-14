@@ -12,6 +12,6 @@ draft: false
 
 DeeplxFile是一个基于Deeplx的免费文件翻译工具，支持Word、Excel等格式，大文件无限制。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/infrost/DeeplxFile)
+- [官网](https://github.com/infrost/DeeplxFile)

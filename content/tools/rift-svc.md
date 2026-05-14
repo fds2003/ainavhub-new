@@ -12,6 +12,6 @@ draft: false
 
 RIFT-SVC是基于Transformer的唱歌声音转换模型，具有多项优化与改进。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Pur1zumu/RIFT-SVC)
+- [官网](https://github.com/Pur1zumu/RIFT-SVC)

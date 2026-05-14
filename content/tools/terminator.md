@@ -12,6 +12,6 @@ draft: false
 
 Terminator是一款AI驱动的SDK，能高速可靠地自动化Windows和macOS上的原生GUI应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mediar-ai/terminator)
+- [官网](https://github.com/mediar-ai/terminator)

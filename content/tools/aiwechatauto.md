@@ -12,6 +12,6 @@ draft: false
 
 微信公众号AI内容创作与自动发布平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wojiadexiaoming-copy/AIWeChatauto)
+- [官网](https://github.com/wojiadexiaoming-copy/AIWeChatauto)

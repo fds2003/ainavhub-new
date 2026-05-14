@@ -12,6 +12,6 @@ draft: false
 
 LTX-Video是首个基于DiT的视频生成模型，能实时生成高质量768x512分辨率的视频。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Lightricks/LTX-Video)
+- [官网](https://github.com/Lightricks/LTX-Video)

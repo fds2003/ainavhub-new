@@ -12,6 +12,6 @@ draft: false
 
 Vexa是一个实时会议转录API，支持多种平台，旨在提供企业级的数据安全保障和灵活部署方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Vexa-ai/vexa)
+- [官网](https://github.com/Vexa-ai/vexa)

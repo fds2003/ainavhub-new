@@ -12,6 +12,6 @@ draft: false
 
 picoDeepResearch是一个受OpenAI Deep Research启发，用于训练LLM迭代使用工具并合成信息生成研究报告的框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/brendanhogan/picoDeepResearch)
+- [官网](https://github.com/brendanhogan/picoDeepResearch)

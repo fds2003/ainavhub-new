@@ -12,6 +12,6 @@ draft: false
 
 SkyReels V1 是一款先进的开源人性化视频生成模型，支持文本与图像到视频的转换。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SkyworkAI/SkyReels-V1)
+- [官网](https://github.com/SkyworkAI/SkyReels-V1)

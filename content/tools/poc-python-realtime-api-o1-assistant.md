@@ -12,6 +12,6 @@ draft: false
 
 该项目展示了如何使用OpenAI的实时API构建个性化AI助手，支持工具链和结构化输出。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/disler/poc-realtime-ai-assistant)
+- [官网](https://github.com/disler/poc-realtime-ai-assistant)

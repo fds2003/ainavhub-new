@@ -12,6 +12,6 @@ draft: false
 
 Robot Utility Models（RUMs）是一种无需微调即可在新环境中直接应用的机器人政策训练框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/haritheja-e/robot-utility-models)
+- [官网](https://github.com/haritheja-e/robot-utility-models)

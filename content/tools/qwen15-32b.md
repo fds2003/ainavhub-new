@@ -12,6 +12,6 @@ draft: false
 
 Qwen1.5-32B是Qwen1.5系列中性能与效率兼顾的最新语言模型，内存占用低，运行速度快。
 
-## Links
+## 链接
 
-- [Official Website](https://qwenlm.github.io/zh/blog/qwen1.5-32b/)
+- [官网](https://qwenlm.github.io/zh/blog/qwen1.5-32b/)

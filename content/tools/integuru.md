@@ -12,6 +12,6 @@ draft: false
 
 Integuru是一个AI工具，通过逆向工程生成平台的集成代码，自动化执行用户操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Integuru-AI/Integuru)
+- [官网](https://github.com/Integuru-AI/Integuru)

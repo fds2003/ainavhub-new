@@ -12,6 +12,6 @@ draft: false
 
 Chonkie是一款轻量级、快速且功能丰富的文本分块库，适用于RAG应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bhavnicksm/chonkie)
+- [官网](https://github.com/bhavnicksm/chonkie)

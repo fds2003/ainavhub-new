@@ -12,6 +12,6 @@ draft: false
 
 手机自然语言自动化AI代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/minitap-ai/mobile-use)
+- [官网](https://github.com/minitap-ai/mobile-use)

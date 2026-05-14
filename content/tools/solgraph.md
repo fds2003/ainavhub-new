@@ -12,6 +12,6 @@ draft: false
 
 SolGraph是Solana首个AI工作流协议，利用链上基础设施实现快速、透明且可验证的AI应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SolGraphDev/SolGraph)
+- [官网](https://github.com/SolGraphDev/SolGraph)

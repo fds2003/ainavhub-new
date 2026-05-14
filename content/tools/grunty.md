@@ -12,6 +12,6 @@ draft: false
 
 Grunty是一款自托管的桌面应用程序，可以让AI控制你的电脑，完成各种任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/suitedaces/computer-agent)
+- [官网](https://github.com/suitedaces/computer-agent)

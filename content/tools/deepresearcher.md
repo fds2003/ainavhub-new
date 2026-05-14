@@ -12,6 +12,6 @@ draft: false
 
 DeepResearcher是一个基于强化学习的LLM研究框架，通过真实网络环境训练，涌现认知能力，性能显著提升。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GAIR-NLP/DeepResearcher)
+- [官网](https://github.com/GAIR-NLP/DeepResearcher)

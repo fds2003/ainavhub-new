@@ -12,6 +12,6 @@ draft: false
 
 Sensei Search 是一款基于人工智能的问答引擎，支持本地和云端运行。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jjleng/sensei)
+- [官网](https://github.com/jjleng/sensei)

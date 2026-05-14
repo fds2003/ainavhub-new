@@ -12,6 +12,6 @@ draft: false
 
 Claude客服支持代理是一个高级、可定制的聊天界面，结合了AI和AWS知识库。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/anthropics/anthropic-quickstarts/blob/main/customer-support-agent/README.md)
+- [官网](https://github.com/anthropics/anthropic-quickstarts/blob/main/customer-support-agent/README.md)

@@ -12,6 +12,6 @@ draft: false
 
 Logo Diffusion是一个使用AI帮助你在几秒钟内设计出令人惊叹的标志和图形的智能设计平台。
 
-## Links
+## 链接
 
-- [Official Website](https://logodiffusion.com/)
+- [官网](https://logodiffusion.com/)

@@ -12,6 +12,6 @@ draft: false
 
 ChatGLM.cpp基于纯C++实现了ChatGLM系列模型，支持实时对话并提供多种量化和加速选项。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/li-plus/chatglm.cpp)
+- [官网](https://github.com/li-plus/chatglm.cpp)

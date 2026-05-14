@@ -12,6 +12,6 @@ draft: false
 
 Zero-Chatgpt是一个开源项目，旨在从零开始实现chatgpt的技术路线与模型训练。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AI-Study-Han/Zero-Chatgpt)
+- [官网](https://github.com/AI-Study-Han/Zero-Chatgpt)

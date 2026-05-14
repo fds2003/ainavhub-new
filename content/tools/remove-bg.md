@@ -12,6 +12,6 @@ draft: false
 
 Remove-BG 是一个基于 WebGPU 的在线工具，可以快速去除图片背景。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ducan-ne/remove-bg)
+- [官网](https://github.com/ducan-ne/remove-bg)

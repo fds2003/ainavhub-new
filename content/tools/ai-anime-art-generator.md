@@ -12,6 +12,6 @@ draft: false
 
 AI Anime Art Generator是一个适合初学者的AI动画艺术创作工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/enterwiz/ai-anime-art-generator)
+- [官网](https://github.com/enterwiz/ai-anime-art-generator)

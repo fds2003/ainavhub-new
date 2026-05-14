@@ -12,6 +12,6 @@ draft: false
 
 利用 AI 生成你所需的 Excel 公式的工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/weijunext/smart-excel-ai)
+- [官网](https://github.com/weijunext/smart-excel-ai)

@@ -12,6 +12,6 @@ draft: false
 
 PDF文档布局分析是一个基于Docker的服务，用于PDF文档的OCR、分段、分类和元素排序分析。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huridocs/pdf-document-layout-analysis)
+- [官网](https://github.com/huridocs/pdf-document-layout-analysis)

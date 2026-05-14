@@ -12,6 +12,6 @@ draft: false
 
 Ollama-GUI 是一个无需其他依赖的Python Tkinter实现的简易Ollama图形界面。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chyok/ollama-gui)
+- [官网](https://github.com/chyok/ollama-gui)

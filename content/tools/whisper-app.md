@@ -12,6 +12,6 @@ draft: false
 
 音频转录与文本转换
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/whisper)
+- [官网](https://github.com/Nutlope/whisper)

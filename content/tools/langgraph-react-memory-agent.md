@@ -12,6 +12,6 @@ draft: false
 
 LangGraph ReAct Memory Agent是一个能够保存用户记忆的智能聊天代理，使其在对话中记住用户偏好。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/memory-agent)
+- [官网](https://github.com/langchain-ai/memory-agent)

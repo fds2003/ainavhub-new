@@ -12,6 +12,6 @@ draft: false
 
 ArXiv MCP Server是一个桥接AI助手和arXiv的工具，允许通过MCP协议搜索和访问arXiv论文。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/blazickjp/arxiv-mcp-server)
+- [官网](https://github.com/blazickjp/arxiv-mcp-server)

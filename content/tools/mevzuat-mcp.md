@@ -12,6 +12,6 @@ draft: false
 
 土耳其法律法规 LLM 工具：Mevzuat MCP
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/saidsurucu/mevzuat-mcp)
+- [官网](https://github.com/saidsurucu/mevzuat-mcp)

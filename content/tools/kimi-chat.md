@@ -12,6 +12,6 @@ draft: false
 
 kimi chat是一款免费的AI对话聊天工具，具有多种功能点，包括：
 
-## Links
+## 链接
 
-- [Official Website](https://kimi.moonshot.cn/)
+- [官网](https://kimi.moonshot.cn/)

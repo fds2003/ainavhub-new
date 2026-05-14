@@ -12,6 +12,6 @@ draft: false
 
 nano-graphrag是一个简单易用的GraphRAG实现，具备更快、更清晰的核心功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gusye1234/nano-graphrag/blob/main/readme.md)
+- [官网](https://github.com/gusye1234/nano-graphrag/blob/main/readme.md)

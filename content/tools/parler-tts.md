@@ -12,6 +12,6 @@ draft: false
 
 一个轻量级的文本到语音（TTS）模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huggingface/parler-tts)
+- [官网](https://github.com/huggingface/parler-tts)

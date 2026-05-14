@@ -12,6 +12,6 @@ draft: false
 
 Claude 代码增强 AI 代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/webdevtodayjason/sub-agents)
+- [官网](https://github.com/webdevtodayjason/sub-agents)

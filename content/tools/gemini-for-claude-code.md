@@ -12,6 +12,6 @@ draft: false
 
 Gemini赋能Claude Code：Anthropic兼容代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/coffeegrind123/gemini-code)
+- [官网](https://github.com/coffeegrind123/gemini-code)

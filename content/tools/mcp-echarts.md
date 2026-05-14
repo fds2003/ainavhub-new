@@ -12,6 +12,6 @@ draft: false
 
 AI动态生成ECharts图表与分析
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hustcc/mcp-echarts)
+- [官网](https://github.com/hustcc/mcp-echarts)

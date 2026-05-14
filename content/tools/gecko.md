@@ -12,6 +12,6 @@ draft: false
 
 Gecko是一种从大型语言模型中提炼出的多功能紧凑文本嵌入模型，由Google DeepMind发布。
 
-## Links
+## 链接
 
-- [Official Website](https://deepmind.google/research/publications/85521/)
+- [官网](https://deepmind.google/research/publications/85521/)

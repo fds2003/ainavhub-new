@@ -12,6 +12,6 @@ draft: false
 
 Trackers是一个统一库，提供多种目标追踪算法，可与不同对象检测器轻松集成，实现多目标追踪。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/roboflow/trackers)
+- [官网](https://github.com/roboflow/trackers)

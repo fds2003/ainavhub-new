@@ -12,6 +12,6 @@ draft: false
 
 AI智能深度搜索与研究
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cat3399/deepresearch)
+- [官网](https://github.com/cat3399/deepresearch)

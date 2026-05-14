@@ -12,6 +12,6 @@ draft: false
 
 使用Next.js构建的开源AI聊天机器人应用程序模板
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vercel-labs/gemini-chatbot)
+- [官网](https://github.com/vercel-labs/gemini-chatbot)

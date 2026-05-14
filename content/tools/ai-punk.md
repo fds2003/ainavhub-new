@@ -12,6 +12,6 @@ draft: false
 
 自主软件开发助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/netsky-devel/Ai-Punk)
+- [官网](https://github.com/netsky-devel/Ai-Punk)

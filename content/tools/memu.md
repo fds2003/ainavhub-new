@@ -12,6 +12,6 @@ draft: false
 
 AI伴侣智能记忆框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NevaMind-AI/memU)
+- [官网](https://github.com/NevaMind-AI/memU)

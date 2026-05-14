@@ -12,6 +12,6 @@ draft: false
 
 iPhone MCP自动化服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Lakr233/iphone-mcp)
+- [官网](https://github.com/Lakr233/iphone-mcp)

@@ -12,6 +12,6 @@ draft: false
 
 LLaMA-O1是一个基于PyTorch和HuggingFace的大型推理模型框架，支持训练、推断和评估。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SimpleBerry/LLaMA-O1)
+- [官网](https://github.com/SimpleBerry/LLaMA-O1)

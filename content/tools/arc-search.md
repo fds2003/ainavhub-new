@@ -12,6 +12,6 @@ draft: false
 
 Arc Search引入Call Arc功能，让用户通过电话询问问题并接收语音回答。
 
-## Links
+## 链接
 
-- [Official Website](https://apps.apple.com/us/app/arc-search-find-it-faster/id6472513080)
+- [官网](https://apps.apple.com/us/app/arc-search-find-it-faster/id6472513080)

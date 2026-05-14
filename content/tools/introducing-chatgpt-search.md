@@ -12,6 +12,6 @@ draft: false
 
 新型的搜索功能，可根据你的问题返回有关网络来源的快速、及时答案。
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/index/introducing-chatgpt-search/)
+- [官网](https://openai.com/index/introducing-chatgpt-search/)

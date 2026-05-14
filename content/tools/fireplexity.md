@@ -12,6 +12,6 @@ draft: false
 
 AI实时引用搜索引擎
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mendableai/fireplexity)
+- [官网](https://github.com/mendableai/fireplexity)

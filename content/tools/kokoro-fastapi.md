@@ -12,6 +12,6 @@ draft: false
 
 Kokoro-FastAPI是一个基于FastAPI的文本转语音API，支持多种语音组合和格式，具备高效的生成能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/remsky/Kokoro-FastAPI)
+- [官网](https://github.com/remsky/Kokoro-FastAPI)

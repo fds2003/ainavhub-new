@@ -12,6 +12,6 @@ draft: false
 
 抱抱脸开源了LeRobot项目针对实际机器人技术的尖端机器学习
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huggingface/lerobot)
+- [官网](https://github.com/huggingface/lerobot)

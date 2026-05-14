@@ -12,6 +12,6 @@ draft: false
 
 PPTAgent是一个自动从文档生成演示文稿的系统，具备内容生成和评估框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/icip-cas/PPTAgent)
+- [官网](https://github.com/icip-cas/PPTAgent)

@@ -12,6 +12,6 @@ draft: false
 
 Napkins是一个开源工具，可将线框图生成应用程序，基于Llama 3.2 Vision和Together.ai。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/napkins)
+- [官网](https://github.com/Nutlope/napkins)

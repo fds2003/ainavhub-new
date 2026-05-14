@@ -12,6 +12,6 @@ draft: false
 
 RAG Logger 是一款开源日志工具，专为检索增强生成应用而设计，支持结构化日志存储。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Brandon-c-tech/RAG-logger)
+- [官网](https://github.com/Brandon-c-tech/RAG-logger)

@@ -12,6 +12,6 @@ draft: false
 
 thinkany.ai提供的，支持详细配置的搜索API服务
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/thinkany-ai/rag-search)
+- [官网](https://github.com/thinkany-ai/rag-search)

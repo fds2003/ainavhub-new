@@ -12,6 +12,6 @@ draft: false
 
 BrowseComp 是一个简单但具有挑战性的基准测试，旨在衡量 AI 代理定位难以查找的信息的能力。
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/index/browsecomp/)
+- [官网](https://openai.com/index/browsecomp/)

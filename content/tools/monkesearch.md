@@ -12,6 +12,6 @@ draft: false
 
 AI自然语言文件搜索
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/monkesearch/monkeSearch)
+- [官网](https://github.com/monkesearch/monkeSearch)

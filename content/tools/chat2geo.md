@@ -12,6 +12,6 @@ draft: false
 
 Chat2Geo是一个基于遥感的地理空间分析应用，提供聊天式界面，支持用户上传数据和复杂查询。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GeoRetina/chat2geo)
+- [官网](https://github.com/GeoRetina/chat2geo)

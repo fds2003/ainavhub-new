@@ -12,6 +12,6 @@ draft: false
 
 ebook2audiobook是一款将电子书转换为有声书的工具，支持多语言和语音克隆功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DrewThomasson/ebook2audiobookXTTS)
+- [官网](https://github.com/DrewThomasson/ebook2audiobookXTTS)

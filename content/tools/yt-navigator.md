@@ -12,6 +12,6 @@ draft: false
 
 YT Navigator 是一个AI驱动的YouTube频道内容搜索工具，可高效地搜索、聊天和定位视频内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wassim249/YT-Navigator)
+- [官网](https://github.com/wassim249/YT-Navigator)

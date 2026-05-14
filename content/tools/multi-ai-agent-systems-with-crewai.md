@@ -12,6 +12,6 @@ draft: false
 
 多AI代理系统：利用crewAI库，通过自然语言设计并组织AI团队来执行复杂业务任务课程
 
-## Links
+## 链接
 
-- [Official Website](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+- [官网](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)

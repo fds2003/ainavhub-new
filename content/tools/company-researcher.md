@@ -12,6 +12,6 @@ draft: false
 
 Company Researcher 是一个免费的开源工具，通过输入公司网址，快速获取全面的公司信息和洞察。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/exa-labs/company-researcher)
+- [官网](https://github.com/exa-labs/company-researcher)

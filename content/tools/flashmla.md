@@ -12,6 +12,6 @@ draft: false
 
 FlashMLA是一款针对Hopper GPU优化的高效MLA解码内核，支持可变长度序列处理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/deepseek-ai/FlashMLA)
+- [官网](https://github.com/deepseek-ai/FlashMLA)

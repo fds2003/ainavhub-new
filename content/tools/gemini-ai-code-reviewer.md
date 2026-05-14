@@ -12,6 +12,6 @@ draft: false
 
 Gemini AI Code Reviewer 是一个 GitHub Action，利用 Google 的 Gemini AI 自动审核拉取请求并提供改进建议。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/truongnh1992/gemini-ai-code-reviewer)
+- [官网](https://github.com/truongnh1992/gemini-ai-code-reviewer)

@@ -12,6 +12,6 @@ draft: false
 
 基于稳定扩散生成高质量动漫风格图像的文本到图像模型
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/cagliostrolab/animagine-xl-3.1)
+- [官网](https://huggingface.co/cagliostrolab/animagine-xl-3.1)

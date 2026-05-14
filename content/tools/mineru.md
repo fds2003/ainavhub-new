@@ -12,6 +12,6 @@ draft: false
 
 MinerU 是一个开源的高质量数据提取工具，支持多种文件格式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/opendatalab/MinerU)
+- [官网](https://github.com/opendatalab/MinerU)

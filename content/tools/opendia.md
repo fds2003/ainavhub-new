@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的浏览器自动化
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aaronjmars/opendia)
+- [官网](https://github.com/aaronjmars/opendia)

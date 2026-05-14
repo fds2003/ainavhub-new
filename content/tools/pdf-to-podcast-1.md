@@ -12,6 +12,6 @@ draft: false
 
 PDF 转播客工具将 PDF 文档转换为音频播客，可以生成对话结构的 MP3 文件。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/knowsuchagency/pdf-to-podcast)
+- [官网](https://github.com/knowsuchagency/pdf-to-podcast)

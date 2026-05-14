@@ -12,6 +12,6 @@ draft: false
 
 以Next.js为基础的模板，旨在帮助开发者快速上手利用OpenAI的助手API构建各种应用
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/openai-assistants-quickstart)
+- [官网](https://github.com/openai/openai-assistants-quickstart)

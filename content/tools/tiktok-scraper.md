@@ -12,6 +12,6 @@ draft: false
 
 TikTok数据抓取与任务自动化
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TikTok-Scraper/TikTok-Scraper-Video-Downloader-Reporter)
+- [官网](https://github.com/TikTok-Scraper/TikTok-Scraper-Video-Downloader-Reporter)

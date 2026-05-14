@@ -12,6 +12,6 @@ draft: false
 
 自然语言FFmpeg命令生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/scottvr/wtffmpeg)
+- [官网](https://github.com/scottvr/wtffmpeg)

@@ -12,6 +12,6 @@ draft: false
 
 生成自动化测试的工具，使用生成式AI提升代码覆盖率
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Codium-ai/cover-agent)
+- [官网](https://github.com/Codium-ai/cover-agent)

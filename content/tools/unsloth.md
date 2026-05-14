@@ -12,6 +12,6 @@ draft: false
 
 使用更高效的算法来优化和加速大型语言模型（LLMs）的微调
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/unslothai/unsloth)
+- [官网](https://github.com/unslothai/unsloth)

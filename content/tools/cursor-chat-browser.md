@@ -12,6 +12,6 @@ draft: false
 
 Cursor Chat Browser 是一款网页版应用，用于浏览和管理 Cursor 编辑器的 AI 聊天记录，支持搜索和导出。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/thomas-pedersen/cursor-chat-browser)
+- [官网](https://github.com/thomas-pedersen/cursor-chat-browser)

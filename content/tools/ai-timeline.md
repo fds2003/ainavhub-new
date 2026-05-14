@@ -12,6 +12,6 @@ draft: false
 
 AI Timeline是一个开源项目，记录自2022年起人工智能领域的重大进展和模型发布的时间线。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NHLOCAL/AiTimeline)
+- [官网](https://github.com/NHLOCAL/AiTimeline)

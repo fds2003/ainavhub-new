@@ -12,6 +12,6 @@ draft: false
 
 Next.js AI Chatbot结合Supabase，开源模板提供高效的聊天功能与数据存储解决方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nolly-studio/ai-chatbot-supabase)
+- [官网](https://github.com/nolly-studio/ai-chatbot-supabase)

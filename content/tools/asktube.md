@@ -12,6 +12,6 @@ draft: false
 
 AskTube是一个AI驱动的YouTube视频摘要和问答助手，支持本地和云端模型运行。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jonaskahn/asktube)
+- [官网](https://github.com/jonaskahn/asktube)

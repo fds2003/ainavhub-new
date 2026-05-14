@@ -12,6 +12,6 @@ draft: false
 
 EveryoneNobel项目通过ComfyUI生成诺贝尔奖图像，致力于为每个人创造独特的视觉作品。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/16131zzzzzzzz/EveryoneNobel)
+- [官网](https://github.com/16131zzzzzzzz/EveryoneNobel)

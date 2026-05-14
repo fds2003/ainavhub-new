@@ -12,6 +12,6 @@ draft: false
 
 智能体广域信息搜集基准
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ByteDance-Seed/WideSearch)
+- [官网](https://github.com/ByteDance-Seed/WideSearch)

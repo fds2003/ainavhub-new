@@ -12,6 +12,6 @@ draft: false
 
 北大发布新兴的图像生成方法
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FoundationVision/VAR)
+- [官网](https://github.com/FoundationVision/VAR)

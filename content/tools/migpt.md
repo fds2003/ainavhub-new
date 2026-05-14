@@ -12,6 +12,6 @@ draft: false
 
 MiGPT 结合智能家居与ChatGPT，让你的家更智能、更贴心。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/idootop/mi-gpt)
+- [官网](https://github.com/idootop/mi-gpt)

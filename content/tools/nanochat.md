@@ -12,6 +12,6 @@ draft: false
 
 百元级ChatGPT全栈实现
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/karpathy/nanochat)
+- [官网](https://github.com/karpathy/nanochat)

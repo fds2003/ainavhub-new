@@ -12,6 +12,6 @@ draft: false
 
 Pika推出视频加音效功能，声音效果现在可供所有用户使用
 
-## Links
+## 链接
 
-- [Official Website](https://pika.art/)
+- [官网](https://pika.art/)

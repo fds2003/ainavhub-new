@@ -12,6 +12,6 @@ draft: false
 
 AI研究自动化平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/murtaza-nasir/maestro)
+- [官网](https://github.com/murtaza-nasir/maestro)

@@ -12,6 +12,6 @@ draft: false
 
 LLM应用分析利器：Zibly，提升你的LLM表现
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zibly-foundation/zibly)
+- [官网](https://github.com/zibly-foundation/zibly)

@@ -12,6 +12,6 @@ draft: false
 
 HivisionIDPhoto是一款智能证件照制作工具，支持多种尺寸规格与美颜功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+- [官网](https://github.com/Zeyi-Lin/HivisionIDPhotos)

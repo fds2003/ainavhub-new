@@ -12,6 +12,6 @@ draft: false
 
 SkyReels V2是首个无限长度电影生成模型，利用Diffusion Forcing框架，实现故事、图像转视频等多种应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SkyworkAI/SkyReels-V2)
+- [官网](https://github.com/SkyworkAI/SkyReels-V2)

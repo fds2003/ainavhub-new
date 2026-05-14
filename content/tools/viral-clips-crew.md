@@ -12,6 +12,6 @@ draft: false
 
 一款自动提取社交媒体视频亮点的编辑工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/alexfazio/viral-clips-crew)
+- [官网](https://github.com/alexfazio/viral-clips-crew)

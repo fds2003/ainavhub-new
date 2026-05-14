@@ -12,6 +12,6 @@ draft: false
 
 AI代理MCP服务注册与网关
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mcpjungle/MCPJungle)
+- [官网](https://github.com/mcpjungle/MCPJungle)

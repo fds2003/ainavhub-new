@@ -12,6 +12,6 @@ draft: false
 
 Claude驱动的链式思维工具集成演示项目
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/martinbowling/thinkchain)
+- [官网](https://github.com/martinbowling/thinkchain)

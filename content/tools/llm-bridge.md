@@ -12,6 +12,6 @@ draft: false
 
 LLM API通用翻译层
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/supermemoryai/llm-bridge)
+- [官网](https://github.com/supermemoryai/llm-bridge)

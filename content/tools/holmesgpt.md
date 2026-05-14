@@ -12,6 +12,6 @@ draft: false
 
 AI云故障智能诊断与修复
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/robusta-dev/holmesgpt)
+- [官网](https://github.com/robusta-dev/holmesgpt)

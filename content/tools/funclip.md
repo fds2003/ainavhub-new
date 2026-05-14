@@ -12,6 +12,6 @@ draft: false
 
 基于阿里语音库的开源、精准、适用于本地部署的视频剪辑工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/alibaba-damo-academy/FunClip)
+- [官网](https://github.com/alibaba-damo-academy/FunClip)

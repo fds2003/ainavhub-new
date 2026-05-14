@@ -12,6 +12,6 @@ draft: false
 
 AsrTools是一款无需GPU即可轻松实现音频转字幕的智能工具，界面友好、支持多格式输出。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/WEIFENG2333/AsrTools)
+- [官网](https://github.com/WEIFENG2333/AsrTools)

@@ -12,6 +12,6 @@ draft: false
 
 轻量级CLI MCP客户端：桥接本地LLM与MCP服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zinja-coder/zin-mcp-client)
+- [官网](https://github.com/zinja-coder/zin-mcp-client)

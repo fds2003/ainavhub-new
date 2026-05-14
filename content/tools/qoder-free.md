@@ -12,6 +12,6 @@ draft: false
 
 Qoder身份指纹重置工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/itandelin/qoder-free)
+- [官网](https://github.com/itandelin/qoder-free)

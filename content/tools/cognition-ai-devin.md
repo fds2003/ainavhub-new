@@ -12,6 +12,6 @@ draft: false
 
 世界上第一个完全自主的AI软件工程师Devin 已经开始接外包了
 
-## Links
+## 链接
 
-- [Official Website](https://www.cognition-labs.com/)
+- [官网](https://www.cognition-labs.com/)

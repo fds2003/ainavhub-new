@@ -12,6 +12,6 @@ draft: false
 
 又一个开源AI Devin 程序员
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nus-apr/auto-code-rover)
+- [官网](https://github.com/nus-apr/auto-code-rover)

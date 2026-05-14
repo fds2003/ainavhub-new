@@ -12,6 +12,6 @@ draft: false
 
 pdf2md是一个开源项目，可以将PDF文档转换为Markdown格式，便于编辑和分享。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/devflowinc/trieve/tree/main/pdf2md)
+- [官网](https://github.com/devflowinc/trieve/tree/main/pdf2md)

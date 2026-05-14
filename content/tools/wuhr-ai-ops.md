@@ -12,6 +12,6 @@ draft: false
 
 AI智能运维管理平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/st-lzh/Wuhr-AI-ops)
+- [官网](https://github.com/st-lzh/Wuhr-AI-ops)

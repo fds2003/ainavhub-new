@@ -12,6 +12,6 @@ draft: false
 
 Rodel Agent 是一款集成多种AI服务的Windows桌面应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Richasy/Rodel.Agent)
+- [官网](https://github.com/Richasy/Rodel.Agent)

@@ -12,6 +12,6 @@ draft: false
 
 构建语音和多模态会话代理的框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/pipecat-ai/pipecat)
+- [官网](https://github.com/pipecat-ai/pipecat)

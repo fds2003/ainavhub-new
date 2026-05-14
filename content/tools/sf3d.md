@@ -12,6 +12,6 @@ draft: false
 
 SF3D 是一款快速稳定的3D网格重建工具，支持UV展平和光照分离。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Stability-AI/stable-fast-3d)
+- [官网](https://github.com/Stability-AI/stable-fast-3d)

@@ -12,6 +12,6 @@ draft: false
 
 GPT-4o图像生成多模态数据集与模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FreedomIntelligence/ShareGPT-4o-Image)
+- [官网](https://github.com/FreedomIntelligence/ShareGPT-4o-Image)

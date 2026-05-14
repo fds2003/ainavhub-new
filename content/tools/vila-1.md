@@ -12,6 +12,6 @@ draft: false
 
 VILA是一个预训练的视觉语言模型，具备视频理解和多图像理解等强大能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NVlabs/VILA)
+- [官网](https://github.com/NVlabs/VILA)

@@ -12,6 +12,6 @@ draft: false
 
 TryOffAnyone是一个用于从穿衣人物生成拼接衣物的项目，支持VITON-HD数据集。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ixarchakos/try-off-anyone)
+- [官网](https://github.com/ixarchakos/try-off-anyone)

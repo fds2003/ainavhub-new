@@ -12,6 +12,6 @@ draft: false
 
 先进的文本转图像模型，具有准确的文本渲染、逼真度和忠实度，并且拥有Magic Prompt功能，帮助用户创作美丽的创意图像
 
-## Links
+## 链接
 
-- [Official Website](https://about.ideogram.ai/1.0)
+- [官网](https://about.ideogram.ai/1.0)

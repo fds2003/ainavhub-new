@@ -12,6 +12,6 @@ draft: false
 
 多模型编程助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/synthetic-lab/octofriend)
+- [官网](https://github.com/synthetic-lab/octofriend)

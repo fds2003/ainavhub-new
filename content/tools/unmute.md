@@ -12,6 +12,6 @@ draft: false
 
 实时LLM语音对话
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kyutai-labs/unmute)
+- [官网](https://github.com/kyutai-labs/unmute)

@@ -12,6 +12,6 @@ draft: false
 
 Marker是一款将PDF快速精准转换为Markdown的工具，支持多种文档格式和语言。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vikparuchuri/marker)
+- [官网](https://github.com/vikparuchuri/marker)

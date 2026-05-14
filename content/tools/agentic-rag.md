@@ -12,6 +12,6 @@ draft: false
 
 Agentic RAG是基于代理的RAG系统，通过迭代检索和生成，实现更高级的信息获取与答案生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chensyCN/Agentic-RAG)
+- [官网](https://github.com/chensyCN/Agentic-RAG)

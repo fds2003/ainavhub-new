@@ -12,6 +12,6 @@ draft: false
 
 可配置终端LLM聊天
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/koaning/bespoken)
+- [官网](https://github.com/koaning/bespoken)

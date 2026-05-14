@@ -12,6 +12,6 @@ draft: false
 
 地址：https://github.com/stretchcloud/claude-code-unified-agents/tree/main
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/stretchcloud/claude-code-unified-agents/tree/main)
+- [官网](https://github.com/stretchcloud/claude-code-unified-agents/tree/main)

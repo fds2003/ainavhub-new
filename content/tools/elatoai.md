@@ -12,6 +12,6 @@ draft: false
 
 ElatoAI是基于ESP32的实时AI语音方案，通过OpenAI API实现长时间全球对话。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/akdeb/ElatoAI)
+- [官网](https://github.com/akdeb/ElatoAI)

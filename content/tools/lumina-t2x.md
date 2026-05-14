@@ -12,6 +12,6 @@ draft: false
 
 基于文本的多功能生成模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alpha-VLLM/Lumina-T2X)
+- [官网](https://github.com/Alpha-VLLM/Lumina-T2X)

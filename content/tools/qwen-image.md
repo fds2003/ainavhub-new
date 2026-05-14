@@ -12,6 +12,6 @@ draft: false
 
 高保真文本渲染图像生成与编辑
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/Qwen-Image)
+- [官网](https://github.com/QwenLM/Qwen-Image)

@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI通过自动去抓和修复面部等功能提升旧照片的质量。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life)
+- [官网](https://github.com/cdb-boop/ComfyUI-Bringing-Old-Photos-Back-to-Life)

@@ -12,6 +12,6 @@ draft: false
 
 Denser Chat 是一个可以从 PDF 和网页中提取信息并回答问题的聊天机器人。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/denser-org/denser-chat)
+- [官网](https://github.com/denser-org/denser-chat)

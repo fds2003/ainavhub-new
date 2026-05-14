@@ -12,6 +12,6 @@ draft: false
 
 AI多智能体协作观测平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Intelligent-Internet/CommonGround)
+- [官网](https://github.com/Intelligent-Internet/CommonGround)

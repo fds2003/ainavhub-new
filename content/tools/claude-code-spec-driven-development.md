@@ -12,6 +12,6 @@ draft: false
 
 Claude 智能规格驱动开发
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gotalab/claude-code-spec)
+- [官网](https://github.com/gotalab/claude-code-spec)

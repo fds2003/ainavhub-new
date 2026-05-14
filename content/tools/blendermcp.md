@@ -12,6 +12,6 @@ draft: false
 
 BlenderMCP通过MCP协议连接Blender和Claude AI，实现AI辅助3D建模、场景创建和操控等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ahujasid/blender-mcp)
+- [官网](https://github.com/ahujasid/blender-mcp)

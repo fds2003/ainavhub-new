@@ -12,6 +12,6 @@ draft: false
 
 OpenPlexity Pages 是一个注重隐私的开源内容创作工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/alexfazio/OpenPlexity-Pages)
+- [官网](https://github.com/alexfazio/OpenPlexity-Pages)

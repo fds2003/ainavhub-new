@@ -12,6 +12,6 @@ draft: false
 
 ProcessPainter 是使用扩散模型生成类人绘画过程的工具，目前支持推理和部分训练功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nicolaus-huang/ProcessPainter)
+- [官网](https://github.com/nicolaus-huang/ProcessPainter)

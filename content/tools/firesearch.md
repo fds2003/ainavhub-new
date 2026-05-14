@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的深度网络研究工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mendableai/firesearch)
+- [官网](https://github.com/mendableai/firesearch)

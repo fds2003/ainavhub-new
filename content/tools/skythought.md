@@ -12,6 +12,6 @@ draft: false
 
 SkyThought是一个开源项目，致力于开发和评估高性能的AI模型，如Sky-T1-32B-Preview。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NovaSky-AI/SkyThought)
+- [官网](https://github.com/NovaSky-AI/SkyThought)

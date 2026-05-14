@@ -12,6 +12,6 @@ draft: false
 
 这是一个无需Docker的解决方案，支持远程控制电脑，提供用户友好的Gradio界面。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/showlab/computer_use_ootb)
+- [官网](https://github.com/showlab/computer_use_ootb)

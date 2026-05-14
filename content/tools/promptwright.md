@@ -12,6 +12,6 @@ draft: false
 
 Promptwright是一款Python库，用于通过本地大语言模型生成合成数据集，操作简单灵活。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/StacklokLabs/promptwright)
+- [官网](https://github.com/StacklokLabs/promptwright)

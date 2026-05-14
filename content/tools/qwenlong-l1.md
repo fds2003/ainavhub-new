@@ -12,6 +12,6 @@ draft: false
 
 QwenLong-L1是通过强化学习训练的首个长文本推理大模型，在长文本DocQA基准测试中表现卓越，优于许多同类模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tongyi-Zhiwen/QwenLong-L1)
+- [官网](https://github.com/Tongyi-Zhiwen/QwenLong-L1)

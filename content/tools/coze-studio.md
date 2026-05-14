@@ -12,6 +12,6 @@ draft: false
 
 一站式可视化AI智能体开发平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/coze-dev/coze-studio)
+- [官网](https://github.com/coze-dev/coze-studio)

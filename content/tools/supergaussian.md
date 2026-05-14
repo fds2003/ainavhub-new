@@ -12,6 +12,6 @@ draft: false
 
 SuperGaussian 重新利用视频模型进行3D超分辨率，实现从低分辨率到高分辨率的3D模型转换。
 
-## Links
+## 链接
 
-- [Official Website](https://supergaussian.github.io)
+- [官网](https://supergaussian.github.io)

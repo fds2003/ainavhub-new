@@ -12,6 +12,6 @@ draft: false
 
 Andrej Karpathy的llm.c项目向Mojo平台的一个移植
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dorjeduck/llm.mojo)
+- [官网](https://github.com/dorjeduck/llm.mojo)

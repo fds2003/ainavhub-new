@@ -12,6 +12,6 @@ draft: false
 
 Chatterbox TTS API：基于FastAPI的语音克隆TTS服务
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/travisvn/chatterbox-tts-api)
+- [官网](https://github.com/travisvn/chatterbox-tts-api)

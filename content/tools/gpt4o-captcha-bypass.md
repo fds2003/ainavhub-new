@@ -12,6 +12,6 @@ draft: false
 
 GPT4o Captcha Bypass是使用GPT-4和Selenium解决多种验证码的CLI工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aydinnyunus/gpt4-captcha-bypass)
+- [官网](https://github.com/aydinnyunus/gpt4-captcha-bypass)

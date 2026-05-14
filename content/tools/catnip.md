@@ -12,6 +12,6 @@ draft: false
 
 AI智能体并行开发环境
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wandb/catnip)
+- [官网](https://github.com/wandb/catnip)

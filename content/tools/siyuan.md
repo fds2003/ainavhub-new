@@ -12,6 +12,6 @@ draft: false
 
 SiYuan是一款注重隐私的个人知识管理系统，支持区块引用和Markdown所见即所得编辑。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/siyuan-note/siyuan)
+- [官网](https://github.com/siyuan-note/siyuan)

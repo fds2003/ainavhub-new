@@ -12,6 +12,6 @@ draft: false
 
 革命性的AI数据助手，旨在通过简化与数据互动的方式，帮助个人和企业更快地获取结果和洞见
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Canner/WrenAI)
+- [官网](https://github.com/Canner/WrenAI)

@@ -12,6 +12,6 @@ draft: false
 
 V-Express人像照片生成视频的模型，逐步训练以生成高质量的肖像视频。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/tencent-ailab/V-Express)
+- [官网](https://github.com/tencent-ailab/V-Express)

@@ -12,6 +12,6 @@ draft: false
 
 Picotron是一个简洁易用的Llama-like模型预训练框架，支持多维并行，适合学习和实验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huggingface/picotron)
+- [官网](https://github.com/huggingface/picotron)

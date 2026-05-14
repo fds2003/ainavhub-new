@@ -12,6 +12,6 @@ draft: false
 
 SSH 上的 AI 聊天
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ccbikai/ssh-ai-chat)
+- [官网](https://github.com/ccbikai/ssh-ai-chat)

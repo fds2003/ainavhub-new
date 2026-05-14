@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的桌面应用构建
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/quests-org/quests)
+- [官网](https://github.com/quests-org/quests)

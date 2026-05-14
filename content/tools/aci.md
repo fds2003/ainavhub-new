@@ -12,6 +12,6 @@ draft: false
 
 ACI是开源基础设施，为AI智能体提供600+工具的统一访问，并支持MCP服务器。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aipotheosis-labs/aci)
+- [官网](https://github.com/aipotheosis-labs/aci)

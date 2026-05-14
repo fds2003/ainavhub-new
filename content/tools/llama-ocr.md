@@ -12,6 +12,6 @@ draft: false
 
 Llama OCR 是一款npm库，利用Llama 3.2 Vision进行免费OCR图像识别处理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/llama-ocr)
+- [官网](https://github.com/Nutlope/llama-ocr)

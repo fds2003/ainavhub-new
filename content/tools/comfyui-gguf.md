@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI-GGUF支持GGUF格式的模型量化，优化低端GPU上的运行效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/city96/ComfyUI-GGUF)
+- [官网](https://github.com/city96/ComfyUI-GGUF)

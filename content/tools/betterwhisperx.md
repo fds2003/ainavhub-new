@@ -12,6 +12,6 @@ draft: false
 
 BetterWhisperX是WhisperX的改进版本，支持快速的多语种自动语音识别与说话人分离。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/federicotorrielli/BetterWhisperX)
+- [官网](https://github.com/federicotorrielli/BetterWhisperX)

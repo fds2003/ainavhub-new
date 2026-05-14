@@ -12,6 +12,6 @@ draft: false
 
 基于LangGraph的AI软件工程 Agent
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langtalks/swe-agent)
+- [官网](https://github.com/langtalks/swe-agent)

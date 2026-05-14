@@ -12,6 +12,6 @@ draft: false
 
 一个全面的 AI 框架，用于在 NLP 研究中对检索增强生成算法进行透明和模块化评估
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fate-ubw/RAGLAB/blob/main/readme.md)
+- [官网](https://github.com/fate-ubw/RAGLAB/blob/main/readme.md)

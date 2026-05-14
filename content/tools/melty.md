@@ -12,6 +12,6 @@ draft: false
 
 Melty是一款开源AI代码编辑器，能在整个开发流程中与工程师协作编写高质量代码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/meltylabs/melty)
+- [官网](https://github.com/meltylabs/melty)

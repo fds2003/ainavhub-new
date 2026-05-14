@@ -12,6 +12,6 @@ draft: false
 
 Document Buddy App是一款基于Streamlit的应用，简化PDF文档管理并提供智能聊天功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AIAnytime/Document-Buddy-App)
+- [官网](https://github.com/AIAnytime/Document-Buddy-App)

@@ -12,6 +12,6 @@ draft: false
 
 AppFlowy.IO是一个开源的协作工具，旨在提供Notion的功能与数据控制，让用户高效工作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AppFlowy-IO/AppFlowy)
+- [官网](https://github.com/AppFlowy-IO/AppFlowy)

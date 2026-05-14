@@ -12,6 +12,6 @@ draft: false
 
 Archon是AI Agent构建器，能自主构建、优化AI智能体，并提供Streamlit用户界面进行管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/coleam00/Archon)
+- [官网](https://github.com/coleam00/Archon)

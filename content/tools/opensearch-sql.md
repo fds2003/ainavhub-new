@@ -12,6 +12,6 @@ draft: false
 
 OpenSearch-SQL是一个无需额外训练的Text-to-SQL框架，它通过动态Few-shot和一致性对齐来增强文本到SQL的转换。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenSearch-AI/OpenSearch-SQL/blob/main/readme.md)
+- [官网](https://github.com/OpenSearch-AI/OpenSearch-SQL/blob/main/readme.md)

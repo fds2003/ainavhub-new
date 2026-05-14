@@ -12,6 +12,6 @@ draft: false
 
 一个开源库，用于构建能自我改进的多功能计算机代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OS-Copilot/OS-Copilot)
+- [官网](https://github.com/OS-Copilot/OS-Copilot)

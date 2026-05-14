@@ -12,6 +12,6 @@ draft: false
 
 生成式AI文本到视频工具，可以将长篇内容（博客、通讯）转换成短视频
 
-## Links
+## 链接
 
-- [Official Website](https://copycopter.ai/)
+- [官网](https://copycopter.ai/)

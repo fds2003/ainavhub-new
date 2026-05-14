@@ -12,6 +12,6 @@ draft: false
 
 CatVTON使用扩散模型实现简单高效的虚拟试穿，网络轻量并支持高分辨率推理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Zheng-Chong/CatVTON)
+- [官网](https://github.com/Zheng-Chong/CatVTON)

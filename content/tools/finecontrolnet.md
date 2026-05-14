@@ -12,6 +12,6 @@ draft: false
 
 通过空间控制输入和文本描述来控制图像生成的方法
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SamsungLabs/FineControlNet)
+- [官网](https://github.com/SamsungLabs/FineControlNet)

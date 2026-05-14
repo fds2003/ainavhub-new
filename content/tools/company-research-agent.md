@@ -12,6 +12,6 @@ draft: false
 
 多智能体公司研究报告生成器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ai-joon/company-research-agent)
+- [官网](https://github.com/ai-joon/company-research-agent)

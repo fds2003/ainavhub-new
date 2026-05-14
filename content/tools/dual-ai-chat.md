@@ -12,6 +12,6 @@ draft: false
 
 双AI智能辩论问答
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yeahhe365/Dual-AI-Chat)
+- [官网](https://github.com/yeahhe365/Dual-AI-Chat)

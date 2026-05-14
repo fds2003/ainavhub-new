@@ -12,6 +12,6 @@ draft: false
 
 ChainForge是一个开源的可视化编程环境，旨在测试和评估大语言模型(LLM)的提示效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ianarawjo/ChainForge)
+- [官网](https://github.com/ianarawjo/ChainForge)

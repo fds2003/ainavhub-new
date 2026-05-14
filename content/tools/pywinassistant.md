@@ -12,6 +12,6 @@ draft: false
 
 用自然语言即可完全控制用户界面
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/a-real-ai/pywinassistant)
+- [官网](https://github.com/a-real-ai/pywinassistant)

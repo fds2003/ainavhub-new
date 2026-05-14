@@ -12,6 +12,6 @@ draft: false
 
 AI图像生成与会话编辑
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/markfulton/NanoBananaEditor)
+- [官网](https://github.com/markfulton/NanoBananaEditor)

@@ -12,6 +12,6 @@ draft: false
 
 该研究探讨了大语言模型作为编程辅导老师的潜力，并提出了有效的验证工具和评估协议。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/iwangjian/Coding-Tutor)
+- [官网](https://github.com/iwangjian/Coding-Tutor)

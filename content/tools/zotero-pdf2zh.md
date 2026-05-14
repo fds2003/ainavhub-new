@@ -12,6 +12,6 @@ draft: false
 
 Zotero PDF2zh是一款用于在Zotero中翻译PDF文件并支持双栏PDF分割的插件。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/guaguastandup/zotero-pdf2zh)
+- [官网](https://github.com/guaguastandup/zotero-pdf2zh)

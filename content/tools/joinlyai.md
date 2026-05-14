@@ -12,6 +12,6 @@ draft: false
 
 AI助手参与会议，赋能实时互动
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/joinly-ai/joinly)
+- [官网](https://github.com/joinly-ai/joinly)

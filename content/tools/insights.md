@@ -12,6 +12,6 @@ draft: false
 
 AI 可穿戴设备Insight
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/advaitpaliwal/insight)
+- [官网](https://github.com/advaitpaliwal/insight)

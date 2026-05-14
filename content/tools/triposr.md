@@ -12,6 +12,6 @@ draft: false
 
 stability推出的从单个图像快速生成3D对象
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VAST-AI-Research/TripoSR)
+- [官网](https://github.com/VAST-AI-Research/TripoSR)

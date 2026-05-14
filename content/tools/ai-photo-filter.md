@@ -12,6 +12,6 @@ draft: false
 
 Stylar AI是一款功能强大的AI图像编辑与设计工具，提供无与伦比的图片组合和风格控制。
 
-## Links
+## 链接
 
-- [Official Website](https://www.stylar.ai/tools/ai-photo-filter)
+- [官网](https://www.stylar.ai/tools/ai-photo-filter)

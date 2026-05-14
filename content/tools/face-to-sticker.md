@@ -12,6 +12,6 @@ draft: false
 
 “face-to-sticker”可以将任何面孔转换成贴纸。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fofr/cog-face-to-sticker)
+- [官网](https://github.com/fofr/cog-face-to-sticker)

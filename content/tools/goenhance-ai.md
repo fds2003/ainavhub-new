@@ -12,6 +12,6 @@ draft: false
 
 GoEnhance是一个AI视频转绘工具，主要的魅力在于能够把普通的视频转换成具有特定艺术风格的视频。这项技术适合在一系列不同的场景下使用，特别是那些希望给视频添加创意和艺术效果的用户。现在，让我们来深入了解GoEnhance的功能以及适用场合。
 
-## Links
+## 链接
 
-- [Official Website](https://www.goenhance.ai/)
+- [官网](https://www.goenhance.ai/)

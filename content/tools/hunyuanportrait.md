@@ -12,6 +12,6 @@ draft: false
 
 HunyuanPortrait是一个扩散模型框架，通过解耦身份和动作，从单张人像生成逼真且时序一致的动画。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/HunyuanPortrait)
+- [官网](https://github.com/Tencent-Hunyuan/HunyuanPortrait)

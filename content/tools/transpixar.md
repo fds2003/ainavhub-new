@@ -12,6 +12,6 @@ draft: false
 
 TransPixar是一种利用扩散变换器生成RGBA视频的创新方法，提升了文本到视频生成的透明度。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wileewang/TransPixar)
+- [官网](https://github.com/wileewang/TransPixar)

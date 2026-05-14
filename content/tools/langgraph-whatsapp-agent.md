@@ -12,6 +12,6 @@ draft: false
 
 LangGraph WhatsApp Agent利用LangGraph和Twilio构建AI助手，实现WhatsApp消息和图像处理及平台托管。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lgesuellip/langgraph-whatsapp-agent)
+- [官网](https://github.com/lgesuellip/langgraph-whatsapp-agent)

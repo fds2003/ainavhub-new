@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的集成开发环境
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vibe-stack/vcode)
+- [官网](https://github.com/vibe-stack/vcode)

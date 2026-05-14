@@ -12,6 +12,6 @@ draft: false
 
 Hallo2是一个基于音频驱动的长时间高分辨率肖像图像动画生成项目。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fudan-generative-vision/hallo2)
+- [官网](https://github.com/fudan-generative-vision/hallo2)

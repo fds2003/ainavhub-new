@@ -12,6 +12,6 @@ draft: false
 
 AI实时姿态监测与提醒
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DDULDDUCK/pose-nudge)
+- [官网](https://github.com/DDULDDUCK/pose-nudge)

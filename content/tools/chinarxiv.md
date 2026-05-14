@@ -12,6 +12,6 @@ draft: false
 
 Arxiv论文智能翻译PDF生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kaixindelele/chinarxiv)
+- [官网](https://github.com/kaixindelele/chinarxiv)

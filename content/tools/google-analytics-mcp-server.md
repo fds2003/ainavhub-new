@@ -12,6 +12,6 @@ draft: false
 
 GA 数据智能分析服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/googleanalytics/google-analytics-mcp)
+- [官网](https://github.com/googleanalytics/google-analytics-mcp)

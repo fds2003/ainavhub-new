@@ -12,6 +12,6 @@ draft: false
 
 Adobe推出的根据文本提示生成音乐，并提供精细的控制来编辑音频以满足用户的需求
 
-## Links
+## 链接
 
-- [Official Website](https://blog.adobe.com/en/publish/2024/02/28/adobe-research-audio-creation-editing)
+- [官网](https://blog.adobe.com/en/publish/2024/02/28/adobe-research-audio-creation-editing)

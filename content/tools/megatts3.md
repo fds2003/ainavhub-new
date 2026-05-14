@@ -12,6 +12,6 @@ draft: false
 
 MegaTTS3是由字节跳动开发的轻量高效语音合成模型，支持中英双语，具有高音质克隆和口音控制等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bytedance/MegaTTS3/blob/main/readme.md)
+- [官网](https://github.com/bytedance/MegaTTS3/blob/main/readme.md)

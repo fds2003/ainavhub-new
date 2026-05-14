@@ -12,6 +12,6 @@ draft: false
 
 自动重命名和组织文件的自组织文件管理器，支持多种文件类型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/iyaja/llama-fs)
+- [官网](https://github.com/iyaja/llama-fs)

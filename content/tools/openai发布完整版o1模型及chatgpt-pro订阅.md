@@ -12,6 +12,6 @@ draft: false
 
 OpenAI 第一天的发布活动已经结束，重点介绍了新的 O1 模型。该模型支持多模态输入，允许用户上传图片，并且处理速度更快。
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/12-days/)
+- [官网](https://openai.com/12-days/)

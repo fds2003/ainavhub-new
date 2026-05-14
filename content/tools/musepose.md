@@ -12,6 +12,6 @@ draft: false
 
 MusePose是一个通过图像生成受控信号虚拟人视频的框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TMElyralab/Comfyui-MusePose)
+- [官网](https://github.com/TMElyralab/Comfyui-MusePose)

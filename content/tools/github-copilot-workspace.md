@@ -12,6 +12,6 @@ draft: false
 
 以Copilot 为中心的创新开发者环境，让开发者能用自然语言从构思到编码再到软件开发。
 
-## Links
+## 链接
 
-- [Official Website](https://github.blog/2024-04-29-github-copilot-workspace/)
+- [官网](https://github.blog/2024-04-29-github-copilot-workspace/)

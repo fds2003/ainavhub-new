@@ -12,6 +12,6 @@ draft: false
 
 AI看线是A股技术分析与AI预测工具，利用Gemini AI模型分析股票数据，提供量化分析和走势预测。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QuantML-Github/AI-Kline)
+- [官网](https://github.com/QuantML-Github/AI-Kline)

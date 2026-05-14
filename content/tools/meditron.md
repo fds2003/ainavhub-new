@@ -12,6 +12,6 @@ draft: false
 
 基于大型语言模型（LLMs）的开源医学套件
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/epfLLM/meditron)
+- [官网](https://github.com/epfLLM/meditron)

@@ -12,6 +12,6 @@ draft: false
 
 Vision Agent 是一个通过代理系统自动生成代码解决视觉任务的库。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/landing-ai/vision-agent)
+- [官网](https://github.com/landing-ai/vision-agent)

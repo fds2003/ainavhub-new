@@ -12,6 +12,6 @@ draft: false
 
 GenCast是一个基于扩散模型的中期天气预报工具，提供多个预训练模型及示例代码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/google-deepmind/graphcast)
+- [官网](https://github.com/google-deepmind/graphcast)

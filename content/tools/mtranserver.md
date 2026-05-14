@@ -12,6 +12,6 @@ draft: false
 
 MTranServer是一款超低资源消耗的离线翻译服务器，速度极快，支持多语言，翻译质量与Google翻译相当。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xxnuo/MTranServer)
+- [官网](https://github.com/xxnuo/MTranServer)

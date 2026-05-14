@@ -12,6 +12,6 @@ draft: false
 
 AnyNode是一个利用LLM进行输入处理并生成任意类型输出的ComfyUI节点。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lks-ai/anynode)
+- [官网](https://github.com/lks-ai/anynode)

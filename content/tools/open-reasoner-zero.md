@@ -12,6 +12,6 @@ draft: false
 
 Open Reasoner Zero是一个开源项目，旨在提升大规模推理导向的强化学习训练的可扩展性和简便性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
+- [官网](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)

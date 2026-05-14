@@ -12,6 +12,6 @@ draft: false
 
 Claude Code ACP 桥接
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Xuanwo/acp-claude-code)
+- [官网](https://github.com/Xuanwo/acp-claude-code)

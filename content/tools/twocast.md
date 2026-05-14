@@ -12,6 +12,6 @@ draft: false
 
 AI双人播客生成器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/panyanyany/Twocast)
+- [官网](https://github.com/panyanyany/Twocast)

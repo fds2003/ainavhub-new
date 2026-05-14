@@ -12,6 +12,6 @@ draft: false
 
 向 80 亿观众问好 将您的视频翻译成 29+ 种语言
 
-## Links
+## 链接
 
-- [Official Website](https://www.hello8.ai/)
+- [官网](https://www.hello8.ai/)

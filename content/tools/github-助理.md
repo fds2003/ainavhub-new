@@ -12,6 +12,6 @@ draft: false
 
 Github 助理是一个通过自然语言处理技术提供详细、独特解决方案的AI助手。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/chat/assistants)
+- [官网](https://huggingface.co/chat/assistants)

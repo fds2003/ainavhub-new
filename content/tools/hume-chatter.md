@@ -12,6 +12,6 @@ draft: false
 
 Hume 下的EVI 刚刚成为唯一能够进行本地 Web 搜索的语音 API。为了庆祝，他们推出了 Chatter，这是第一个交互式 AI 播客
 
-## Links
+## 链接
 
-- [Official Website](https://chatter.hume.ai/)
+- [官网](https://chatter.hume.ai/)

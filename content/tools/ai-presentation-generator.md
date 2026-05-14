@@ -12,6 +12,6 @@ draft: false
 
 AI演示文稿生成与定制
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/allweonedev/presentation-ai)
+- [官网](https://github.com/allweonedev/presentation-ai)

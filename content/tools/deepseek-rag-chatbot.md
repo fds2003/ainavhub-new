@@ -12,6 +12,6 @@ draft: false
 
 DeepSeek RAG Chatbot 3.0 是一个免费、私密的本地聊天机器人，支持文档检索和聊天记忆集成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SaiAkhil066/DeepSeek-RAG-Chatbot)
+- [官网](https://github.com/SaiAkhil066/DeepSeek-RAG-Chatbot)

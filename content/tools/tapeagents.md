@@ -12,6 +12,6 @@ draft: false
 
 TapeAgents是一个框架，通过重放日志助力大语言模型代理的开发与优化，支持灵活配置与调试。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ServiceNow/TapeAgents)
+- [官网](https://github.com/ServiceNow/TapeAgents)

@@ -12,6 +12,6 @@ draft: false
 
 Stable Diffusion 3.5是一个用于简单推理的参考实现，支持多种文本编码器和新型VAE解码器。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Stability-AI/sd3.5)
+- [官网](https://github.com/Stability-AI/sd3.5)

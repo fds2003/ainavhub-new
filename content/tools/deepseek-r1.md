@@ -12,6 +12,6 @@ draft: false
 
 DeepSeek-R1是一款基于大规模强化学习的推理模型，在数学、代码和推理任务上表现优异。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/deepseek-ai/DeepSeek-R1)
+- [官网](https://github.com/deepseek-ai/DeepSeek-R1)

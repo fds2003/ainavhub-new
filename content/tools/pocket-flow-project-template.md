@@ -12,6 +12,6 @@ draft: false
 
 Pocket Flow项目模板利用100行LLM框架，配合编辑器，助你通过Agentic Coding构建LLM项目。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/The-Pocket/PocketFlow-Template-Python)
+- [官网](https://github.com/The-Pocket/PocketFlow-Template-Python)

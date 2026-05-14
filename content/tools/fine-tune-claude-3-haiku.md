@@ -12,6 +12,6 @@ draft: false
 
 Amazon Bedrock 支持用户定制 Claude 3 Haiku 模型以提升业务效果。
 
-## Links
+## 链接
 
-- [Official Website](https://www.anthropic.com/news/fine-tune-claude-3-haiku)
+- [官网](https://www.anthropic.com/news/fine-tune-claude-3-haiku)

@@ -12,6 +12,6 @@ draft: false
 
 基于 OpenAI Agents SDK 的客户服务代理演示
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/openai-cs-agents-demo)
+- [官网](https://github.com/openai/openai-cs-agents-demo)

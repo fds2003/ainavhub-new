@@ -12,6 +12,6 @@ draft: false
 
 AI智能体专业文章生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LordFoxFairy/deepseek_deepsearch_quickstart)
+- [官网](https://github.com/LordFoxFairy/deepseek_deepsearch_quickstart)

@@ -12,6 +12,6 @@ draft: false
 
 Engy是一款利用人工智能快速生成网页应用的工具，让开发者轻松实现创意，无需从零开始编码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/renning22/engy)
+- [官网](https://github.com/renning22/engy)

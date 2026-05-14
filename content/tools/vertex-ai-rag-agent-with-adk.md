@@ -12,6 +12,6 @@ draft: false
 
 Vertex AI RAG Agent with ADK：文档问答及管理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bhancockio/adk-rag-agent)
+- [官网](https://github.com/bhancockio/adk-rag-agent)

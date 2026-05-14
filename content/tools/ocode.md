@@ -12,6 +12,6 @@ draft: false
 
 OCode是一款终端原生AI编码助手，它基于Ollama模型，提供代码库智能分析和自动化任务执行，助力开发工作流。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/haasonsaas/ocode)
+- [官网](https://github.com/haasonsaas/ocode)

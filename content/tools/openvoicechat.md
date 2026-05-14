@@ -12,6 +12,6 @@ draft: false
 
 OpenVoiceChat 是一个开源项目，支持与大型语言模型进行自然语音对话。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Finity-Alpha/OpenVoiceChat)
+- [官网](https://github.com/Finity-Alpha/OpenVoiceChat)

@@ -12,6 +12,6 @@ draft: false
 
 MangaNinja是一种基于参考图的线条艺术自动上色方法，旨在加速动漫颜色处理流程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ali-vilab/MangaNinjia)
+- [官网](https://github.com/ali-vilab/MangaNinjia)

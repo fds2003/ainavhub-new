@@ -12,6 +12,6 @@ draft: false
 
 AniDoc是一个简化动画创作过程的工具，可以精准为手稿上色，并保持高保真度。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yihao-meng/AniDoc)
+- [官网](https://github.com/yihao-meng/AniDoc)

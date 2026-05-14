@@ -12,6 +12,6 @@ draft: false
 
 RAG-Anything：一体化多模态文档处理RAG系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HKUDS/RAG-Anything)
+- [官网](https://github.com/HKUDS/RAG-Anything)

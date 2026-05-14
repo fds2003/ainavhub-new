@@ -12,6 +12,6 @@ draft: false
 
 Llama.vscode 是一款支持本地LLM文本补全的VS Code扩展，提升编码效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ggml-org/llama.vscode)
+- [官网](https://github.com/ggml-org/llama.vscode)

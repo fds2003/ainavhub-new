@@ -12,6 +12,6 @@ draft: false
 
 VideoGigaGAN是一种新型的视频超分辨率生成模型，能够在保持时间一致性的同时，生成高频细节丰富的视频。
 
-## Links
+## 链接
 
-- [Official Website](https://videogigagan.github.io/)
+- [官网](https://videogigagan.github.io/)

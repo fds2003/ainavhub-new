@@ -12,6 +12,6 @@ draft: false
 
 TripoSG是基于大规模矫正流模型的高保真图像到3D形状生成基础模型，性能卓越。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/VAST-AI-Research/TripoSG)
+- [官网](https://github.com/VAST-AI-Research/TripoSG)

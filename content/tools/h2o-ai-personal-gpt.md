@@ -12,6 +12,6 @@ draft: false
 
 H2O AI Personal GPT是一款无需联网、完全保护隐私的智能AI助手应用。
 
-## Links
+## 链接
 
-- [Official Website](https://apps.apple.com/us/app/h2o-ai-personal-gpt/id6504365990)
+- [官网](https://apps.apple.com/us/app/h2o-ai-personal-gpt/id6504365990)

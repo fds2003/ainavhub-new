@@ -12,6 +12,6 @@ draft: false
 
 能够在保持角色一致性的同时生成多样化场景动态视频的AI工具
 
-## Links
+## 链接
 
-- [Official Website](https://app.pixverse.ai/)
+- [官网](https://app.pixverse.ai/)

@@ -12,6 +12,6 @@ draft: false
 
 Apple Intelligence的技术要点
 
-## Links
+## 链接
 
-- [Official Website](#)
+- [官网](#)

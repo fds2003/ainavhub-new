@@ -12,6 +12,6 @@ draft: false
 
 改进了ComfyUI的AnimateDiff整合，提供了进阶采样选项，可单独使用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)
+- [官网](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved)

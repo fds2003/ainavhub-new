@@ -12,6 +12,6 @@ draft: false
 
 SmartRead是一个AI驱动工具，可自动注释技术PDF，提供关键见解、相关资源并突出重点。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Dev-Khant/smartread)
+- [官网](https://github.com/Dev-Khant/smartread)

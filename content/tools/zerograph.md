@@ -12,6 +12,6 @@ draft: false
 
 极简TypeScript LLM智能体框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/u-0-z/zero-graph)
+- [官网](https://github.com/u-0-z/zero-graph)

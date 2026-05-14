@@ -12,6 +12,6 @@ draft: false
 
 为视频创作提供动画插值的高级工具，属于ComfyUI的自定义节点
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/banodoco/steerable-motion)
+- [官网](https://github.com/banodoco/steerable-motion)

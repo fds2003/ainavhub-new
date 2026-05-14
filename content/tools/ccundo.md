@@ -12,6 +12,6 @@ draft: false
 
 Claude Code 会话智能撤销重做
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RonitSachdev/ccundo)
+- [官网](https://github.com/RonitSachdev/ccundo)

@@ -12,6 +12,6 @@ draft: false
 
 oneShotCodeGen 是一款命令行工具，可通过单一提示生成完整的全栈Web应用，提升AI代码生成的准确性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vivek100/oneShotCodeGen)
+- [官网](https://github.com/vivek100/oneShotCodeGen)

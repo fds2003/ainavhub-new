@@ -12,6 +12,6 @@ draft: false
 
 automcp是一个工具，能将多种Agent框架转换为MCP服务器，方便客户端通过标准化接口访问，例如Cursor和Claude Desktop。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NapthaAI/automcp)
+- [官网](https://github.com/NapthaAI/automcp)

@@ -12,6 +12,6 @@ draft: false
 
 极简 AI 智能体框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JiayuXu0/ZipAgent)
+- [官网](https://github.com/JiayuXu0/ZipAgent)

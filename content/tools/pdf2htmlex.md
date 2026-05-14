@@ -12,6 +12,6 @@ draft: false
 
 pdf2htmlEX 是一个将 PDF 文件转换为高质量 HTML 格式的工具，支持复杂布局和数学公式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/pdf2htmlEX/pdf2htmlEX)
+- [官网](https://github.com/pdf2htmlEX/pdf2htmlEX)

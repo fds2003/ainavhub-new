@@ -12,6 +12,6 @@ draft: false
 
 AnyControl是一个支持多种控制信号的文本生成图像框架，可实现高质量和谐图像创作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/open-mmlab/AnyControl)
+- [官网](https://github.com/open-mmlab/AnyControl)

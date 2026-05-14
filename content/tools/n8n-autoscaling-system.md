@@ -12,6 +12,6 @@ draft: false
 
 n8n Autoscaling System是一个基于Docker的n8n工作流自动扩容方案，它根据Redis队列长度动态调整worker容器数量。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/conor-is-my-name/n8n-autoscaling)
+- [官网](https://github.com/conor-is-my-name/n8n-autoscaling)

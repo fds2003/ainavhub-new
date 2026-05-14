@@ -12,6 +12,6 @@ draft: false
 
 LAMBDA是一个本地AI邮件自动化系统，能够根据用户的邮件风格生成未读邮件的草稿回复。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zycyc/LAMBDA)
+- [官网](https://github.com/zycyc/LAMBDA)

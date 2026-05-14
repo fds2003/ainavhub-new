@@ -12,6 +12,6 @@ draft: false
 
 Quantum Swarm是一个强大的多代理系统，利用协作的AI代理高效处理复杂查询。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Quarm-AI/Quarm)
+- [官网](https://github.com/Quarm-AI/Quarm)

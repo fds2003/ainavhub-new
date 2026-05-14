@@ -12,6 +12,6 @@ draft: false
 
 Structured Outputs示例应用展示了如何利用OpenAI API的结构化输出功能构建可靠的NextJS应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/openai-structured-outputs-samples)
+- [官网](https://github.com/openai/openai-structured-outputs-samples)

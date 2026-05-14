@@ -12,6 +12,6 @@ draft: false
 
 Video Smartcut是一款开源的命令行工具，能够快速高效地裁剪各种视频格式，保持高质量。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/skeskinen/smartcut)
+- [官网](https://github.com/skeskinen/smartcut)

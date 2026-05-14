@@ -12,6 +12,6 @@ draft: false
 
 SuperCoder是一款终端内运行的编码助手，具备代码搜索、编辑、修复等功能，简化开发流程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huytd/supercoder)
+- [官网](https://github.com/huytd/supercoder)

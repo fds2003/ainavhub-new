@@ -12,6 +12,6 @@ draft: false
 
 全AI生成的美女视频让人分不清真假
 
-## Links
+## 链接
 
-- [Official Website](https://www.arcads.ai/)
+- [官网](https://www.arcads.ai/)

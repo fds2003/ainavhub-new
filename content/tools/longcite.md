@@ -12,6 +12,6 @@ draft: false
 
 LongCite 是一个支持长文本问答的工具，能生成精确的逐句引用以验证信息。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THUDM/LongCite)
+- [官网](https://github.com/THUDM/LongCite)

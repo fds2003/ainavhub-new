@@ -12,6 +12,6 @@ draft: false
 
 Nanospeech是一个基于PyTorch的文本转语音系统，简单易用且支持声纹匹配，适合研究使用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lucasnewman/nanospeech)
+- [官网](https://github.com/lucasnewman/nanospeech)

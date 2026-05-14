@@ -12,6 +12,6 @@ draft: false
 
 AI编码代理指南
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/agents.md)
+- [官网](https://github.com/openai/agents.md)

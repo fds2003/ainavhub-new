@@ -12,6 +12,6 @@ draft: false
 
 本地AI自主代理平台：Cleo
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/CleoSource/Cleo)
+- [官网](https://github.com/CleoSource/Cleo)

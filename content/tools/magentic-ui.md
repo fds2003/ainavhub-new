@@ -12,6 +12,6 @@ draft: false
 
 Magentic-UI是一个agentic网络界面原型，它通过AutoGen代理协同解决复杂的Web任务，并提供透明可控的界面。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/magentic-ui)
+- [官网](https://github.com/microsoft/magentic-ui)

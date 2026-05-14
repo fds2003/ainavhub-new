@@ -12,6 +12,6 @@ draft: false
 
 SOLO 是一种单一 Transformer 架构的统一视觉语言模型，接受图像和文本输入。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Yangyi-Chen/SOLO)
+- [官网](https://github.com/Yangyi-Chen/SOLO)

@@ -12,6 +12,6 @@ draft: false
 
 Hunyuan-Large是腾讯发布的开源MoE大模型，拥有3890亿参数，适用于多种AI任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/Tencent-Hunyuan-Large)
+- [官网](https://github.com/Tencent/Tencent-Hunyuan-Large)

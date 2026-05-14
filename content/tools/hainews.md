@@ -12,6 +12,6 @@ draft: false
 
 一个新闻聚合网站，可以让用户输入感兴趣的话题，立即开始与它交谈。
 
-## Links
+## 链接
 
-- [Official Website](https://hai.news/)
+- [官网](https://hai.news/)

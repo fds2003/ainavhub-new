@@ -12,6 +12,6 @@ draft: false
 
 Claude AI 代码安全审查
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/anthropics/claude-code-security-review)
+- [官网](https://github.com/anthropics/claude-code-security-review)

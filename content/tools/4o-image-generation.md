@@ -12,6 +12,6 @@ draft: false
 
 OpenAI推出了其最新的图像生成能力集成于 GPT-4o 模型中
 
-## Links
+## 链接
 
-- [Official Website](https://openai.com/index/introducing-4o-image-generation/)
+- [官网](https://openai.com/index/introducing-4o-image-generation/)

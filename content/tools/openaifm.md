@@ -12,6 +12,6 @@ draft: false
 
 OpenAI.fm是一个基于NextJS和OpenAI API构建的交互式文本转语音演示应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/openai-fm)
+- [官网](https://github.com/openai/openai-fm)

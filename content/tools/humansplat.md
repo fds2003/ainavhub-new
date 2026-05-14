@@ -12,6 +12,6 @@ draft: false
 
 一种能够从单张输入图像预测3D高斯分摊属性的通用化方法
 
-## Links
+## 链接
 
-- [Official Website](https://humansplat.github.io/)
+- [官网](https://humansplat.github.io/)

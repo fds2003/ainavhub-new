@@ -12,6 +12,6 @@ draft: false
 
 开源高效智能体框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/Youtu-agent)
+- [官网](https://github.com/Tencent/Youtu-agent)

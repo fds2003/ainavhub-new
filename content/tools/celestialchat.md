@@ -12,6 +12,6 @@ draft: false
 
 高效、可定制、易于部署的AI聊天工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/suzushi-tw/celestialchat)
+- [官网](https://github.com/suzushi-tw/celestialchat)

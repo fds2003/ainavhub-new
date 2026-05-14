@@ -12,6 +12,6 @@ draft: false
 
 StoryMaker是一种个性化解决方案，可在文本生成图像时保证多个角色在面部、服装和发型等方面的一致性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RedAIGC/StoryMaker)
+- [官网](https://github.com/RedAIGC/StoryMaker)

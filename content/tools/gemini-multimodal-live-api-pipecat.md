@@ -12,6 +12,6 @@ draft: false
 
 该项目是使用Pipecat Web SDK和Gemini Multimodal Live API构建的聊天应用程序入门套件，支持多种聊天模式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/pipecat-ai/gemini-multimodal-live-demo)
+- [官网](https://github.com/pipecat-ai/gemini-multimodal-live-demo)

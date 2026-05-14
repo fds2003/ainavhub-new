@@ -12,6 +12,6 @@ draft: false
 
 个性化端到端自动驾驶基准
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AIR-THU/StyleDrive)
+- [官网](https://github.com/AIR-THU/StyleDrive)

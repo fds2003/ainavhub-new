@@ -12,6 +12,6 @@ draft: false
 
 提供智能记忆层，增强大型语言模型个性化AI体验，支持自适应记忆与多应用场景。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mem0ai/mem0)
+- [官网](https://github.com/mem0ai/mem0)

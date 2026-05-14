@@ -12,6 +12,6 @@ draft: false
 
 AI互动小说生成器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xiamuceer-j/AI-Gamble)
+- [官网](https://github.com/xiamuceer-j/AI-Gamble)

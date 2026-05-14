@@ -12,6 +12,6 @@ draft: false
 
 comfy-groqchat是一个集成多API和大模型、支持图片反推和翻译等功能的对话节点工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yiwangsimple/ComfyUI_GroqChat)
+- [官网](https://github.com/yiwangsimple/ComfyUI_GroqChat)

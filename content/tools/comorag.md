@@ -12,6 +12,6 @@ draft: false
 
 认知记忆RAG：长叙事推理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/EternityJune25/ComoRAG)
+- [官网](https://github.com/EternityJune25/ComoRAG)

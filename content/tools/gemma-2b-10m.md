@@ -12,6 +12,6 @@ draft: false
 
 谷歌 Gemma 2B 的上下文窗口最新扩展至 10M。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mustafaaljadery/gemma-2B-10M)
+- [官网](https://github.com/mustafaaljadery/gemma-2B-10M)

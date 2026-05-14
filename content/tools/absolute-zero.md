@@ -12,6 +12,6 @@ draft: false
 
 Absolute Zero是一种无需外部数据，通过自对弈强化推理来提升代码和数学能力的模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)
+- [官网](https://github.com/LeapLabTHU/Absolute-Zero-Reasoner)

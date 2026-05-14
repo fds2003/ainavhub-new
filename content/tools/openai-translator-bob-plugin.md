@@ -12,6 +12,6 @@ draft: false
 
 macOS 平台的翻译提供翻译、润色和语法修改功能的插件
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai-translator/bob-plugin-openai-translator)
+- [官网](https://github.com/openai-translator/bob-plugin-openai-translator)

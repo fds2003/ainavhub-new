@@ -12,6 +12,6 @@ draft: false
 
 代码智能分析与语义搜索
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/anrgct/autodev-codebase)
+- [官网](https://github.com/anrgct/autodev-codebase)

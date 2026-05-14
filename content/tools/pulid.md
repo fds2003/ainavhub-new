@@ -12,6 +12,6 @@ draft: false
 
 PuLID是一种新颖的无需调整的文本至图片生成的定制方法，通过对比对齐实现高ID保真度。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ToTheBeginning/PuLID)
+- [官网](https://github.com/ToTheBeginning/PuLID)

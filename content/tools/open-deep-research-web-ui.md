@@ -12,6 +12,6 @@ draft: false
 
 Open Deep Research Web UI 是一个现代化的AI研究助手，提供直观的网页界面，支持深入主题研究。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fdarkaou/open-deep-research)
+- [官网](https://github.com/fdarkaou/open-deep-research)

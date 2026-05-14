@@ -12,6 +12,6 @@ draft: false
 
 抱抱脸LLM价格对比
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/spaces/philschmid/llm-pricing)
+- [官网](https://huggingface.co/spaces/philschmid/llm-pricing)

@@ -12,6 +12,6 @@ draft: false
 
 复制Devin，一个能够执行复杂工程任务并积极与用户在软件开发项目上合作的自主AI软件工程师
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/opendevin/opendevin)
+- [官网](https://github.com/opendevin/opendevin)

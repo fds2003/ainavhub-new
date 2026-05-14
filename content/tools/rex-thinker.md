@@ -12,6 +12,6 @@ draft: false
 
 思维链目标指代模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/IDEA-Research/Rex-Thinker)
+- [官网](https://github.com/IDEA-Research/Rex-Thinker)

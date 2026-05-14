@@ -12,6 +12,6 @@ draft: false
 
 Lingo是一款支持离线翻译任意语言的桌面应用程序
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/thewh1teagle/lingo)
+- [官网](https://github.com/thewh1teagle/lingo)

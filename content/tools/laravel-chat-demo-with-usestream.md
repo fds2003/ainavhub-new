@@ -12,6 +12,6 @@ draft: false
 
 Laravel React 流式AI聊天演示
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/laravel/larachat)
+- [官网](https://github.com/laravel/larachat)

@@ -12,6 +12,6 @@ draft: false
 
 开源的AI驱动搜索引擎工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ItzCrazyKns/Perplexica)
+- [官网](https://github.com/ItzCrazyKns/Perplexica)

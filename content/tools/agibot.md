@@ -12,6 +12,6 @@ draft: false
 
 AgiBot是一个机器人数据集，包含超过一百万条来自100个机器人的轨迹，支持多种操作任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenDriveLab/agibot-world)
+- [官网](https://github.com/OpenDriveLab/agibot-world)

@@ -12,6 +12,6 @@ draft: false
 
 Sudoku-RWKV 是一款专门为解数独拼图而训练的 RWKV 模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Jellyfish042/Sudoku-RWKV)
+- [官网](https://github.com/Jellyfish042/Sudoku-RWKV)

@@ -12,6 +12,6 @@ draft: false
 
 XHand是一种实时生成高细节手部3D模型的手部虚拟形象系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/agnJason/XHand)
+- [官网](https://github.com/agnJason/XHand)

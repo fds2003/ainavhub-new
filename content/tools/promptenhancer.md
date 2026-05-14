@@ -12,6 +12,6 @@ draft: false
 
 文生图提示词增强
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer)
+- [官网](https://github.com/Hunyuan-PromptEnhancer/PromptEnhancer)

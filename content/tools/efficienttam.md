@@ -12,6 +12,6 @@ draft: false
 
 EfficientTAM是一款高效的视频和图像分割模型，兼具性能与效率，适用于多种设备。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yformer/EfficientTAM)
+- [官网](https://github.com/yformer/EfficientTAM)

@@ -12,6 +12,6 @@ draft: false
 
 MatAnyone是一个实用的人体视频抠像框架，具有稳定的核心区域和细节边界性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/pq-yang/MatAnyone)
+- [官网](https://github.com/pq-yang/MatAnyone)

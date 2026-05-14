@@ -12,6 +12,6 @@ draft: false
 
 Free-Search是一个API，利用自定义搜索引擎和爬虫技术，为AI应用提供实时的Google搜索结果，包含来源、链接和内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HanzlaJavaid/Free-Search/blob/main/readme.md)
+- [官网](https://github.com/HanzlaJavaid/Free-Search/blob/main/readme.md)

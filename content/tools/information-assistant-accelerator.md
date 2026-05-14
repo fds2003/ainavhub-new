@@ -12,6 +12,6 @@ draft: false
 
 基于Azure和OpenAI大型语言模型（如GPT）的集成加速器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/PubSec-Info-Assistant)
+- [官网](https://github.com/microsoft/PubSec-Info-Assistant)

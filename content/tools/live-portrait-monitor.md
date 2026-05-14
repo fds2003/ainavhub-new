@@ -12,6 +12,6 @@ draft: false
 
 Onit是一款Mac上的AI聊天侧边栏，可以吸附到任何应用程序，如同一个更通用的Cursor Chat。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/synth-inc/onit)
+- [官网](https://github.com/synth-inc/onit)

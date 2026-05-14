@@ -12,6 +12,6 @@ draft: false
 
 Claude CLI 自动化命令
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/brennercruvinel/CCPlugins)
+- [官网](https://github.com/brennercruvinel/CCPlugins)

@@ -12,6 +12,6 @@ draft: false
 
 Web代码生成质量评估器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/angular/web-codegen-scorer)
+- [官网](https://github.com/angular/web-codegen-scorer)

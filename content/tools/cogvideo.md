@@ -12,6 +12,6 @@ draft: false
 
 CogVideo 是清华大学研发的首个开源预训练文本生成视频模型，CogVideoX 系列进一步增强了视频生成的能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THUDM/CogVideo)
+- [官网](https://github.com/THUDM/CogVideo)

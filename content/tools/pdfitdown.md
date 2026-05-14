@@ -12,6 +12,6 @@ draft: false
 
 PdfItDown是一个Python包，可将多种格式(如Markdown、图片等)转换为PDF，并提供命令行工具和Python API。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AstraBert/PdfItDown)
+- [官网](https://github.com/AstraBert/PdfItDown)

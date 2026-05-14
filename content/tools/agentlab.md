@@ -12,6 +12,6 @@ draft: false
 
 AgentLab是一个开放且易于扩展的框架，旨在加速网页代理研究的开发和评估。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ServiceNow/AgentLab)
+- [官网](https://github.com/ServiceNow/AgentLab)

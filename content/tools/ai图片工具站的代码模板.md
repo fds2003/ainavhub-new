@@ -12,6 +12,6 @@ draft: false
 
 这是一套基于Next.js和Tailwind CSS开发的AI图片工具站代码模板，支持国际化和多种支付方式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yaakua/ai-outpainting-com)
+- [官网](https://github.com/yaakua/ai-outpainting-com)

@@ -12,6 +12,6 @@ draft: false
 
 为黑白老照片或动画游戏风景等图像提供生动且自然的颜色
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/piddnad/DDColor)
+- [官网](https://github.com/piddnad/DDColor)

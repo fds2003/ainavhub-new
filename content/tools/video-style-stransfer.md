@@ -12,6 +12,6 @@ draft: false
 
 Video-Style-Transfer是一个支持提升图像质量的开源AI应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/philz1337x/video-style-transfer)
+- [官网](https://github.com/philz1337x/video-style-transfer)

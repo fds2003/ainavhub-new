@@ -12,6 +12,6 @@ draft: false
 
 解决从复杂文本数据中检索和理解信息的强大工具，非常适合处理需要深入分析大量密集文本的场景
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SuperpoweredAI/spRAG)
+- [官网](https://github.com/SuperpoweredAI/spRAG)

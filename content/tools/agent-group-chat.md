@@ -12,6 +12,6 @@ draft: false
 
 模拟多个代理人（agents）之间语言互动的仿真系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MikeGu721/AgentGroup)
+- [官网](https://github.com/MikeGu721/AgentGroup)

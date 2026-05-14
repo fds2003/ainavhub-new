@@ -12,6 +12,6 @@ draft: false
 
 Pocket Flow是一个仅用100行代码实现的极简LLM框架，轻量且功能强大，支持Agent、Workflow、RAG等模式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/The-Pocket/PocketFlow)
+- [官网](https://github.com/The-Pocket/PocketFlow)

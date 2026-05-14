@@ -12,6 +12,6 @@ draft: false
 
 Ollama App 是一款现代易用的客户端，为您提供本地网络隐私保护的极佳体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JHubi1/ollama-app)
+- [官网](https://github.com/JHubi1/ollama-app)

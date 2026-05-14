@@ -12,6 +12,6 @@ draft: false
 
 Magic Clothing是一个以可控制的服装驱动图像合成为核心的技术项目，建立在OOTDiffusion的基础上
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ShineChen1024/MagicClothing)
+- [官网](https://github.com/ShineChen1024/MagicClothing)

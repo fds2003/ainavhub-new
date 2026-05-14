@@ -12,6 +12,6 @@ draft: false
 
 iOS Simulator MCP Server是一个模型上下文协议服务器，用于与iOS模拟器交互，获取信息、控制UI和检查UI元素。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/joshuayoes/ios-simulator-mcp)
+- [官网](https://github.com/joshuayoes/ios-simulator-mcp)

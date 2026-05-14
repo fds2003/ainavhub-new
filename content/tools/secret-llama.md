@@ -12,6 +12,6 @@ draft: false
 
 在浏览器中运行的私密大型语言模型(LLM)聊天机器人
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/abi/secret-llama)
+- [官网](https://github.com/abi/secret-llama)

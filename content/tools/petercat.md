@@ -12,6 +12,6 @@ draft: false
 
 PeterCat是一个智能答疑机器人解决方案，专为社区维护者和开发者提供高效的技术支持。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/petercat-ai/petercat)
+- [官网](https://github.com/petercat-ai/petercat)

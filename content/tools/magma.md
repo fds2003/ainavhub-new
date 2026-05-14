@@ -12,6 +12,6 @@ draft: false
 
 Magma是一种多模态人工智能代理的基础模型，能够在虚拟和现实环境中进行复杂交互。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/Magma)
+- [官网](https://github.com/microsoft/Magma)

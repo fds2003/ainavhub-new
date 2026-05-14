@@ -12,6 +12,6 @@ draft: false
 
 Fashion-VDM是一种视频扩散模型，用于生成高质量的虚拟试穿视频，保持人物特征和动态一致性。
 
-## Links
+## 链接
 
-- [Official Website](https://johannakarras.github.io/Fashion-VDM/)
+- [官网](https://johannakarras.github.io/Fashion-VDM/)

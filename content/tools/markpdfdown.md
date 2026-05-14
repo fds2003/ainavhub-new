@@ -12,6 +12,6 @@ draft: false
 
 MarkPDFDown是利用多模态AI模型将PDF文件精准转为Markdown格式的强大工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jorben/markpdfdown)
+- [官网](https://github.com/jorben/markpdfdown)

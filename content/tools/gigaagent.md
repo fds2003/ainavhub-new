@@ -12,6 +12,6 @@ draft: false
 
 通用任务智能代理编排框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ai-forever/giga_agent)
+- [官网](https://github.com/ai-forever/giga_agent)

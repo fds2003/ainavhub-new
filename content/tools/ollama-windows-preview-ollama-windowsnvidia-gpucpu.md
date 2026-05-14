@@ -12,6 +12,6 @@ draft: false
 
 Dia是Nari Labs开发的16亿参数文本转语音模型，能直接生成逼真对话，并支持情感控制。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nari-labs/dia)
+- [官网](https://github.com/nari-labs/dia)

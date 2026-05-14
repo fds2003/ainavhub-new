@@ -12,6 +12,6 @@ draft: false
 
 AI Shell是一个将自然语言转换成Shell命令的开源命令行工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BuilderIO/ai-shell)
+- [官网](https://github.com/BuilderIO/ai-shell)

@@ -12,6 +12,6 @@ draft: false
 
 RAGLite是一个用于检索增强生成（RAG）的Python工具包，支持PostgreSQL和SQLite数据库。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/superlinear-ai/raglite)
+- [官网](https://github.com/superlinear-ai/raglite)

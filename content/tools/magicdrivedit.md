@@ -12,6 +12,6 @@ draft: false
 
 MagicDriveDiT是一个用于自主驾驶的视频生成模型，能够生成高分辨率和长时间的视频，具备自适应控制能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/flymin/MagicDriveDiT)
+- [官网](https://github.com/flymin/MagicDriveDiT)

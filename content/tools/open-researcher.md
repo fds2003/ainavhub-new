@@ -12,6 +12,6 @@ draft: false
 
 AI 驱动网页智能研究
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mendableai/open-researcher)
+- [官网](https://github.com/mendableai/open-researcher)

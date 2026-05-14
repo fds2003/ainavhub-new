@@ -12,6 +12,6 @@ draft: false
 
 OpenAI Realtime API与Twilio结合，构建电话AI助手，实现实时通话和消息转发功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/openai-realtime-twilio-demo)
+- [官网](https://github.com/openai/openai-realtime-twilio-demo)

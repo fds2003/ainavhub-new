@@ -12,6 +12,6 @@ draft: false
 
 Scira 是一款简约的人工智能搜索引擎，帮助用户快速获取互联网信息。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zaidmukaddam/scira)
+- [官网](https://github.com/zaidmukaddam/scira)

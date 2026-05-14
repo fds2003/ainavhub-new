@@ -12,6 +12,6 @@ draft: false
 
 Image to Music v2 是一个新版本，旨在提供透明的过程，让用户了解将图像转化为音乐的方法。 该版本使用微软/kosmos-2-patch14-224的图像标题，并通过HuggingFaceH4/zephyr-7b-beta的LLM Agent将其转化为音乐启发。 用户可以选择MAGNet、MusicGen、AudioLDM-2、Riffusion或Mustango等开源模型，调整音乐的灵感提示，以获得符合期望的音乐结果。
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/spaces/fffiloni/image-to-music-v2)
+- [官网](https://huggingface.co/spaces/fffiloni/image-to-music-v2)

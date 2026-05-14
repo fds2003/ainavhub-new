@@ -12,6 +12,6 @@ draft: false
 
 Zev是一个使用自然语言查询终端命令的Python工具，基于OpenAI API或Ollama实现。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dtnewman/zev)
+- [官网](https://github.com/dtnewman/zev)

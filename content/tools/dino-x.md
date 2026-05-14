@@ -12,6 +12,6 @@ draft: false
 
 DINO-X是一款领先的统一视觉模型，能够高效实现开放世界中的物体检测与理解。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/IDEA-Research/DINO-X-API)
+- [官网](https://github.com/IDEA-Research/DINO-X-API)

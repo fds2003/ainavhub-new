@@ -12,6 +12,6 @@ draft: false
 
 Agentless是一种无需代理的自动化软件开发问题解决方法，分为定位和修复两个阶段。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenAutoCoder/Agentless)
+- [官网](https://github.com/OpenAutoCoder/Agentless)

@@ -12,6 +12,6 @@ draft: false
 
 智能体工具协作框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shizhl/CoAgents)
+- [官网](https://github.com/shizhl/CoAgents)

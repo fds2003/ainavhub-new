@@ -12,6 +12,6 @@ draft: false
 
 代码自动化文档与智能分析
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TrySita/AutoDocs)
+- [官网](https://github.com/TrySita/AutoDocs)

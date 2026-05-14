@@ -12,6 +12,6 @@ draft: false
 
 Gemini Multimodal Playground 是一个支持语音对话的 Python 应用，使用 Google 的 Gemini 2.0 AI 模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/saharmor/gemini-multimodal-playground)
+- [官网](https://github.com/saharmor/gemini-multimodal-playground)

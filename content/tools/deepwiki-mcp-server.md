@@ -12,6 +12,6 @@ draft: false
 
 Deepwiki MCP Server是一个非官方工具，它通过MCP抓取Deepwiki页面，转换为Markdown格式并返回文档。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/regenrek/deepwiki-mcp)
+- [官网](https://github.com/regenrek/deepwiki-mcp)

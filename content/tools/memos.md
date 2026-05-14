@@ -12,6 +12,6 @@ draft: false
 
 大模型记忆操作系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MemTensor/MemOS)
+- [官网](https://github.com/MemTensor/MemOS)

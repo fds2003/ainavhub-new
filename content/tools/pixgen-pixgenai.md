@@ -12,6 +12,6 @@ draft: false
 
 百分50%算力确达到了GPT-4水平
 
-## Links
+## 链接
 
-- [Official Website](https://pi.ai/)
+- [官网](https://pi.ai/)

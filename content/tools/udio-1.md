@@ -12,6 +12,6 @@ draft: false
 
 由音乐和科技界重量级人物支持的强大 AI 音乐生成器，被称为音乐界的另一个 ChatGPT。
 
-## Links
+## 链接
 
-- [Official Website](https://www.udio.com/)
+- [官网](https://www.udio.com/)

@@ -12,6 +12,6 @@ draft: false
 
 AI对话电子书阅读器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xincmm/sageread)
+- [官网](https://github.com/xincmm/sageread)

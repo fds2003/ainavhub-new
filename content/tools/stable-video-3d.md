@@ -12,6 +12,6 @@ draft: false
 
 从单个物体图像生成新颖多视角的模型
 
-## Links
+## 链接
 
-- [Official Website](https://stability.ai/news/introducing-stable-video-3d)
+- [官网](https://stability.ai/news/introducing-stable-video-3d)

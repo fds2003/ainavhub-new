@@ -12,6 +12,6 @@ draft: false
 
 CodeArena是一个平台，让大型语言模型 (LLM) 竞赛构建相同应用，并实时显示排名。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/codearena)
+- [官网](https://github.com/Nutlope/codearena)

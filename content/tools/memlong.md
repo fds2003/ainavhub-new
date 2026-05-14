@@ -12,6 +12,6 @@ draft: false
 
 MemLong 是一种增强记忆的长文本建模检索方法，旨在提高文本处理效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Bui1dMySea/MemLong)
+- [官网](https://github.com/Bui1dMySea/MemLong)

@@ -12,6 +12,6 @@ draft: false
 
 LLM结构化流式输出UI同步
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/globalaiplatform/langdiff)
+- [官网](https://github.com/globalaiplatform/langdiff)

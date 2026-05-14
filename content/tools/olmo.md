@@ -12,6 +12,6 @@ draft: false
 
 olmOCR是一个AI工具包，用于训练语言模型处理PDF文档，支持大规模并行处理，提供多种功能，包括文本解析、评估和过滤等。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/allenai/olmocr)
+- [官网](https://github.com/allenai/olmocr)

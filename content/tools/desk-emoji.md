@@ -12,6 +12,6 @@ draft: false
 
 Desk-Emoji是一款开源AI桌面机器人，带表情屏、双轴控制和语音对话功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ideamark/desk-emoji)
+- [官网](https://github.com/ideamark/desk-emoji)

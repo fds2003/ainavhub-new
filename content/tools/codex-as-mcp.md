@@ -12,6 +12,6 @@ draft: false
 
 AI 工具的 Codex 任务引擎
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kky42/codex-as-mcp)
+- [官网](https://github.com/kky42/codex-as-mcp)

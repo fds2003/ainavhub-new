@@ -12,6 +12,6 @@ draft: false
 
 Firecrawl MCP Server是一个集成了Firecrawl网络爬取能力的模型上下文协议(MCP)服务端实现。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mendableai/firecrawl-mcp-server)
+- [官网](https://github.com/mendableai/firecrawl-mcp-server)

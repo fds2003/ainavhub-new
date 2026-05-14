@@ -12,6 +12,6 @@ draft: false
 
 Gemini CLI 跨平台界面
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cruzyjapan/Gemini-CLI-UI)
+- [官网](https://github.com/cruzyjapan/Gemini-CLI-UI)

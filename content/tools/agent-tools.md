@@ -12,6 +12,6 @@ draft: false
 
 AI智能体工具框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/justinlietz93/agent_tools)
+- [官网](https://github.com/justinlietz93/agent_tools)

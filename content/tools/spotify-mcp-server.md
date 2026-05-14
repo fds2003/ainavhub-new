@@ -12,6 +12,6 @@ draft: false
 
 Spotify MCP Server 是一个轻量级服务器，让 AI 助手能控制 Spotify 播放和管理播放列表。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/marcelmarais/spotify-mcp-server)
+- [官网](https://github.com/marcelmarais/spotify-mcp-server)

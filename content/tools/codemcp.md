@@ -12,6 +12,6 @@ draft: false
 
 codemcp是Claude Pro的编程助手，可直接编辑代码、运行测试，告别代码复制，并通过Git确保修改可回滚。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ezyang/codemcp)
+- [官网](https://github.com/ezyang/codemcp)

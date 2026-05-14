@@ -12,6 +12,6 @@ draft: false
 
 ClickClickClick是一个框架，利用任何大型语言模型实现安卓手机和计算机的自主操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BandarLabs/clickclickclick)
+- [官网](https://github.com/BandarLabs/clickclickclick)

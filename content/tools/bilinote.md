@@ -12,6 +12,6 @@ draft: false
 
 BiliNote是一款AI视频笔记生成工具，能从B站、YouTube等平台自动生成结构化的Markdown笔记。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JefferyHcool/BiliNote)
+- [官网](https://github.com/JefferyHcool/BiliNote)

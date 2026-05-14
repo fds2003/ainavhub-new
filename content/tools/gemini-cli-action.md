@@ -12,6 +12,6 @@ draft: false
 
 Gemini CLI GitHub 工作流自动化
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/google-gemini/gemini-cli-action)
+- [官网](https://github.com/google-gemini/gemini-cli-action)

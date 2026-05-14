@@ -12,6 +12,6 @@ draft: false
 
 智能股票分析与投资决策
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/liangdabiao/crewai_stock_analysis_system)
+- [官网](https://github.com/liangdabiao/crewai_stock_analysis_system)

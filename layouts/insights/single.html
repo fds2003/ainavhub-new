@@ -7,11 +7,11 @@
         <p class="insight-description">{{ .Description }}</p>
         <div class="insight-meta">
             <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
-                {{ .Date.Format "January 2, 2006" }}
+                {{ .Date.Format "2006-01-02" }}
             </time>
-            <span class="reading-time">{{ .ReadingTime }} min read</span>
+            <span class="reading-time">{{ .ReadingTime }} 分钟阅读</span>
             {{ with .Params.author }}
-            <span class="author">By {{ . }}</span>
+            <span class="author">作者：{{ . }}</span>
             {{ end }}
         </div>
     </header>

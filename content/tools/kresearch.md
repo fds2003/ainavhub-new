@@ -12,6 +12,6 @@ draft: false
 
 Google Gemini驱动的研究助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/KuekHaoYang/KResearch)
+- [官网](https://github.com/KuekHaoYang/KResearch)

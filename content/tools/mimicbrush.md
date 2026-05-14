@@ -12,6 +12,6 @@ draft: false
 
 MimicBrush 阿里巴巴开源无需训练即可使用参考图像编辑图像的工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ali-vilab/MimicBrush)
+- [官网](https://github.com/ali-vilab/MimicBrush)

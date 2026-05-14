@@ -12,6 +12,6 @@ draft: false
 
 Notes MCP是一个连接macOS Apple Notes的MCP服务器，支持Claude和Cursor等工具调用笔记功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/krasun/notes-mcp)
+- [官网](https://github.com/krasun/notes-mcp)

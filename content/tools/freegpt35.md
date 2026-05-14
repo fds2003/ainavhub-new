@@ -12,6 +12,6 @@ draft: false
 
 允许用户无需登录就可以免费使用 GPT-3.5-Turbo API服务
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/missuo/FreeGPT35)
+- [官网](https://github.com/missuo/FreeGPT35)

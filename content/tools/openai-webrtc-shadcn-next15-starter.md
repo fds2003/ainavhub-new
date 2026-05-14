@@ -12,6 +12,6 @@ draft: false
 
 OpenAI WebRTC Shadcn Next15 Starter 是基于 WebRTC 的语音 AI 流应用，支持实时音频对话。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cameronking4/openai-realtime-api-nextjs)
+- [官网](https://github.com/cameronking4/openai-realtime-api-nextjs)

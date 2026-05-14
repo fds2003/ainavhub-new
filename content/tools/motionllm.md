@@ -12,6 +12,6 @@ draft: false
 
 MotionLLM是一种用大模型联合视频和动作序列理解人类行为的新框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/IDEA-Research/MotionLLM)
+- [官网](https://github.com/IDEA-Research/MotionLLM)

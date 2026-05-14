@@ -12,6 +12,6 @@ draft: false
 
 Local GRPO培训是一个可在本地运行GRPO策略的工具，提供简单的配置和训练指引。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ArturTanona/grpo_unsloth_docker)
+- [官网](https://github.com/ArturTanona/grpo_unsloth_docker)

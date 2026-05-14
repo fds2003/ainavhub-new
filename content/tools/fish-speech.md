@@ -12,6 +12,6 @@ draft: false
 
 Fish Speech 开源TTS模型支持中日韩，语音合成不止于自然
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/fishaudio/fish-speech)
+- [官网](https://github.com/fishaudio/fish-speech)

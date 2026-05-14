@@ -12,6 +12,6 @@ draft: false
 
 Sora泄露API
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/desuAnon/SoraVids)
+- [官网](https://huggingface.co/desuAnon/SoraVids)

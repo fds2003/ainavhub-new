@@ -12,6 +12,6 @@ draft: false
 
 AI Peer Review利用大型语言模型，自动生成学术论文的独立评审，并生成总结性的元评审。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/poldrack/ai-peer-review)
+- [官网](https://github.com/poldrack/ai-peer-review)

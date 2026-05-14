@@ -12,6 +12,6 @@ draft: false
 
 利用大语言模型自动化将机器人仿真环境训练结果转移到真实世界
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/eureka-research/DrEureka)
+- [官网](https://github.com/eureka-research/DrEureka)

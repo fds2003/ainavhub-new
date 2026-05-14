@@ -12,6 +12,6 @@ draft: false
 
 HumanOmni是业界首个以人为中心的多模态大语言模型，能综合理解人类相关场景中的视频与语音信息。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HumanMLLM/HumanOmni)
+- [官网](https://github.com/HumanMLLM/HumanOmni)

@@ -12,6 +12,6 @@ draft: false
 
 Hero 是一个集日历、待办事项、笔记和语音助手于一身的生活管理应用。
 
-## Links
+## 链接
 
-- [Official Website](https://apps.apple.com/us/app/hero-daily-assistant/id6443412722)
+- [官网](https://apps.apple.com/us/app/hero-daily-assistant/id6443412722)

@@ -12,6 +12,6 @@ draft: false
 
 Oliva是一个多代理助手，利用Langchain和Superlinked在Qdrant数据库中查找产品。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Deluxer/oliva)
+- [官网](https://github.com/Deluxer/oliva)

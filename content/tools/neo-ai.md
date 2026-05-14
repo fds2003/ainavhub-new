@@ -12,6 +12,6 @@ draft: false
 
 Neo AI是一款Linux终端助手，能理解用户命令、执行操作并支持网络安全任务，注重隐私保护。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Vasco0x4/Neo-AI)
+- [官网](https://github.com/Vasco0x4/Neo-AI)

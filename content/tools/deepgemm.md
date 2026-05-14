@@ -12,6 +12,6 @@ draft: false
 
 DeepGEMM是一个高效的FP8矩阵乘法库，针对Hopper架构，性能优异，代码简洁易懂。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/deepseek-ai/DeepGEMM)
+- [官网](https://github.com/deepseek-ai/DeepGEMM)

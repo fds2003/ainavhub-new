@@ -12,6 +12,6 @@ draft: false
 
 AI 照片姿态迁移
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MapleShaw/NanoBanana-AI-Pose-Transfer)
+- [官网](https://github.com/MapleShaw/NanoBanana-AI-Pose-Transfer)

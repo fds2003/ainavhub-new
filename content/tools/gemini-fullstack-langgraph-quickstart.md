@@ -12,6 +12,6 @@ draft: false
 
 Gemini LangGraph全栈研究助手快速启动项目
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
+- [官网](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)

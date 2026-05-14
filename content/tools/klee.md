@@ -12,6 +12,6 @@ draft: false
 
 Klee是一款开源桌面平台，可安全本地运行AI，基于Ollama和LlamaIndex，方便易用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/signerlabs/klee-client)
+- [官网](https://github.com/signerlabs/klee-client)

@@ -12,6 +12,6 @@ draft: false
 
 logocreator是一款开源的AIlogo生成器，用户可快速创建专业且可自定义的商标。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/logocreator)
+- [官网](https://github.com/Nutlope/logocreator)

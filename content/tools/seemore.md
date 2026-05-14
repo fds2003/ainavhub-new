@@ -12,6 +12,6 @@ draft: false
 
 如何从零开始构建一个简单但功能强大的视觉语言模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AviSoori1x/seemore)
+- [官网](https://github.com/AviSoori1x/seemore)

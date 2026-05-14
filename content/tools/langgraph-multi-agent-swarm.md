@@ -12,6 +12,6 @@ draft: false
 
 LangGraph Multi-Agent Swarm是一个Python库，用于创建swarm风格的多智能体系统，实现智能体间的动态控制权转移和记忆。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/langgraph-swarm-py)
+- [官网](https://github.com/langchain-ai/langgraph-swarm-py)

@@ -12,6 +12,6 @@ draft: false
 
 本地私有AI照片风格化工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TheAhmadOsman/4o-ghibli-at-home)
+- [官网](https://github.com/TheAhmadOsman/4o-ghibli-at-home)

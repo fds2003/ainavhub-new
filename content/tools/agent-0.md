@@ -12,6 +12,6 @@ draft: false
 
 Agent-0是一个概念验证项目，旨在模仿OpenAI O1模型的推理能力，通过链式思考技术逐步优化编码问题的解决方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PromtEngineer/Agent-0)
+- [官网](https://github.com/PromtEngineer/Agent-0)

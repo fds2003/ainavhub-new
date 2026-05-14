@@ -12,6 +12,6 @@ draft: false
 
 Phone MCP Plugin是一个强大的MCP插件，通过ADB命令轻松控制你的安卓手机，实现自动化操作，如通话、短信、媒体控制等。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hao-cyber/phone-mcp)
+- [官网](https://github.com/hao-cyber/phone-mcp)

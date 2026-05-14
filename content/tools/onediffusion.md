@@ -12,6 +12,6 @@ draft: false
 
 OneDiffusion是一种多功能的大规模扩散模型，支持双向图像合成和理解。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lehduong/OneDiffusion)
+- [官网](https://github.com/lehduong/OneDiffusion)

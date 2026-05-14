@@ -12,6 +12,6 @@ draft: false
 
 InternVL：GPT-4V开源替代方案
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/opengvlab/internvl)
+- [官网](https://github.com/opengvlab/internvl)

@@ -12,6 +12,6 @@ draft: false
 
 macOS离线语音AI助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kwindla/macos-local-voice-agents)
+- [官网](https://github.com/kwindla/macos-local-voice-agents)

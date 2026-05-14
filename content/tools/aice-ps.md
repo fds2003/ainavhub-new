@@ -12,6 +12,6 @@ draft: false
 
 AI图片智能编辑与创作
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aigem/aice_ps)
+- [官网](https://github.com/aigem/aice_ps)

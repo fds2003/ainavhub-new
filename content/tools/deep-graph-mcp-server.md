@@ -12,6 +12,6 @@ draft: false
 
 深度图代码MCP服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JudiniLabs/mcp-code-graph)
+- [官网](https://github.com/JudiniLabs/mcp-code-graph)

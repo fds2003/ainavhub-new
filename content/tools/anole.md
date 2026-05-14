@@ -12,6 +12,6 @@ draft: false
 
 Anole是一个开源的多模态模型，能够生成交错的图像和文本。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GAIR-NLP/anole)
+- [官网](https://github.com/GAIR-NLP/anole)

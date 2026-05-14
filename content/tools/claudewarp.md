@@ -12,6 +12,6 @@ draft: false
 
 Claude 中转站管理工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/belingud/claudewarp)
+- [官网](https://github.com/belingud/claudewarp)

@@ -12,6 +12,6 @@ draft: false
 
 Code Runner MCP Server是一个用于运行代码片段并显示结果的MCP服务器，支持多种编程语言。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/formulahendry/mcp-server-code-runner)
+- [官网](https://github.com/formulahendry/mcp-server-code-runner)

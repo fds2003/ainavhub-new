@@ -12,6 +12,6 @@ draft: false
 
 ColorMagic是一个免费的开源调色板生成器，提供多种与色彩相关的工具，并支持AI功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/timb-103/colormagic)
+- [官网](https://github.com/timb-103/colormagic)

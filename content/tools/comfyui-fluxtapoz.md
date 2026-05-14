@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI-Fluxtapoz是一个用于图像编辑的节点集合，支持Flux和反向流不采样技术。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/logtd/ComfyUI-Fluxtapoz)
+- [官网](https://github.com/logtd/ComfyUI-Fluxtapoz)

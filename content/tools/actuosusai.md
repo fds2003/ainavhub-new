@@ -12,6 +12,6 @@ draft: false
 
 ActuosusAI是一款支持模型下载和管理的聊天应用，能够在GPU上高效运行。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TC-Zheng/ActuosusAI)
+- [官网](https://github.com/TC-Zheng/ActuosusAI)

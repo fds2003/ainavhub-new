@@ -7,9 +7,9 @@
         <p class="guide-description">{{ .Description }}</p>
         <div class="guide-meta">
             <time datetime="{{ .Date.Format "2006-01-02" }}" itemprop="datePublished">
-                {{ .Date.Format "January 2, 2006" }}
+                {{ .Date.Format "2006-01-02" }}
             </time>
-            <span class="reading-time">{{ .ReadingTime }} min read</span>
+            <span class="reading-time">{{ .ReadingTime }} 分钟阅读</span>
         </div>
     </header>
     
@@ -69,7 +69,7 @@
     <!-- Related Tools -->
     {{ with .Params.related_tools }}
     <section class="related-tools">
-        <h2>Tools Used in This Guide</h2>
+        <h2>本指南使用到的工具</h2>
         <div class="tools-list">
             {{ range . }}
             <a href="/tools/{{ . | urlize }}/" class="tool-link">{{ . }}</a>

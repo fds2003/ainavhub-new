@@ -12,6 +12,6 @@ draft: false
 
 Meta Lingua是一个快速、简约的LLM训练和推理库，旨在促进研究和架构实验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/lingua)
+- [官网](https://github.com/facebookresearch/lingua)

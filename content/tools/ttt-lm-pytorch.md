@@ -12,6 +12,6 @@ draft: false
 
 ttt-lm-pytorch 是一种带有表达性隐藏状态的RNN序列模型，用于测试时训练。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/test-time-training/ttt-lm-pytorch)
+- [官网](https://github.com/test-time-training/ttt-lm-pytorch)

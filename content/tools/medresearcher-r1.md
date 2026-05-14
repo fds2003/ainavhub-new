@@ -12,6 +12,6 @@ draft: false
 
 知识驱动轨迹合成训练框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AQ-MedAI/MedResearcher-R1)
+- [官网](https://github.com/AQ-MedAI/MedResearcher-R1)

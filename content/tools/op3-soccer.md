@@ -12,6 +12,6 @@ draft: false
 
 深度强化学习培养双足机器人灵活的足球技能，包括踢球、追球等
 
-## Links
+## 链接
 
-- [Official Website](https://sites.google.com/view/op3-soccer)
+- [官网](https://sites.google.com/view/op3-soccer)

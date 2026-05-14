@@ -12,6 +12,6 @@ draft: false
 
 本地私密AI桌面对话
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kamjin3086/chatless)
+- [官网](https://github.com/kamjin3086/chatless)

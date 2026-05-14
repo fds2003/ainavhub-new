@@ -12,6 +12,6 @@ draft: false
 
 SwiftLLM是一个仅有2000行代码的小型强大LLM推理系统，专为研究用途设计。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/interestingLSY/swiftLLM)
+- [官网](https://github.com/interestingLSY/swiftLLM)

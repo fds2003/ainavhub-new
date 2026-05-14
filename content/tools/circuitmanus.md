@@ -12,6 +12,6 @@ draft: false
 
 CircuitManus：基于Python的通用智能体平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/singularguy/CircuitManus)
+- [官网](https://github.com/singularguy/CircuitManus)

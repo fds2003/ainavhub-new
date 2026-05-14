@@ -12,6 +12,6 @@ draft: false
 
 SmartPDF利用AI（Llama 3.3）快速总结PDF并分章节，基于Together AI。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/smartpdfs)
+- [官网](https://github.com/Nutlope/smartpdfs)

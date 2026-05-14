@@ -12,6 +12,6 @@ draft: false
 
 无文本语音到语音大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenMOSS/MOSS-Speech)
+- [官网](https://github.com/OpenMOSS/MOSS-Speech)

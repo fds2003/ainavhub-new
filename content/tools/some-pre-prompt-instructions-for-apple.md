@@ -12,6 +12,6 @@ draft: false
 
 Apple Intelligence提示词曝光：Do not hallucinate
 
-## Links
+## 链接
 
-- [Official Website](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
+- [官网](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)

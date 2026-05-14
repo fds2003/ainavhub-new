@@ -12,6 +12,6 @@ draft: false
 
 Open Genmoji是一个基于开放技术的表情符号生成工具，可以在任何设备上使用，创造多样化的表情。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/EvanZhouDev/open-genmoji)
+- [官网](https://github.com/EvanZhouDev/open-genmoji)

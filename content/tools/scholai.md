@@ -12,6 +12,6 @@ draft: false
 
 基于MCP的智能学术研究助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/oDaiSuno/ScholAI)
+- [官网](https://github.com/oDaiSuno/ScholAI)

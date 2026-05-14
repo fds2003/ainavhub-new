@@ -12,6 +12,6 @@ draft: false
 
 快手可图推出免费一键换衣
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On)
+- [官网](https://huggingface.co/spaces/Kwai-Kolors/Kolors-Virtual-Try-On)

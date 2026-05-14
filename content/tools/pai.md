@@ -12,6 +12,6 @@ draft: false
 
 个人AI生活工作编排框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/danielmiessler/PAI)
+- [官网](https://github.com/danielmiessler/PAI)

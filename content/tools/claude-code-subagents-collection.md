@@ -12,6 +12,6 @@ draft: false
 
 Claude Code 专业子代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/davepoon/claude-code-subagents-collection)
+- [官网](https://github.com/davepoon/claude-code-subagents-collection)

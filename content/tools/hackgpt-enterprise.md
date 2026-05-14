@@ -12,6 +12,6 @@ draft: false
 
 企业级AI渗透测试平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yashab-cyber/HackGpt)
+- [官网](https://github.com/yashab-cyber/HackGpt)

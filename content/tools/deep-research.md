@@ -12,6 +12,6 @@ draft: false
 
 Deep Research是基于Google Gemini的快速深度研究工具，能生成深度报告，注重用户隐私，数据本地存储。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/u14app/deep-research)
+- [官网](https://github.com/u14app/deep-research)

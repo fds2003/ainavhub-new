@@ -12,6 +12,6 @@ draft: false
 
 CrackCode是一款隐蔽的AI面试助手，可在后台无痕辅助编程解题，提供实时代码建议。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AryanChopraa/crack-coder)
+- [官网](https://github.com/AryanChopraa/crack-coder)

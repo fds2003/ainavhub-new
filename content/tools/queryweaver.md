@@ -12,6 +12,6 @@ draft: false
 
 图谱驱动Text2SQL
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FalkorDB/QueryWeaver)
+- [官网](https://github.com/FalkorDB/QueryWeaver)

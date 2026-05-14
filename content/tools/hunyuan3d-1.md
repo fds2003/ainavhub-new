@@ -12,6 +12,6 @@ draft: false
 
 Hunyuan3D-1是腾讯推出的统一框架，可实现文本和图像到3D的快速生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/Hunyuan3D-1)
+- [官网](https://github.com/Tencent/Hunyuan3D-1)

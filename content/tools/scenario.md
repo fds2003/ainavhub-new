@@ -12,6 +12,6 @@ draft: false
 
 Scenario 是一个用于端到端测试 Agent 的 Python 库，它允许你像真人一样自动化地测试 Agent 的各种场景。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langwatch/scenario)
+- [官网](https://github.com/langwatch/scenario)

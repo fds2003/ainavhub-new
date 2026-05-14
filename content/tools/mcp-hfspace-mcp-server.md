@@ -12,6 +12,6 @@ draft: false
 
 mcp-hfspace是连接Hugging Face Spaces的MCP服务器，简化配置，支持图像生成、语音转录等多种功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/evalstate/mcp-hfspace)
+- [官网](https://github.com/evalstate/mcp-hfspace)

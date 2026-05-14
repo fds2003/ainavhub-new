@@ -12,6 +12,6 @@ draft: false
 
 Pywen：Qwen3-Coder智能开发代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PAMPAS-Lab/Pywen)
+- [官网](https://github.com/PAMPAS-Lab/Pywen)

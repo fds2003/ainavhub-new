@@ -12,6 +12,6 @@ draft: false
 
 AutoGenLib是一个Python库，能用OpenAI的API动态生成代码，实现按需导入模块和函数。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cofob/autogenlib)
+- [官网](https://github.com/cofob/autogenlib)

@@ -12,6 +12,6 @@ draft: false
 
 Jobber是一个AI代理，它能自动搜索并申请符合您要求的职位。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sentient-engineering/jobber)
+- [官网](https://github.com/sentient-engineering/jobber)

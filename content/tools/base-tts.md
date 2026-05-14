@@ -12,6 +12,6 @@ draft: false
 
 BASE TTS是亚马逊开发的大规模文本到语音合成模型,运用了10亿参数的自动回归转换器,可将文本转换成语音代码,再通过卷积解码器生成语音波形。该模型使用了超过10万小时的公共语音数据进行训练,实现了语音自然度的新状态。还具有音素解离和压缩等新颖的语音编码技术。随着模型规模的增大,BASE TTS展现出了处理复杂句子的自然语调能力。
 
-## Links
+## 链接
 
-- [Official Website](https://www.amazon.science/base-tts-samples/)
+- [官网](https://www.amazon.science/base-tts-samples/)

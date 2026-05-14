@@ -12,6 +12,6 @@ draft: false
 
 Golf是一个简化MCP服务器应用开发的框架，通过Python文件定义服务器功能，自动编译为FastMCP服务器，加速开发进程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/golf-mcp/golf)
+- [官网](https://github.com/golf-mcp/golf)

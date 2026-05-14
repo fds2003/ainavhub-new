@@ -12,6 +12,6 @@ draft: false
 
 可以在光照条件未知的情况下，从单一图像中恢复出物体的材质
 
-## Links
+## 链接
 
-- [Official Website](https://zju3dv.github.io/IntrinsicAnything/)
+- [官网](https://zju3dv.github.io/IntrinsicAnything/)

@@ -12,6 +12,6 @@ draft: false
 
 多模态图像生成大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)
+- [官网](https://github.com/Tencent-Hunyuan/HunyuanImage-3.0)

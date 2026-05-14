@@ -12,6 +12,6 @@ draft: false
 
 GitHub Spark，使用自然语言构建 Web 应用程序。
 
-## Links
+## 链接
 
-- [Official Website](https://githubnext.com/projects/github-spark)
+- [官网](https://githubnext.com/projects/github-spark)

@@ -12,6 +12,6 @@ draft: false
 
 GLM-4是智谱AI推出的最新多语言、多模态预训练模型系列，性能卓越，支持多种高级功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THUDM/GLM-4)
+- [官网](https://github.com/THUDM/GLM-4)

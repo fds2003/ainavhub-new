@@ -12,6 +12,6 @@ draft: false
 
 News Agents是一个利用Amazon Q、MCP和tmux在终端运行的多Agent并行新闻聚合与摘要系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/eugeneyan/news-agents)
+- [官网](https://github.com/eugeneyan/news-agents)

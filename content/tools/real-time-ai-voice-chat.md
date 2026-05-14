@@ -12,6 +12,6 @@ draft: false
 
 这是一个基于AI的实时语音聊天项目，能让你用语音与AI进行自然对话，并获得近乎实时的语音回复。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/KoljaB/RealtimeVoiceChat)
+- [官网](https://github.com/KoljaB/RealtimeVoiceChat)

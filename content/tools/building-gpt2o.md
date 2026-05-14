@@ -12,6 +12,6 @@ draft: false
 
 构建生成音频的GPT2模型的方法和过程
 
-## Links
+## 链接
 
-- [Official Website](https://medium.com/@nivibilla/building-gpt2o-part-1-audio-65b66e193784)
+- [官网](https://medium.com/@nivibilla/building-gpt2o-part-1-audio-65b66e193784)

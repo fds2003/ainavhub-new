@@ -12,6 +12,6 @@ draft: false
 
 下一代文本转语音（Text-to-Speech, TTS）模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/KdaiP/StableTTS)
+- [官网](https://github.com/KdaiP/StableTTS)

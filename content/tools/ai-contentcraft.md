@@ -12,6 +12,6 @@ draft: false
 
 AI ContentCraft 是一款多功能内容创作工具，支持故事、播客脚本、语音和图像生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nicekate/AI-ContentCraft)
+- [官网](https://github.com/nicekate/AI-ContentCraft)

@@ -12,6 +12,6 @@ draft: false
 
 PhoneAgent是一个基于OpenAI模型的iPhone智能助手，能够像人类用户一样操作手机应用并完成各种任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/rounak/PhoneAgent)
+- [官网](https://github.com/rounak/PhoneAgent)

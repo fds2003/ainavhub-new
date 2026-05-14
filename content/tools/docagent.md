@@ -12,6 +12,6 @@ draft: false
 
 DocAgent是一个利用多智能体和分层处理，为Python代码库自动生成高质量文档字符串的系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/DocAgent)
+- [官网](https://github.com/facebookresearch/DocAgent)

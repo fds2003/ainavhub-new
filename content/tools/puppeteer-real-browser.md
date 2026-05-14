@@ -12,6 +12,6 @@ draft: false
 
 Puppeteer Real Browser 是一个防止被检测为机器人的工具，支持通过验证码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ZFC-Digital/puppeteer-real-browser)
+- [官网](https://github.com/ZFC-Digital/puppeteer-real-browser)

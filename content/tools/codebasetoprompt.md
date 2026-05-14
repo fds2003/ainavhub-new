@@ -12,6 +12,6 @@ draft: false
 
 CodebaseToPrompt是一款能够将本地目录转换为适合大型语言模型使用的结构化提示工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/path-find-er/CodebaseToPrompt)
+- [官网](https://github.com/path-find-er/CodebaseToPrompt)

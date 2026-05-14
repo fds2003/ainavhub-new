@@ -12,6 +12,6 @@ draft: false
 
 AI创作一首属于自己的音乐
 
-## Links
+## 链接
 
-- [Official Website](https://mp.weixin.qq.com/s/lCLlazAs6sn-Ts9o6Snp0Q)
+- [官网](https://mp.weixin.qq.com/s/lCLlazAs6sn-Ts9o6Snp0Q)

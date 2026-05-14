@@ -12,6 +12,6 @@ draft: false
 
 Elon Musk的公司xAI已经开始与人工智能聊天机器人初创公司Character.AI进行谈判，双方正在商讨可能的交易。
 
-## Links
+## 链接
 
-- [Official Website](https://character.ai/)
+- [官网](https://character.ai/)

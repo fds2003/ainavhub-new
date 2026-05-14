@@ -12,6 +12,6 @@ draft: false
 
 开源的ChatGPT替代品，可以100%离线运行在您的电脑上。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/janhq/jan)
+- [官网](https://github.com/janhq/jan)

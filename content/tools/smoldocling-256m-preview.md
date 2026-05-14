@@ -12,6 +12,6 @@ draft: false
 
 SmolDocling-256M-preview是一个用于高效文档转换的多模态Image-Text-to-Text模型，支持多种文档元素的识别和转换。 它快如闪电，使用 < 500MB VRAM ⚡ 在消费类 GPU 上以 0.35 秒处理一个页面
 
-## Links
+## 链接
 
-- [Official Website](https://huggingface.co/ds4sd/SmolDocling-256M-preview)
+- [官网](https://huggingface.co/ds4sd/SmolDocling-256M-preview)

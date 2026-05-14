@@ -12,6 +12,6 @@ draft: false
 
 维基百科向量搜索
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/upstash/wikipedia-semantic-search)
+- [官网](https://github.com/upstash/wikipedia-semantic-search)

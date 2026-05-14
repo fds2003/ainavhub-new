@@ -12,6 +12,6 @@ draft: false
 
 TypeAgent是示例代码，探索利用LLM构建具有自然语言界面的个人代理架构，集成动作、记忆和计划。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/TypeAgent)
+- [官网](https://github.com/microsoft/TypeAgent)

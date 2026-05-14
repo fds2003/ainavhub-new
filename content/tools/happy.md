@@ -12,6 +12,6 @@ draft: false
 
 移动设备控制Claude代码
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/slopus/happy-cli)
+- [官网](https://github.com/slopus/happy-cli)

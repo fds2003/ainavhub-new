@@ -12,6 +12,6 @@ draft: false
 
 自动创建知识图谱和文档网络以提升RAG性能
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sarthakrastogi/graph-rag)
+- [官网](https://github.com/sarthakrastogi/graph-rag)

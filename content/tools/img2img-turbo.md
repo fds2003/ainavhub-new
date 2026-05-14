@@ -12,6 +12,6 @@ draft: false
 
 通过对抗学习适配单步扩散模型以实现快速图像转换的方法
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GaParmar/img2img-turbo)
+- [官网](https://github.com/GaParmar/img2img-turbo)

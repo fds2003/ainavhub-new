@@ -12,6 +12,6 @@ draft: false
 
 Stride AI Agents是一个开源平台，旨在帮助开发者和企业创建和管理自主人工智能系统，推动创新与效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/joshpocock/Stride-AI-Agents)
+- [官网](https://github.com/joshpocock/Stride-AI-Agents)

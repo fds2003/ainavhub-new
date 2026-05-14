@@ -12,6 +12,6 @@ draft: false
 
 Step-Audio是首个具备多语言对话和情感语调生成的开源智能语音交互框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/stepfun-ai/Step-Audio)
+- [官网](https://github.com/stepfun-ai/Step-Audio)

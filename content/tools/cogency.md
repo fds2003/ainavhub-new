@@ -12,6 +12,6 @@ draft: false
 
 开箱即用型AI代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/iteebz/cogency)
+- [官网](https://github.com/iteebz/cogency)

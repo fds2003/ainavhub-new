@@ -12,6 +12,6 @@ draft: false
 
 LeetTools是一款可自定义的AI搜索助手，支持本地知识库和复杂查询工作流程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/leettools-dev/leettools)
+- [官网](https://github.com/leettools-dev/leettools)

@@ -12,6 +12,6 @@ draft: false
 
 Qwen3大模型微调实战
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Muziqinshan/Qwen3-FineTuning-Playground)
+- [官网](https://github.com/Muziqinshan/Qwen3-FineTuning-Playground)

@@ -12,6 +12,6 @@ draft: false
 
 RestorePhotos 是一个利用AI技术修复老旧人脸照片的项目，用户可上传照片进行恢复。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/restorePhotos)
+- [官网](https://github.com/Nutlope/restorePhotos)

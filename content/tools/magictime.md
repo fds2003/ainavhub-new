@@ -12,6 +12,6 @@ draft: false
 
 基于文本提示生成时间流逝视频的研究项目和技术框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PKU-YuanGroup/MagicTime)
+- [官网](https://github.com/PKU-YuanGroup/MagicTime)

@@ -12,6 +12,6 @@ draft: false
 
 通过一致性自注意力机制的视频生成工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HVision-NKU/StoryDiffusion)
+- [官网](https://github.com/HVision-NKU/StoryDiffusion)

@@ -12,6 +12,6 @@ draft: false
 
 PDF Mind Map Maker是一款将PDF文档转换为互动思维导图的简单应用，内置AI分析功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/floguo/mind-map)
+- [官网](https://github.com/floguo/mind-map)

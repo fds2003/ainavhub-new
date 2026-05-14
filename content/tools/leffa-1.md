@@ -12,6 +12,6 @@ draft: false
 
 Leffa是一种统一框架，可实现可控的人物图像生成，允许精准操控外观和姿态。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/franciszzj/Leffa)
+- [官网](https://github.com/franciszzj/Leffa)

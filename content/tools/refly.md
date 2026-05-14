@@ -12,6 +12,6 @@ draft: false
 
 Refly是一个开源的AI创作引擎，提供直观的界面和多线程对话功能，助力内容生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/refly-ai/refly)
+- [官网](https://github.com/refly-ai/refly)

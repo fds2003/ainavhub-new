@@ -12,6 +12,6 @@ draft: false
 
 pot-desktop是一款备受欢迎的跨平台划词翻译和OCR软件，为用户提供便捷的文字翻译和识别功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/pot-app/pot-desktop)
+- [官网](https://github.com/pot-app/pot-desktop)

@@ -12,6 +12,6 @@ draft: false
 
 FreeVideoLLM是一种高效的无训练视频语言模型，采用提示引导的视觉感知方式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/contrastive/FreeVideoLLM)
+- [官网](https://github.com/contrastive/FreeVideoLLM)

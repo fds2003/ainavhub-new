@@ -12,6 +12,6 @@ draft: false
 
 LLM智能体自进化轨迹优化
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JARVIS-Xs/SE-Agent)
+- [官网](https://github.com/JARVIS-Xs/SE-Agent)

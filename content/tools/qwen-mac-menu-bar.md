@@ -12,6 +12,6 @@ draft: false
 
 Qwen Mac菜单栏应用为macOS用户提供便捷的访问，支持文本生成、翻译等多种功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/andreaturchet/Qwen4Mac)
+- [官网](https://github.com/andreaturchet/Qwen4Mac)

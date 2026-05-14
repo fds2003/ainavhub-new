@@ -12,6 +12,6 @@ draft: false
 
 use-mcp：连接MCP服务器的React Hook
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/modelcontextprotocol/use-mcp)
+- [官网](https://github.com/modelcontextprotocol/use-mcp)

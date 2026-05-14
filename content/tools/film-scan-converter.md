@@ -12,6 +12,6 @@ draft: false
 
 Film Scan Converter是一个独立应用，能将数字相机拍摄的RAW胶卷扫描处理成最终图像。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kaimonmok/Film-Scan-Converter)
+- [官网](https://github.com/kaimonmok/Film-Scan-Converter)

@@ -12,6 +12,6 @@ draft: false
 
 GitHub Copilot for Xcode 是一款智能代码建议工具，助力开发者提升编码效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/github/CopilotForXcode)
+- [官网](https://github.com/github/CopilotForXcode)

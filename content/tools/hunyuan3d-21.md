@@ -12,6 +12,6 @@ draft: false
 
 腾讯混元3D 2.1：开源可扩展的3D资产生成系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)
+- [官网](https://github.com/Tencent-Hunyuan/Hunyuan3D-2.1)

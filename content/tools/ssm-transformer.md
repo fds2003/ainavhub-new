@@ -12,6 +12,6 @@ draft: false
 
 AI21推出了首个生产级别的基于Mamba的模型Jamba，这是一个创新的SSM-Transformer混合架构模型。
 
-## Links
+## 链接
 
-- [Official Website](https://www.ai21.com/blog/announcing-jamba)
+- [官网](https://www.ai21.com/blog/announcing-jamba)

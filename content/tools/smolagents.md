@@ -12,6 +12,6 @@ draft: false
 
 Smolagents是一个简洁易用的库，可帮助您轻松构建和运行强大的智能代理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/huggingface/agents)
+- [官网](https://github.com/huggingface/agents)

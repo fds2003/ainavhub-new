@@ -12,6 +12,6 @@ draft: false
 
 该项目是一个基于Flask和Twilio的虚拟试衣应用，用户可通过WhatsApp发送照片，实时试穿服装。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/adarshb3/Virtual-Try-On-Application-using-Flask-Twilio-and-Gradio)
+- [官网](https://github.com/adarshb3/Virtual-Try-On-Application-using-Flask-Twilio-and-Gradio)

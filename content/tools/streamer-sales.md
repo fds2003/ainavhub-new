@@ -12,6 +12,6 @@ draft: false
 
 Streamer-Sales 是一款为卖货主播量身定制的智能生成商品解说文案的大模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PeterH0323/Streamer-Sales)
+- [官网](https://github.com/PeterH0323/Streamer-Sales)

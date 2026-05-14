@@ -12,6 +12,6 @@ draft: false
 
 ComfyUI-KwaiKolorsWrapper 是用于运行 Kwai-Kolors 文本生成图像管道的基础封装工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kijai/ComfyUI-KwaiKolorsWrapper)
+- [官网](https://github.com/kijai/ComfyUI-KwaiKolorsWrapper)

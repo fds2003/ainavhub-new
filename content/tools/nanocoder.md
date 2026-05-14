@@ -12,6 +12,6 @@ draft: false
 
 本地优先CLI编码代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Mote-Software/nanocoder)
+- [官网](https://github.com/Mote-Software/nanocoder)

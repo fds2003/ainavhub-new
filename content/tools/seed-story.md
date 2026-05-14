@@ -12,6 +12,6 @@ draft: false
 
 SEED-Story 是一种能生成包含一致性图像的多模态长篇故事的机器学习模型，配套数据集已开放。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TencentARC/SEED-Story)
+- [官网](https://github.com/TencentARC/SEED-Story)

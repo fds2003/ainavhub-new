@@ -12,6 +12,6 @@ draft: false
 
 ReasonFlux是一种层次化的大语言模型推理技术，使用500个思维模板，提升推理能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Gen-Verse/ReasonFlux)
+- [官网](https://github.com/Gen-Verse/ReasonFlux)

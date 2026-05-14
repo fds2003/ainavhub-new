@@ -12,6 +12,6 @@ draft: false
 
 MCP SuperAssistant是一个Chrome扩展，将MCP工具集成到ChatGPT等AI平台，增强其功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/srbhptl39/MCP-SuperAssistant)
+- [官网](https://github.com/srbhptl39/MCP-SuperAssistant)

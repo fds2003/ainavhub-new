@@ -12,6 +12,6 @@ draft: false
 
 AI 驱动的创意彻底改变了 iPad 上的数字艺术
 
-## Links
+## 链接
 
-- [Official Website](https://www.musepro.app/)
+- [官网](https://www.musepro.app/)

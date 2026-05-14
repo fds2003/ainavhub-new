@@ -12,6 +12,6 @@ draft: false
 
 翻译与OCR工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ZGGSONG/STranslate)
+- [官网](https://github.com/ZGGSONG/STranslate)

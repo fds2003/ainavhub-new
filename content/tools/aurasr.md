@@ -12,6 +12,6 @@ draft: false
 
 AuraSR 是一个开源的GigaGAN放大器，能将低分辨率图像无损放大4倍。
 
-## Links
+## 链接
 
-- [Official Website](https://blog.fal.ai/introducing-aurasr-an-open-reproduction-of-the-gigagan-upscaler-2/)
+- [官网](https://blog.fal.ai/introducing-aurasr-an-open-reproduction-of-the-gigagan-upscaler-2/)

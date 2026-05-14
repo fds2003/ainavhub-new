@@ -12,6 +12,6 @@ draft: false
 
 车牌对抗扰动数据集生成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bennjordan/PlateShapez)
+- [官网](https://github.com/bennjordan/PlateShapez)

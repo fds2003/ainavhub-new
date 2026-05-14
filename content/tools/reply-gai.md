@@ -12,6 +12,6 @@ draft: false
 
 Reply gAI 是一款基于用户推特资料生成个性化回复的人工智能工具，利用实时数据和用户风格。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/reply_gAI)
+- [官网](https://github.com/langchain-ai/reply_gAI)

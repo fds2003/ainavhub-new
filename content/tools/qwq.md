@@ -12,6 +12,6 @@ draft: false
 
 QwQ是一个注重深度思考与探索未知领域的人工智能模型，体现了追求真理和自我反思的哲学精神。
 
-## Links
+## 链接
 
-- [Official Website](https://qwenlm.github.io/blog/qwq-32b-preview/)
+- [官网](https://qwenlm.github.io/blog/qwq-32b-preview/)

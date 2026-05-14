@@ -12,6 +12,6 @@ draft: false
 
 FoloUp是一个开源平台，利用AI技术为公司提供高效的招聘面试解决方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FoloUp/FoloUp)
+- [官网](https://github.com/FoloUp/FoloUp)

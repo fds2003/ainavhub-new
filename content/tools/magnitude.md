@@ -12,6 +12,6 @@ draft: false
 
 Magnitude是一个开源AI Agent驱动的Web测试框架，能通过视觉AI适应界面变化，简化测试流程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/magnitudedev/magnitude)
+- [官网](https://github.com/magnitudedev/magnitude)

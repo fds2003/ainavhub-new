@@ -12,6 +12,6 @@ draft: false
 
 成为AI专家的技术和路径图谱
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
+- [官网](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)

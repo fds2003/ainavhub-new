@@ -12,6 +12,6 @@ draft: false
 
 该项目提供一种响应速度不到500毫秒的AI语音助手，使用多种先进技术打造。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dsa/fast-voice-assistant)
+- [官网](https://github.com/dsa/fast-voice-assistant)

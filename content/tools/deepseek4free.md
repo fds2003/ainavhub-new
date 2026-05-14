@@ -12,6 +12,6 @@ draft: false
 
 DeepSeek4Free是一个Python库，方便与DeepSeek AI聊天API交互，支持流式响应和网页搜索功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/xtekky/deepseek4free)
+- [官网](https://github.com/xtekky/deepseek4free)

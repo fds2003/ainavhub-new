@@ -12,6 +12,6 @@ draft: false
 
 《RAG中的知识图谱》课程：学习用Neo4j管理和查询知识图谱，提高LLM的检索增强生成效果。
 
-## Links
+## 链接
 
-- [Official Website](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
+- [官网](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)

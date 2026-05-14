@@ -12,6 +12,6 @@ draft: false
 
 FlowGram.AI是字节跳动开发的节点式工作流引擎，支持固定和自由布局，并赋能AI能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/bytedance/flowgram.ai)
+- [官网](https://github.com/bytedance/flowgram.ai)

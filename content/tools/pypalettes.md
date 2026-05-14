@@ -12,6 +12,6 @@ draft: false
 
 pypalettes 为Python提供超过2500种色彩映射的集合，适用于matplotlib和seaborn。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JosephBARBIERDARNAL/pypalettes)
+- [官网](https://github.com/JosephBARBIERDARNAL/pypalettes)

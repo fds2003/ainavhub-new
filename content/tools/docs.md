@@ -12,6 +12,6 @@ draft: false
 
 Docs是一款开源协作文档编辑器，通过实时协作，让笔记转化为知识，提供易用、安全的知识构建与分享平台。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/suitenumerique/docs)
+- [官网](https://github.com/suitenumerique/docs)

@@ -12,6 +12,6 @@ draft: false
 
 Open Driving World Models 是一个开源项目，专注于生成可控的自动驾驶视频，提升场景多样性与生成质量。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SenseTime-FVG/OpenDWM)
+- [官网](https://github.com/SenseTime-FVG/OpenDWM)

@@ -12,6 +12,6 @@ draft: false
 
 Kimi-Audio是开源音频基础模型，擅长音频理解、生成和对话，性能卓越并提供评估工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MoonshotAI/Kimi-Audio)
+- [官网](https://github.com/MoonshotAI/Kimi-Audio)

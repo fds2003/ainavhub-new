@@ -12,6 +12,6 @@ draft: false
 
 Chatterbox TTS 是 Resemble AI 开源的生产级TTS模型，它支持情感夸张控制，性能优于ElevenLabs，并且包含水印功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/resemble-ai/chatterbox)
+- [官网](https://github.com/resemble-ai/chatterbox)

@@ -12,6 +12,6 @@ draft: false
 
 YOLOv10是一款高效的实时端到端目标检测模型，优化了模型结构和后处理过程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THU-MIG/yolov10)
+- [官网](https://github.com/THU-MIG/yolov10)

@@ -12,6 +12,6 @@ draft: false
 
 多语种长对话流式语音合成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FireRedTeam/FireRedTTS2)
+- [官网](https://github.com/FireRedTeam/FireRedTTS2)

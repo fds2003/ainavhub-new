@@ -12,6 +12,6 @@ draft: false
 
 多语言手语数据集，便捷高效用于手语研究。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SignLLM/Prompt2Sign)
+- [官网](https://github.com/SignLLM/Prompt2Sign)

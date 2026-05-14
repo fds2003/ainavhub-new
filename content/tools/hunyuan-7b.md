@@ -12,6 +12,6 @@ draft: false
 
 混元大模型：高效长文本代理能力
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/Hunyuan-7B)
+- [官网](https://github.com/Tencent-Hunyuan/Hunyuan-7B)

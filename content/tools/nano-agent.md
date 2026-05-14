@@ -12,6 +12,6 @@ draft: false
 
 多模型AI工程代理性能评估
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/disler/nano-agent)
+- [官网](https://github.com/disler/nano-agent)

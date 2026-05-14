@@ -12,6 +12,6 @@ draft: false
 
 Thyme：代码执行式高阶视觉推理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yfzhang114/Thyme)
+- [官网](https://github.com/yfzhang114/Thyme)

@@ -12,6 +12,6 @@ draft: false
 
 Removerized是一款免费的AI工具，可轻松去除图片背景，支持离线使用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yossTheDev/removerized)
+- [官网](https://github.com/yossTheDev/removerized)

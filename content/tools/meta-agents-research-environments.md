@@ -12,6 +12,6 @@ draft: false
 
 AI智能体动态环境评估
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/facebookresearch/meta-agents-research-environments)
+- [官网](https://github.com/facebookresearch/meta-agents-research-environments)

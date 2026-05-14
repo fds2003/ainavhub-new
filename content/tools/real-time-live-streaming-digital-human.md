@@ -12,6 +12,6 @@ draft: false
 
 实时直播数字人通过少样本学习在30和40系列显卡上流畅运行，提供交互体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kleinlee/DH_live)
+- [官网](https://github.com/kleinlee/DH_live)

@@ -12,6 +12,6 @@ draft: false
 
 AssemblyAI推出Universal-1，这是一款经过12.5百万小时多语言音频数据训练、在英语、西班牙语、法语和德语上具备业界领先准确度的强大语音识别模型。
 
-## Links
+## 链接
 
-- [Official Website](https://www.assemblyai.com/research/universal-1)
+- [官网](https://www.assemblyai.com/research/universal-1)

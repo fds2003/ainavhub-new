@@ -12,6 +12,6 @@ draft: false
 
 aTrain是一款确保数据隐私的离线自动转录工具，支持多国语言和说话人检测。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JuergenFleiss/aTrain)
+- [官网](https://github.com/JuergenFleiss/aTrain)

@@ -12,6 +12,6 @@ draft: false
 
 轻松制作具有透明背景的高质量图像
 
-## Links
+## 链接
 
-- [Official Website](https://leonadoai.com/transparency/)
+- [官网](https://leonadoai.com/transparency/)

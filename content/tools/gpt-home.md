@@ -12,6 +12,6 @@ draft: false
 
 基于Raspberry Pi和OpenAI API搭建的智能家居助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/judahpaul16/gpt-home)
+- [官网](https://github.com/judahpaul16/gpt-home)

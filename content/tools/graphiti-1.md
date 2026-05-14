@@ -12,6 +12,6 @@ draft: false
 
 Graphiti是一个动态知识图谱构建工具，支持时间感知和复杂关系处理，适用于多种智能应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/getzep/graphiti)
+- [官网](https://github.com/getzep/graphiti)

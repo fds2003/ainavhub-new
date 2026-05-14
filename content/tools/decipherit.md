@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的智能研究助手DecipherIt
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mtwn105/decipher-research-agent)
+- [官网](https://github.com/mtwn105/decipher-research-agent)

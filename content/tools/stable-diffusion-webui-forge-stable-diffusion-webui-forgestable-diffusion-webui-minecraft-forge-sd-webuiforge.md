@@ -12,6 +12,6 @@ draft: false
 
 Stable Diffusion Webui Forge Stable Diffusion Webui Forgestable Diffusion Webui Minecraft Forge Sd Webuiforge is an AI-powered tool designed for developers and creators.
 
-## Links
+## 链接
 
-- [Official Website](#)
+- [官网](#)

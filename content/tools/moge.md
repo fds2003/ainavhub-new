@@ -12,6 +12,6 @@ draft: false
 
 MoGe是一种强大的模型，能够从单幅图像中准确估计三维几何信息。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/MoGe)
+- [官网](https://github.com/microsoft/MoGe)

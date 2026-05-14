@@ -12,6 +12,6 @@ draft: false
 
 原生多模态跟GPT聊天部分测试，大家都用他来做什么。
 
-## Links
+## 链接
 
-- [Official Website](https://x.com/CrisGiardina)
+- [官网](https://x.com/CrisGiardina)

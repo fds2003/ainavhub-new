@@ -12,6 +12,6 @@ draft: false
 
 基于扩散模型的虚拟人视频生成框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TMElyralab/MuseV)
+- [官网](https://github.com/TMElyralab/MuseV)

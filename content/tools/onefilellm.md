@@ -12,6 +12,6 @@ draft: false
 
 OneFileLLM是命令行工具，用于聚合多种数据源并预处理成单个文本，方便LLM快速获取信息。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/jimmc414/onefilellm)
+- [官网](https://github.com/jimmc414/onefilellm)

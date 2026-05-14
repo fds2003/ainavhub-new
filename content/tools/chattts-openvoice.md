@@ -12,6 +12,6 @@ draft: false
 
 ChatTTS-OpenVoice结合自然语音生成与音色模拟，实现更真实的语音效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HKoon/ChatTTS-OpenVoice)
+- [官网](https://github.com/HKoon/ChatTTS-OpenVoice)

@@ -12,6 +12,6 @@ draft: false
 
 一个完全在树莓派上运行的人工智能语音助手，具备摄像和语音识别功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/nkasmanoff/pi-card)
+- [官网](https://github.com/nkasmanoff/pi-card)

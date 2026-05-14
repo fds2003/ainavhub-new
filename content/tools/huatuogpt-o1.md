@@ -12,6 +12,6 @@ draft: false
 
 HuatuoGPT-o1是一款针对复杂医疗推理的语言模型，通过可验证的医疗问题提升推理能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FreedomIntelligence/HuatuoGPT-o1)
+- [官网](https://github.com/FreedomIntelligence/HuatuoGPT-o1)

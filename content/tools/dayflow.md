@@ -12,6 +12,6 @@ draft: false
 
 macOS 屏幕AI时间线
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/JerryZLiu/Dayflow)
+- [官网](https://github.com/JerryZLiu/Dayflow)

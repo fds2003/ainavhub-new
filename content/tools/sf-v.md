@@ -12,6 +12,6 @@ draft: false
 
 SF-V是一种通过单步生成高质量视频的新方法，显著降低计算成本。
 
-## Links
+## 链接
 
-- [Official Website](https://snap-research.github.io/SF-V/)
+- [官网](https://snap-research.github.io/SF-V/)

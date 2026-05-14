@@ -12,6 +12,6 @@ draft: false
 
 Paints-Undo是一款模拟人类绘图行为的AI模型，展示人类绘画的步骤和过程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lllyasviel/Paints-UNDO)
+- [官网](https://github.com/lllyasviel/Paints-UNDO)

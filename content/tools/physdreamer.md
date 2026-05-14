@@ -12,6 +12,6 @@ draft: false
 
 用户通过视频生成技术与3D对象进行互动，模拟真实世界中的物理现象
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/a1600012888/PhysDreamer)
+- [官网](https://github.com/a1600012888/PhysDreamer)

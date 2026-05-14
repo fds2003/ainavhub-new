@@ -12,6 +12,6 @@ draft: false
 
 Qodo Cover是一个利用生成式AI自动生成合格测试用例的工具，旨在提高代码覆盖率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/qodo-ai/qodo-cover)
+- [官网](https://github.com/qodo-ai/qodo-cover)

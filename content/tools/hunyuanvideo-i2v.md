@@ -12,6 +12,6 @@ draft: false
 
 HunyuanVideo-I2V是腾讯开源的图像到视频生成框架，加速社区对图像转视频的探索研究。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/HunyuanVideo-I2V)
+- [官网](https://github.com/Tencent/HunyuanVideo-I2V)

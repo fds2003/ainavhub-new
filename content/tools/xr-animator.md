@@ -12,6 +12,6 @@ draft: false
 
 基于视频/网络摄像头的 AI 运动捕捉应用，可用于虚拟直播和元宇宙时代
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ButzYung/SystemAnimatorOnline/blob/master/readme.md)
+- [官网](https://github.com/ButzYung/SystemAnimatorOnline/blob/master/readme.md)

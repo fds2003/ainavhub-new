@@ -12,6 +12,6 @@ draft: false
 
 专为 Apple 硅片设计的高效机器学习框架，支持在本地实时运行 LLM 模型（如 Llama、Mistral）
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PreternaturalAI/mlx-swift-chat)
+- [官网](https://github.com/PreternaturalAI/mlx-swift-chat)

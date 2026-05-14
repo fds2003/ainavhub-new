@@ -12,6 +12,6 @@ draft: false
 
 Graph-constrained Reasoning（GCR）是一种将知识图谱结构与大型语言模型推理相结合的新框架。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/RManLuo/graph-constrained-reasoning)
+- [官网](https://github.com/RManLuo/graph-constrained-reasoning)

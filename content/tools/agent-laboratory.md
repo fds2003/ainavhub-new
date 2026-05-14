@@ -12,6 +12,6 @@ draft: false
 
 Agent Laboratory 是一个自主研究工作流程，利用大型语言模型辅助科研，提升研究效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SamuelSchmidgall/AgentLaboratory)
+- [官网](https://github.com/SamuelSchmidgall/AgentLaboratory)

@@ -12,6 +12,6 @@ draft: false
 
 Cherry Studio是一款多功能桌面客户端，支持多种大型语言模型，适用于Windows、Mac和Linux系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/CherryHQ/cherry-studio)
+- [官网](https://github.com/CherryHQ/cherry-studio)

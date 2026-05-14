@@ -12,6 +12,6 @@ draft: false
 
 OmniTalker是一个实时文本驱动的说话头生成框架，能以音视频风格复制技术生成逼真的对话视频。
 
-## Links
+## 链接
 
-- [Official Website](https://humanaigc.github.io/omnitalker/)
+- [官网](https://humanaigc.github.io/omnitalker/)

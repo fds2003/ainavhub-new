@@ -12,6 +12,6 @@ draft: false
 
 ROS MCP Server利用LLM将自然语言指令转化为ROS指令控制机器人，兼容ROS/ROS2，适用于多种平台。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lpigeon/ros-mcp-server)
+- [官网](https://github.com/lpigeon/ros-mcp-server)

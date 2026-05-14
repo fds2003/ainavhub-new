@@ -12,6 +12,6 @@ draft: false
 
 A股AI博弈多智能体
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HuaYaoAI/FinGenius)
+- [官网](https://github.com/HuaYaoAI/FinGenius)

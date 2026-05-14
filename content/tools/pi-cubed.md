@@ -12,6 +12,6 @@ draft: false
 
 可扩展置换等变视觉几何学习
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yyfz/Pi3)
+- [官网](https://github.com/yyfz/Pi3)

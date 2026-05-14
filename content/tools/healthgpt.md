@@ -12,6 +12,6 @@ draft: false
 
 HealthGPT是一个先进的医疗大规模视觉语言模型，整合视觉理解与生成能力，支持多种医学任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DCDmllm/HealthGPT)
+- [官网](https://github.com/DCDmllm/HealthGPT)

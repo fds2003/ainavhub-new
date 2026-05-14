@@ -12,6 +12,6 @@ draft: false
 
 LLM代码沙箱服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/philschmid/code-sandbox-mcp)
+- [官网](https://github.com/philschmid/code-sandbox-mcp)

@@ -12,6 +12,6 @@ draft: false
 
 BrowserBee是一款开源 Chrome 扩展，它利用自然语言和LLM控制浏览器，实现隐私优先的网页自动化任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/parsaghaffari/browserbee)
+- [官网](https://github.com/parsaghaffari/browserbee)

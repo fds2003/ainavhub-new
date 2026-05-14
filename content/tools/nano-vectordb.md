@@ -12,6 +12,6 @@ draft: false
 
 nano-VectorDB是一个简单易用的向量数据库实现，它只依赖于一个库（numpy）。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/gusye1234/nano-vectordb)
+- [官网](https://github.com/gusye1234/nano-vectordb)

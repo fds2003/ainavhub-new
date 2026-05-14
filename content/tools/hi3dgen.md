@@ -12,6 +12,6 @@ draft: false
 
 Hi3DGen通过法线桥接，从图像生成高保真3D几何体，能捕捉精细的几何细节。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Stable-X/Hi3DGen)
+- [官网](https://github.com/Stable-X/Hi3DGen)

@@ -12,6 +12,6 @@ draft: false
 
 专为时间序列预测设计的开源库
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nixtla/neuralforecast)
+- [官网](https://github.com/Nixtla/neuralforecast)

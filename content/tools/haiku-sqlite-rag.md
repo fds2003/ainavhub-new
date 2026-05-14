@@ -12,6 +12,6 @@ draft: false
 
 本地SQLite多格式文档RAG库
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ggozad/haiku.rag)
+- [官网](https://github.com/ggozad/haiku.rag)

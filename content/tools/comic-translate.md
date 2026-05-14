@@ -12,6 +12,6 @@ draft: false
 
 Comic Translate 是一个利用GPT-4翻译漫画和其他类型漫画的项目，支持多种语言。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ogkalu2/comic-translate)
+- [官网](https://github.com/ogkalu2/comic-translate)

@@ -12,6 +12,6 @@ draft: false
 
 II-Researcher是一款深度搜索工具，利用BAML函数智能搜索网络，生成全面的问题答案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Intelligent-Internet/ii-researcher)
+- [官网](https://github.com/Intelligent-Internet/ii-researcher)

@@ -12,6 +12,6 @@ draft: false
 
 AI智能交易机器人
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NotoriousBeCode/synapse-trading-bot)
+- [官网](https://github.com/NotoriousBeCode/synapse-trading-bot)

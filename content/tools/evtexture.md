@@ -12,6 +12,6 @@ draft: false
 
 中科大发布的 EvTexture，用于提升视频分辨率的事件驱动纹理增强模型，提供官方Pytorch实现。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DachunKai/EvTexture)
+- [官网](https://github.com/DachunKai/EvTexture)

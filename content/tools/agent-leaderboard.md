@@ -12,6 +12,6 @@ draft: false
 
 Agent Leaderboard评估AI在真实商业场景中利用工具的能力，使用TSQ指标衡量模型表现并提供排行榜。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/rungalileo/agent-leaderboard)
+- [官网](https://github.com/rungalileo/agent-leaderboard)

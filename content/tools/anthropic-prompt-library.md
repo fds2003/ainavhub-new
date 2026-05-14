@@ -12,6 +12,6 @@ draft: false
 
 Anthropic提供的提示库
 
-## Links
+## 链接
 
-- [Official Website](https://docs.anthropic.com/claude/prompt-library)
+- [官网](https://docs.anthropic.com/claude/prompt-library)

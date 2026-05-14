@@ -12,6 +12,6 @@ draft: false
 
 Xianyu AutoAgent是闲鱼AI客服机器人，支持7x24小时值守、智能议价和多专家协同。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shaxiu/XianyuAutoAgent)
+- [官网](https://github.com/shaxiu/XianyuAutoAgent)

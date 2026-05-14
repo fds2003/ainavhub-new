@@ -12,6 +12,6 @@ draft: false
 
 ROMA: 递归开放元代理框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sentient-agi/ROMA)
+- [官网](https://github.com/sentient-agi/ROMA)

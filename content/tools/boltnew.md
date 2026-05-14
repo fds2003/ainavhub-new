@@ -12,6 +12,6 @@ draft: false
 
 Bolt.new是一款AI驱动的全栈Web开发工具，用户可以在浏览器中直接创建和部署应用，无需本地设置。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/stackblitz/bolt.new)
+- [官网](https://github.com/stackblitz/bolt.new)

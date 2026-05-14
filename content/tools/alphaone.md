@@ -12,6 +12,6 @@ draft: false
 
 AlphaOne：测试时控制大语言模型推理速度的通用框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ASTRAL-Group/AlphaOne)
+- [官网](https://github.com/ASTRAL-Group/AlphaOne)

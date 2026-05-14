@@ -12,6 +12,6 @@ draft: false
 
 InvSR是一种基于扩散反演的新型图像超分辨率技术，支持灵活的采样步数。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zsyOAOA/InvSR)
+- [官网](https://github.com/zsyOAOA/InvSR)

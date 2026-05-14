@@ -12,6 +12,6 @@ draft: false
 
 VACE是集视频创作与编辑于一体的AI模型，支持参考视频生成、视频编辑等多种任务的自由组合。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ali-vilab/VACE)
+- [官网](https://github.com/ali-vilab/VACE)

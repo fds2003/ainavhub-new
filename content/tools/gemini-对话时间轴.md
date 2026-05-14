@@ -12,6 +12,6 @@ draft: false
 
 Gemini 对话时间轴
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Vincent-Crawl/Gemini-conversation-timeline)
+- [官网](https://github.com/Vincent-Crawl/Gemini-conversation-timeline)

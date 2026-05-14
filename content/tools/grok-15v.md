@@ -12,6 +12,6 @@ draft: false
 
 一款能够处理文本和视觉信息（如文档、图表和照片）的首款多模态模型
 
-## Links
+## 链接
 
-- [Official Website](https://x.ai/blog/grok-1.5v)
+- [官网](https://x.ai/blog/grok-1.5v)

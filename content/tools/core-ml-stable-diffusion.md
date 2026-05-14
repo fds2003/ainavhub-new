@@ -12,6 +12,6 @@ draft: false
 
 一个在苹果平台设备上高效运行Stable Diffusion模型的解决方案
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/apple/ml-stable-diffusion)
+- [官网](https://github.com/apple/ml-stable-diffusion)

@@ -12,6 +12,6 @@ draft: false
 
 GraphRAG通过动态社区选择优化全球搜索，提高搜索效率与准确性。
 
-## Links
+## 链接
 
-- [Official Website](https://www.microsoft.com/en-us/research/blog/graphrag-improving-global-search-via-dynamic-community-selection/)
+- [官网](https://www.microsoft.com/en-us/research/blog/graphrag-improving-global-search-via-dynamic-community-selection/)

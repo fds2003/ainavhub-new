@@ -12,6 +12,6 @@ draft: false
 
 零样本情感时长可控语音合成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/index-tts/index-tts)
+- [官网](https://github.com/index-tts/index-tts)

@@ -12,6 +12,6 @@ draft: false
 
 免费课程，向你展示如何设计、训练和部署一个准备就绪的生产标准的 LLM（大型语言模型）
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/decodingml/llm-twin-course)
+- [官网](https://github.com/decodingml/llm-twin-course)

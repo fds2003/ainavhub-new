@@ -12,6 +12,6 @@ draft: false
 
 Google 反爬搜索与AI集成
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/web-agent-master/google-search)
+- [官网](https://github.com/web-agent-master/google-search)

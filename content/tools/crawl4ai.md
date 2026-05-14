@@ -12,6 +12,6 @@ draft: false
 
 Crawl4AI是一个开源的网络爬虫工具，专为AI和大语言模型（LLMs）设计，支持快速高效的数据提取与处理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/unclecode/crawl4ai)
+- [官网](https://github.com/unclecode/crawl4ai)

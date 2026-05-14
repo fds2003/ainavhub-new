@@ -12,6 +12,6 @@ draft: false
 
 ChatTTSPlus是ChatTTS的增强版，支持TensorRT加速、语音克隆和移动端部署。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/warmshao/ChatTTSPlus)
+- [官网](https://github.com/warmshao/ChatTTSPlus)

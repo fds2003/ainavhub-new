@@ -12,6 +12,6 @@ draft: false
 
 赋予大型语言模型（LLMs）视频和音频理解能力
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+- [官网](https://github.com/DAMO-NLP-SG/Video-LLaMA)

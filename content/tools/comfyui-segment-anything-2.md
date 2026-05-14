@@ -12,6 +12,6 @@ draft: false
 
 有人在ComfyUI的基础上也推出了类似 SAM 2的功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kijai/ComfyUI-segment-anything-2)
+- [官网](https://github.com/kijai/ComfyUI-segment-anything-2)

@@ -12,6 +12,6 @@ draft: false
 
 纯C/C++实现的库，用于生成图像Stable Diffusion模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/leejet/stable-diffusion.cpp)
+- [官网](https://github.com/leejet/stable-diffusion.cpp)

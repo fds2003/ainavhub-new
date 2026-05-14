@@ -12,6 +12,6 @@ draft: false
 
 HunyuanVideo-Avatar是一款多模态扩散Transformer模型，可生成动态、情感可控的多角色对话视频，并已开源推理代码和模型权重。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar)
+- [官网](https://github.com/Tencent-Hunyuan/HunyuanVideo-Avatar)

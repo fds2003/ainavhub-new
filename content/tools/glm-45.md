@@ -12,6 +12,6 @@ draft: false
 
 GLM-4.5智能体混合推理基础模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zai-org/GLM-4.5)
+- [官网](https://github.com/zai-org/GLM-4.5)

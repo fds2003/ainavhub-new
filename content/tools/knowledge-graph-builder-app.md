@@ -12,6 +12,6 @@ draft: false
 
 Knowledge Graph Builder App 是一个将非结构化数据转换为结构化知识图谱的应用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/neo4j-labs/llm-graph-builder)
+- [官网](https://github.com/neo4j-labs/llm-graph-builder)

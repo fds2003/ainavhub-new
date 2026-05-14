@@ -12,6 +12,6 @@ draft: false
 
 Copilot+ PCs 是微软推出的智能Windows电脑，拥有强大AI性能和全天电池续航。
 
-## Links
+## 链接
 
-- [Official Website](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
+- [官网](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)

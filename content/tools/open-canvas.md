@@ -12,6 +12,6 @@ draft: false
 
 Open Canvas是一个开源网络应用，旨在协作撰写文档，支持用户记忆和现有内容的联合编辑。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/langchain-ai/open-canvas)
+- [官网](https://github.com/langchain-ai/open-canvas)

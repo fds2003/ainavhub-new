@@ -12,6 +12,6 @@ draft: false
 
 AI辅助开发的交互式反馈MCP服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Minidoracat/mcp-feedback-enhanced)
+- [官网](https://github.com/Minidoracat/mcp-feedback-enhanced)

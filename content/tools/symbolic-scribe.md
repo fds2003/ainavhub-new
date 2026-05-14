@@ -12,6 +12,6 @@ draft: false
 
 Symbolic Scribe 是一款通过数学框架优化 AI 提示，显著降低成本并提高处理速度的工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ruvnet/SynthLang)
+- [官网](https://github.com/ruvnet/SynthLang)

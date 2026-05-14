@@ -12,6 +12,6 @@ draft: false
 
 Anthropic提供四个教育课程，涵盖API基础、提示工程、实际应用和工具使用等内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/anthropics/courses)
+- [官网](https://github.com/anthropics/courses)

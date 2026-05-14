@@ -12,6 +12,6 @@ draft: false
 
 Open WebUI 提供安全的代码执行功能，使用 gVisor 沙箱技术，支持多种执行方式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/EtiennePerot/open-webui-code-execution)
+- [官网](https://github.com/EtiennePerot/open-webui-code-execution)

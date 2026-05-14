@@ -12,6 +12,6 @@ draft: false
 
 大规模场景的实时、高质量渲染
 
-## Links
+## 链接
 
-- [Official Website](https://dekuliutesla.github.io/citygs/)
+- [官网](https://dekuliutesla.github.io/citygs/)

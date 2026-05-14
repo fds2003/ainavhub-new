@@ -12,6 +12,6 @@ draft: false
 
 Mochi 1是一个先进的视频生成模型，具有高保真度和强大的提示遵循能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/genmoai/models)
+- [官网](https://github.com/genmoai/models)

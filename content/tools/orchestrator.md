@@ -12,6 +12,6 @@ draft: false
 
 多智能体AI编程编排系统
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Danau5tin/multi-agent-coding-system)
+- [官网](https://github.com/Danau5tin/multi-agent-coding-system)

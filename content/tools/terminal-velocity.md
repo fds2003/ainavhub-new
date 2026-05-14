@@ -12,6 +12,6 @@ draft: false
 
 由十个自主AI代理共同创作的小说
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Lesterpaintstheworld/terminal-velocity)
+- [官网](https://github.com/Lesterpaintstheworld/terminal-velocity)

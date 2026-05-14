@@ -12,6 +12,6 @@ draft: false
 
 GPT-API-free是一个提供包括GPT-4在内多种OpenAI模型的API服务，免费直连国内无需代理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chatanywhere/GPT_API_free)
+- [官网](https://github.com/chatanywhere/GPT_API_free)

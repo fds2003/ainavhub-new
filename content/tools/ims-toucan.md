@@ -12,6 +12,6 @@ draft: false
 
 麻省理工学院授权的 7000 种语言的文本转语音
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DigitalPhonetics/IMS-Toucan)
+- [官网](https://github.com/DigitalPhonetics/IMS-Toucan)

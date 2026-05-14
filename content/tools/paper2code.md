@@ -12,6 +12,6 @@ draft: false
 
 Paper2Code是一个多智能体系统，利用LLM将机器学习论文自动转换为可运行的代码仓库，效果优于基线模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/going-doer/Paper2Code)
+- [官网](https://github.com/going-doer/Paper2Code)

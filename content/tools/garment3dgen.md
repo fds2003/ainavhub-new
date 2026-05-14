@@ -12,6 +12,6 @@ draft: false
 
 Garment3DGen是一个3D服装风格化和纹理生成工具。
 
-## Links
+## 链接
 
-- [Official Website](https://nsarafianos.github.io/garment3dgen)
+- [官网](https://nsarafianos.github.io/garment3dgen)

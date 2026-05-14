@@ -12,6 +12,6 @@ draft: false
 
 LlamaGen 由香港大学和字节跳动团队开发
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/FoundationVision/LlamaGen)
+- [官网](https://github.com/FoundationVision/LlamaGen)

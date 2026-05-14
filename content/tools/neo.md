@@ -12,6 +12,6 @@ draft: false
 
 Adobe 发布了一个简单易用的 3D 工具Project Neo
 
-## Links
+## 链接
 
-- [Official Website](https://labs.adobe.com/projects/project-neo/)
+- [官网](https://labs.adobe.com/projects/project-neo/)

@@ -12,6 +12,6 @@ draft: false
 
 Open Deep Research是一个开源平台，借助AI技术高效生成精准的网络搜索报告。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/btahir/open-deep-research)
+- [官网](https://github.com/btahir/open-deep-research)

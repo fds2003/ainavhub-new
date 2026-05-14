@@ -12,6 +12,6 @@ draft: false
 
 Micro Agent是一款通过测试驱动方法自动编写和修复代码的AI小工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/BuilderIO/micro-agent)
+- [官网](https://github.com/BuilderIO/micro-agent)

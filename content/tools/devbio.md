@@ -12,6 +12,6 @@ draft: false
 
 devb.io 是一个利用 GitHub 和 AI 自动生成专业开发者个人简历的平台，操作简便。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sunithvs/devb.io)
+- [官网](https://github.com/sunithvs/devb.io)

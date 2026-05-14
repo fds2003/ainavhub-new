@@ -12,6 +12,6 @@ draft: false
 
 基于结构-识别-关系三元组的文档解析：MonkeyOCR
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Yuliang-Liu/MonkeyOCR)
+- [官网](https://github.com/Yuliang-Liu/MonkeyOCR)

@@ -12,6 +12,6 @@ draft: false
 
 Orchestra 是一个轻量级开源框架，适用于构建基于大型语言模型的多智能体团队和复杂工作流程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mainframecomputer/orchestra)
+- [官网](https://github.com/mainframecomputer/orchestra)

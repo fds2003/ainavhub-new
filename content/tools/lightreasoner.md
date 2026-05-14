@@ -12,6 +12,6 @@ draft: false
 
 小模型教大模型高效推理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HKUDS/LightReasoner)
+- [官网](https://github.com/HKUDS/LightReasoner)

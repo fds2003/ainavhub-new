@@ -12,6 +12,6 @@ draft: false
 
 LLM课程分为三个部分：基础知识、科学家技术与工程应用，涵盖数学、Python、神经网络等。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mlabonne/llm-course)
+- [官网](https://github.com/mlabonne/llm-course)

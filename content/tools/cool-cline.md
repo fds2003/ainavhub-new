@@ -12,6 +12,6 @@ draft: false
 
 Cool Cline 是一款智能编码助手，集成多种功能，助力复杂软件开发任务，提升开发效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/coolcline/CoolCline)
+- [官网](https://github.com/coolcline/CoolCline)

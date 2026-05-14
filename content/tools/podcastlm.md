@@ -12,6 +12,6 @@ draft: false
 
 PodCastLM是一个将PDF内容转化为音频播客的工具，生成自然对话并输出MP3文件。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/YOYZHANG/PodCastLM)
+- [官网](https://github.com/YOYZHANG/PodCastLM)

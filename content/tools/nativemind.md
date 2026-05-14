@@ -12,6 +12,6 @@ draft: false
 
 私有设备端AI浏览器助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NativeMindBrowser/NativeMindExtension)
+- [官网](https://github.com/NativeMindBrowser/NativeMindExtension)

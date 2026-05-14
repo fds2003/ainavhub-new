@@ -12,6 +12,6 @@ draft: false
 
 AI知识图谱记忆服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/CheMiguel23/MemoryMesh)
+- [官网](https://github.com/CheMiguel23/MemoryMesh)

@@ -12,6 +12,6 @@ draft: false
 
 实时网络搜索命令行工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/financial-datasets/web-crawler)
+- [官网](https://github.com/financial-datasets/web-crawler)

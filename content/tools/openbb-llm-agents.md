@@ -12,6 +12,6 @@ draft: false
 
 OpenBB LLM Agents利用大型语言模型和OpenBB平台创建能够自主进行金融研究的分析代理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenBB-finance/openbb-agents)
+- [官网](https://github.com/OpenBB-finance/openbb-agents)

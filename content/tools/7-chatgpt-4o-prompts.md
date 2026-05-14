@@ -12,6 +12,6 @@ draft: false
 
 ChatGPT免费用户将可使用更多高级工具和GPT-4o模型，提升智能和多语言支持。
 
-## Links
+## 链接
 
-- [Official Website](https://x.com/_bryanmarley/status/1795771979170979843)
+- [官网](https://x.com/_bryanmarley/status/1795771979170979843)

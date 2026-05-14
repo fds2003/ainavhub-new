@@ -12,6 +12,6 @@ draft: false
 
 Farfalle 是一个支持本地和云端模型的开源AI搜索引擎。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/rashadphz/farfalle)
+- [官网](https://github.com/rashadphz/farfalle)

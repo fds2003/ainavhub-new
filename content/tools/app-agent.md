@@ -12,6 +12,6 @@ draft: false
 
 AppAgent是一个开源的ASO工具，利用AI自动化处理关键词研究与应用发布，简化流程，适合独立开发者使用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ngo275/app-agent)
+- [官网](https://github.com/ngo275/app-agent)

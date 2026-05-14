@@ -12,6 +12,6 @@ draft: false
 
 智能文档提取与格式转换
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/NanoNets/docstrange)
+- [官网](https://github.com/NanoNets/docstrange)

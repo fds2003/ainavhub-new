@@ -12,6 +12,6 @@ draft: false
 
 Automated-AI-Web-Researcher-Ollama是一个利用本地大语言模型的自动化在线研究助手，能高效整理研究内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)
+- [官网](https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama)

@@ -12,6 +12,6 @@ draft: false
 
 Open-Sora是一个开源项目，为Sora可能使用的开发流程提供高性能实现，包括数据处理、训练和部署的完整Sora复现架构解决方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hpcaitech/Open-Sora)
+- [官网](https://github.com/hpcaitech/Open-Sora)

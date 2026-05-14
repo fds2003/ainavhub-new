@@ -12,6 +12,6 @@ draft: false
 
 企业级智能体应用平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/lkpAgent/openAgent)
+- [官网](https://github.com/lkpAgent/openAgent)

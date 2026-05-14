@@ -12,6 +12,6 @@ draft: false
 
 能够将单张静态人像图片与音频（比如一段对话或音乐）结合，生成一段看起来这个人像在说话或表达情感的真实动态视频
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenTalker/SadTalker)
+- [官网](https://github.com/OpenTalker/SadTalker)

@@ -12,6 +12,6 @@ draft: false
 
 多代理并行开发CLI
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/agent-era/devteam)
+- [官网](https://github.com/agent-era/devteam)

@@ -12,6 +12,6 @@ draft: false
 
 一个融合Python代码执行和React组件渲染的智能AI助手应用，适用于数据分析与互动网页开发。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/kturung/langgraph_streamlit_codeassistant)
+- [官网](https://github.com/kturung/langgraph_streamlit_codeassistant)

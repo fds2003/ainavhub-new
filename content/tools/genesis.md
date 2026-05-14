@@ -12,6 +12,6 @@ draft: false
 
 Genesis是一个多功能物理平台，适用于机器人、具身智能和物理AI应用，提供高效的仿真和数据生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Genesis-Embodied-AI/Genesis)
+- [官网](https://github.com/Genesis-Embodied-AI/Genesis)

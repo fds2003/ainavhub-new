@@ -12,6 +12,6 @@ draft: false
 
 GraphAgent是一个智能图语言助手，集成图生成与任务执行，优化复杂数据分析与生成任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HKUDS/GraphAgent)
+- [官网](https://github.com/HKUDS/GraphAgent)

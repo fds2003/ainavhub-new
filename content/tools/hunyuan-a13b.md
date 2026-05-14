@@ -12,6 +12,6 @@ draft: false
 
 高效多专家大语言模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/Hunyuan-A13B)
+- [官网](https://github.com/Tencent-Hunyuan/Hunyuan-A13B)

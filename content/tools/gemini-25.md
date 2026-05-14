@@ -12,6 +12,6 @@ draft: false
 
 Gemini 2.5 是 Google 最新的智能 AI 模型，具有更强的推理和代码能力，可以解决复杂问题。
 
-## Links
+## 链接
 
-- [Official Website](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)
+- [官网](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/)

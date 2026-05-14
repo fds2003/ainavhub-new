@@ -12,6 +12,6 @@ draft: false
 
 MCP Containers提供数百个MCP服务器的容器化版本，简化部署，每日自动更新，并提供安全隔离的运行环境。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/metorial/mcp-containers)
+- [官网](https://github.com/metorial/mcp-containers)

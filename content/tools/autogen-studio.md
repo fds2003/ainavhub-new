@@ -12,6 +12,6 @@ draft: false
 
 AutoGen Studio 2.0 提供用户友好的界面，简化AI代理及多代理工作流的创建与管理。
 
-## Links
+## 链接
 
-- [Official Website](https://autogen-studio.com/autogen-studio-ui)
+- [官网](https://autogen-studio.com/autogen-studio-ui)

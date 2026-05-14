@@ -12,6 +12,6 @@ draft: false
 
 MiniCPM-V是一系列可在手机上高效部署的多模态大模型，具备强大的图像和文本处理能力。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenBMB/MiniCPM-V)
+- [官网](https://github.com/OpenBMB/MiniCPM-V)

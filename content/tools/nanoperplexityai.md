@@ -12,6 +12,6 @@ draft: false
 
 nanoPerplexityAI 是一款简洁直观的开源大语言模型服务PerplexityAI实现工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Yusuke710/nanoPerplexityAI)
+- [官网](https://github.com/Yusuke710/nanoPerplexityAI)

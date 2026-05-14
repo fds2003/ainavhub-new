@@ -12,6 +12,6 @@ draft: false
 
 Cooragent是AI Agent协作社区，通过创建和组合智能体，以完成复杂任务，并支持分享智能体。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LeapLabTHU/cooragent)
+- [官网](https://github.com/LeapLabTHU/cooragent)

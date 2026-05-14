@@ -12,6 +12,6 @@ draft: false
 
 AI智能Twitter推文分析与推送
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wxwhhh/TweetAI-Monitor)
+- [官网](https://github.com/wxwhhh/TweetAI-Monitor)

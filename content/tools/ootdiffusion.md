@@ -12,6 +12,6 @@ draft: false
 
 OOTDiffusion是一种基于潜在扩散的虚拟试穿技术，其主要目的是通过实现控制性的换装融合，让用户能够在虚拟环境中试穿不同的服装。该技术通过融合最新的机器学习算法与图像处理技术，为用户提供了一种新颖的虚拟试穿体验。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/levihsu/OOTDiffusion)
+- [官网](https://github.com/levihsu/OOTDiffusion)

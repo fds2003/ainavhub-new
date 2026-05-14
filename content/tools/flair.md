@@ -12,6 +12,6 @@ draft: false
 
 FLAIR是一种利用长视距离的机器人操作系统，用于控制多自由度机械臂进行逼真食品的进食操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/empriselab/FLAIR)
+- [官网](https://github.com/empriselab/FLAIR)

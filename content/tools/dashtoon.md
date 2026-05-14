@@ -12,6 +12,6 @@ draft: false
 
 帮助创作者将想法转化为漫画内容
 
-## Links
+## 链接
 
-- [Official Website](https://dashtoon.com/)
+- [官网](https://dashtoon.com/)

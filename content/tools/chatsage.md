@@ -12,6 +12,6 @@ draft: false
 
 Chatsage是一个开源的AI聊天机器人，适用于网站，提供Chatbase替代方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/taishikato/chatsage)
+- [官网](https://github.com/taishikato/chatsage)

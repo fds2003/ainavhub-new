@@ -12,6 +12,6 @@ draft: false
 
 AI驱动的深度研究报告生成器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Ozamatash/deep-research-mcp)
+- [官网](https://github.com/Ozamatash/deep-research-mcp)

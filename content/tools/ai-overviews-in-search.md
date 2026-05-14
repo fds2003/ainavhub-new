@@ -12,6 +12,6 @@ draft: false
 
 Google搜索的AI概述现已扩展到超过100个国家，帮助全球用户更便捷地获取信息。
 
-## Links
+## 链接
 
-- [Official Website](https://blog.google/products/search/ai-overviews-search-october-2024/)
+- [官网](https://blog.google/products/search/ai-overviews-search-october-2024/)

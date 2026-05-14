@@ -12,6 +12,6 @@ draft: false
 
 本应用利用本地Llama模型处理查询，生成推理过程并可视化知识图谱，探索相关问题。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/punnerud/Local_Knowledge_Graph)
+- [官网](https://github.com/punnerud/Local_Knowledge_Graph)

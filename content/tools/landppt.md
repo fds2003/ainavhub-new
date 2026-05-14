@@ -12,6 +12,6 @@ draft: false
 
 AI驱动PPT生成平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/sligter/LandPPT)
+- [官网](https://github.com/sligter/LandPPT)

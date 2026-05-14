@@ -12,6 +12,6 @@ draft: false
 
 Kimi驱动低成本Claude Code
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/LLM-Red-Team/kimi-cc)
+- [官网](https://github.com/LLM-Red-Team/kimi-cc)

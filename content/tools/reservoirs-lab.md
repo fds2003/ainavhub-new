@@ -12,6 +12,6 @@ draft: false
 
 Reservoirs Lab 是一款轻量级 Electron 应用，能直连 Postgres 数据库并可视化高维向量数据。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Z-Gort/Reservoirs-Lab)
+- [官网](https://github.com/Z-Gort/Reservoirs-Lab)

@@ -12,6 +12,6 @@ draft: false
 
 Claude 3.5 Sonnet 是一款速度快、成本低且智能出众的AI模型。
 
-## Links
+## 链接
 
-- [Official Website](https://www.anthropic.com/news/claude-3-5-sonnet)
+- [官网](https://www.anthropic.com/news/claude-3-5-sonnet)

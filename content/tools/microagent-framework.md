@@ -12,6 +12,6 @@ draft: false
 
 Microagent是一种轻量级框架，用于高效管理和协调多智能体系统，支持多种大型语言模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/chrislatimer/microagent)
+- [官网](https://github.com/chrislatimer/microagent)

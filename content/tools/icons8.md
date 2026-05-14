@@ -12,6 +12,6 @@ draft: false
 
 Icons8 提供图标、插图和照片，适用于Figma设计工具。
 
-## Links
+## 链接
 
-- [Official Website](https://icons8.com/illustration-generator)
+- [官网](https://icons8.com/illustration-generator)

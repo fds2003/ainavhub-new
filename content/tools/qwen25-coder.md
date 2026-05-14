@@ -12,6 +12,6 @@ draft: false
 
 Qwen2.5-Coder是一款强大、丰富且实用的开源代码模型，支持多种编程语言与长文本理解。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/Qwen2.5-Coder)
+- [官网](https://github.com/QwenLM/Qwen2.5-Coder)

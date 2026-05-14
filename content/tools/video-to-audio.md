@@ -12,6 +12,6 @@ draft: false
 
 视频转音频生成方法，实现语义与时间对齐的音频内容生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ariesssxu/vta-ldm)
+- [官网](https://github.com/ariesssxu/vta-ldm)

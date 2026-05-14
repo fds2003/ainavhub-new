@@ -12,6 +12,6 @@ draft: false
 
 语言模型开放基准
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/groq/openbench)
+- [官网](https://github.com/groq/openbench)

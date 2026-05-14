@@ -12,6 +12,6 @@ draft: false
 
 腾讯混元文生图模型发布1.1版本,同时发布了训练代码。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/HunyuanDiT)
+- [官网](https://github.com/Tencent/HunyuanDiT)

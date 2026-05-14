@@ -12,6 +12,6 @@ draft: false
 
 GUI-Actor：无坐标的GUI代理视觉定位
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/GUI-Actor)
+- [官网](https://github.com/microsoft/GUI-Actor)

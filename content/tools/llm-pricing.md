@@ -12,6 +12,6 @@ draft: false
 
 比较各种大型语言模型（LLM）的定价信息
 
-## Links
+## 链接
 
-- [Official Website](https://llm-price.com/)
+- [官网](https://llm-price.com/)

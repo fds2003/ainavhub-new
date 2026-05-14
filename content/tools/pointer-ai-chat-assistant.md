@@ -12,6 +12,6 @@ draft: false
 
 AI聊天、交叉分析与知识管理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/experdot/pointer)
+- [官网](https://github.com/experdot/pointer)

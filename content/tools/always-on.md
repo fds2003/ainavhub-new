@@ -12,6 +12,6 @@ draft: false
 
 Always-On AI助手利用Deepseek和实时语音技术，为工程师提供持续支持。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/disler/always-on-ai-assistant)
+- [官网](https://github.com/disler/always-on-ai-assistant)

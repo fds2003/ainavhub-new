@@ -12,6 +12,6 @@ draft: false
 
 ChatWiki是开源的知识库AI问答系统，支持多种文档格式和国产大模型，企业可快速搭建私有问答系统。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/zhimaAi/chatwiki)
+- [官网](https://github.com/zhimaAi/chatwiki)

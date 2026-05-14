@@ -12,6 +12,6 @@ draft: false
 
 手撸Claude Code：LLM Agent开发教程
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shareAI-lab/mini_claude_code)
+- [官网](https://github.com/shareAI-lab/mini_claude_code)

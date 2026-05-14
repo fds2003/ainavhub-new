@@ -12,6 +12,6 @@ draft: false
 
 统一大模型API网关
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Helicone/ai-gateway)
+- [官网](https://github.com/Helicone/ai-gateway)

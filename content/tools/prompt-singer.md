@@ -12,6 +12,6 @@ draft: false
 
 Prompt-Singer是一种通过自然语言提示来控制歌唱声音合成的模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cyanbx/Prompt-Singer)
+- [官网](https://github.com/cyanbx/Prompt-Singer)

@@ -12,6 +12,6 @@ draft: false
 
 AdvancedLivePortrait是LivePortrait的提升版，用于在视频中添加面部表情的工具，通过自定义工作流实现。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait)
+- [官网](https://github.com/PowerHouseMan/ComfyUI-AdvancedLivePortrait)

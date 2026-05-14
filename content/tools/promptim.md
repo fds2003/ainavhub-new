@@ -12,6 +12,6 @@ draft: false
 
 Promptim 是一个实验性的提示优化库，旨在通过自动化流程系统地改善 AI 系统的提示效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/hinthornw/promptimizer)
+- [官网](https://github.com/hinthornw/promptimizer)

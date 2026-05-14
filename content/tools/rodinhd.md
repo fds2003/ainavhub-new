@@ -12,6 +12,6 @@ draft: false
 
 RodinHD是一种利用扩散模型生成高保真3D虚拟头像的方法。
 
-## Links
+## 链接
 
-- [Official Website](https://rodinhd.github.io/)
+- [官网](https://rodinhd.github.io/)

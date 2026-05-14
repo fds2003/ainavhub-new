@@ -12,6 +12,6 @@ draft: false
 
 先进的AI软件工程师，能理解高级人类指令并编写代码完成目标
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/stitionai/devika)
+- [官网](https://github.com/stitionai/devika)

@@ -12,6 +12,6 @@ draft: false
 
 论文自动演示视频生成与评估
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/showlab/Paper2Video)
+- [官网](https://github.com/showlab/Paper2Video)

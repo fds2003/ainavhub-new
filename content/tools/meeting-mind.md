@@ -12,6 +12,6 @@ draft: false
 
 Meeting Mind 是一款AI会议助手，可快速分析会议内容并提取关键见解，实现高效的工作管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/misbahsy/meetingmind)
+- [官网](https://github.com/misbahsy/meetingmind)

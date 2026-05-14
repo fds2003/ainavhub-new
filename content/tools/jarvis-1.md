@@ -12,6 +12,6 @@ draft: false
 
 Jarvis是一款命令行个人助理，集成Gmail、Google日历和任务管理，帮助高效管理数字生活。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/synth-mania/jarvis)
+- [官网](https://github.com/synth-mania/jarvis)

@@ -12,6 +12,6 @@ draft: false
 
 个人化的电子邮件助手
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/IST-DASLab/PanzaMail)
+- [官网](https://github.com/IST-DASLab/PanzaMail)

@@ -12,6 +12,6 @@ draft: false
 
 该实时太阳系演示通过开放AI API，实现用户与3D场景的语音互动，展示太阳系的动态效果。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/openai/openai-realtime-solar-system)
+- [官网](https://github.com/openai/openai-realtime-solar-system)

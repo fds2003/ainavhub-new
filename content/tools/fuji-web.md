@@ -12,6 +12,6 @@ draft: false
 
 Fuji-Web是一款基于AI的浏览器自动化工具，可自主导航网站并执行任务。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/normal-computing/fuji-web)
+- [官网](https://github.com/normal-computing/fuji-web)

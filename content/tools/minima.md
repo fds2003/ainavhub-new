@@ -12,6 +12,6 @@ draft: false
 
 Minima是一个开源的本地RAG容器，可与ChatGPT和Claude集成，确保数据安全。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dmayboroda/minima)
+- [官网](https://github.com/dmayboroda/minima)

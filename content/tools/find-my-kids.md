@@ -12,6 +12,6 @@ draft: false
 
 Find My Kids利用WhatsApp和DeepFace，检测照片中的特定人脸并通知指定联系人。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/t0mer/Find-my-kids)
+- [官网](https://github.com/t0mer/Find-my-kids)

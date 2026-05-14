@@ -12,6 +12,6 @@ draft: false
 
 Reddit AI趋势自动化报告
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/liyedanpdx/reddit-ai-trends)
+- [官网](https://github.com/liyedanpdx/reddit-ai-trends)

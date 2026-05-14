@@ -12,6 +12,6 @@ draft: false
 
 AI 操控 macOS 应用
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/browser-use/macOS-use)
+- [官网](https://github.com/browser-use/macOS-use)

@@ -12,6 +12,6 @@ draft: false
 
 ZeroSearch是一个强化学习框架，无需真实搜索引擎即可提升LLM的搜索能力，降低API成本。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alibaba-NLP/ZeroSearch)
+- [官网](https://github.com/Alibaba-NLP/ZeroSearch)

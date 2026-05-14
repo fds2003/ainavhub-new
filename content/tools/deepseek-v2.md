@@ -12,6 +12,6 @@ draft: false
 
 先进的混合专家（Mixture-of-Experts，简称MoE）语言模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/deepseek-ai/DeepSeek-V2)
+- [官网](https://github.com/deepseek-ai/DeepSeek-V2)

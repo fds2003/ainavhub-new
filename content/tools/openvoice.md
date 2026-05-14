@@ -12,6 +12,6 @@ draft: false
 
 OpenVoice是一款能够精准克隆任意声音并支持多语言及情感口音控制的AI工具。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/myshell-ai/MeloTTS)
+- [官网](https://github.com/myshell-ai/MeloTTS)

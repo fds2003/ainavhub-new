@@ -12,6 +12,6 @@ draft: false
 
 Material Anything是一种基于扩散模型的3D物体物理材质生成方法，适用于多种对象和光照条件。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/3DTopia/MaterialAnything)
+- [官网](https://github.com/3DTopia/MaterialAnything)

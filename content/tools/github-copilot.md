@@ -12,6 +12,6 @@ draft: false
 
 AI编程伴侣
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/microsoft/vscode-copilot-chat)
+- [官网](https://github.com/microsoft/vscode-copilot-chat)

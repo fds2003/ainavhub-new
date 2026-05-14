@@ -12,6 +12,6 @@ draft: false
 
 何使用LlamaIndex工作流程创建Llama-Researcher，结合Tavily API进行主题研究。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/rsrohan99/Llama-Researcher)
+- [官网](https://github.com/rsrohan99/Llama-Researcher)

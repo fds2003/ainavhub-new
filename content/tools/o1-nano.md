@@ -12,6 +12,6 @@ draft: false
 
 O1 Nano是一个简化版的O1模型，专注于算术问题解决，结合推理和强化学习。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/llSourcell/O1-nano)
+- [官网](https://github.com/llSourcell/O1-nano)

@@ -12,6 +12,6 @@ draft: false
 
 AgentCPM-GUI是由THUNLP和ModelBest联合开发的，能操作中英文App的GUI智能体模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/OpenBMB/AgentCPM-GUI)
+- [官网](https://github.com/OpenBMB/AgentCPM-GUI)

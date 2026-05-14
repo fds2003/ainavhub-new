@@ -12,6 +12,6 @@ draft: false
 
 使用自然语言控制生成视频的通用世界模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/maitrix-org/Pandora)
+- [官网](https://github.com/maitrix-org/Pandora)

@@ -12,6 +12,6 @@ draft: false
 
 Claude Code CLI 自动化与安全
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/pchalasani/claude-code-tools)
+- [官网](https://github.com/pchalasani/claude-code-tools)

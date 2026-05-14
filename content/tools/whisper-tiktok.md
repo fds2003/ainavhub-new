@@ -12,6 +12,6 @@ draft: false
 
 利用AI生成趣味TikTok视频的工具，支持语音识别和自然语音合成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MatteoFasulo/Whisper-TikTok)
+- [官网](https://github.com/MatteoFasulo/Whisper-TikTok)

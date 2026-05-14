@@ -12,6 +12,6 @@ draft: false
 
 华为发布扩散变换模型，能够生成4K分辨率文本到图像的高效训练技术
 
-## Links
+## 链接
 
-- [Official Website](https://pixart-alpha.github.io/PixArt-sigma-project/)
+- [官网](https://pixart-alpha.github.io/PixArt-sigma-project/)

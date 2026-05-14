@@ -12,6 +12,6 @@ draft: false
 
 Claude Code Base Action 是一个 GitHub Action，让你在工作流中运行 Claude Code，构建自定义工作流程。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/anthropics/claude-code-base-action)
+- [官网](https://github.com/anthropics/claude-code-base-action)

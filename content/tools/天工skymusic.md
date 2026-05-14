@@ -12,6 +12,6 @@ draft: false
 
 昆仑万维推出国内首款AI音乐生成大模型「天工SkyMusic」并开启免费邀测
 
-## Links
+## 链接
 
-- [Official Website](https://rg975ojk5z.feishu.cn/share/base/form/shrcnTcBRpGzv5Sx9xAGd5V97Md)
+- [官网](https://rg975ojk5z.feishu.cn/share/base/form/shrcnTcBRpGzv5Sx9xAGd5V97Md)

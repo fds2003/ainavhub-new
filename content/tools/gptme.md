@@ -12,6 +12,6 @@ draft: false
 
 gptme 是一个功能强大的个人AI助手，支持在终端中执行代码、编辑文件及网页浏览等多种操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ErikBjare/gptme)
+- [官网](https://github.com/ErikBjare/gptme)

@@ -12,6 +12,6 @@ draft: false
 
 LLaVA-o1 是首款能够一步一步推理的视觉语言模型，表现出色。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/PKU-YuanGroup/LLaVA-o1)
+- [官网](https://github.com/PKU-YuanGroup/LLaVA-o1)

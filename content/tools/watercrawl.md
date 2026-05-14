@@ -12,6 +12,6 @@ draft: false
 
 WaterCrawl: 强大的自托管网络爬虫与数据提取工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/watercrawl/watercrawl)
+- [官网](https://github.com/watercrawl/watercrawl)

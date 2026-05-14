@@ -12,6 +12,6 @@ draft: false
 
 微软开源phi-3-mini，能在手机上运行的高性能语言模型，参数量达38亿。
 
-## Links
+## 链接
 
-- [Official Website](https://arxiv.org/abs/2404.14219)
+- [官网](https://arxiv.org/abs/2404.14219)

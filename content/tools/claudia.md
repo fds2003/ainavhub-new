@@ -12,6 +12,6 @@ draft: false
 
 Claudia：Claude Code的强大GUI工具
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/getAsterisk/claudia)
+- [官网](https://github.com/getAsterisk/claudia)

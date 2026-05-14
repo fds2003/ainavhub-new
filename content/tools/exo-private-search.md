@@ -12,6 +12,6 @@ draft: false
 
 EXO Private Search 是一款基于隐私保护的搜索系统，保障用户查询隐私，服务器无法查看搜索内容。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/exo-explore/private-search)
+- [官网](https://github.com/exo-explore/private-search)

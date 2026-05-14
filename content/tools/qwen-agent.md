@@ -12,6 +12,6 @@ draft: false
 
 Qwen的指令跟随、工具使用、规划和记忆能力开发LLM应用的框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/Qwen-Agent)
+- [官网](https://github.com/QwenLM/Qwen-Agent)

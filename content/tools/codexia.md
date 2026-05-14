@@ -12,6 +12,6 @@ draft: false
 
 AI 编码桌面工作台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/milisp/codexia)
+- [官网](https://github.com/milisp/codexia)

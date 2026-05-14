@@ -12,6 +12,6 @@ draft: false
 
 Mini LLM Flow是一个仅用100行代码构建的极简LLM框架，支持多代理和任务分解等功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/miniLLMFlow/miniLLMFlow)
+- [官网](https://github.com/miniLLMFlow/miniLLMFlow)

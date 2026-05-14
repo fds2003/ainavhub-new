@@ -12,6 +12,6 @@ draft: false
 
 混元多语言翻译大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent-Hunyuan/Hunyuan-MT)
+- [官网](https://github.com/Tencent-Hunyuan/Hunyuan-MT)

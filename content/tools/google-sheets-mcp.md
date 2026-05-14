@@ -12,6 +12,6 @@ draft: false
 
 Google Sheets MCP是一个连接器，使AI代理能直接与Google Sheets电子表格进行交互操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mkummer225/google-sheets-mcp)
+- [官网](https://github.com/mkummer225/google-sheets-mcp)

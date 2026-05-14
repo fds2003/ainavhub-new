@@ -12,6 +12,6 @@ draft: false
 
 CHRONOS是一种基于检索的时序新闻摘要生成方法，支持开放领域的时间线总结。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Alibaba-NLP/CHRONOS)
+- [官网](https://github.com/Alibaba-NLP/CHRONOS)

@@ -12,6 +12,6 @@ draft: false
 
 AI 助手全套开源解决方案，自带运营管理后台，开箱即用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yangjian102621/chatgpt-plus)
+- [官网](https://github.com/yangjian102621/chatgpt-plus)

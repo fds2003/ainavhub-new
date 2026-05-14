@@ -12,6 +12,6 @@ draft: false
 
 Anthropic推出突破性Claude 3系列模型
 
-## Links
+## 链接
 
-- [Official Website](https://www.anthropic.com/news/claude-3-family)
+- [官网](https://www.anthropic.com/news/claude-3-family)

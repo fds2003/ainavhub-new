@@ -12,6 +12,6 @@ draft: false
 
 DiffSynth Studio是一款强大的扩散引擎，提供高效视频和图像生成功能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/modelscope/DiffSynth-Studio)
+- [官网](https://github.com/modelscope/DiffSynth-Studio)

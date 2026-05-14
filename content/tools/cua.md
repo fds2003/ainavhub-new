@@ -12,6 +12,6 @@ draft: false
 
 Cua是一个开源框架，结合高性能虚拟化和AI agent，为AI系统提供安全隔离的交互环境。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/trycua/cua)
+- [官网](https://github.com/trycua/cua)

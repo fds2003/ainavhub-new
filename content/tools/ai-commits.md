@@ -12,6 +12,6 @@ draft: false
 
 AI Commits 是一款命令行工具，通过 AI 自动生成 git 提交信息，方便开发者使用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Nutlope/aicommits)
+- [官网](https://github.com/Nutlope/aicommits)

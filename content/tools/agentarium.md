@@ -12,6 +12,6 @@ draft: false
 
 Agentarium是一个强大的Python框架，方便管理和协调多个AI代理的交互与操作。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Thytu/Agentarium)
+- [官网](https://github.com/Thytu/Agentarium)

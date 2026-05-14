@@ -12,6 +12,6 @@ draft: false
 
 any-agent是一个Python库，提供统一接口访问多种Agent框架，方便切换并评估Agent执行情况。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/mozilla-ai/any-agent)
+- [官网](https://github.com/mozilla-ai/any-agent)

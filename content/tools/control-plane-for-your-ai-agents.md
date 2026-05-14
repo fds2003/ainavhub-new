@@ -12,6 +12,6 @@ draft: false
 
 Mahilo是AI Agent的控制平台，可创建或注册多Agent，实现团队协作、信息共享和人工监督。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wjayesh/mahilo)
+- [官网](https://github.com/wjayesh/mahilo)

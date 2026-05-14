@@ -12,6 +12,6 @@ draft: false
 
 命令行AI聊天界面
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/office-sec/AionUi)
+- [官网](https://github.com/office-sec/AionUi)

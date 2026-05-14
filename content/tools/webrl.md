@@ -12,6 +12,6 @@ draft: false
 
 WebRL是一个自我进化的在线课程学习框架，用于训练Web代理，目标是WebArena环境。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/THUDM/WebRL)
+- [官网](https://github.com/THUDM/WebRL)

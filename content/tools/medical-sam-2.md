@@ -12,6 +12,6 @@ draft: false
 
 Medical SAM 2利用SAM 2框架，实现2D和3D医学图像分割。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/MedicineToken/Medical-SAM2)
+- [官网](https://github.com/MedicineToken/Medical-SAM2)

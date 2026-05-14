@@ -12,6 +12,6 @@ draft: false
 
 VectorVein是一款无需编程即可创建强大AI工作流程的无代码软件。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/AndersonBY/vector-vein)
+- [官网](https://github.com/AndersonBY/vector-vein)

@@ -12,6 +12,6 @@ draft: false
 
 GitHub AI自动化开发代理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cairn-dev/cairn)
+- [官网](https://github.com/cairn-dev/cairn)

@@ -12,6 +12,6 @@ draft: false
 
 Qwen2 是一种多语言预训练和指令调优的语言模型，支持128K上下文长度并在多项基准测试中表现优异。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QwenLM/Qwen2)
+- [官网](https://github.com/QwenLM/Qwen2)

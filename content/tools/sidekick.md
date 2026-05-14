@@ -12,6 +12,6 @@ draft: false
 
 Sidekick是一款基于CLI的开源AI工具，旨在提供灵活的LLM选择和强大的agentic工作流，助力开发者提高效率。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/geekforbrains/sidekick-cli)
+- [官网](https://github.com/geekforbrains/sidekick-cli)

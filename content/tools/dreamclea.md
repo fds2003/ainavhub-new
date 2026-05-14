@@ -12,6 +12,6 @@ draft: false
 
 DreamClear是一项高性能的图像修复技术，专注于隐私安全的数据集管理。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/shallowdream204/DreamClear)
+- [官网](https://github.com/shallowdream204/DreamClear)

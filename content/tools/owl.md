@@ -12,6 +12,6 @@ draft: false
 
 OWL是一个多智能体协作框架，通过优化劳动力学习，实现现实世界任务的通用自动化辅助。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/camel-ai/owl)
+- [官网](https://github.com/camel-ai/owl)

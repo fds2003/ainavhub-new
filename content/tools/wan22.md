@@ -12,6 +12,6 @@ draft: false
 
 Wan2.2：高效高清视频生成大模型
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Wan-Video/Wan2.2)
+- [官网](https://github.com/Wan-Video/Wan2.2)

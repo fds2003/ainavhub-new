@@ -12,6 +12,6 @@ draft: false
 
 网页转Markdown：cpdown浏览器扩展
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/ysm-dev/cpdown)
+- [官网](https://github.com/ysm-dev/cpdown)

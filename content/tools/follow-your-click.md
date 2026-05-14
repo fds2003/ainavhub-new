@@ -12,6 +12,6 @@ draft: false
 
 用户通过点击图像的特定部分实现域区图像动画
 
-## Links
+## 链接
 
-- [Official Website](https://follow-your-click.github.io/)
+- [官网](https://follow-your-click.github.io/)

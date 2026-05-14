@@ -12,6 +12,6 @@ draft: false
 
 AI 桌面英语
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/klemperer/binglish)
+- [官网](https://github.com/klemperer/binglish)

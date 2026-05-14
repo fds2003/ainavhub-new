@@ -12,6 +12,6 @@ draft: false
 
 Auto-Deep-Research是一个开源的高效个人AI助手，提供经济实惠的自动化深度研究方案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HKUDS/Auto-Deep-Research)
+- [官网](https://github.com/HKUDS/Auto-Deep-Research)

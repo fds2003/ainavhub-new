@@ -12,6 +12,6 @@ draft: false
 
 LLM-Reasoner是一款增强大型语言模型(LMM)思维能力的工具，支持逐步推理和实时进度展示。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/harishsg993010/LLM-Reasoner)
+- [官网](https://github.com/harishsg993010/LLM-Reasoner)

@@ -12,6 +12,6 @@ draft: false
 
 rLLM是一个开源项目，旨在普及LLM的强化学习，并复现DeepSeek和OpenAI的模型性能。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/agentica-project/rllm)
+- [官网](https://github.com/agentica-project/rllm)

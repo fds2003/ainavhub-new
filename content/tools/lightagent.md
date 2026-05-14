@@ -12,6 +12,6 @@ draft: false
 
 LightAgent是一款轻量级的主动智能框架，支持多智能体协作、工具集成及自学习，适用于多种应用场景。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/wxai-space/LightAgent)
+- [官网](https://github.com/wxai-space/LightAgent)

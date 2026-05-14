@@ -12,6 +12,6 @@ draft: false
 
 轻量级vLLM实现方案
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GeeeekExplorer/nano-vllm)
+- [官网](https://github.com/GeeeekExplorer/nano-vllm)

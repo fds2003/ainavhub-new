@@ -12,6 +12,6 @@ draft: false
 
 HiveChat是一款专为中小团队设计的AI聊天应用，支持多种先进模型，简化团队沟通。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/HiveNexus/HiveChat)
+- [官网](https://github.com/HiveNexus/HiveChat)

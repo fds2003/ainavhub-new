@@ -12,6 +12,6 @@ draft: false
 
 自动化发布视频到各个社交媒体平台
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/dreammis/social-auto-upload)
+- [官网](https://github.com/dreammis/social-auto-upload)

@@ -12,6 +12,6 @@ draft: false
 
 llm.pdf是一个概念验证项目，展示了在PDF文件中运行完整大型语言模型(LLM)的可能性。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/EvanZhouDev/llm.pdf)
+- [官网](https://github.com/EvanZhouDev/llm.pdf)

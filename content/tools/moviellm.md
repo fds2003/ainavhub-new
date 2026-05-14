@@ -12,6 +12,6 @@ draft: false
 
 复旦大学和腾讯PCG团队利用AI生成长视频数据的创新框架
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Deaddawn/MovieLLM-code)
+- [官网](https://github.com/Deaddawn/MovieLLM-code)

@@ -12,6 +12,6 @@ draft: false
 
 Browserbase MCP Server利用云端浏览器自动化能力，使LLM能与网页互动、截图并执行JavaScript。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/browserbase/mcp-server-browserbase)
+- [官网](https://github.com/browserbase/mcp-server-browserbase)

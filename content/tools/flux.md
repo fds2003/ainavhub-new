@@ -12,6 +12,6 @@ draft: false
 
 FLUX 是 Black Forest Labs 的文本到图像及图像到图像转换模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/black-forest-labs/flux)
+- [官网](https://github.com/black-forest-labs/flux)

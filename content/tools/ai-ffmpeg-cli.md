@@ -12,6 +12,6 @@ draft: false
 
 AI FFmpeg 自然语言命令行
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/d-k-patel/ai-ffmpeg-cli)
+- [官网](https://github.com/d-k-patel/ai-ffmpeg-cli)

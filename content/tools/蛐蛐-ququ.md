@@ -12,6 +12,6 @@ draft: false
 
 开源免费中文智能语音工作流
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/yan5xu/ququ)
+- [官网](https://github.com/yan5xu/ququ)

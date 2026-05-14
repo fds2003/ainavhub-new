@@ -12,6 +12,6 @@ draft: false
 
 RAG with txtai是一款基于txtai的检索增强生成(Streamlit)应用，支持向量和图路径查询。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/neuml/rag)
+- [官网](https://github.com/neuml/rag)

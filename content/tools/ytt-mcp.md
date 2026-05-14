@@ -12,6 +12,6 @@ draft: false
 
 YouTube 转录 MCP 服务器
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/cottongeeks/ytt-mcp)
+- [官网](https://github.com/cottongeeks/ytt-mcp)

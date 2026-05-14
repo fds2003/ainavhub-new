@@ -12,6 +12,6 @@ draft: false
 
 MLX-Embeddings 是一款可在 Mac 本地运行的视觉与语言嵌入模型软件包，支持文本相似度比较。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Blaizzy/mlx-embeddings)
+- [官网](https://github.com/Blaizzy/mlx-embeddings)

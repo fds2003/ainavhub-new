@@ -12,6 +12,6 @@ draft: false
 
 Documind是一款先进的文档处理工具，利用AI从PDF中提取结构化数据，支持自定义提取格式。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DocumindHQ/documind)
+- [官网](https://github.com/DocumindHQ/documind)

@@ -12,6 +12,6 @@ draft: false
 
 HunyuanVideo是一个开源的视频生成模型，旨在提升视频生成质量和效率，支持大型模型训练。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/Tencent/HunyuanVideo)
+- [官网](https://github.com/Tencent/HunyuanVideo)

@@ -12,6 +12,6 @@ draft: false
 
 Matrix-Game是一个170亿参数的交互式世界基础模型，用于可控的游戏世界生成。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/SkyworkAI/Matrix-Game)
+- [官网](https://github.com/SkyworkAI/Matrix-Game)

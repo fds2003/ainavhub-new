@@ -12,6 +12,6 @@ draft: false
 
 Next.js AI Chatbot是一个开源模板，结合了Vercel的AI SDK，易于部署和定制。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/vercel/ai-chatbot)
+- [官网](https://github.com/vercel/ai-chatbot)

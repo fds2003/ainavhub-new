@@ -12,6 +12,6 @@ draft: false
 
 MegaParse支持各种文件处理，解析精准无信息丢失，且开源免费使用。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/QuivrHQ/MegaParse)
+- [官网](https://github.com/QuivrHQ/MegaParse)

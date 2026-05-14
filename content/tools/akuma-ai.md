@@ -12,6 +12,6 @@ draft: false
 
 能够实时通过操作动作骨骼生成动漫艺术图像的网站
 
-## Links
+## 链接
 
-- [Official Website](https://heehel.com/aigc/akuma-ai.html)
+- [官网](https://heehel.com/aigc/akuma-ai.html)

@@ -12,6 +12,6 @@ draft: false
 
 基于大型语言模型（LLM）的技术，Gigax使得NPC能够执行一系列的动作，比如说话、跳跃、攻击等
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/GigaxGames/gigax)
+- [官网](https://github.com/GigaxGames/gigax)

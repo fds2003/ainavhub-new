@@ -12,6 +12,6 @@ draft: false
 
 VideoLLaMA2 是一种增强视频时空建模和音频理解的语言模型。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/DAMO-NLP-SG/VideoLLaMA2)
+- [官网](https://github.com/DAMO-NLP-SG/VideoLLaMA2)

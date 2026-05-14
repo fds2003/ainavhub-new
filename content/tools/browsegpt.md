@@ -12,6 +12,6 @@ draft: false
 
 BrowseGPT是一个聊天界面，允许用户在网上搜索并获取问题答案。
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/browserbase/BrowseGPT)
+- [官网](https://github.com/browserbase/BrowseGPT)

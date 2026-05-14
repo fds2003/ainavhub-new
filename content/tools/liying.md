@@ -12,6 +12,6 @@ draft: false
 
 自动化完成一般照相馆后期流程的照片自动处理
 
-## Links
+## 链接
 
-- [Official Website](https://github.com/aoguai/LiYing)
+- [官网](https://github.com/aoguai/LiYing)
