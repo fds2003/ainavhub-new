@@ -6,6 +6,7 @@ timeout = "120s"
 
 # Use static/robots.txt
 enableRobotsTXT = false
+disableKinds = ["alias"]
 enableGitInfo = false
 enableEmoji = true
 hasCJKLanguage = true
