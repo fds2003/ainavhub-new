@@ -6,13 +6,14 @@ timeout = "120s"
 
 # Use static/robots.txt
 enableRobotsTXT = false
-disableKinds = ["alias"]
 enableGitInfo = false
 enableEmoji = true
 hasCJKLanguage = true
-# Pagination (v0.128+ uses pagination.pagerSize)
+disableKinds = ["RSS"]
+
+# Pagination - 200 per page to reduce pagination pages
 [pagination]
-  pagerSize = 50
+  pagerSize = 200
 
 # Allow raw HTML in markdown content (from converted tutorials)
 [markup.goldmark.renderer]
