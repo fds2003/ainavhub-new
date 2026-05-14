@@ -3,82 +3,17 @@
     <div class="page-header">
         <h1>{{ .Title }}</h1>
         <p class="page-desc">AI 工具深度教程和一步步操作指南，帮你快速上手。</p>
-        <div class="page-meta">{{ len .Pages }} guides</div>
+        <div class="page-meta">{{ len .Pages }} 篇指南</div>
     </div>
     <div class="guides-list">
         {{ range .Paginator.Pages.ByDate.Reverse }}
         <article class="guide-card">
             <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
             <p>{{ .Description }}</p>
-            <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+            <time>{{ .Date.Format "2006-01-02" }}</time>
         </article>
         {{ end }}
     </div>
     {{ template "_internal/pagination.html" . }}
 </div>
-
-<style>
-.page-container { max-width: 800px; margin: 0 auto; padding: 3rem 2rem; }
-.page-header { margin-bottom: 3rem; }
-.page-header h1 { font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem; }
-.page-desc { color: var(--text-secondary); font-size: 1.125rem; }
-.guides-list { display: flex; flex-direction: column; gap: 1.25rem; }
-.guide-card {
-    background: var(--bg-card);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-md);
-    padding: 1.5rem;
-    transition: all 200ms ease;
-}
-.guide-card:hover { background: var(--bg-card-hover); border-color: var(--border-light); }
-.guide-card h2 { font-size: 1.125rem; font-weight: 600; margin-bottom: 0.5rem; }
-.guide-card h2 a { color: var(--text-primary); }
-.guide-card h2 a:hover { color: var(--accent-primary-hover); }
-.guide-card p { color: var(--text-secondary); font-size: 0.875rem; margin-bottom: 0.75rem; }
-.guide-card time { color: var(--text-muted); font-size: 0.75rem; }
-.empty-state { text-align: center; padding: 4rem 2rem; }
-.empty-state h2 { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.75rem; }
-.empty-state p { color: var(--text-secondary); }
-
-/* Pagination */
-.pagination {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0.25rem;
-    margin-top: 3rem;
-    list-style: none;
-    padding: 0;
-}
-.pagination .page-link {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    min-width: 36px;
-    height: 36px;
-    padding: 0 0.5rem;
-    background: var(--bg-card);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-sm);
-    color: var(--text-secondary);
-    font-size: 0.875rem;
-    font-weight: 500;
-    text-decoration: none;
-    transition: all 150ms ease;
-}
-.pagination .page-link:hover {
-    background: var(--bg-card-hover);
-    border-color: var(--accent-primary);
-    color: var(--text-primary);
-}
-.pagination .active .page-link {
-    background: var(--accent-primary);
-    border-color: var(--accent-primary);
-    color: white;
-}
-.pagination .disabled .page-link {
-    opacity: 0.4;
-    cursor: not-allowed;
-}
-</style>
 {{ end }}

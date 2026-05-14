@@ -1,1104 +1,224 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AINavHub - Discover The Best AI Tools for Developers</title>
-    <meta name="description" content="A curated directory of 1,900+ AI tools for developers. Find coding assistants, agents, MCP servers, and workflow automation tools.">
-    <meta name="keywords" content="AI tools, AI coding, AI agent, MCP server, LLM, ChatGPT, Claude">
+{{ define "main" }}
+<section class="hero">
+    <div class="hero-badge">
+        <span class="hero-badge-dot"></span>
+        发现 1,900+ AI 工具
+    </div>
+    <h1>发现最好的 <span class="hero-highlight">AI 开发工具</span><br>助力您的开发效率</h1>
+    <p class="hero-subtitle">AI 编程、AI Agent、MCP 服务器、图像生成... 精选工具持续更新</p>
     
-    <!-- Open Graph -->
-    <meta property="og:title" content="AINavHub - Discover The Best AI Tools for Developers">
-    <meta property="og:description" content="A curated directory of 1,900+ AI tools for developers.">
-    <meta property="og:type" content="website">
+    <div class="hero-search">
+        <i data-lucide="search" style="position: absolute; left: 1.25rem; top: 50%; transform: translateY(-50%); color: var(--text-muted); pointer-events: none;"></i>
+        <input type="text" class="search-input" placeholder="搜索 AI 工具、分类或关键词..." id="hero-search">
+    </div>
     
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-    
-    <!-- Lucide Icons -->
-    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
-    
-    <style>
-        /* CSS vars inherited from baseof.html */
-        /* --bg-primary, --text-primary, --radius-*, etc. are already defined */
-        
-        /* ===== Homepage-specific Reset ===== */
-        *, *::before, *::after {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        html {
-            scroll-behavior: smooth;
-        }
-        
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: var(--bg-primary);
-            color: var(--text-primary);
-            line-height: 1.6;
-            min-height: 100vh;
-            -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale;
-        }
-        
-        /* ===== Navigation ===== */
-        .nav {
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            z-index: 1000;
-            background: rgba(10, 10, 15, 0.8);
-            backdrop-filter: blur(20px);
-            border-bottom: 1px solid var(--border-color);
-        }
-        
-        .nav-inner {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 0 2rem;
-            height: 64px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-        
-        .nav-brand {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            font-weight: 700;
-            font-size: 1.25rem;
-            color: var(--text-primary);
-        }
-        
-        .nav-brand-icon {
-            width: 32px;
-            height: 32px;
-            background: var(--accent-gradient);
-            border-radius: var(--radius-sm);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-        }
-        
-        .nav-links {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-        
-        .nav-link {
-            padding: 0.5rem 1rem;
-            color: var(--text-secondary);
-            font-weight: 500;
-            font-size: 0.875rem;
-            border-radius: var(--radius-sm);
-            transition: all var(--transition-fast);
-        }
-        
-        .nav-link:hover, .nav-link.active {
-            color: var(--text-primary);
-            background: var(--bg-tertiary);
-        }
-        
-        .nav-actions {
-            display: flex;
-            align-items: center;
-            gap: 0.75rem;
-        }
-        
-        .btn {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.5rem 1rem;
-            font-size: 0.875rem;
-            font-weight: 500;
-            border-radius: var(--radius-sm);
-            border: none;
-            cursor: pointer;
-            transition: all var(--transition-fast);
-        }
-        
-        .btn-ghost {
-            background: transparent;
-            color: var(--text-secondary);
-        }
-        
-        .btn-ghost:hover {
-            color: var(--text-primary);
-            background: var(--bg-tertiary);
-        }
-        
-        .btn-primary {
-            background: var(--accent-gradient);
-            color: white;
-        }
-        
-        .btn-primary:hover {
-            transform: translateY(-1px);
-            box-shadow: var(--shadow-glow);
-        }
-        
-        /* ===== Hero Section ===== */
-        .hero {
-            padding: 10rem 2rem 6rem;
-            text-align: center;
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .hero::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 100%;
-            max-width: 800px;
-            height: 600px;
-            background: radial-gradient(ellipse at center, rgba(99, 102, 241, 0.15) 0%, transparent 70%);
-            pointer-events: none;
-        }
-        
-        .hero-badge {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.375rem 0.875rem;
-            background: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 50px;
-            font-size: 0.75rem;
-            font-weight: 500;
-            color: var(--text-secondary);
-            margin-bottom: 1.5rem;
-        }
-        
-        .hero-badge-dot {
-            width: 6px;
-            height: 6px;
-            background: var(--success);
-            border-radius: 50%;
-            animation: pulse 2s infinite;
-        }
-        
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
-        }
-        
-        .hero h1 {
-            font-size: clamp(2.5rem, 6vw, 4rem);
-            font-weight: 800;
-            line-height: 1.1;
-            margin-bottom: 1.5rem;
-            letter-spacing: -0.02em;
-        }
-        
-        .hero h1 span {
-            background: var(--accent-gradient);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        
-        .hero-subtitle {
-            font-size: 1.125rem;
-            color: var(--text-secondary);
-            max-width: 600px;
-            margin: 0 auto 2.5rem;
-        }
-        
-        /* ===== Search ===== */
-        .search-wrapper {
-            max-width: 640px;
-            margin: 0 auto;
-            position: relative;
-        }
-        
-        .search-box {
-            position: relative;
-            width: 100%;
-        }
-        
-        .search-icon {
-            position: absolute;
-            left: 1.25rem;
-            top: 50%;
-            transform: translateY(-50%);
-            color: var(--text-muted);
-            pointer-events: none;
-        }
-        
-        .search-input {
-            width: 100%;
-            padding: 1.125rem 1.25rem 1.125rem 3.25rem;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: var(--radius-lg);
-            font-size: 1rem;
-            color: var(--text-primary);
-            outline: none;
-            transition: all var(--transition-normal);
-        }
-        
-        .search-input::placeholder {
-            color: var(--text-muted);
-        }
-        
-        .search-input:focus {
-            border-color: var(--accent-primary);
-            box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
-        }
-        
-        .search-shortcuts {
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            margin-top: 1rem;
-            font-size: 0.75rem;
-            color: var(--text-muted);
-        }
-        
-        .kbd {
-            display: inline-flex;
-            align-items: center;
-            padding: 0.125rem 0.375rem;
-            background: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 4px;
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.625rem;
-        }
-        
-        /* ===== Stats Bar ===== */
-        .stats {
-            display: flex;
-            justify-content: center;
-            gap: 3rem;
-            margin-top: 4rem;
-            flex-wrap: wrap;
-        }
-        
-        .stat-item {
-            text-align: center;
-        }
-        
-        .stat-value {
-            font-size: 2rem;
-            font-weight: 700;
-            color: var(--text-primary);
-            font-family: 'JetBrains Mono', monospace;
-        }
-        
-        .stat-label {
-            font-size: 0.875rem;
-            color: var(--text-muted);
-            margin-top: 0.25rem;
-        }
-        
-        /* ===== Main Content ===== */
-        .main {
-            max-width: 1400px;
-            margin: 0 auto;
-            padding: 4rem 2rem;
-        }
-        
-        /* ===== Section Headers ===== */
-        .section-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 2rem;
-        }
-        
-        .section-title {
-            font-size: 1.5rem;
-            font-weight: 700;
-        }
-        
-        .section-link {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            color: var(--accent-primary-hover);
-            font-size: 0.875rem;
-            font-weight: 500;
-            transition: gap var(--transition-fast);
-        }
-        
-        .section-link:hover {
-            gap: 0.75rem;
-        }
-        
-        /* ===== Category Pills ===== */
-        .categories {
-            margin-bottom: 3rem;
-        }
-        
-        .category-scroll {
-            display: flex;
-            gap: 0.75rem;
-            overflow-x: auto;
-            padding-bottom: 0.5rem;
-            scrollbar-width: none;
-        }
-        
-        .category-scroll::-webkit-scrollbar {
-            display: none;
-        }
-        
-        .category-pill {
-            flex-shrink: 0;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.625rem 1rem;
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: 50px;
-            font-size: 0.875rem;
-            font-weight: 500;
-            color: var(--text-secondary);
-            cursor: pointer;
-            transition: all var(--transition-fast);
-            white-space: nowrap;
-        }
-        
-        .category-pill:hover, .category-pill.active {
-            background: var(--bg-tertiary);
-            border-color: var(--accent-primary);
-            color: var(--text-primary);
-        }
-        
-        .category-pill .count {
-            font-size: 0.75rem;
-            padding: 0.125rem 0.5rem;
-            background: var(--bg-secondary);
-            border-radius: 50px;
-            color: var(--text-muted);
-        }
-        
-        /* ===== Tools Grid ===== */
-        .tools-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-            gap: 1.25rem;
-        }
-        
-        .tool-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: var(--radius-lg);
-            padding: 1.25rem;
-            transition: all var(--transition-normal);
-            cursor: pointer;
-        }
-        
-        .tool-card:hover {
-            background: var(--bg-card-hover);
-            border-color: var(--border-light);
-            transform: translateY(-2px);
-            box-shadow: var(--shadow-lg);
-        }
-        
-        .tool-card-header {
-            display: flex;
-            align-items: flex-start;
-            gap: 1rem;
-            margin-bottom: 0.875rem;
-        }
-        
-        .tool-icon {
-            width: 44px;
-            height: 44px;
-            background: var(--bg-tertiary);
-            border-radius: var(--radius-md);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.25rem;
-            flex-shrink: 0;
-        }
-        
-        .tool-info {
-            flex: 1;
-            min-width: 0;
-        }
-        
-        .tool-name {
-            font-size: 1rem;
-            font-weight: 600;
-            margin-bottom: 0.25rem;
-            color: var(--text-primary);
-        }
-        
-        .tool-category {
-            font-size: 0.75rem;
-            color: var(--accent-secondary);
-            font-weight: 500;
-        }
-        
-        .tool-description {
-            font-size: 0.875rem;
-            color: var(--text-secondary);
-            line-height: 1.5;
-            margin-bottom: 1rem;
-            display: -webkit-box;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-            overflow: hidden;
-        }
-        
-        .tool-footer {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-        }
-        
-        .tool-tags {
-            display: flex;
-            gap: 0.5rem;
-        }
-        
-        .tool-tag {
-            padding: 0.25rem 0.625rem;
-            background: var(--bg-secondary);
-            border-radius: var(--radius-sm);
-            font-size: 0.6875rem;
-            color: var(--text-muted);
-        }
-        
-        .tool-link {
-            display: flex;
-            align-items: center;
-            gap: 0.375rem;
-            font-size: 0.8125rem;
-            font-weight: 500;
-            color: var(--accent-primary-hover);
-        }
-        
-        .tool-link:hover {
-            text-decoration: underline;
-        }
-        
-        /* ===== Featured Section ===== */
-        .featured {
-            margin: 5rem 0;
-            padding: 3rem;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: var(--radius-xl);
-            position: relative;
-            overflow: hidden;
-        }
-        
-        .featured::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 1px;
-            background: var(--accent-gradient);
-        }
-        
-        .featured-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 1.5rem;
-        }
-        
-        .featured-card {
-            padding: 1.5rem;
-            background: var(--bg-card);
-            border-radius: var(--radius-lg);
-            border: 1px solid var(--border-color);
-        }
-        
-        .featured-card-icon {
-            width: 48px;
-            height: 48px;
-            background: var(--accent-gradient);
-            border-radius: var(--radius-md);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            margin-bottom: 1rem;
-            color: white;
-        }
-        
-        .featured-card h3 {
-            font-size: 1.125rem;
-            font-weight: 600;
-            margin-bottom: 0.5rem;
-        }
-        
-        .featured-card p {
-            font-size: 0.875rem;
-            color: var(--text-secondary);
-        }
-        
-        /* ===== Footer ===== */
-        .footer {
-            border-top: 1px solid var(--border-color);
-            padding: 4rem 2rem 2rem;
-            margin-top: 4rem;
-        }
-        
-        .footer-inner {
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-        
-        .footer-grid {
-            display: grid;
-            grid-template-columns: 2fr 1fr 1fr 1fr;
-            gap: 3rem;
-            margin-bottom: 3rem;
-        }
-        
-        .footer-brand h3 {
-            font-size: 1.25rem;
-            font-weight: 700;
-            margin-bottom: 0.75rem;
-        }
-        
-        .footer-brand p {
-            font-size: 0.875rem;
-            color: var(--text-secondary);
-            line-height: 1.6;
-        }
-        
-        .footer-links h4 {
-            font-size: 0.875rem;
-            font-weight: 600;
-            margin-bottom: 1rem;
-            color: var(--text-primary);
-        }
-        
-        .footer-links ul {
-            list-style: none;
-        }
-        
-        .footer-links li {
-            margin-bottom: 0.5rem;
-        }
-        
-        .footer-links a {
-            font-size: 0.875rem;
-            color: var(--text-secondary);
-            transition: color var(--transition-fast);
-        }
-        
-        .footer-links a:hover {
-            color: var(--text-primary);
-        }
-        
-        .footer-bottom {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding-top: 2rem;
-            border-top: 1px solid var(--border-color);
-            font-size: 0.875rem;
-            color: var(--text-muted);
-        }
-        
-        .footer-social {
-            display: flex;
-            gap: 1rem;
-        }
-        
-        .footer-social a {
-            color: var(--text-muted);
-            transition: color var(--transition-fast);
-        }
-        
-        .footer-social a:hover {
-            color: var(--text-primary);
-        }
-        
-        /* ===== Responsive ===== */
-        @media (max-width: 768px) {
-            .nav-links {
-                display: none;
-            }
-            
-            .hero {
-                padding: 8rem 1.5rem 4rem;
-            }
-            
-            .stats {
-                gap: 2rem;
-            }
-            
-            .tools-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .footer-grid {
-                grid-template-columns: 1fr;
-                gap: 2rem;
-            }
-            
-            .footer-bottom {
-                flex-direction: column;
-                gap: 1rem;
-                text-align: center;
-            }
-        }
-        
-        /* ===== Loading Animation ===== */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(10px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        
-        .animate-in {
-            animation: fadeIn 0.4s ease forwards;
-        }
-        
-        /* ===== Scrollbar ===== */
-        ::-webkit-scrollbar {
-            width: 8px;
-            height: 8px;
-        }
-        
-        ::-webkit-scrollbar-track {
-            background: var(--bg-secondary);
-        }
-        
-        ::-webkit-scrollbar-thumb {
-            background: var(--border-color);
-            border-radius: 4px;
-        }
-        
-        ::-webkit-scrollbar-thumb:hover {
-            background: var(--border-light);
-        }
-    </style>
-    
-    <!-- JSON-LD -->
-    <script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "WebSite",
-        "name": "AINavHub",
-        "url": "https://ainavhub.top",
-        "description": "发现最好的AI开发工具，涵盖AI编程、Agent、MCP服务器和工作流自动化",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": "https://ainavhub.top/search?q={search_term_string}",
-            "query-input": "required name=search_term_string"
-        }
-    }
-    </script>
-</head>
-<body>
-    <!-- Navigation -->
-    <nav class="nav">
-        <div class="nav-inner">
-            <a href="/" class="nav-brand">
-                <div class="nav-brand-icon">
-                    <i data-lucide="sparkles" style="width: 18px; height: 18px; color: white;"></i>
-                </div>
-                <span>AINavHub</span>
+    <div class="stats">
+        <div class="stat-item">
+            <div class="stat-value">1,915</div>
+            <div class="stat-label">AI 工具</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-value">8</div>
+            <div class="stat-label">分类</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-value">3,600+</div>
+            <div class="stat-label">教程</div>
+        </div>
+        <div class="stat-item">
+            <div class="stat-value">100%</div>
+            <div class="stat-label">免费使用</div>
+        </div>
+    </div>
+</section>
+
+<main class="main">
+    <section class="categories">
+        <div class="section-header">
+            <h2 class="section-title">浏览分类</h2>
+        </div>
+        <div class="categories-scroll">
+            <a href="/categories/coding/" class="cat-chip">💻 编程</a>
+            <a href="/categories/chat-llm/" class="cat-chip">💬 对话/LLM</a>
+            <a href="/categories/video/" class="cat-chip">🎬 视频</a>
+            <a href="/categories/image-generation/" class="cat-chip">🎨 图像生成</a>
+            <a href="/categories/audio/" class="cat-chip">🎵 音频</a>
+            <a href="/categories/ai-agents/" class="cat-chip">🤖 AI代理</a>
+            <a href="/categories/research/" class="cat-chip">🔬 研究</a>
+            <a href="/categories/productivity/" class="cat-chip">⚡ 效率</a>
+            <a href="/tools/" class="cat-chip cat-chip-all">全部工具 →</a>
+        </div>
+    </section>
+
+    <section>
+        <div class="section-header">
+            <h2 class="section-title">最新 AI 工具</h2>
+            <a href="/tools/" class="section-link">
+                查看全部工具 <i data-lucide="arrow-right" style="width: 16px; height: 16px;"></i>
             </a>
-            
-            <div class="nav-links">
-                <a href="/tools/" class="nav-link active">AI工具</a>
-                <a href="/guides/" class="nav-link">指南</a>
-                <a href="/insights/" class="nav-link">Insights</a>
-                <a href="/categories/" class="nav-link">Categories</a>
-            </div>
-            
-            <div class="nav-actions">
-                <button class="btn btn-ghost">
-                    <i data-lucide="github" style="width: 18px; height: 18px;"></i>
-                </button>
-                <button class="btn btn-primary">
-                    <i data-lucide="plus" style="width: 16px; height: 16px;"></i>
-                    Submit Tool
-                </button>
-            </div>
         </div>
-    </nav>
-    
-    <!-- Hero -->
-    <section class="hero">
-        <div class="hero-badge">
-            <span class="hero-badge-dot"></span>
-            发现 1,900+ AI 开发工具
+        <div class="tools-grid">
+            {{ range first 6 (where .Site.RegularPages "Type" "tools") }}
+            <article class="tool-card animate-in">
+                <div class="tool-card-header">
+                    <div class="tool-icon">{{ if .Params.category }}{{ if eq .Params.category "Coding" }}💻{{ else if eq .Params.category "Chat/LLM" }}💬{{ else if eq .Params.category "Video" }}🎬{{ else if eq .Params.category "Audio" }}🎵{{ else if eq .Params.category "Image Generation" }}🎨{{ else if eq .Params.category "Research" }}🔬{{ else if eq .Params.category "Productivity" }}⚡{{ else if eq .Params.category "Writing" }}✍️{{ else if eq .Params.category "AI Tools" }}🤖{{ else }}📦{{ end }}{{ else }}📦{{ end }}</div>
+                    <div class="tool-info">
+                        <h3 class="tool-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                        {{ with .Params.category }}<span class="tool-category">{{ . }}</span>{{ end }}
+                    </div>
+                </div>
+                <p class="tool-description">{{ .Description }}</p>
+                <div class="tool-footer">
+                    <div class="tool-tags">
+                        {{ range first 2 .Params.tags }}
+                        <span class="tool-tag">{{ . }}</span>
+                        {{ end }}
+                    </div>
+                    <div class="tool-actions">
+                        {{ with .Params.official_url }}
+                        <a href="{{ . }}" target="_blank" rel="noopener" class="tool-link">
+                            访问官网 <i data-lucide="external-link" style="width: 14px; height: 14px;"></i>
+                        </a>
+                        {{ end }}
+                        <a href="{{ .RelPermalink }}" class="tool-link">
+                            详情 <i data-lucide="arrow-right" style="width: 14px; height: 14px;"></i>
+                        </a>
+                    </div>
+                </div>
+            </article>
+            {{ end }}
         </div>
-        
-        <h1>发现最好的 <span>AI 开发工具</span><br>助力您的开发效率</h1>
-        
-        <p class="hero-subtitle">
-            A curated directory of AI coding assistants, agents, MCP servers, and workflow automation tools. Find what you need in seconds.
-        </p>
-        
-        <!-- Search -->
-        <div class="search-wrapper">
-            <div class="search-box">
-                <i data-lucide="search" class="search-icon" style="width: 20px; height: 20px;"></i>
-                <input type="text" class="search-input" placeholder="搜索 AI 工具、分类或关键词..." id="search-input">
-            </div>
-            <div class="search-shortcuts">
-                <span><span class="kbd">⌘</span> <span class="kbd">K</span> to search</span>
-                <span><span class="kbd">↑</span> <span class="kbd">↓</span> to navigate</span>
-            </div>
+    </section>
+
+    <section class="featured">
+        <div class="section-header">
+            <h2 class="section-title">为什么选择 AINavHub？</h2>
         </div>
-        
-        <!-- Stats -->
-        <div class="stats">
-            <div class="stat-item">
-                <div class="stat-value">1,915</div>
-                <div class="stat-label">AI 工具</div>
+        <div class="featured-grid">
+            <div class="featured-card">
+                <div class="featured-card-icon"><i data-lucide="sparkles" style="width: 24px; height: 24px;"></i></div>
+                <h3>持续更新</h3>
+                <p>每日更新最新的 AI 工具和技术，让你始终走在最前沿。</p>
             </div>
-            <div class="stat-item">
-                <div class="stat-value">8</div>
-                <div class="stat-label">分类</div>
+            <div class="featured-card">
+                <div class="featured-card-icon"><i data-lucide="code-2" style="width: 24px; height: 24px;"></i></div>
+                <h3>开发者专属</h3>
+                <p>由开发者精选，为开发者服务。每个工具都经过测试和评估。</p>
             </div>
-            <div class="stat-item">
-                <div class="stat-value">3,600+</div>
-                <div class="stat-label">教程</div>
+            <div class="featured-card">
+                <div class="featured-card-icon"><i data-lucide="book-open" style="width: 24px; height: 24px;"></i></div>
+                <h3>丰富教程</h3>
+                <p>逐步指南，让你快速上手任何 AI 工具。</p>
             </div>
-            <div class="stat-item">
-                <div class="stat-value">100%</div>
-                <div class="stat-label">免费使用</div>
+            <div class="featured-card">
+                <div class="featured-card-icon"><i data-lucide="heart-handshake" style="width: 24px; height: 24px;"></i></div>
+                <h3>开源社区</h3>
+                <p>开源驱动，社区贡献。一起分享你喜欢的工具。</p>
             </div>
         </div>
     </section>
-    
-    <!-- Main Content -->
-    <main class="main">
-        <!-- Categories -->
-        <section class="categories">
-            <div class="category-scroll">
-                <button class="category-pill active">
-                    <i data-lucide="layout-grid" style="width: 16px; height: 16px;"></i>
-                    全部工具
-                </button>
-                <button class="category-pill">
-                    <i data-lucide="bot" style="width: 16px; height: 16px;"></i>
-                    AI Agents
-                    <span class="count">245</span>
-                </button>
-                <button class="category-pill">
-                    <i data-lucide="code-2" style="width: 16px; height: 16px;"></i>
-                    Coding
-                    <span class="count">178</span>
-                </button>
-                <button class="category-pill">
-                    <i data-lucide="message-square" style="width: 16px; height: 16px;"></i>
-                    Chat/LLM
-                    <span class="count">410</span>
-                </button>
-                <button class="category-pill">
-                    <i data-lucide="video" style="width: 16px; height: 16px;"></i>
-                    Video
-                    <span class="count">155</span>
-                </button>
-                <button class="category-pill">
-                    <i data-lucide="image" style="width: 16px; height: 16px;"></i>
-                    Image Gen
-                    <span class="count">91</span>
-                </button>
-                <button class="category-pill">
-                    <i data-lucide="mic" style="width: 16px; height: 16px;"></i>
-                    Audio
-                    <span class="count">83</span>
-                </button>
-                <button class="category-pill">
-                    <i data-lucide="flask-conical" style="width: 16px; height: 16px;"></i>
-                    Research
-                    <span class="count">84</span>
-                </button>
-                <button class="category-pill">
-                    <i data-lucide="zap" style="width: 16px; height: 16px;"></i>
-                    Productivity
-                    <span class="count">77</span>
-                </button>
-            </div>
-        </section>
-        
-        <!-- Latest Tools -->
-        <section>
-            <div class="section-header">
-                <h2 class="section-title">最新 AI 工具</h2>
-                <a href="/tools/" class="section-link">
-                    查看全部工具 <i data-lucide="arrow-right" style="width: 16px; height: 16px;"></i>
-                </a>
-            </div>
-            
-            <div class="tools-grid">
-                <!-- Tool Card 1 -->
-                <article class="tool-card animate-in">
-                    <div class="tool-card-header">
-                        <div class="tool-icon">🤖</div>
-                        <div class="tool-info">
-                            <h3 class="tool-name">OpenManus</h3>
-                            <span class="tool-category">AI Agent</span>
-                        </div>
-                    </div>
-                    <p class="tool-description">AI Agent builder by MetaGPT contributors. Build autonomous agents without invitation codes.</p>
-                    <div class="tool-footer">
-                        <div class="tool-tags">
-                            <span class="tool-tag">Open Source</span>
-                            <span class="tool-tag">Agent</span>
-                        </div>
-                        <a href="/tools/1-openmanus/" class="tool-link">
-                            View <i data-lucide="external-link" style="width: 14px; height: 14px;"></i>
-                        </a>
-                    </div>
-                </article>
-                
-                <!-- Tool Card 2 -->
-                <article class="tool-card animate-in" style="animation-delay: 50ms;">
-                    <div class="tool-card-header">
-                        <div class="tool-icon">🔍</div>
-                        <div class="tool-info">
-                            <h3 class="tool-name">II-Researcher</h3>
-                            <span class="tool-category">Research</span>
-                        </div>
-                    </div>
-                    <p class="tool-description">Deep search tool using BAML functions. Intelligent web search with comprehensive answers.</p>
-                    <div class="tool-footer">
-                        <div class="tool-tags">
-                            <span class="tool-tag">Research</span>
-                            <span class="tool-tag">Search</span>
-                        </div>
-                        <a href="/tools/1-ii-researcher/" class="tool-link">
-                            View <i data-lucide="external-link" style="width: 14px; height: 14px;"></i>
-                        </a>
-                    </div>
-                </article>
-                
-                <!-- Tool Card 3 -->
-                <article class="tool-card animate-in" style="animation-delay: 100ms;">
-                    <div class="tool-card-header">
-                        <div class="tool-icon">💻</div>
-                        <div class="tool-info">
-                            <h3 class="tool-name">Continue</h3>
-                            <span class="tool-category">Coding</span>
-                        </div>
-                    </div>
-                    <p class="tool-description">Open-source AI code assistant for VS Code and JetBrains. Build custom autocomplete and chat.</p>
-                    <div class="tool-footer">
-                        <div class="tool-tags">
-                            <span class="tool-tag">Open Source</span>
-                            <span class="tool-tag">Coding</span>
-                        </div>
-                        <a href="/tools/1-continue/" class="tool-link">
-                            View <i data-lucide="external-link" style="width: 14px; height: 14px;"></i>
-                        </a>
-                    </div>
-                </article>
-                
-                <!-- Tool Card 4 -->
-                <article class="tool-card animate-in" style="animation-delay: 150ms;">
-                    <div class="tool-card-header">
-                        <div class="tool-icon">🎬</div>
-                        <div class="tool-info">
-                            <h3 class="tool-name">HunyuanVideo-I2V</h3>
-                            <span class="tool-category">Video</span>
-                        </div>
-                    </div>
-                    <p class="tool-description">Tencent's open-source image-to-video generation framework. Transform images into videos.</p>
-                    <div class="tool-footer">
-                        <div class="tool-tags">
-                            <span class="tool-tag">Open Source</span>
-                            <span class="tool-tag">Video</span>
-                        </div>
-                        <a href="/tools/2-hunyuanvideo-i2v/" class="tool-link">
-                            View <i data-lucide="external-link" style="width: 14px; height: 14px;"></i>
-                        </a>
-                    </div>
-                </article>
-                
-                <!-- Tool Card 5 -->
-                <article class="tool-card animate-in" style="animation-delay: 200ms;">
-                    <div class="tool-card-header">
-                        <div class="tool-icon">🧠</div>
-                        <div class="tool-info">
-                            <h3 class="tool-name">QwQ-32B</h3>
-                            <span class="tool-category">Chat/LLM</span>
-                        </div>
-                    </div>
-                    <p class="tool-description">Qwen's reasoning model with 32B parameters. Excels at solving complex problems.</p>
-                    <div class="tool-footer">
-                        <div class="tool-tags">
-                            <span class="tool-tag">LLM</span>
-                            <span class="tool-tag">Reasoning</span>
-                        </div>
-                        <a href="/tools/1-qwq-32b/" class="tool-link">
-                            View <i data-lucide="external-link" style="width: 14px; height: 14px;"></i>
-                        </a>
-                    </div>
-                </article>
-                
-                <!-- Tool Card 6 -->
-                <article class="tool-card animate-in" style="animation-delay: 250ms;">
-                    <div class="tool-card-header">
-                        <div class="tool-icon">🔗</div>
-                        <div class="tool-info">
-                            <h3 class="tool-name">Composio</h3>
-                            <span class="tool-category">AI Agent</span>
-                        </div>
-                    </div>
-                    <p class="tool-description">Production-grade toolset for AI agents. 250+ tools with multi-framework support.</p>
-                    <div class="tool-footer">
-                        <div class="tool-tags">
-                            <span class="tool-tag">Production</span>
-                            <span class="tool-tag">Agent</span>
-                        </div>
-                        <a href="/tools/5-composio/" class="tool-link">
-                            View <i data-lucide="external-link" style="width: 14px; height: 14px;"></i>
-                        </a>
-                    </div>
-                </article>
-            </div>
-        </section>
-        
-        <!-- Featured -->
-        <section class="featured">
-            <div class="section-header">
-                <h2 class="section-title">为什么选择 AINavHub？</h2>
-            </div>
-            <div class="featured-grid">
-                <div class="featured-card">
-                    <div class="featured-card-icon">
-                        <i data-lucide="sparkles" style="width: 24px; height: 24px;"></i>
-                    </div>
-                    <h3>持续更新</h3>
-                    <p>每日更新最新的 AI 工具和技术，让你始终走在最前沿。</p>
-                </div>
-                <div class="featured-card">
-                    <div class="featured-card-icon">
-                        <i data-lucide="code-2" style="width: 24px; height: 24px;"></i>
-                    </div>
-                    <h3>开发者专属</h3>
-                    <p>由开发者精选，为开发者服务。每个工具都经过测试和评估。</p>
-                </div>
-                <div class="featured-card">
-                    <div class="featured-card-icon">
-                        <i data-lucide="book-open" style="width: 24px; height: 24px;"></i>
-                    </div>
-                    <h3>丰富教程</h3>
-                    <p>逐步指南，让你快速上手任何 AI 工具。</p>
-                </div>
-                <div class="featured-card">
-                    <div class="featured-card-icon">
-                        <i data-lucide="heart-handshake" style="width: 24px; height: 24px;"></i>
-                    </div>
-                    <h3>开源社区</h3>
-                    <p>开源驱动，社区贡献。一起分享你喜欢的工具。</p>
-                </div>
-            </div>
-        </section>
-    </main>
-    
-    <!-- Footer -->
-    <footer class="footer">
-        <div class="footer-inner">
-            <div class="footer-grid">
-                <div class="footer-brand">
-                    <h3>AINavHub</h3>
-                    <p>最好的 AI 开发工具导航站，每日更新。发现 AI 编程助手、Agent、MCP 服务器和工作流自动化工具。</p>
-                </div>
-                <div class="footer-links">
-                    <h4>资源</h4>
-                    <ul>
-                        <li><a href="/tools/">全部工具</a></li>
-                        <li><a href="/guides/">指南</a></li>
-                        <li><a href="/insights/">洞察</a></li>
-                        <li><a href="/categories/">分类</a></li>
-                    </ul>
-                </div>
-                <div class="footer-links">
-                    <h4>分类</h4>
-                    <ul>
-                        <li><a href="/categories/chat-llm/">对话/LLM</a></li>
-                        <li><a href="/categories/coding/">编程</a></li>
-                        <li><a href="/categories/video/">视频</a></li>
-                        <li><a href="/categories/ai-agents/">AI代理</a></li>
-                    </ul>
-                </div>
-                <div class="footer-links">
-                    <h4>联系</h4>
-                    <ul>
-                        <li><a href="https://github.com/ainavhub">GitHub</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="footer-bottom">
-                <span>© 2026 AINavHub - AI 工具导航</span>
-                <div class="footer-social">
-                    <a href="https://github.com/ainavhub" aria-label="GitHub">
-                        <i data-lucide="github" style="width: 20px; height: 20px;"></i>
-                    </a>
-                    <a href="#" aria-label="Twitter">
-                        <i data-lucide="twitter" style="width: 20px; height: 20px;"></i>
-                    </a>
-                    <a href="#" aria-label="Discord">
-                        <i data-lucide="message-circle" style="width: 20px; height: 20px;"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </footer>
-    
-    <!-- Scripts -->
-    <script>
-        // Initialize Lucide icons
-        lucide.createIcons();
-        
-        // Search functionality
-        const searchInput = document.getElementById('search-input');
-        searchInput.addEventListener('keypress', function(e) {
-            if (e.key === 'Enter') {
-                const query = this.value.trim();
-                if (query) {
-                    window.location.href = '/search/?q=' + encodeURIComponent(query);
-                }
-            }
-        });
-        
-        // Category pill click handlers
-        document.querySelectorAll('.category-pill').forEach(pill => {
-            pill.addEventListener('click', function() {
-                document.querySelectorAll('.category-pill').forEach(p => p.classList.remove('active'));
-                this.classList.add('active');
-            });
-        });
-        
-        // Keyboard shortcut for search
-        document.addEventListener('keydown', function(e) {
-            if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-                e.preventDefault();
-                searchInput.focus();
-            }
-        });
-        
-        // Intersection Observer for animations
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.classList.add('animate-in');
-                }
-            });
-        }, { threshold: 0.1 });
-        
-        document.querySelectorAll('.tool-card').forEach(card => {
-            observer.observe(card);
-        });
-    </script>
-</body>
-</html>
+</main>
+
+<style>
+/* ===== Hero ===== */
+.hero {
+    max-width: 1400px; margin: 0 auto; padding: 6rem 2rem 3rem;
+    text-align: center; position: relative;
+}
+.hero::before {
+    content: ''; position: absolute; top: -50%; left: 50%;
+    transform: translateX(-50%);
+    width: 800px; height: 800px;
+    background: radial-gradient(circle, rgba(99,102,241,0.08) 0%, transparent 70%);
+    pointer-events: none;
+}
+.hero-badge {
+    display: inline-flex; align-items: center; gap: 0.5rem;
+    padding: 0.5rem 1.25rem;
+    background: rgba(99,102,241,0.1); border: 1px solid rgba(99,102,241,0.2);
+    border-radius: 50px; font-size: 0.875rem; color: var(--accent-primary-hover);
+    margin-bottom: 2rem;
+}
+.hero-badge-dot { width: 8px; height: 8px; border-radius: 50%; background: #22c55e; }
+.hero h1 { font-size: 3.5rem; font-weight: 800; line-height: 1.15; margin-bottom: 1.5rem; }
+.hero-highlight { background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+.hero-subtitle { font-size: 1.25rem; color: var(--text-secondary); max-width: 600px; margin: 0 auto 2.5rem; }
+.hero-search {
+    position: relative; max-width: 500px; margin: 0 auto 4rem;
+}
+.hero-search .search-input {
+    width: 100%; padding: 1rem 1.25rem 1rem 3.25rem;
+    background: var(--bg-secondary); border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg); font-size: 1rem; color: var(--text-primary);
+    outline: none; box-sizing: border-box; transition: all 200ms ease;
+}
+.hero-search .search-input:focus { border-color: var(--accent-primary); box-shadow: 0 0 0 3px rgba(99,102,241,0.1); }
+
+/* ===== Stats ===== */
+.stats { display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; }
+.stat-item { text-align: center; padding: 1.5rem 2.5rem; }
+.stat-value { font-size: 2.5rem; font-weight: 800; background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+.stat-label { font-size: 0.875rem; color: var(--text-muted); margin-top: 0.25rem; }
+
+/* ===== Section ===== */
+.main { max-width: 1400px; margin: 0 auto; padding: 0 2rem 4rem; }
+.section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; }
+.section-title { font-size: 1.75rem; font-weight: 700; }
+.section-link { color: var(--accent-primary-hover); font-size: 0.875rem; font-weight: 500; display: flex; align-items: center; gap: 0.5rem; }
+.section-link:hover { text-decoration: underline; }
+
+/* ===== Category Chips ===== */
+.categories-scroll { display: flex; gap: 0.75rem; flex-wrap: wrap; margin-bottom: 4rem; }
+.cat-chip {
+    padding: 0.625rem 1.25rem; background: var(--bg-card); border: 1px solid var(--border-color);
+    border-radius: 50px; font-size: 0.875rem; font-weight: 500;
+    color: var(--text-secondary); text-decoration: none; transition: all 200ms ease;
+}
+.cat-chip:hover { background: var(--bg-card-hover); border-color: var(--accent-primary); color: var(--text-primary); }
+.cat-chip-all { background: var(--accent-gradient); color: white; border-color: transparent; }
+.cat-chip-all:hover { transform: translateY(-1px); box-shadow: var(--shadow-glow); }
+
+/* ===== Featured ===== */
+.featured { margin-top: 4rem; }
+.featured-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; }
+.featured-card {
+    background: var(--bg-card); border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg); padding: 2rem; text-align: center;
+    transition: all 250ms ease;
+}
+.featured-card:hover { background: var(--bg-card-hover); border-color: var(--border-light); transform: translateY(-2px); }
+.featured-card-icon {
+    width: 48px; height: 48px; margin: 0 auto 1rem;
+    background: rgba(99,102,241,0.1); border-radius: var(--radius-md);
+    display: flex; align-items: center; justify-content: center;
+    color: var(--accent-primary-hover);
+}
+.featured-card h3 { font-size: 1.125rem; font-weight: 600; margin-bottom: 0.75rem; }
+.featured-card p { font-size: 0.875rem; color: var(--text-secondary); line-height: 1.6; }
+
+@media (max-width: 768px) {
+    .hero { padding: 4rem 1.5rem 2rem; }
+    .hero h1 { font-size: 2.25rem; }
+    .stats { gap: 0; }
+    .stat-item { padding: 1rem 1.5rem; }
+    .featured-grid { grid-template-columns: 1fr; }
+    .main { padding: 0 1.5rem 2rem; }
+}
+</style>
+
+<!-- JSON-LD -->
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "AINavHub",
+    "url": "https://ainavhub.top",
+    "description": "发现最好的AI开发工具，涵盖AI编程、Agent、MCP服务器和工作流自动化",
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://ainavhub.top/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+    }
+}
+</script>
+{{ end }}

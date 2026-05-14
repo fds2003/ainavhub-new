@@ -16,53 +16,28 @@
 const searchInput = document.getElementById('search-input');
 const resultsDiv = document.getElementById('search-results');
 let allItems = [];
-let loaded = 0;
 
-// Fetch tools RSS
-fetch('/tools/index.xml')
-    .then(r => r.text())
-    .then(xml => {
-        const doc = new DOMParser().parseFromString(xml, 'text/xml');
-        doc.querySelectorAll('item').forEach(item => {
-            allItems.push({
-                type: 'tool',
-                title: item.querySelector('title')?.textContent || '',
-                desc: item.querySelector('description')?.textContent || '',
-                link: item.querySelector('link')?.textContent || ''
-            });
-        });
-        loaded++;
+fetch('/tools/index.xml').then(r => r.text()).then(xml => {
+    const doc = new DOMParser().parseFromString(xml, 'text/xml');
+    doc.querySelectorAll('item').forEach(item => {
+        allItems.push({type: 'tool', title: item.querySelector('title')?.textContent || '', desc: item.querySelector('description')?.textContent || '', link: item.querySelector('link')?.textContent || ''});
     });
-
-// Fetch guides RSS
-fetch('/guides/index.xml')
-    .then(r => r.text())
-    .then(xml => {
-        const doc = new DOMParser().parseFromString(xml, 'text/xml');
-        doc.querySelectorAll('item').forEach(item => {
-            allItems.push({
-                type: 'guide',
-                title: item.querySelector('title')?.textContent || '',
-                desc: item.querySelector('description')?.textContent || '',
-                link: item.querySelector('link')?.textContent || ''
-            });
-        });
-        loaded++;
+});
+fetch('/guides/index.xml').then(r => r.text()).then(xml => {
+    const doc = new DOMParser().parseFromString(xml, 'text/xml');
+    doc.querySelectorAll('item').forEach(item => {
+        allItems.push({type: 'guide', title: item.querySelector('title')?.textContent || '', desc: item.querySelector('description')?.textContent || '', link: item.querySelector('link')?.textContent || ''});
     });
+});
 
 searchInput.addEventListener('input', function() {
     const q = this.value.trim().toLowerCase();
     if (!q) { resultsDiv.innerHTML = ''; return; }
-    
-    let results = allItems.filter(t => 
-        t.title.toLowerCase().includes(q) || t.desc.toLowerCase().includes(q)
-    ).slice(0, 20);
-    
+    const results = allItems.filter(t => t.title.toLowerCase().includes(q) || t.desc.toLowerCase().includes(q)).slice(0, 20);
     if (results.length === 0) {
-        resultsDiv.innerHTML = '<p style="color: var(--text-muted); text-align: center;">No results found</p>';
+        resultsDiv.innerHTML = '<p style="color: var(--text-muted); text-align: center;">未找到结果</p>';
         return;
     }
-    
     resultsDiv.innerHTML = results.map((item, i) => `
         <a href="${item.link}" class="search-result-item" style="animation-delay: ${i * 30}ms">
             <div class="search-result-header">
@@ -73,42 +48,5 @@ searchInput.addEventListener('input', function() {
         </a>
     `).join('');
 });
-
-searchInput.addEventListener('keypress', function(e) {
-    if (e.key === 'Enter') this.dispatchEvent(new Event('input'));
-});
 </script>
-
-<style>
-.search-result-item {
-    display: block;
-    background: var(--bg-card);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-md);
-    padding: 1rem 1.25rem;
-    margin-bottom: 0.75rem;
-    text-decoration: none;
-    animation: fadeIn 0.3s ease forwards;
-    opacity: 0;
-    transition: all 200ms ease;
-}
-.search-result-item:hover {
-    background: var(--bg-card-hover);
-    border-color: var(--accent-primary);
-}
-.search-result-header { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.25rem; }
-.search-result-header h3 { font-size: 1rem; font-weight: 600; color: var(--text-primary); }
-.search-result-item p { font-size: 0.875rem; color: var(--text-secondary); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-.search-type-badge {
-    font-size: 0.6875rem; font-weight: 600;
-    padding: 0.15rem 0.5rem;
-    border-radius: 4px;
-    white-space: nowrap;
-    flex-shrink: 0;
-}
-.search-type-tool { background: rgba(99, 102, 241, 0.15); color: var(--accent-primary-hover); }
-.search-type-guide { background: rgba(34, 211, 238, 0.15); color: var(--accent-secondary); }
-.search-result-item h3 { font-size: 1rem; font-weight: 600; color: var(--text-primary); }
-.search-result-item p { font-size: 0.875rem; color: var(--text-secondary); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
-</style>
 {{ end }}

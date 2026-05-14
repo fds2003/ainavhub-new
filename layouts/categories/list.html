@@ -10,39 +10,9 @@
         <a href="{{ .RelPermalink }}" class="category-block">
             <div class="cat-icon-bg">{{ if eq .Title "Coding" }}💻{{ else if eq .Title "Chat/LLM" }}💬{{ else if eq .Title "Video" }}🎬{{ else if eq .Title "Audio" }}🎵{{ else if eq .Title "Image Generation" }}🎨{{ else if eq .Title "Research" }}🔬{{ else if eq .Title "Productivity" }}⚡{{ else if eq .Title "Writing" }}✍️{{ else if eq .Title "AI Tools" }}🤖{{ else }}📁{{ end }}</div>
             <h3>{{ .Title }}</h3>
-            <span class="cat-count">{{ len .Pages }} tools</span>
+            <span class="cat-count">{{ len .Pages }} 工具</span>
         </a>
         {{ end }}
     </div>
 </div>
-
-<style>
-.page-container { max-width: 1400px; margin: 0 auto; padding: 3rem 2rem; }
-.page-header { margin-bottom: 3rem; }
-.page-header h1 { font-size: 2.5rem; font-weight: 800; margin-bottom: 0.75rem; }
-.page-desc { color: var(--text-secondary); font-size: 1.125rem; }
-.categories-overview {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1.25rem;
-}
-.category-block {
-    background: var(--bg-card);
-    border: 1px solid var(--border-color);
-    border-radius: var(--radius-lg);
-    padding: 2rem 1.5rem;
-    text-align: center;
-    text-decoration: none;
-    transition: all 250ms ease;
-}
-.category-block:hover {
-    background: var(--bg-card-hover);
-    border-color: var(--accent-primary);
-    transform: translateY(-2px);
-    box-shadow: var(--shadow-glow);
-}
-.cat-icon-bg { font-size: 2.5rem; margin-bottom: 1rem; }
-.category-block h3 { font-size: 1.125rem; font-weight: 600; color: var(--text-primary); margin-bottom: 0.5rem; }
-.cat-count { color: var(--text-muted); font-size: 0.875rem; }
-</style>
 {{ end }}
