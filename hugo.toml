@@ -9,7 +9,9 @@ enableRobotsTXT = false
 enableGitInfo = false
 enableEmoji = true
 hasCJKLanguage = true
-paginate = 50
+# Pagination (v0.128+ uses pagination.pagerSize)
+[pagination]
+  pagerSize = 50
 
 # Allow raw HTML in markdown content (from converted tutorials)
 [markup.goldmark.renderer]

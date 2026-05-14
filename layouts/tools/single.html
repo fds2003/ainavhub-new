@@ -67,7 +67,7 @@
         {{ $toolSlug := .Page.Params.slug | default "" }}
         {{ $toolGuides := slice }}
         {{ if $toolSlug }}
-            {{ $toolGuides = index hugo.Data.tool_guides $toolSlug | default slice }}
+            {{ $toolGuides = index site.Data.tool_guides $toolSlug | default slice }}
         {{ end }}
         {{ if $toolGuides }}
         <div class="sidebar-card">
