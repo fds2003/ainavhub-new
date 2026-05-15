@@ -1,0 +1,42 @@
+{{ define "main" }}
+{{ partial "breadcrumb.html" . }}
+<div class="page-container">
+    <div class="page-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}<p class="page-desc">{{ . }}</p>{{ end }}
+    </div>
+    
+    <div class="openclaw-sections">
+        {{ range .Pages.ByTitle }}
+        <section class="openclaw-section">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ with .Description }}<p>{{ . }}</p>{{ end }}
+            <div class="openclaw-subpages">
+                {{ range .Pages.ByParam "slug" }}
+                <a href="{{ .RelPermalink }}" class="openclaw-link">{{ .Title }}</a>
+                {{ end }}
+            </div>
+        </section>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+.openclaw-sections { display: flex; flex-direction: column; gap: 24px; }
+.openclaw-section {
+    background: var(--bg-card); border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg); padding: 24px;
+}
+.openclaw-section h2 { font-size: 20px; font-weight: 700; margin-bottom: 8px; }
+.openclaw-section h2 a { color: var(--text-primary); }
+.openclaw-section h2 a:hover { color: var(--accent-primary); }
+.openclaw-section > p { color: var(--text-secondary); font-size: 14px; margin-bottom: 16px; }
+.openclaw-subpages { display: flex; flex-wrap: wrap; gap: 8px; }
+.openclaw-link {
+    padding: 6px 14px; background: var(--bg-tertiary); border-radius: var(--radius-sm);
+    font-size: 14px; color: var(--text-secondary); text-decoration: none;
+    transition: all 150ms ease;
+}
+.openclaw-link:hover { background: var(--accent-primary); color: white; }
+</style>
+{{ end }}
