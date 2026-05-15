@@ -11,7 +11,7 @@ draft: false
 
 > ⚠️ **重要提示**：没有Skills的OpenClaw只是1个聊天机器人，有了Skills才能真正成为你的AI助手！
 
-> 📊 **Skills 生态概览**：OpenClaw 拥有庞大的 Skills 生态系统，包括内置49个、官方93个、社区1715+个，总计1800+个可用 Skills。详细分类和说明请参考 [Skills 生态说明](\/openclaw/skills-ecosystem/) 与 [附录 N：Skills 生态说明](\/openclaw/N-skills-ecosystem/)（两处内容互补，附录侧重清单与统计）。
+> 📊 **Skills 生态概览**：OpenClaw 拥有庞大的 Skills 生态系统，包括内置49个、官方93个、社区1715+个，总计1800+个可用 Skills。详细分类和说明请参考 [Skills 生态说明](\/openclaw/ch-skills-ecosystem/) 与 [附录 N：Skills 生态说明](\/openclaw/N-skills-ecosystem/)（两处内容互补，附录侧重清单与统计）。
 
 > 🔗 **安装第三方 Skills 前**：建议先阅读 [OpenClaw 安全指南](\/openclaw/99-security-guide/) 中的 Skills 与供应链风险；命令与 ClawHub 用法可对照 [附录 A：命令速查表](\/openclaw/A-command-reference/)。
 
