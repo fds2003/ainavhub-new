@@ -1,7 +1,7 @@
 ---
 title: "OpenClaw API Key 配置完整指南"
 date: 2026-01-01T00:00:00+08:00
-description: "~/.zshrc"
+description: "OpenClaw API Key 配置方式、优先级与安全指南，支持多种配置方式"
 slug: "ch-api-key-config"
 draft: false
 ---
