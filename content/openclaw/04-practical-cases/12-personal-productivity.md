@@ -1,9 +1,7 @@
 ---
 title: "个人效率提升"
-date: 2026-01-01T00:00:00+08:00
+slug: "12-personal-productivity"
 description: "OpenClaw个人效率提升"
-slug: 12-personal-productivity
-section: "04-practical-cases"
 draft: false
 ---
 

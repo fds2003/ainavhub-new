@@ -1,9 +1,7 @@
 ---
 title: "高级自动化"
-date: 2026-01-01T00:00:00+08:00
+slug: "13-advanced-automation"
 description: "OpenClaw高级自动化"
-slug: 13-advanced-automation
-section: "04-practical-cases"
 draft: false
 ---
 

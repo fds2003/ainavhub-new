@@ -1,10 +1,8 @@
 ---
 title: "OpenClaw 使用场景（五）：研究与学习"
+slug: "openclaw-use-case-5-research"
 description: "财报跟踪、个人 RAG、市场与 MVP 工厂、创意前置验证、语义记忆、arXiv 与 LaTeX 论文工作流等 OpenClaw 研究类场景导读。"
-keywords: "OpenClaw, RAG, arXiv, LaTeX, 研究, 学习, 语义搜索, 龙虾教程"
-slug: "openclaw-research"
-layout: "default"
-date: "2026-03-23T14:45:00+08:00"
+draft: false
 ---
 
 # OpenClaw 使用场景（五）：研究与学习
@@ -40,9 +38,7 @@ date: "2026-03-23T14:45:00+08:00"
 
 ## 三、与本教程衔接
 
-- 知识管理总览：[第5章 知识库](/docs/02-core-features/05-knowledge-management/)  
-- 高级自动化与多 Skill：[第13章](/docs/04-practical-cases/13-advanced-automation/)  
-- 创意与多 Agent：[第14章](/docs/04-practical-cases/14-creative-applications/)
+- 知识管理总览：[第5章 知识库](/openclaw/)
 
 ---
 

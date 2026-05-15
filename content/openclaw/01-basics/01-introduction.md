@@ -1,9 +1,7 @@
 ---
 title: "认识OpenClaw"
-date: 2026-01-01T00:00:00+08:00
+slug: "01-introduction"
 description: "OpenClaw认识OpenClaw"
-slug: 01-introduction
-section: "01-basics"
 draft: false
 ---
 
@@ -13,9 +11,9 @@ draft: false
 
 > ⚠️ **版本说明**：由于 OpenClaw 仍在快速开发中，本教程基于 **2026.3.2** 版本编写。该版本经过充分验证，稳定可靠。
 
-> 💡 **重要前提**：OpenClaw 预装了 **49个内置技能（Skills）**，本教程中的大部分功能演示都基于这些内置技能。这些技能涵盖文件管理、知识管理、日程管理、自动化等核心场景，开箱即用。如果某些功能无法使用，请先确认相关技能是否已启用（详见 [第 8 章：Skills 扩展](\/openclaw/03-advanced/08-skills-extension/)）。
+> 💡 **重要前提**：OpenClaw 预装了 **49个内置技能（Skills）**，本教程中的大部分功能演示都基于这些内置技能。这些技能涵盖文件管理、知识管理、日程管理、自动化等核心场景，开箱即用。如果某些功能无法使用，请先确认相关技能是否已启用（详见 [第 8 章：Skills 扩展](\/openclaw/08-skills-extension/)）。
 
-> 🔗 **相关阅读**：决定要用了之后，跟着 [第 2 章：环境搭建](\/openclaw/01-basics/02-installation/) 完成安装或 Docker/云端部署；装好后进入 [第 3 章：快速上手](\/openclaw/01-basics/03-quick-start/) 发出第一条消息。要在飞书、企微、钉钉或 QQ 里用助手，请读 [第 9 章：多平台集成](\/openclaw/03-advanced/09-multi-platform-integration/)，飞书可先对照 [附录 J：飞书 Bot 配置检查清单](\/openclaw/J-feishu-checklist/)。接入大模型前的密钥与优先级见 [附录 K](\/openclaw/K-api-key-config-guide/)；Gateway、配对与 Skills 安全风险见 [OpenClaw 安全指南](\/openclaw/03-advanced/99-security-guide/)。
+> 🔗 **相关阅读**：决定要用了之后，跟着 [第 2 章：环境搭建](\/openclaw/02-installation/) 完成安装或 Docker/云端部署；装好后进入 [第 3 章：快速上手](\/openclaw/03-quick-start/) 发出第一条消息。要在飞书、企微、钉钉或 QQ 里用助手，请读 [第 9 章：多平台集成](\/openclaw/09-multi-platform-integration/)，飞书可先对照 [附录 J：飞书 Bot 配置检查清单](\/openclaw/J-feishu-checklist/)。接入大模型前的密钥与优先级见 [附录 K](\/openclaw/K-api-key-config-guide/)；Gateway、配对与 Skills 安全风险见 [OpenClaw 安全指南](\/openclaw/99-security-guide/)。
 
 ---
 

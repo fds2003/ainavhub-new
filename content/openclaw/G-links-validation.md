@@ -1,9 +1,7 @@
 ---
 title: "链接验证(G)"
-date: 2026-01-01T00:00:00+08:00
+slug: "G-links-validation"
 description: "OpenClaw链接验证(G)"
-slug: G-links-validation
-section: "appendix"
 draft: false
 ---
 

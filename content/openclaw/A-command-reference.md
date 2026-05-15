@@ -1,9 +1,7 @@
 ---
 title: "命令速查表"
-date: 2026-01-01T00:00:00+08:00
+slug: "A-command-reference"
 description: "OpenClaw命令速查表"
-slug: A-command-reference
-section: "appendix"
 draft: false
 ---
 

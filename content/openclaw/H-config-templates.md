@@ -1,9 +1,7 @@
 ---
 title: "配置模板(H)"
-date: 2026-01-01T00:00:00+08:00
+slug: "H-config-templates"
 description: "OpenClaw配置模板(H)"
-slug: H-config-templates
-section: "appendix"
 draft: false
 ---
 
@@ -1026,8 +1024,8 @@ echo "✅ 配置文件已生成：~/.openclaw/config.json"
 
 ## 📚 相关资源
 
-- [第2章：环境搭建](\/openclaw/01-basics/02-installation/)
-- [第11章：高级配置](\/openclaw/03-advanced/11-advanced-configuration/)
+- [第2章：环境搭建](\/openclaw/02-installation/)
+- [第11章：高级配置](\/openclaw/11-advanced-configuration/)
 - [附录E：常见问题](\/openclaw/E-common-problems/)
 - [附录F：最佳实践](\/openclaw/F-best-practices/)
 

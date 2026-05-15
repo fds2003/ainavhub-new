@@ -1,9 +1,7 @@
 ---
 title: "文件管理"
-date: 2026-01-01T00:00:00+08:00
+slug: "04-file-management"
 description: "OpenClaw文件管理"
-slug: 04-file-management
-section: "02-core-features"
 draft: false
 ---
 

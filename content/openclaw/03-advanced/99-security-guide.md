@@ -1,9 +1,7 @@
 ---
 title: "安全指南"
-date: 2026-01-01T00:00:00+08:00
+slug: "99-security-guide"
 description: "OpenClaw安全指南"
-slug: 99-security-guide
-section: "03-advanced"
 draft: false
 ---
 
@@ -11,7 +9,7 @@ draft: false
 
 > 💡 **本章目标**：了解OpenClaw的安全机制、已知安全事件和最佳实践，保护你的数据和隐私
 
-> 🔗 **相关阅读**：安装与使用 Skills 前请对照 [第 8 章 Skills 扩展](\/openclaw/03-advanced/08-skills-extension/)；Webhook 渠道与令牌不要提交到仓库，配置文件结构见 [附录 L](\/openclaw/L-config-file-structure/)，密钥管理方式见 [附录 K](\/openclaw/K-api-key-config-guide/)。IM 配对与群组策略与 [第 9 章多平台集成](\/openclaw/03-advanced/09-multi-platform-integration/) 、[飞书配置清单](\/openclaw/J-feishu-checklist/) 联动排查。
+> 🔗 **相关阅读**：安装与使用 Skills 前请对照 [第 8 章 Skills 扩展](\/openclaw/08-skills-extension/)；Webhook 渠道与令牌不要提交到仓库，配置文件结构见 [附录 L](\/openclaw/L-config-file-structure/)，密钥管理方式见 [附录 K](\/openclaw/K-api-key-config-guide/)。IM 配对与群组策略与 [第 9 章多平台集成](\/openclaw/09-multi-platform-integration/) 、[飞书配置清单](\/openclaw/J-feishu-checklist/) 联动排查。
 
 ---
 
@@ -364,9 +362,9 @@ grep "upload" ~/.openclaw/logs/audit.log
 
 ## 相关资源
 
-- [第8章：Skills扩展](\/openclaw/03-advanced/08-skills-extension/) - Skills使用和管理
+- [第8章：Skills扩展](\/openclaw/08-skills-extension/) - Skills使用和管理
 - [附录F：避坑指南与最佳实践](\/openclaw/F-best-practices/) - 完整的避坑指南
-- [OpenClaw官方安全公告](https://github.com/openclaw/openclaw/security/advisories)
+- [OpenClaw官方安全公告](https://github.com/openclaw/security/advisories)
 
 ---
 

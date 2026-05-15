@@ -1,10 +1,8 @@
 ---
 title: "OpenClaw 使用场景（三）：基础设施与 DevOps"
+slug: "openclaw-use-case-3-devops"
 description: "用 n8n Webhook 把凭证隔离在可视化工作流里，以及家庭服务器自愈巡检类 OpenClaw 场景导读。"
-keywords: "OpenClaw, n8n, DevOps, Webhook, 家庭服务器, SSH, 自动化运维, 龙虾教程"
-slug: "openclaw-devops"
-layout: "default"
-date: "2026-03-23T11:15:00+08:00"
+draft: false
 ---
 
 # OpenClaw 使用场景（三）：基础设施与 DevOps
@@ -34,10 +32,4 @@ date: "2026-03-23T11:15:00+08:00"
 
 - **SSH 密钥与权限**：最小权限原则，生产与家庭网络建议分账户、分密钥。  
 - **自动修复脚本**：先在沙箱/ staging 验证，避免「自愈变自毁」。  
-- 更多安全配置见本教程 [安全指南](/docs/03-advanced/99-security-guide/)。
-
----
-
-## 四、延伸阅读
-
-- [API 集成](/docs/03-advanced/10-api-integration/) · [高级配置](/docs/03-advanced/11-advanced-configuration/)
+- 更多安全配置见本教程 [安全指南](/openclaw/11-advanced-configuration/)

@@ -1,9 +1,7 @@
 ---
 title: "环境搭建"
-date: 2026-01-01T00:00:00+08:00
+slug: "02-installation"
 description: "OpenClaw环境搭建"
-slug: 02-installation
-section: "01-basics"
 draft: false
 ---
 
@@ -13,7 +11,7 @@ draft: false
 
 ![OpenClaw 安装界面](https://upload.maynor1024.live/file/1771085321300_installation-interface.png)
 
-> 🔗 **装好之后**：配置大模型 API 密钥请看 [附录 K：API Key 配置完整指南](\/openclaw/K-api-key-config-guide/)；若要在手机飞书里使用助手，继续阅读 [第 9 章：多平台集成（飞书 Bot）](\/openclaw/03-advanced/09-multi-platform-integration/#91-飞书bot配置)。Docker 与云服务器段落中的常见问题也可对照 [附录 E：常见问题速查](\/openclaw/E-common-problems/)。
+> 🔗 **装好之后**：配置大模型 API 密钥请看 [附录 K：API Key 配置完整指南](\/openclaw/K-api-key-config-guide/)；若要在手机飞书里使用助手，继续阅读 [第 9 章：多平台集成（飞书 Bot）](\/openclaw/09-multi-platform-integration/#91-飞书bot配置)。Docker 与云服务器段落中的常见问题也可对照 [附录 E：常见问题速查](\/openclaw/E-common-problems/)。
 
 ## 📋 前提条件与推荐配置
 
@@ -2147,7 +2145,7 @@ docker compose up -d openclaw-cn-gateway
 openclaw --version
 
 # 检查最新版本
-curl -s https://api.github.com/repos/openclaw/openclaw/releases/latest | grep tag_name
+curl -s https://api.github.com/repos/openclaw/releases/latest | grep tag_name
 ```
 
 ### 本地安装更新
@@ -3095,7 +3093,7 @@ openclaw config set gateway.port 18790
 
 > 🔄 **保持最新**：定期升级OpenClaw以获得新功能、性能优化和安全修复。
 
-> ⚠️ **重要提示**：目前推荐使用 **2026.3.2** 版本。2026.2.12 版本存在已知 bug（[Issue #15141](https://github.com/openclaw/openclaw/issues/15141)），会导致 heartbeat 和消息处理功能异常。
+> ⚠️ **重要提示**：目前推荐使用 **2026.3.2** 版本。2026.2.12 版本存在已知 bug（[Issue #15141](https://github.com/openclaw/issues/15141)），会导致 heartbeat 和消息处理功能异常。
 
 ### 推荐版本
 
@@ -3544,7 +3542,7 @@ openclaw gateway restart
 - ✅ 网页版不受影响
 
 **官方 Issue**：
-- [Issue #15141](https://github.com/openclaw/openclaw/issues/15141)
+- [Issue #15141](https://github.com/openclaw/issues/15141)
 - 状态：已确认，等待修复
 
 **解决方案**：
@@ -3604,7 +3602,7 @@ crontab -e
 https://github.com/openclaw/openclaw/releases
 
 # 或使用命令行
-curl -s https://api.github.com/repos/openclaw/openclaw/releases/latest
+curl -s https://api.github.com/repos/openclaw/releases/latest
 ```
 
 ### 升级成本估算

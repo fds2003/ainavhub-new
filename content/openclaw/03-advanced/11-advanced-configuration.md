@@ -1,9 +1,7 @@
 ---
 title: "高级配置"
-date: 2026-01-01T00:00:00+08:00
+slug: "11-advanced-configuration"
 description: "OpenClaw高级配置"
-slug: 11-advanced-configuration
-section: "03-advanced"
 draft: false
 ---
 

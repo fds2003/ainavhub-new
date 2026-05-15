@@ -1,9 +1,8 @@
 ---
 title: "OpenClaw 教程站内搜索指南｜用法与范围"
+slug: "M-search-guide"
 description: "站内搜索的范围、使用技巧与常见问题；与教程章节 docs/search-guide 为互补入口。"
-keywords: "OpenClaw 搜索, 站内搜索, 教程检索"
-slug: "m-search-guide"
-layout: "default"
+draft: false
 ---
 
 # 🔍 搜索功能使用指南
@@ -227,7 +226,7 @@ https://your-site.com/search?q=飞书
 ## 📚 相关资源
 
 - [教程目录](/)
-- [常见问题](/appendix/E-common-problems/)
+- [常见问题](/openclaw/E-common-problems/)
 
 ---
 

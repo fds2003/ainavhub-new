@@ -1,9 +1,7 @@
 ---
 title: "自动化工作流"
-date: 2026-01-01T00:00:00+08:00
+slug: "07-automation-workflow"
 description: "OpenClaw自动化工作流"
-slug: 07-automation-workflow
-section: "02-core-features"
 draft: false
 ---
 

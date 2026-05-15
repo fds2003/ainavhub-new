@@ -1,9 +1,7 @@
 ---
 title: "思考题答案"
-date: 2026-01-01T00:00:00+08:00
+slug: "I-thinking-questions-answers"
 description: "OpenClaw思考题答案"
-slug: I-thinking-questions-answers
-section: "appendix"
 draft: false
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Skills目录"
-date: 2026-01-01T00:00:00+08:00
+slug: "B-skills-catalog"
 description: "OpenClawSkills目录"
-slug: B-skills-catalog
-section: "appendix"
 draft: false
 ---
 

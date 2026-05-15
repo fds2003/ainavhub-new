@@ -1,10 +1,8 @@
 ---
 title: "OpenClaw 使用场景（四）：生产力"
+slug: "openclaw-use-case-4-productivity"
 description: "从晨间简报、会议纪要、多通道助理、个人 CRM、Second Brain 到本地 CRM 框架等 20 类 OpenClaw 生产力场景导读，附社区文档链接。"
-keywords: "OpenClaw, 生产力, CRM, 会议纪要, Todoist, Second Brain, 多Agent, 飞书, 龙虾教程"
-slug: "openclaw-productivity"
-layout: "default"
-date: "2026-03-23T14:00:00+08:00"
+draft: false
 ---
 
 # OpenClaw 使用场景（四）：生产力
@@ -49,8 +47,7 @@ date: "2026-03-23T14:00:00+08:00"
 
 ## 三、上手建议
 
-1. **国内用户**：优先把「推送端」接到 [飞书/企微](/docs/03-advanced/09-multi-platform-integration/)，再对照上表选场景。  
-2. **涉及外呼/短信/电话**：注意运营商、隐私与用户同意（GDPR/本地法规）。  
+1. **国内用户**：优先把「推送端」接到 [飞书/企微](/openclaw/本地法规）。  
 3. **健康类记录**：不能替代医疗诊断，仅作个人日志辅助。
 
 ---

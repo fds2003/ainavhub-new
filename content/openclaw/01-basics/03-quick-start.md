@@ -1,9 +1,7 @@
 ---
 title: "快速上手"
-date: 2026-01-01T00:00:00+08:00
+slug: "03-quick-start"
 description: "OpenClaw快速上手"
-slug: 03-quick-start
-section: "01-basics"
 draft: false
 ---
 
@@ -11,7 +9,7 @@ draft: false
 
 > 恭喜你完成了安装！现在开始使用 OpenClaw，体验AI助手的魅力。
 
-> 🔗 **相关阅读**：Web UI 打不开或 Gateway 异常时，回看 [第 2 章：环境搭建](\/openclaw/01-basics/02-installation/)；首次配置模型密钥见 [附录 K：API Key 配置](\/openclaw/K-api-key-config-guide/)。飞书/企微里对话前需完成 [第 9 章多平台集成](\/openclaw/03-advanced/09-multi-platform-integration/) 与 [飞书 Bot 检查清单](\/openclaw/J-feishu-checklist/)。常用 CLI 速查 [附录 A](\/openclaw/A-command-reference/)；工具权限与配对安全见 [OpenClaw 安全指南](\/openclaw/03-advanced/99-security-guide/)。
+> 🔗 **相关阅读**：Web UI 打不开或 Gateway 异常时，回看 [第 2 章：环境搭建](\/openclaw/02-installation/)；首次配置模型密钥见 [附录 K：API Key 配置](\/openclaw/K-api-key-config-guide/)。飞书/企微里对话前需完成 [第 9 章多平台集成](\/openclaw/09-multi-platform-integration/) 与 [飞书 Bot 检查清单](\/openclaw/J-feishu-checklist/)。常用 CLI 速查 [附录 A](\/openclaw/A-command-reference/)；工具权限与配对安全见 [OpenClaw 安全指南](\/openclaw/99-security-guide/)。
 
 ## 快速导航
 

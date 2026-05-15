@@ -1,9 +1,8 @@
 ---
 title: "OpenClaw Skills 生态说明｜内置、官方与社区"
+slug: "N-skills-ecosystem"
 description: "内置 Skills、ClawHub 官方包与社区生态规模、查看与安装命令说明。"
-keywords: "OpenClaw Skills, ClawHub, clawhub, 内置技能"
-slug: "n-skills-ecosystem"
-layout: "default"
+draft: false
 ---
 
 # OpenClaw Skills 生态说明
@@ -101,37 +100,7 @@ clawhub install community/skill-name
 
 ### Top 20 必装 Skills
 
-详见 [第8章：Skills扩展](/docs/03-advanced/08-skills-extension/)
-
-### 新手推荐
-
-1. **从内置 Skills 开始** - 熟悉基本功能
-2. **安装 Top 5 核心 Skills** - 扩展核心能力
-3. **根据需求选择社区 Skills** - 满足特定场景
-
----
-
-## 💡 使用建议
-
-### 选择 Skills 的原则
-
-1. **优先使用内置 Skills** - 稳定可靠
-2. **官方 Skills 次之** - 质量保证
-3. **社区 Skills 谨慎选择** - 查看评价和文档
-4. **企业用户考虑企业级 Skills** - 专业支持
-
-### 避免过度安装
-
-- ❌ 不要一次性安装太多 Skills
-- ✅ 按需安装，逐步扩展
-- ✅ 定期清理不用的 Skills
-- ✅ 关注 Skills 更新
-
----
-
-## 🔗 相关链接
-
-- [第8章：Skills扩展](/docs/03-advanced/08-skills-extension/) - 详细的 Skills 使用指南
+详见 [第8章：Skills扩展](/openclaw/08-skills-extension/) - 详细的 Skills 使用指南
 - [ClawHub 市场](https://clawhub.com) - 官方 Skills 市场
 - [Skills 开发文档](https://docs.openclaw.ai/skills) - 开发自己的 Skills
 

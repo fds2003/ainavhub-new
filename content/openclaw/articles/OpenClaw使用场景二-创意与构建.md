@@ -1,10 +1,8 @@
 ---
 title: "OpenClaw 使用场景（二）：创意与构建"
+slug: "openclaw-use-case-2-creative"
 description: "夜间小应用目标驱动、YouTube 选题流水线、多 Agent 内容工厂、教育游戏全链路、播客制作自动化等 OpenClaw 创意类场景导读。"
-keywords: "OpenClaw, 内容创作, 多Agent, YouTube, 播客, 游戏开发, 自动化, 龙虾教程"
-slug: "openclaw-creative-build"
-layout: "default"
-date: "2026-03-23T10:30:00+08:00"
+draft: false
 ---
 
 # OpenClaw 使用场景（二）：创意与构建
@@ -39,11 +37,4 @@ date: "2026-03-23T10:30:00+08:00"
 ## 三、上手建议
 
 1. **多 Agent 前先单 Agent 跑通**：避免一上来频道/角色过多难调试。  
-2. **与本教程对照**：进阶自动化见 [第13章 高级自动化](/docs/04-practical-cases/13-advanced-automation/)，一人公司场景见 [第15章](/docs/04-practical-cases/15-solo-entrepreneur-cases/)。  
-3. **成本与边界**：长流水线 = 多轮模型调用，务必设好预算与「人类验收点」。
-
----
-
-## 四、免责声明
-
-涉及第三方平台 API、Discord/Twitter 等，请遵守各平台 ToS；社区 Skill 需自行审计。详见 [全景导读](OpenClaw使用场景全景-40个真实案例导读/)。
+2. **与本教程对照**：进阶自动化见 [第13章 高级自动化](/openclaw/Twitter 等，请遵守各平台 ToS；社区 Skill 需自行审计。详见 [全景导读](OpenClaw使用场景全景-40个真实案例导读/)。

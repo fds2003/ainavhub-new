@@ -1,10 +1,8 @@
 ---
 title: "OpenClaw 在微信平台的应用场景与接入方案"
-description: "根据提供的文档内容，OpenClaw…"
-keywords: "OpenClaw 在微信平台的应用场景与接入方案, 龙虾, 大龙虾, claw, openclaw, OpenClaw, OpenClaw教程, 龙虾教程, AI助手, 飞书机器人, Skills, 安装配置, 快速上手, 实战案例, 中文教程"
 slug: "openclaw-wechat-platform"
-layout: "default"
-date: "2026-03-11"
+description: "根据提供的文档内容，OpenClaw…"
+draft: false
 ---
 
 # OpenClaw 在微信平台的应用场景与接入方案

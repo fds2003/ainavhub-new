@@ -1,9 +1,8 @@
 ---
 title: "OpenClaw 配置文件结构完整指南｜目录与字段说明"
+slug: "L-config-file-structure"
 description: "~/.openclaw 目录结构、全局与 Agent 配置、认证文件路径与常用字段说明。"
-keywords: "OpenClaw, openclaw.json, 配置文件, Agent, Gateway, 认证"
-slug: "l-config-file-structure"
-layout: "default"
+draft: false
 ---
 
 # OpenClaw 配置文件结构完整指南
@@ -506,9 +505,7 @@ source ~/.zshrc
 
 ## 🔗 相关文档
 
-- [第2章：安装配置](/docs/01-basics/02-installation/) - 基础配置教程
-- [第11章：高级配置](/docs/03-advanced/11-advanced-configuration/) - 高级配置技巧
-- [配置文件模板](/appendix/H-config-templates/) - 更多配置模板
+- [第2章：安装配置](/openclaw/H-config-templates/) - 更多配置模板
 
 ---
 

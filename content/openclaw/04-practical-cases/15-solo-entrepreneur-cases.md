@@ -1,9 +1,7 @@
 ---
 title: "创业实战案例"
-date: 2026-01-01T00:00:00+08:00
+slug: "15-solo-entrepreneur-cases"
 description: "OpenClaw创业实战案例"
-slug: 15-solo-entrepreneur-cases
-section: "04-practical-cases"
 draft: false
 ---
 

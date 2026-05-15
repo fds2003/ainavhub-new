@@ -1,9 +1,8 @@
 ---
 title: "OpenClaw API Key 配置完整指南｜多方式与优先级"
+slug: "K-api-key-config-guide"
 description: "环境变量、Agent 专属、全局配置、向导等 API Key 配置方式，含验证、排错与安全建议。"
-keywords: "OpenClaw, API Key, 环境变量, Anthropic, DeepSeek, 多 Agent, 配置优先级"
-slug: "k-api-key-config-guide"
-layout: "default"
+draft: false
 ---
 
 # OpenClaw API Key 配置完整指南
@@ -586,9 +585,7 @@ openclaw models list
 
 ## 📚 相关文档
 
-- [附录L：配置文件结构完整指南](/appendix/L-config-file-structure/) - 配置文件详细说明
-- [第2章：安装配置](/docs/01-basics/02-installation/) - 基础配置教程
-- [第11章：高级配置](/docs/03-advanced/11-advanced-configuration/) - 高级配置技巧
+- [附录L：配置文件结构完整指南](/openclaw/11-advanced-configuration/) - 高级配置技巧
 
 ---
 

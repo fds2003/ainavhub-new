@@ -1,9 +1,8 @@
 ---
 title: "OpenClaw 飞书 Bot 配置检查清单｜权限与事件订阅"
+slug: "J-feishu-checklist"
 description: "飞书开放平台应用创建、机器人权限、OpenClaw 渠道配置与联调检查步骤。"
-keywords: "OpenClaw 飞书, 飞书 Bot, Lark, 流式输出, 事件订阅"
-slug: "j-feishu-checklist"
-layout: "default"
+draft: false
 ---
 
 # 飞书Bot配置检查清单
@@ -224,8 +223,8 @@ openclaw logs --tail 100
 
 ## 📚 相关文档
 
-- [第9章：多平台集成](/docs/03-advanced/09-multi-platform-integration/)
-- [附录E：常见问题速查](/appendix/E-common-problems/#问题14飞书bot不回复)
+- [第9章：多平台集成](/openclaw/09-multi-platform-integration/)
+- [附录E：常见问题速查](/openclaw/E-common-problems/#问题14飞书bot不回复)
 - [飞书开放平台文档](https://open.feishu.cn/document/)
 
 ---

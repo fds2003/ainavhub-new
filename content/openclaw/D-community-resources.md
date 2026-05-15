@@ -1,9 +1,7 @@
 ---
 title: "社区资源"
-date: 2026-01-01T00:00:00+08:00
+slug: "D-community-resources"
 description: "OpenClaw社区资源"
-slug: D-community-resources
-section: "appendix"
 draft: false
 ---
 
@@ -90,7 +88,7 @@ draft: false
 - Pull Request
 - Release版本
 
-**贡献指南**：https://github.com/openclaw/openclaw/blob/main/CONTRIBUTING.md
+**贡献指南**：https://github.com/openclaw/blob/main/CONTRIBUTING.md
 
 ---
 
@@ -103,7 +101,7 @@ draft: false
 - Skills开发模板
 - Skills示例
 
-**如何贡献Skills**：https://github.com/openclaw/skills/blob/main/CONTRIBUTING.md
+**如何贡献Skills**：https://github.com/openclaw/blob/main/CONTRIBUTING.md
 
 ---
 
@@ -811,7 +809,7 @@ npm install -g openclaw-cli
 4. 发起Pull Request
 5. 等待审核
 
-**详细指南**：https://github.com/openclaw/openclaw/blob/main/CONTRIBUTING.md
+**详细指南**：https://github.com/openclaw/blob/main/CONTRIBUTING.md
 
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Readme"
-date: 2026-01-01T00:00:00+08:00
+slug: "readme"
 description: "OpenClawReadme"
-slug: README
-section: "articles"
 draft: false
 ---
 

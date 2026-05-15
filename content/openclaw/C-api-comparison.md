@@ -1,9 +1,7 @@
 ---
 title: "API对比"
-date: 2026-01-01T00:00:00+08:00
+slug: "C-api-comparison"
 description: "OpenClawAPI对比"
-slug: C-api-comparison
-section: "appendix"
 draft: false
 ---
 

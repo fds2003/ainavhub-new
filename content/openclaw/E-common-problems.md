@@ -1,9 +1,7 @@
 ---
 title: "常见问题"
-date: 2026-01-01T00:00:00+08:00
+slug: "E-common-problems"
 description: "OpenClaw常见问题"
-slug: E-common-problems
-section: "appendix"
 draft: false
 ---
 
