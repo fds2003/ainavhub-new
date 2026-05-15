@@ -95,11 +95,8 @@
         <div class="sidebar-card">
             <h3>分享</h3>
             <div class="share-links">
-                <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}" target="_blank" rel="noopener" aria-label="分享到 Twitter">
-                    𝕏
-                </a>
-                <button onclick="navigator.clipboard.writeText('{{ .Permalink }}')" aria-label="复制链接">
-                    🔗
+                <button onclick="navigator.clipboard.writeText('{{ .Permalink }}').then(() => { this.textContent='✅ 已复制'; setTimeout(() => this.textContent='🔗 复制链接', 2000); })" aria-label="复制链接" style="width: auto; padding: 8px 16px; font-size: 13px;">
+                    🔗 复制链接
                 </button>
             </div>
         </div>

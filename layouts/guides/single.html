@@ -14,7 +14,7 @@
     </header>
     
     <nav class="toc">
-        <h2>Table of Contents</h2>
+        <h2>目录</h2>
         {{ .TableOfContents }}
     </nav>
     
@@ -25,7 +25,7 @@
     <!-- FAQ Section -->
     {{ with .Params.faq }}
     <section class="faq">
-        <h2>Frequently Asked Questions</h2>
+        <h2>常见问题</h2>
         {{ range . }}
         <details>
             <summary>{{ .question }}</summary>

@@ -9,6 +9,7 @@ AINavHub 是一个 AI 开发工具导航站，收录 1900+ AI 工具和 3600+ �
 - 首页: https://ainavhub.top/
 - 工具列表: https://ainavhub.top/tools/
 - 指南教程: https://ainavhub.top/guides/
+- OpenClaw教程: https://ainavhub.top/openclaw/
 - 分类浏览: https://ainavhub.top/categories/
 - 搜索: https://ainavhub.top/search/
 
