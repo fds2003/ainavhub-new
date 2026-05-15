@@ -7,9 +7,10 @@
  */
 
 import { readFileSync, readdirSync, statSync, existsSync } from 'fs';
-import { join, extname } from 'path';
+import { join, extname, dirname } from 'path';
+import { fileURLToPath } from 'url';
 
-const ROOT = new URL('..', import.meta.url).pathname;
+const ROOT = dirname(fileURLToPath(import.meta.url));
 let passed = 0;
 let failed = 0;
 

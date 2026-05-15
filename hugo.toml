@@ -11,6 +11,18 @@ enableEmoji = true
 hasCJKLanguage = true
 disableKinds = ["RSS"]
 
+# Output formats for search index (JSON instead of RSS)
+[outputFormats]
+  [outputFormats.INDEX]
+    mediaType = "application/json"
+    baseName = "index"
+    isPlainText = true
+    notAlternative = true
+
+[outputs]
+  tools = ["HTML", "INDEX"]
+  guides = ["HTML", "INDEX"]
+
 # Pagination - 200 per page to reduce pagination pages
 [pagination]
   pagerSize = 200
@@ -66,6 +78,7 @@ disableKinds = ["RSS"]
   description = "发现最好的AI开发工具，涵盖AI编程、Agent、MCP服务器和工作流自动化"
   keywords = ["AI工具", "AI编程", "AI工作流", "MCP服务器", "AI Agent", "LLM"]
   author = "AINavHub"
+  googleAnalyticsID = "G-8PJ774KSCD"
   
 [params.schema]
   toolTemplate = "tools/single.html"

@@ -1,0 +1,10 @@
+[
+{{- range $i, $p := .Pages }}
+  {{- if $i }},{{ end }}
+  {
+    "title": {{ .Title | jsonify }},
+    "desc": {{ .Description | jsonify }},
+    "link": {{ .RelPermalink | jsonify }}
+  }
+{{- end }}
+]

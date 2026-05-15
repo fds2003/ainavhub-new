@@ -48,15 +48,14 @@ function onDataReady() {
 function fetchIndex(path, type) {
     fetch(path).then(r => {
         if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.text();
-    }).then(xml => {
-        const doc = new DOMParser().parseFromString(xml, 'text/xml');
-        doc.querySelectorAll('item').forEach(item => {
+        return r.json();
+    }).then(data => {
+        data.forEach(item => {
             allItems.push({
                 type: type,
-                title: item.querySelector('title')?.textContent?.trim() || '',
-                desc: item.querySelector('description')?.textContent?.trim() || '',
-                link: item.querySelector('link')?.textContent?.trim() || '',
+                title: item.title || '',
+                desc: item.desc || '',
+                link: item.link || '',
             });
         });
         onDataReady();
@@ -66,8 +65,8 @@ function fetchIndex(path, type) {
     });
 }
 
-fetchIndex('/tools/index.xml', 'tool');
-fetchIndex('/guides/index.xml', 'guide');
+fetchIndex('/tools/index.json', 'tool');
+fetchIndex('/guides/index.json', 'guide');
 
 function highlightText(text, indices) {
     if (!indices || indices.length === 0) return escapeHtml(text);
