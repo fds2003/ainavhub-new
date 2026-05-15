@@ -1,5 +1,5 @@
 ---
-title: "pi-card"
+title: "Pi-C.A.R.D"
 date: "2025-01-01T00:00:00+08:00"
 description: "一个完全在树莓派上运行的人工智能语音助手，具备摄像和语音识别功能。"
 slug: pi-card
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pi-card
 
 一个完全在树莓派上运行的人工智能语音助手，具备摄像和语音识别功能。
 

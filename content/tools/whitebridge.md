@@ -1,5 +1,5 @@
 ---
-title: "whitebridge"
+title: "Whitebridge"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI代理人数据智能DePIN"
 slug: whitebridge
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## whitebridge
 
 AI代理人数据智能DePIN
 

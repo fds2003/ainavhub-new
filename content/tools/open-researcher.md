@@ -1,5 +1,5 @@
 ---
-title: "open-researcher"
+title: "Open Researcher"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI 驱动网页智能研究"
 slug: open-researcher
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## open-researcher
 
 AI 驱动网页智能研究
 

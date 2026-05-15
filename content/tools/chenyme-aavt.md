@@ -1,5 +1,5 @@
 ---
-title: "chenyme-aavt"
+title: "Chenyme-AAVT"
 date: "2025-01-01T00:00:00+08:00"
 description: "用于视频和音频的自动识别与翻译"
 slug: chenyme-aavt
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## chenyme-aavt
 
 用于视频和音频的自动识别与翻译
 

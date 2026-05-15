@@ -1,5 +1,5 @@
 ---
-title: "cherry-studio"
+title: "Cherry Studio"
 date: "2025-01-01T00:00:00+08:00"
 description: "Cherry Studio是一款多功能桌面客户端，支持多种大型语言模型，适用于Windows、Mac和Linux系统。"
 slug: cherry-studio
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## cherry-studio
 
 Cherry Studio是一款多功能桌面客户端，支持多种大型语言模型，适用于Windows、Mac和Linux系统。
 

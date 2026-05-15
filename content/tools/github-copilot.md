@@ -1,5 +1,5 @@
 ---
-title: "github-copilot"
+title: "GitHub Copilot"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI编程伴侣"
 slug: github-copilot
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## github-copilot
 
 AI编程伴侣
 

@@ -1,5 +1,5 @@
 ---
-title: "openaifm"
+title: "OpenAI.fm"
 date: "2025-01-01T00:00:00+08:00"
 description: "OpenAI.fm是一个基于NextJS和OpenAI API构建的交互式文本转语音演示应用。"
 slug: openaifm
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openaifm
 
 OpenAI.fm是一个基于NextJS和OpenAI API构建的交互式文本转语音演示应用。
 

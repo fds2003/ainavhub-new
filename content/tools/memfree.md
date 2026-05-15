@@ -1,5 +1,5 @@
 ---
-title: "memfree"
+title: "MemFree"
 date: "2025-01-01T00:00:00+08:00"
 description: "MemFree是一款开源的混合AI搜索引擎，可搜索个人知识库和互联网。"
 slug: memfree
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## memfree
 
 MemFree是一款开源的混合AI搜索引擎，可搜索个人知识库和互联网。
 

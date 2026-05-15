@@ -1,5 +1,5 @@
 ---
-title: "claude-code-remote"
+title: "Claude Code Remote"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude Code 邮箱遥控"
 slug: claude-code-remote
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-code-remote
 
 Claude Code 邮箱遥控
 

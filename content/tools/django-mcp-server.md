@@ -1,5 +1,5 @@
 ---
-title: "django-mcp-server"
+title: "Django MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "Django MCP Server: 连接 AI 智能体与 Django 应用"
 slug: django-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## django-mcp-server
 
 Django MCP Server: 连接 AI 智能体与 Django 应用
 

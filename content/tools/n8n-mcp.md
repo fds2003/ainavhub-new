@@ -1,5 +1,5 @@
 ---
-title: "n8n-mcp"
+title: "n8n-MCP"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI赋能n8n工作流自动化与管理"
 slug: n8n-mcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## n8n-mcp
 
 AI赋能n8n工作流自动化与管理
 

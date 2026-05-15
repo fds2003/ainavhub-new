@@ -1,5 +1,5 @@
 ---
-title: "cloudflare-rag"
+title: "Cloudflare RAG"
 date: "2025-01-01T00:00:00+08:00"
 description: "如何使用Cloudflare构建一个完整的RAG应用，结合多种搜索技术和AI服务。"
 slug: cloudflare-rag
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## cloudflare-rag
 
 如何使用Cloudflare构建一个完整的RAG应用，结合多种搜索技术和AI服务。
 

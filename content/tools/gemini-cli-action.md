@@ -1,5 +1,5 @@
 ---
-title: "gemini-cli-action"
+title: "Gemini CLI Action"
 date: "2025-01-01T00:00:00+08:00"
 description: "Gemini CLI GitHub 工作流自动化"
 slug: gemini-cli-action
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gemini-cli-action
 
 Gemini CLI GitHub 工作流自动化
 

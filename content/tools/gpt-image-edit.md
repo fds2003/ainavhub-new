@@ -1,5 +1,5 @@
 ---
-title: "gpt-image-edit"
+title: "GPT-Image-Edit"
 date: "2025-01-01T00:00:00+08:00"
 description: "GPT图像编辑模型"
 slug: gpt-image-edit
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gpt-image-edit
 
 GPT图像编辑模型
 

@@ -1,5 +1,5 @@
 ---
-title: "graph-code"
+title: "Graph-Code"
 date: "2025-01-01T00:00:00+08:00"
 description: "多语言代码图谱RAG系统"
 slug: graph-code
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## graph-code
 
 多语言代码图谱RAG系统
 

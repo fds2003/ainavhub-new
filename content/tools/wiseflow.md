@@ -1,5 +1,5 @@
 ---
-title: "wiseflow"
+title: "WiseFlow"
 date: "2025-01-01T00:00:00+08:00"
 description: "WiseFlow 是一个智能信息提取工具，可从多个来源自动分类并上传数据到数据库。"
 slug: wiseflow
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## wiseflow
 
 WiseFlow 是一个智能信息提取工具，可从多个来源自动分类并上传数据到数据库。
 

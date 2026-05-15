@@ -1,5 +1,5 @@
 ---
-title: "tempurai-coder"
+title: "Tempurai Coder"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI命令行代码助手"
 slug: tempurai-coder
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## tempurai-coder
 
 AI命令行代码助手
 

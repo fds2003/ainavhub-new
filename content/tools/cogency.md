@@ -1,5 +1,5 @@
 ---
-title: "cogency"
+title: "Cogency"
 date: "2025-01-01T00:00:00+08:00"
 description: "开箱即用型AI代理"
 slug: cogency
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## cogency
 
 开箱即用型AI代理
 

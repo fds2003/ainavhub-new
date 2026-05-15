@@ -1,5 +1,5 @@
 ---
-title: "llm-twin-course"
+title: "LLM Twin Course"
 date: "2025-01-01T00:00:00+08:00"
 description: "免费课程，向你展示如何设计、训练和部署一个准备就绪的生产标准的 LLM（大型语言模型）"
 slug: llm-twin-course
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## llm-twin-course
 
 免费课程，向你展示如何设计、训练和部署一个准备就绪的生产标准的 LLM（大型语言模型）
 

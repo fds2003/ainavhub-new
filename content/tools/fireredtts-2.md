@@ -1,5 +1,5 @@
 ---
-title: "fireredtts-2"
+title: "FireRedTTS-2"
 date: "2025-01-01T00:00:00+08:00"
 description: "多语种长对话流式语音合成"
 slug: fireredtts-2
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## fireredtts-2
 
 多语种长对话流式语音合成
 

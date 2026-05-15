@@ -1,5 +1,5 @@
 ---
-title: "codex-as-mcp"
+title: "Codex-As-Mcp"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI 工具的 Codex 任务引擎"
 slug: codex-as-mcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## codex-as-mcp
 
 AI 工具的 Codex 任务引擎
 

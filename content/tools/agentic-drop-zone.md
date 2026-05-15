@@ -1,5 +1,5 @@
 ---
-title: "agentic-drop-zone"
+title: "Agentic Drop Zone"
 date: "2025-01-01T00:00:00+08:00"
 description: "智能体文件处理自动化"
 slug: agentic-drop-zone
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## agentic-drop-zone
 
 智能体文件处理自动化
 

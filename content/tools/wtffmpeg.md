@@ -1,5 +1,5 @@
 ---
-title: "wtffmpeg"
+title: "Wtffmpeg"
 date: "2025-01-01T00:00:00+08:00"
 description: "自然语言FFmpeg命令生成"
 slug: wtffmpeg
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## wtffmpeg
 
 自然语言FFmpeg命令生成
 

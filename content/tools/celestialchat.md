@@ -1,5 +1,5 @@
 ---
-title: "celestialchat"
+title: "CelestialChat"
 date: "2025-01-01T00:00:00+08:00"
 description: "高效、可定制、易于部署的AI聊天工具"
 slug: celestialchat
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## celestialchat
 
 高效、可定制、易于部署的AI聊天工具
 

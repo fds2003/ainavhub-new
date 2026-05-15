@@ -1,5 +1,5 @@
 ---
-title: "microsoft-copilot-for-finance"
+title: "Microsoft Copilot for Finance"
 date: "2025-01-01T00:00:00+08:00"
 description: "微软为财务专业人士提供的帮助工具"
 slug: microsoft-copilot-for-finance
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## microsoft-copilot-for-finance
 
 微软为财务专业人士提供的帮助工具
 

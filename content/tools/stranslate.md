@@ -1,5 +1,5 @@
 ---
-title: "stranslate"
+title: "STranslate"
 date: "2025-01-01T00:00:00+08:00"
 description: "翻译与OCR工具"
 slug: stranslate
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## stranslate
 
 翻译与OCR工具
 

@@ -1,5 +1,5 @@
 ---
-title: "medical-rag"
+title: "Medical RAG"
 date: "2025-01-01T00:00:00+08:00"
 description: "医疗RAG问答系统"
 slug: medical-rag
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## medical-rag
 
 医疗RAG问答系统
 

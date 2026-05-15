@@ -8,7 +8,6 @@ tags: ["Developer Tools"]
 draft: false
 ---
 
-## Gemini Multimodal Live API + Pipecat
 
 该项目是使用Pipecat Web SDK和Gemini Multimodal Live API构建的聊天应用程序入门套件，支持多种聊天模式。
 

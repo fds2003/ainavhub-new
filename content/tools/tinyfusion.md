@@ -1,5 +1,5 @@
 ---
-title: "tinyfusion"
+title: "TinyFusion"
 date: "2025-01-01T00:00:00+08:00"
 description: "TinyFusion是一种用于深度修剪扩散变换器的可学习方法，显著提高了训练效率与模型性能。"
 slug: tinyfusion
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## tinyfusion
 
 TinyFusion是一种用于深度修剪扩散变换器的可学习方法，显著提高了训练效率与模型性能。
 

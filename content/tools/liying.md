@@ -1,5 +1,5 @@
 ---
-title: "liying"
+title: "LiYing"
 date: "2025-01-01T00:00:00+08:00"
 description: "自动化完成一般照相馆后期流程的照片自动处理"
 slug: liying
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## liying
 
 自动化完成一般照相馆后期流程的照片自动处理
 

@@ -1,5 +1,5 @@
 ---
-title: "swe-agent-with-langgraph"
+title: "SWE Agent with LangGraph"
 date: "2025-01-01T00:00:00+08:00"
 description: "基于LangGraph的AI软件工程 Agent"
 slug: swe-agent-with-langgraph
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## swe-agent-with-langgraph
 
 基于LangGraph的AI软件工程 Agent
 

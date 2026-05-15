@@ -1,5 +1,5 @@
 ---
-title: "multi-modal-researcher"
+title: "Multi-Modal Researcher"
 date: "2025-01-01T00:00:00+08:00"
 description: "多模态研究播客生成"
 slug: multi-modal-researcher
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## multi-modal-researcher
 
 多模态研究播客生成
 

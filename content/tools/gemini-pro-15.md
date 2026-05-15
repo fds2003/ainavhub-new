@@ -1,5 +1,5 @@
 ---
-title: "gemini-pro-15"
+title: "Gemini Pro 1.5"
 date: "2025-01-01T00:00:00+08:00"
 description: "免费试用Gemini Pro 1.5"
 slug: gemini-pro-15
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gemini-pro-15
 
 免费试用Gemini Pro 1.5
 

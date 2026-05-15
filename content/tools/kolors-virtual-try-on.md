@@ -1,5 +1,5 @@
 ---
-title: "kolors-virtual-try-on"
+title: "Kolors-Virtual-Try-On"
 date: "2025-01-01T00:00:00+08:00"
 description: "快手可图推出免费一键换衣"
 slug: kolors-virtual-try-on
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## kolors-virtual-try-on
 
 快手可图推出免费一键换衣
 

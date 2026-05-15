@@ -1,5 +1,5 @@
 ---
-title: "big-three-realtime-agents"
+title: "Big Three Realtime Agents"
 date: "2025-01-01T00:00:00+08:00"
 description: "三大AI智能体实时语音编排"
 slug: big-three-realtime-agents
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## big-three-realtime-agents
 
 三大AI智能体实时语音编排
 

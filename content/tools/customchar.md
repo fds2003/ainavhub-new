@@ -1,5 +1,5 @@
 ---
-title: "customchar"
+title: "CustomChar"
 date: "2025-01-01T00:00:00+08:00"
 description: "允许你创建和定制自己的 AI 角色"
 slug: customchar
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## customchar
 
 允许你创建和定制自己的 AI 角色
 

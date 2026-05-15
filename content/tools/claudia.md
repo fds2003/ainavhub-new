@@ -1,5 +1,5 @@
 ---
-title: "claudia"
+title: "Claudia"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claudia：Claude Code的强大GUI工具"
 slug: claudia
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claudia
 
 Claudia：Claude Code的强大GUI工具
 

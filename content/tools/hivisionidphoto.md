@@ -1,5 +1,5 @@
 ---
-title: "hivisionidphoto"
+title: "HivisionIDPhoto"
 date: "2025-01-01T00:00:00+08:00"
 description: "HivisionIDPhoto是一款智能证件照制作工具，支持多种尺寸规格与美颜功能。"
 slug: hivisionidphoto
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## hivisionidphoto
 
 HivisionIDPhoto是一款智能证件照制作工具，支持多种尺寸规格与美颜功能。
 

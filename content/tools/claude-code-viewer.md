@@ -1,5 +1,5 @@
 ---
-title: "claude-code-viewer"
+title: "Claude Code Viewer"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude 代码项目Web管理"
 slug: claude-code-viewer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-code-viewer
 
 Claude 代码项目Web管理
 

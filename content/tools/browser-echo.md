@@ -1,5 +1,5 @@
 ---
-title: "browser-echo"
+title: "Browser Echo"
 date: "2025-01-01T00:00:00+08:00"
 description: "开发终端浏览器日志流"
 slug: browser-echo
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## browser-echo
 
 开发终端浏览器日志流
 

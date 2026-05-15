@@ -1,5 +1,5 @@
 ---
-title: "rex-thinker"
+title: "Rex-Thinker"
 date: "2025-01-01T00:00:00+08:00"
 description: "思维链目标指代模型"
 slug: rex-thinker
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## rex-thinker
 
 思维链目标指代模型
 

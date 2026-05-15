@@ -1,5 +1,5 @@
 ---
-title: "idm-vton"
+title: "IDM-VTON"
 date: "2025-01-01T00:00:00+08:00"
 description: "一种先进的虚拟试衣技术"
 slug: idm-vton
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## idm-vton
 
 一种先进的虚拟试衣技术
 

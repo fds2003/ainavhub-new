@@ -1,5 +1,5 @@
 ---
-title: "appagentx"
+title: "AppAgentX"
 date: "2025-01-01T00:00:00+08:00"
 description: "AppAgentX利用进化框架，通过记忆和学习，使GUI智能体更高效、准确地操作智能手机应用。"
 slug: appagentx
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## appagentx
 
 AppAgentX利用进化框架，通过记忆和学习，使GUI智能体更高效、准确地操作智能手机应用。
 

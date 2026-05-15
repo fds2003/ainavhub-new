@@ -1,5 +1,5 @@
 ---
-title: "video-llama"
+title: "Video-LLaMA"
 date: "2025-01-01T00:00:00+08:00"
 description: "赋予大型语言模型（LLMs）视频和音频理解能力"
 slug: video-llama
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## video-llama
 
 赋予大型语言模型（LLMs）视频和音频理解能力
 

@@ -1,5 +1,5 @@
 ---
-title: "nano-vllm"
+title: "Nano-vLLM"
 date: "2025-01-01T00:00:00+08:00"
 description: "轻量级vLLM实现方案"
 slug: nano-vllm
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## nano-vllm
 
 轻量级vLLM实现方案
 

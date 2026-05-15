@@ -1,5 +1,5 @@
 ---
-title: "diffutoon"
+title: "Diffutoon"
 date: "2025-01-01T00:00:00+08:00"
 description: "Diffutoon是一种适合高分辨率快速运动视频渲染的卡通着色技术。"
 slug: diffutoon
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## diffutoon
 
 Diffutoon是一种适合高分辨率快速运动视频渲染的卡通着色技术。
 

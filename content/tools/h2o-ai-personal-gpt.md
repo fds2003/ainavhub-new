@@ -1,5 +1,5 @@
 ---
-title: "h2o-ai-personal-gpt"
+title: "H2O AI Personal GPT"
 date: "2025-01-01T00:00:00+08:00"
 description: "H2O AI Personal GPT是一款无需联网、完全保护隐私的智能AI助手应用。"
 slug: h2o-ai-personal-gpt
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## h2o-ai-personal-gpt
 
 H2O AI Personal GPT是一款无需联网、完全保护隐私的智能AI助手应用。
 

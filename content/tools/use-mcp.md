@@ -1,5 +1,5 @@
 ---
-title: "use-mcp"
+title: "Use-Mcp"
 date: "2025-01-01T00:00:00+08:00"
 description: "use-mcp：连接MCP服务器的React Hook"
 slug: use-mcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## use-mcp
 
 use-mcp：连接MCP服务器的React Hook
 

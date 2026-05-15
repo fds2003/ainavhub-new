@@ -1,5 +1,5 @@
 ---
-title: "nano-graphrag"
+title: "Nano-Graphrag"
 date: "2025-01-01T00:00:00+08:00"
 description: "nano-graphrag是一个简单易用的GraphRAG实现，具备更快、更清晰的核心功能。"
 slug: nano-graphrag
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## nano-graphrag
 
 nano-graphrag是一个简单易用的GraphRAG实现，具备更快、更清晰的核心功能。
 

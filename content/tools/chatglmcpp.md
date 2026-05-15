@@ -1,5 +1,5 @@
 ---
-title: "chatglmcpp"
+title: "ChatGLM.cpp"
 date: "2025-01-01T00:00:00+08:00"
 description: "ChatGLM.cpp基于纯C++实现了ChatGLM系列模型，支持实时对话并提供多种量化和加速选项。"
 slug: chatglmcpp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## chatglmcpp
 
 ChatGLM.cpp基于纯C++实现了ChatGLM系列模型，支持实时对话并提供多种量化和加速选项。
 

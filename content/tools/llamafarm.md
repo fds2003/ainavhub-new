@@ -1,5 +1,5 @@
 ---
-title: "llamafarm"
+title: "LlamaFarm"
 date: "2025-01-01T00:00:00+08:00"
 description: "本地化AI开发部署框架"
 slug: llamafarm
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## llamafarm
 
 本地化AI开发部署框架
 

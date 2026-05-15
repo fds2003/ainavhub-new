@@ -1,5 +1,5 @@
 ---
-title: "local-notebooklm"
+title: "Local-NotebookLM"
 date: "2025-01-01T00:00:00+08:00"
 description: "Local-NotebookLM是本地AI工具，可将PDF转换为播客，支持多种LLM和TTS模型，并提供API接口。"
 slug: local-notebooklm
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## local-notebooklm
 
 Local-NotebookLM是本地AI工具，可将PDF转换为播客，支持多种LLM和TTS模型，并提供API接口。
 

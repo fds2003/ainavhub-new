@@ -1,5 +1,5 @@
 ---
-title: "pdf-mind-map-maker"
+title: "PDF Mind Map Maker"
 date: "2025-01-01T00:00:00+08:00"
 description: "PDF Mind Map Maker是一款将PDF文档转换为互动思维导图的简单应用，内置AI分析功能。"
 slug: pdf-mind-map-maker
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pdf-mind-map-maker
 
 PDF Mind Map Maker是一款将PDF文档转换为互动思维导图的简单应用，内置AI分析功能。
 

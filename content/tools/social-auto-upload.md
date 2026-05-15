@@ -1,5 +1,5 @@
 ---
-title: "social-auto-upload"
+title: "Social-Auto-Upload"
 date: "2025-01-01T00:00:00+08:00"
 description: "自动化发布视频到各个社交媒体平台"
 slug: social-auto-upload
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## social-auto-upload
 
 自动化发布视频到各个社交媒体平台
 

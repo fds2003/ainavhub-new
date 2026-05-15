@@ -1,5 +1,5 @@
 ---
-title: "comfyui-fast-style-transfer"
+title: "ComfyUI-Fast-Style-Transfer"
 date: "2025-01-01T00:00:00+08:00"
 description: "ComfyUI-Fast-Style-Transfer 是一个用于快速风格迁移的 ComfyUI 节点。"
 slug: comfyui-fast-style-transfer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## comfyui-fast-style-transfer
 
 ComfyUI-Fast-Style-Transfer 是一个用于快速风格迁移的 ComfyUI 节点。
 

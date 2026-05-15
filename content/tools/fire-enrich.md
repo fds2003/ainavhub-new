@@ -1,5 +1,5 @@
 ---
-title: "fire-enrich"
+title: "Fire Enrich"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI驱动的数据丰富工具：Fire Enrich"
 slug: fire-enrich
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## fire-enrich
 
 AI驱动的数据丰富工具：Fire Enrich
 

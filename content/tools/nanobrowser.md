@@ -1,5 +1,5 @@
 ---
-title: "nanobrowser"
+title: "Nanobrowser"
 date: "2025-01-01T00:00:00+08:00"
 description: "Nanobrowser是一个开源的AI网络自动化工具，可在浏览器中运行，免费且注重隐私。"
 slug: nanobrowser
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## nanobrowser
 
 Nanobrowser是一个开源的AI网络自动化工具，可在浏览器中运行，免费且注重隐私。
 

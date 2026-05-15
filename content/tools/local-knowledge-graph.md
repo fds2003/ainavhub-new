@@ -1,5 +1,5 @@
 ---
-title: "local-knowledge-graph"
+title: "Local Knowledge Graph"
 date: "2025-01-01T00:00:00+08:00"
 description: "本应用利用本地Llama模型处理查询，生成推理过程并可视化知识图谱，探索相关问题。"
 slug: local-knowledge-graph
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## local-knowledge-graph
 
 本应用利用本地Llama模型处理查询，生成推理过程并可视化知识图谱，探索相关问题。
 

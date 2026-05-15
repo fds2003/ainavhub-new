@@ -1,5 +1,5 @@
 ---
-title: "openelm"
+title: "Openelm"
 date: "2025-01-01T00:00:00+08:00"
 description: "OpenELM是苹果机器学习研究团队发布的高效开源语言模型家族"
 slug: openelm
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openelm
 
 OpenELM是苹果机器学习研究团队发布的高效开源语言模型家族
 

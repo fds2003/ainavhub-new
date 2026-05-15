@@ -1,5 +1,5 @@
 ---
-title: "autostudio"
+title: "AutoStudio"
 date: "2025-01-01T00:00:00+08:00"
 description: "AutoStudio提供无需训练的多智能体框架，实现多回合交互式一致性图像生成。"
 slug: autostudio
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## autostudio
 
 AutoStudio提供无需训练的多智能体框架，实现多回合交互式一致性图像生成。
 

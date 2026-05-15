@@ -1,5 +1,5 @@
 ---
-title: "hunyuan-large"
+title: "Hunyuan-Large"
 date: "2025-01-01T00:00:00+08:00"
 description: "Hunyuan-Large是腾讯发布的开源MoE大模型，拥有3890亿参数，适用于多种AI任务。"
 slug: hunyuan-large
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## hunyuan-large
 
 Hunyuan-Large是腾讯发布的开源MoE大模型，拥有3890亿参数，适用于多种AI任务。
 

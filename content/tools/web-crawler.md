@@ -1,5 +1,5 @@
 ---
-title: "web-crawler"
+title: "Web Crawler"
 date: "2025-01-01T00:00:00+08:00"
 description: "实时网络搜索命令行工具"
 slug: web-crawler
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## web-crawler
 
 实时网络搜索命令行工具
 

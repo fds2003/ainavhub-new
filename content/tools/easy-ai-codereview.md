@@ -1,5 +1,5 @@
 ---
-title: "easy-ai-codereview"
+title: "Easy-AI-CodeReview"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI自动化代码审查"
 slug: easy-ai-codereview
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## easy-ai-codereview
 
 AI自动化代码审查
 

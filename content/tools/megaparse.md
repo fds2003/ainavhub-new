@@ -1,5 +1,5 @@
 ---
-title: "megaparse"
+title: "MegaParse"
 date: "2025-01-01T00:00:00+08:00"
 description: "MegaParse支持各种文件处理，解析精准无信息丢失，且开源免费使用。"
 slug: megaparse
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## megaparse
 
 MegaParse支持各种文件处理，解析精准无信息丢失，且开源免费使用。
 

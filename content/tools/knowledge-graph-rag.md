@@ -1,5 +1,5 @@
 ---
-title: "knowledge-graph-rag"
+title: "Knowledge Graph RAG"
 date: "2025-01-01T00:00:00+08:00"
 description: "自动创建知识图谱和文档网络以提升RAG性能"
 slug: knowledge-graph-rag
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## knowledge-graph-rag
 
 自动创建知识图谱和文档网络以提升RAG性能
 

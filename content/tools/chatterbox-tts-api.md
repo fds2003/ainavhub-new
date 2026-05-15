@@ -1,5 +1,5 @@
 ---
-title: "chatterbox-tts-api"
+title: "Chatterbox TTS API"
 date: "2025-01-01T00:00:00+08:00"
 description: "Chatterbox TTS API：基于FastAPI的语音克隆TTS服务"
 slug: chatterbox-tts-api
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## chatterbox-tts-api
 
 Chatterbox TTS API：基于FastAPI的语音克隆TTS服务
 

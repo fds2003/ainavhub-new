@@ -8,7 +8,6 @@ tags: ["Developer Tools"]
 draft: false
 ---
 
-## Computer Use - OOTB
 
 这是一个无需Docker的解决方案，支持远程控制电脑，提供用户友好的Gradio界面。
 

@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Whishper Whishper100
 
 Whishper Whishper100 is an AI-powered tool designed for developers and creators.
 

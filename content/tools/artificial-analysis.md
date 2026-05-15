@@ -1,5 +1,5 @@
 ---
-title: "artificial-analysis"
+title: "Artificial Analysis"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI语言模型和API提供商的比较分析，帮助用户选择最佳方案。"
 slug: artificial-analysis
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## artificial-analysis
 
 AI语言模型和API提供商的比较分析，帮助用户选择最佳方案。
 

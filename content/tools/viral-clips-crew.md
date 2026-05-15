@@ -1,5 +1,5 @@
 ---
-title: "viral-clips-crew"
+title: "Viral-Clips-Crew"
 date: "2025-01-01T00:00:00+08:00"
 description: "一款自动提取社交媒体视频亮点的编辑工具"
 slug: viral-clips-crew
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## viral-clips-crew
 
 一款自动提取社交媒体视频亮点的编辑工具
 

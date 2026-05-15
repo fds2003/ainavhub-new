@@ -1,5 +1,5 @@
 ---
-title: "arcface-converter"
+title: "ArcFace Converter"
 date: "2025-01-01T00:00:00+08:00"
 description: "ArcFace Converter是一款可以在不同ArcFace模型之间转换人脸特征的工具。"
 slug: arcface-converter
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## arcface-converter
 
 ArcFace Converter是一款可以在不同ArcFace模型之间转换人脸特征的工具。
 

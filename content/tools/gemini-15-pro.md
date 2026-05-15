@@ -1,5 +1,5 @@
 ---
-title: "gemini-15-pro"
+title: "Gemini 1.5 Pro"
 date: "2025-01-01T00:00:00+08:00"
 description: "Gemini 1.5 Pro在180多个国家上线，支持原生音频理解、系统指令、JSON模式等新功能"
 slug: gemini-15-pro
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gemini-15-pro
 
 Gemini 1.5 Pro在180多个国家上线，支持原生音频理解、系统指令、JSON模式等新功能
 

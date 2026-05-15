@@ -1,5 +1,5 @@
 ---
-title: "openplexity-pages"
+title: "OpenPlexity Pages"
 date: "2025-01-01T00:00:00+08:00"
 description: "OpenPlexity Pages 是一个注重隐私的开源内容创作工具。"
 slug: openplexity-pages
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openplexity-pages
 
 OpenPlexity Pages 是一个注重隐私的开源内容创作工具。
 

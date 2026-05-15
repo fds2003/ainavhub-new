@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Gpts App Gpts
 
 Gpts App Gpts is an AI-powered tool designed for developers and creators.
 

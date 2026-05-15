@@ -1,5 +1,5 @@
 ---
-title: "claude-github-webhook"
+title: "Claude GitHub Webhook"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude GitHub Webhook：AI驱动的GitHub全自动开发机器人"
 slug: claude-github-webhook
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-github-webhook
 
 Claude GitHub Webhook：AI驱动的GitHub全自动开发机器人
 

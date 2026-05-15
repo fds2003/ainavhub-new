@@ -1,5 +1,5 @@
 ---
-title: "sora"
+title: "Sorawebui Openai Sora"
 date: "2025-01-01T00:00:00+08:00"
 description: "Day 3 OpenAI 布了 Sora"
 slug: sorawebui-openai-sora
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## sora
 
 Day 3 OpenAI 布了 Sora
 

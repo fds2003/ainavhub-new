@@ -1,5 +1,5 @@
 ---
-title: "hyperagent"
+title: "Hyperagent"
 date: "2025-01-01T00:00:00+08:00"
 description: "Hyperagent是一款利用LLM增强Playwright的智能浏览器自动化工具，提供AI指令和防检测等功能。"
 slug: hyperagent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## hyperagent
 
 Hyperagent是一款利用LLM增强Playwright的智能浏览器自动化工具，提供AI指令和防检测等功能。
 

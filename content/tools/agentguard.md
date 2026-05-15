@@ -1,5 +1,5 @@
 ---
-title: "agentguard"
+title: "AgentGuard"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI成本守护"
 slug: agentguard
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## agentguard
 
 AI成本守护
 

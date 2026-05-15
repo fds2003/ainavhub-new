@@ -1,5 +1,5 @@
 ---
-title: "cohere-toolkit"
+title: "Cohere Toolkit"
 date: "2025-01-01T00:00:00+08:00"
 description: "构建和部署基于检索增强生成技术"
 slug: cohere-toolkit
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## cohere-toolkit
 
 构建和部署基于检索增强生成技术
 

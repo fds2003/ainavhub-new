@@ -1,5 +1,5 @@
 ---
-title: "optexity"
+title: "Optexity"
 date: "2025-01-01T00:00:00+08:00"
 description: "Optexity通过人类演示训练AI模型，自动化完成网页任务，效果优于Gemini和GPT-4o。"
 slug: optexity
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## optexity
 
 Optexity通过人类演示训练AI模型，自动化完成网页任务，效果优于Gemini和GPT-4o。
 

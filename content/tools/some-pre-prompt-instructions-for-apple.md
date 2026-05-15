@@ -1,5 +1,5 @@
 ---
-title: "some-pre-prompt-instructions-for-apple"
+title: "Some pre-prompt instructions for Apple"
 date: "2025-01-01T00:00:00+08:00"
 description: "Apple Intelligence提示词曝光：Do not hallucinate"
 slug: some-pre-prompt-instructions-for-apple
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## some-pre-prompt-instructions-for-apple
 
 Apple Intelligence提示词曝光：Do not hallucinate
 

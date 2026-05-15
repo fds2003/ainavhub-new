@@ -1,5 +1,5 @@
 ---
-title: "convertx"
+title: "ConvertX"
 date: "2025-01-01T00:00:00+08:00"
 description: "在线多格式文件转换器"
 slug: convertx
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## convertx
 
 在线多格式文件转换器
 

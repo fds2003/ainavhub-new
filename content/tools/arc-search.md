@@ -1,5 +1,5 @@
 ---
-title: "arc-search"
+title: "Arc Search"
 date: "2025-01-01T00:00:00+08:00"
 description: "Arc Search引入Call Arc功能，让用户通过电话询问问题并接收语音回答。"
 slug: arc-search
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## arc-search
 
 Arc Search引入Call Arc功能，让用户通过电话询问问题并接收语音回答。
 

@@ -1,5 +1,5 @@
 ---
-title: "easydict"
+title: "Easydict"
 date: "2025-01-01T00:00:00+08:00"
 description: "macOS 设计的简洁易用的词典翻译应用"
 slug: easydict
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## easydict
 
 macOS 设计的简洁易用的词典翻译应用
 

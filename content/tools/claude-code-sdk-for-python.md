@@ -1,5 +1,5 @@
 ---
-title: "claude-code-sdk-for-python"
+title: "Claude Code SDK for Python"
 date: "2025-01-01T00:00:00+08:00"
 description: "Python Claude Code SDK"
 slug: claude-code-sdk-for-python
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-code-sdk-for-python
 
 Python Claude Code SDK
 

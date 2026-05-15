@@ -1,5 +1,5 @@
 ---
-title: "haiku-sqlite-rag"
+title: "Haiku SQLite RAG"
 date: "2025-01-01T00:00:00+08:00"
 description: "本地SQLite多格式文档RAG库"
 slug: haiku-sqlite-rag
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## haiku-sqlite-rag
 
 本地SQLite多格式文档RAG库
 

@@ -1,5 +1,5 @@
 ---
-title: "openreasoningengine"
+title: "OpenReasoningEngine"
 date: "2025-01-01T00:00:00+08:00"
 description: "OpenReasoningEngine是一个模块化的开源推理引擎，旨在通过开放协作提升模型能力。"
 slug: openreasoningengine
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openreasoningengine
 
 OpenReasoningEngine是一个模块化的开源推理引擎，旨在通过开放协作提升模型能力。
 

@@ -1,5 +1,5 @@
 ---
-title: "qagent"
+title: "Qagent"
 date: "2025-01-01T00:00:00+08:00"
 description: "搜索优先的问答代理：RAG的替代方案"
 slug: qagent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## qagent
 
 搜索优先的问答代理：RAG的替代方案
 

@@ -1,5 +1,5 @@
 ---
-title: "deep-graph-mcp-server"
+title: "Deep Graph MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "深度图代码MCP服务器"
 slug: deep-graph-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deep-graph-mcp-server
 
 深度图代码MCP服务器
 

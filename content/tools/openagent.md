@@ -1,5 +1,5 @@
 ---
-title: "openagent"
+title: "openAgent"
 date: "2025-01-01T00:00:00+08:00"
 description: "企业级智能体应用平台"
 slug: openagent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openagent
 
 企业级智能体应用平台
 

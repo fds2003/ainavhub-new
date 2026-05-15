@@ -1,5 +1,5 @@
 ---
-title: "meta-agents-research-environments"
+title: "Meta Agents Research Environments"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI智能体动态环境评估"
 slug: meta-agents-research-environments
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## meta-agents-research-environments
 
 AI智能体动态环境评估
 

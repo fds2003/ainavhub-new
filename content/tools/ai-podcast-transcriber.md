@@ -1,5 +1,5 @@
 ---
-title: "ai-podcast-transcriber"
+title: "AI Podcast Transcriber"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI播客转录与智能总结"
 slug: ai-podcast-transcriber
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-podcast-transcriber
 
 AI播客转录与智能总结
 

@@ -1,5 +1,5 @@
 ---
-title: "scholai"
+title: "ScholAI"
 date: "2025-01-01T00:00:00+08:00"
 description: "基于MCP的智能学术研究助手"
 slug: scholai
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## scholai
 
 基于MCP的智能学术研究助手
 

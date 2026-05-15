@@ -1,5 +1,5 @@
 ---
-title: "otc-medication-chat-agent"
+title: "OTC Medication Chat Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "OTC用药推荐助手"
 slug: otc-medication-chat-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## otc-medication-chat-agent
 
 OTC用药推荐助手
 

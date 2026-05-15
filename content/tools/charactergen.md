@@ -1,5 +1,5 @@
 ---
-title: "charactergen"
+title: "CharacterGen"
 date: "2025-01-01T00:00:00+08:00"
 description: "抱抱脸LLM价格对比"
 slug: charactergen
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## charactergen
 
 抱抱脸LLM价格对比
 

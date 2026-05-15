@@ -1,5 +1,5 @@
 ---
-title: "pdf-extract-api"
+title: "Pdf-Extract-Api"
 date: "2025-01-01T00:00:00+08:00"
 description: "pdf-extract-api是一个高精度的OCR工具，可将PDF和图像转换为Markdown或JSON格式。"
 slug: pdf-extract-api
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pdf-extract-api
 
 pdf-extract-api是一个高精度的OCR工具，可将PDF和图像转换为Markdown或JSON格式。
 

@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Stable Video Ai
 
 Stable Video Ai is an AI-powered tool designed for developers and creators.
 

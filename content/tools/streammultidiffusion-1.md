@@ -1,5 +1,5 @@
 ---
-title: "StreamMultiDiffusion"
+title: "Streammultidiffusion 1"
 date: "2025-01-01T00:00:00+08:00"
 description: "StreamMultiDiffusion是首个基于区域文本提示的实时文本到图像生成框架，实现了高速且互动的图像生成。"
 slug: streammultidiffusion-1
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## StreamMultiDiffusion
 
 StreamMultiDiffusion是首个基于区域文本提示的实时文本到图像生成框架，实现了高速且互动的图像生成。
 

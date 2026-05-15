@@ -1,5 +1,5 @@
 ---
-title: "together-open-data-scientist"
+title: "Together Open Data Scientist"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI数据科学助手"
 slug: together-open-data-scientist
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## together-open-data-scientist
 
 AI数据科学助手
 

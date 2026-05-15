@@ -8,7 +8,6 @@ tags: ["Developer Tools"]
 draft: false
 ---
 
-## Gemma 2B - 10M
 
 谷歌 Gemma 2B 的上下文窗口最新扩展至 10M。
 

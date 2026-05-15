@@ -1,5 +1,5 @@
 ---
-title: "common-ground"
+title: "Common Ground"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI多智能体协作观测平台"
 slug: common-ground
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## common-ground
 
 AI多智能体协作观测平台
 

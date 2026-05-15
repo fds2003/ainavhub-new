@@ -1,5 +1,5 @@
 ---
-title: "prompt2sign"
+title: "Prompt2Sign"
 date: "2025-01-01T00:00:00+08:00"
 description: "多语言手语数据集，便捷高效用于手语研究。"
 slug: prompt2sign
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## prompt2sign
 
 多语言手语数据集，便捷高效用于手语研究。
 

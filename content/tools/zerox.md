@@ -1,5 +1,5 @@
 ---
-title: "zerox"
+title: "zeroX"
 date: "2025-01-01T00:00:00+08:00"
 description: "Zerox OCR 是一种经济高效且准确的文档OCR工具，适用于AI数据处理。"
 slug: zerox
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## zerox
 
 Zerox OCR 是一种经济高效且准确的文档OCR工具，适用于AI数据处理。
 

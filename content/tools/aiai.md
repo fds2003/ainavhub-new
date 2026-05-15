@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Aiai
 
 Aiai is an AI-powered tool designed for developers and creators.
 

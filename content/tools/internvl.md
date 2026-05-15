@@ -1,5 +1,5 @@
 ---
-title: "internvl"
+title: "InternVL"
 date: "2025-01-01T00:00:00+08:00"
 description: "InternVL：GPT-4V开源替代方案"
 slug: internvl
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## internvl
 
 InternVL：GPT-4V开源替代方案
 

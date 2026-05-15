@@ -1,5 +1,5 @@
 ---
-title: "dbrheocli"
+title: "DbRheoCLI"
 date: "2025-01-01T00:00:00+08:00"
 description: "数据库智能交互与分析"
 slug: dbrheocli
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## dbrheocli
 
 数据库智能交互与分析
 

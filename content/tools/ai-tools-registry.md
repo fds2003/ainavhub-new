@@ -1,5 +1,5 @@
 ---
-title: "ai-tools-registry"
+title: "AI Tools Registry"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI工具组件库"
 slug: ai-tools-registry
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-tools-registry
 
 AI工具组件库
 

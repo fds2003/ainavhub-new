@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Simple Grpo
 
 Simple Grpo is an AI-powered tool designed for developers and creators.
 

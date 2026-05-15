@@ -1,5 +1,5 @@
 ---
-title: "roma"
+title: "ROMA"
 date: "2025-01-01T00:00:00+08:00"
 description: "ROMA: 递归开放元代理框架"
 slug: roma
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## roma
 
 ROMA: 递归开放元代理框架
 

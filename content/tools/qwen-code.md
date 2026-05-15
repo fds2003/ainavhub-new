@@ -1,5 +1,5 @@
 ---
-title: "qwen-code"
+title: "Qwen Code"
 date: "2025-01-01T00:00:00+08:00"
 description: "Qwen代码AI命令行工具"
 slug: qwen-code
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## qwen-code
 
 Qwen代码AI命令行工具
 

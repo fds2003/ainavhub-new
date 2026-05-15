@@ -1,5 +1,5 @@
 ---
-title: "prism-insight"
+title: "PRISM-INSIGHT"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI股票分析与模拟交易"
 slug: prism-insight
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## prism-insight
 
 AI股票分析与模拟交易
 

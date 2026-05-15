@@ -1,5 +1,5 @@
 ---
-title: "memu"
+title: "MemU"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI伴侣智能记忆框架"
 slug: memu
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## memu
 
 AI伴侣智能记忆框架
 

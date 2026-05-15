@@ -1,5 +1,5 @@
 ---
-title: "yolov10"
+title: "Yolov10"
 date: "2025-01-01T00:00:00+08:00"
 description: "YOLOv10是一款高效的实时端到端目标检测模型，优化了模型结构和后处理过程。"
 slug: yolov10
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## yolov10
 
 YOLOv10是一款高效的实时端到端目标检测模型，优化了模型结构和后处理过程。
 

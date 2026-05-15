@@ -1,5 +1,5 @@
 ---
-title: "kwai-keye-vl"
+title: "Kwai Keye-VL"
 date: "2025-01-01T00:00:00+08:00"
 description: "Kwai Keye-VL视频视觉推理大模型"
 slug: kwai-keye-vl
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## kwai-keye-vl
 
 Kwai Keye-VL视频视觉推理大模型
 

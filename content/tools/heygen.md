@@ -1,5 +1,5 @@
 ---
-title: "heygen"
+title: "HeyGen"
 date: "2025-01-01T00:00:00+08:00"
 description: "[新功能] — Avatar in Motion 1.0 🏃‍♂️ ✨"
 slug: heygen
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## heygen
 
 [新功能] — Avatar in Motion 1.0 🏃‍♂️ ✨
 

@@ -1,5 +1,5 @@
 ---
-title: "office-powerpoint-mcp-server"
+title: "Office-PowerPoint-MCP-Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "PowerPoint MCP Server: Python演示文稿操作工具"
 slug: office-powerpoint-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## office-powerpoint-mcp-server
 
 PowerPoint MCP Server: Python演示文稿操作工具
 

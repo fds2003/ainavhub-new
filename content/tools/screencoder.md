@@ -1,5 +1,5 @@
 ---
-title: "screencoder"
+title: "ScreenCoder"
 date: "2025-01-01T00:00:00+08:00"
 description: "UI自动化代码生成"
 slug: screencoder
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## screencoder
 
 UI自动化代码生成
 

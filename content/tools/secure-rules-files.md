@@ -1,5 +1,5 @@
 ---
-title: "secure-rules-files"
+title: "Secure-Rules-Files"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI生成代码安全基线规则文件"
 slug: secure-rules-files
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## secure-rules-files
 
 AI生成代码安全基线规则文件
 

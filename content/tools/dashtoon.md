@@ -1,5 +1,5 @@
 ---
-title: "dashtoon"
+title: "Dashtoon"
 date: "2025-01-01T00:00:00+08:00"
 description: "帮助创作者将想法转化为漫画内容"
 slug: dashtoon
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## dashtoon
 
 帮助创作者将想法转化为漫画内容
 

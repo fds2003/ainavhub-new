@@ -1,5 +1,5 @@
 ---
-title: "code-sandbox-mcp-server"
+title: "Code Sandbox MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "LLM代码沙箱服务器"
 slug: code-sandbox-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## code-sandbox-mcp-server
 
 LLM代码沙箱服务器
 

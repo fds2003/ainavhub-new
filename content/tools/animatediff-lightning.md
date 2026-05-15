@@ -1,5 +1,5 @@
 ---
-title: "animatediff-lightning"
+title: "AnimateDiff-Lightning"
 date: "2025-01-01T00:00:00+08:00"
 description: "字节跳动文本到视频的快速生成模型"
 slug: animatediff-lightning
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## animatediff-lightning
 
 字节跳动文本到视频的快速生成模型
 

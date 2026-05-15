@@ -1,5 +1,5 @@
 ---
-title: "anthropic-prompt-library"
+title: "Anthropic Prompt Library"
 date: "2025-01-01T00:00:00+08:00"
 description: "Anthropic提供的提示库"
 slug: anthropic-prompt-library
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## anthropic-prompt-library
 
 Anthropic提供的提示库
 

@@ -1,5 +1,5 @@
 ---
-title: "vercel-ai-sdk-30"
+title: "Vercel AI SDK 3.0"
 date: "2025-01-01T00:00:00+08:00"
 description: "通过React服务器组件实现了将文本和图像提示转换为React UI，并简化了设计工程流程"
 slug: vercel-ai-sdk-30
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## vercel-ai-sdk-30
 
 通过React服务器组件实现了将文本和图像提示转换为React UI，并简化了设计工程流程
 

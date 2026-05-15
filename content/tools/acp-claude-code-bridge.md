@@ -1,5 +1,5 @@
 ---
-title: "acp-claude-code-bridge"
+title: "ACP Claude Code Bridge"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude Code ACP 桥接"
 slug: acp-claude-code-bridge
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## acp-claude-code-bridge
 
 Claude Code ACP 桥接
 

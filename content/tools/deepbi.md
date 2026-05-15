@@ -1,5 +1,5 @@
 ---
-title: "deepbi"
+title: "DeepBI"
 date: "2025-01-01T00:00:00+08:00"
 description: "基于人工智能的数据分析平台"
 slug: deepbi
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deepbi
 
 基于人工智能的数据分析平台
 

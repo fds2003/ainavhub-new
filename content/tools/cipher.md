@@ -1,5 +1,5 @@
 ---
-title: "cipher"
+title: "Cipher"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI 编程代理记忆框架"
 slug: cipher
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## cipher
 
 AI 编程代理记忆框架
 

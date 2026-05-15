@@ -1,5 +1,5 @@
 ---
-title: "pipecat"
+title: "Pipecat"
 date: "2025-01-01T00:00:00+08:00"
 description: "构建语音和多模态会话代理的框架"
 slug: pipecat
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pipecat
 
 构建语音和多模态会话代理的框架
 

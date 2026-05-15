@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Ai 2
 
 Ai 2 is an AI-powered tool designed for developers and creators.
 

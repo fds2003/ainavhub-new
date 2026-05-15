@@ -1,5 +1,5 @@
 ---
-title: "imagdressing"
+title: "IMAGDressing"
 date: "2025-01-01T00:00:00+08:00"
 description: "IMAGDressing是一款模块化交互虚拟试衣系统，支持服装的生成和自定义编辑。"
 slug: imagdressing
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## imagdressing
 
 IMAGDressing是一款模块化交互虚拟试衣系统，支持服装的生成和自定义编辑。
 

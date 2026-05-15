@@ -1,5 +1,5 @@
 ---
-title: "asearcher"
+title: "ASearcher"
 date: "2025-01-01T00:00:00+08:00"
 description: "搜索智能体大规模强化学习框架"
 slug: asearcher
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## asearcher
 
 搜索智能体大规模强化学习框架
 

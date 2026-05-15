@@ -1,5 +1,5 @@
 ---
-title: "gibberlink"
+title: "GibberLink"
 date: "2025-01-01T00:00:00+08:00"
 description: "GibberLink演示了两个对话式AI在发现彼此身份后，从英语切换到音频协议的互动过程。"
 slug: gibberlink
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gibberlink
 
 GibberLink演示了两个对话式AI在发现彼此身份后，从英语切换到音频协议的互动过程。
 

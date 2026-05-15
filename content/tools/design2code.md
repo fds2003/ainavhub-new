@@ -1,5 +1,5 @@
 ---
-title: "design2code"
+title: "Design2Code"
 date: "2025-01-01T00:00:00+08:00"
 description: "将视觉设计直接转换为前段代码自动化前端工程流程"
 slug: design2code
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## design2code
 
 将视觉设计直接转换为前段代码自动化前端工程流程
 

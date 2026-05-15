@@ -1,5 +1,5 @@
 ---
-title: "hand-talk"
+title: "Hand Talk"
 date: "2025-01-01T00:00:00+08:00"
 description: "利用3D角色和人工智能将文字和音频自动翻译成手语的应用程序"
 slug: hand-talk
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## hand-talk
 
 利用3D角色和人工智能将文字和音频自动翻译成手语的应用程序
 

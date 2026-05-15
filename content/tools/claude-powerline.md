@@ -1,5 +1,5 @@
 ---
-title: "claude-powerline"
+title: "Claude Powerline"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude Code Powerline 状态栏增强"
 slug: claude-powerline
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-powerline
 
 Claude Code Powerline 状态栏增强
 

@@ -1,5 +1,5 @@
 ---
-title: "m3-agent"
+title: "M3-Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "多模态长期记忆推理智能体"
 slug: m3-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## m3-agent
 
 多模态长期记忆推理智能体
 

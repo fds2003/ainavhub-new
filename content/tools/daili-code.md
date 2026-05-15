@@ -1,5 +1,5 @@
 ---
-title: "daili-code"
+title: "Daili Code"
 date: "2025-01-01T00:00:00+08:00"
 description: "多模型AI Agent CLI"
 slug: daili-code
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## daili-code
 
 多模型AI Agent CLI
 

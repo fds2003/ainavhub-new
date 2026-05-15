@@ -1,5 +1,5 @@
 ---
-title: "vcode-ide"
+title: "vCode IDE"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI驱动的集成开发环境"
 slug: vcode-ide
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## vcode-ide
 
 AI驱动的集成开发环境
 

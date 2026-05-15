@@ -1,5 +1,5 @@
 ---
-title: "meditron"
+title: "Meditron"
 date: "2025-01-01T00:00:00+08:00"
 description: "基于大型语言模型（LLMs）的开源医学套件"
 slug: meditron
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## meditron
 
 基于大型语言模型（LLMs）的开源医学套件
 

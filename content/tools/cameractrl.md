@@ -1,5 +1,5 @@
 ---
-title: "cameractrl"
+title: "CameraCtrl"
 date: "2025-01-01T00:00:00+08:00"
 description: "CameraCtrl是一个支持文本到视频生成中精确相机控制的新模型。"
 slug: cameractrl
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## cameractrl
 
 CameraCtrl是一个支持文本到视频生成中精确相机控制的新模型。
 

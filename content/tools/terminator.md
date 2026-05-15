@@ -1,5 +1,5 @@
 ---
-title: "terminator"
+title: "Terminator"
 date: "2025-01-01T00:00:00+08:00"
 description: "Terminator是一款AI驱动的SDK，能高速可靠地自动化Windows和macOS上的原生GUI应用。"
 slug: terminator
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## terminator
 
 Terminator是一款AI驱动的SDK，能高速可靠地自动化Windows和macOS上的原生GUI应用。
 

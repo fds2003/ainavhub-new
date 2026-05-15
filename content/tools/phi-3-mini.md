@@ -1,5 +1,5 @@
 ---
-title: "phi-3-mini"
+title: "Phi-3-Mini"
 date: "2025-01-01T00:00:00+08:00"
 description: "微软开源phi-3-mini，能在手机上运行的高性能语言模型，参数量达38亿。"
 slug: phi-3-mini
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## phi-3-mini
 
 微软开源phi-3-mini，能在手机上运行的高性能语言模型，参数量达38亿。
 

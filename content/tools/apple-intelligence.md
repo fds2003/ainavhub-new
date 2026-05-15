@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Apple Intelligence
 
 Apple Intelligence的技术要点
 

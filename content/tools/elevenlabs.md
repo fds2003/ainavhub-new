@@ -1,5 +1,5 @@
 ---
-title: "elevenlabs"
+title: "Elevenlabs"
 date: "2025-01-01T00:00:00+08:00"
 description: "ElevenLabs宣布进军音乐创作领域ElevenLabs Music"
 slug: elevenlabs
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## elevenlabs
 
 ElevenLabs宣布进军音乐创作领域ElevenLabs Music
 

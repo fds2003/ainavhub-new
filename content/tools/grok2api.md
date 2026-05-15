@@ -1,5 +1,5 @@
 ---
-title: "grok2api"
+title: "Grok2API"
 date: "2025-01-01T00:00:00+08:00"
 description: "Grok多功能OpenAI兼容API"
 slug: grok2api
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## grok2api
 
 Grok多功能OpenAI兼容API
 

@@ -1,5 +1,5 @@
 ---
-title: "ai-chatbot-template"
+title: "AI Chatbot Template"
 date: "2025-01-01T00:00:00+08:00"
 description: "可定制AI聊天机器人模板"
 slug: ai-chatbot-template
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-chatbot-template
 
 可定制AI聊天机器人模板
 

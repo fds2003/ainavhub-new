@@ -1,5 +1,5 @@
 ---
-title: "voice-engine"
+title: "Voice Engine"
 date: "2025-01-01T00:00:00+08:00"
 description: "OpenAI推出了名为Voice Engine的模型，可根据文本和15秒音频样本生成自然发音"
 slug: voice-engine
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## voice-engine
 
 OpenAI推出了名为Voice Engine的模型，可根据文本和15秒音频样本生成自然发音
 

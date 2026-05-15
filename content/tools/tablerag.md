@@ -1,5 +1,5 @@
 ---
-title: "tablerag"
+title: "TableRAG"
 date: "2025-01-01T00:00:00+08:00"
 description: "异构文档混合RAG推理框架"
 slug: tablerag
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## tablerag
 
 异构文档混合RAG推理框架
 

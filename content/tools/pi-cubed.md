@@ -1,5 +1,5 @@
 ---
-title: "pi-cubed"
+title: "Pi-Cubed"
 date: "2025-01-01T00:00:00+08:00"
 description: "可扩展置换等变视觉几何学习"
 slug: pi-cubed
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pi-cubed
 
 可扩展置换等变视觉几何学习
 

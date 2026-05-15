@@ -1,5 +1,5 @@
 ---
-title: "animation-video-to-3d-scene-technology"
+title: "Animation Video to 3D scene technology"
 date: "2025-01-01T00:00:00+08:00"
 description: "Autodesk推出Wonder Animation，可将视频转化为3D动画场景，助力动画创作。"
 slug: animation-video-to-3d-scene-technology
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## animation-video-to-3d-scene-technology
 
 Autodesk推出Wonder Animation，可将视频转化为3D动画场景，助力动画创作。
 

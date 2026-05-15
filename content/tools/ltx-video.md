@@ -1,5 +1,5 @@
 ---
-title: "ltx-video"
+title: "LTX-Video"
 date: "2025-01-01T00:00:00+08:00"
 description: "LTX-Video是首个基于DiT的视频生成模型，能实时生成高质量768x512分辨率的视频。"
 slug: ltx-video
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ltx-video
 
 LTX-Video是首个基于DiT的视频生成模型，能实时生成高质量768x512分辨率的视频。
 

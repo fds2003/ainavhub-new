@@ -1,5 +1,5 @@
 ---
-title: "embed-photos"
+title: "Embed-Photos"
 date: "2025-01-01T00:00:00+08:00"
 description: "照片相似性搜索引擎"
 slug: embed-photos
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## embed-photos
 
 照片相似性搜索引擎
 

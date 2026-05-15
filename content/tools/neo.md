@@ -1,5 +1,5 @@
 ---
-title: "neo"
+title: "Neo"
 date: "2025-01-01T00:00:00+08:00"
 description: "Adobe 发布了一个简单易用的 3D 工具Project Neo"
 slug: neo
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## neo
 
 Adobe 发布了一个简单易用的 3D 工具Project Neo
 

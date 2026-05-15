@@ -1,5 +1,5 @@
 ---
-title: "promptim"
+title: "Promptim"
 date: "2025-01-01T00:00:00+08:00"
 description: "Promptim 是一个实验性的提示优化库，旨在通过自动化流程系统地改善 AI 系统的提示效果。"
 slug: promptim
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## promptim
 
 Promptim 是一个实验性的提示优化库，旨在通过自动化流程系统地改善 AI 系统的提示效果。
 

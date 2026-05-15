@@ -1,5 +1,5 @@
 ---
-title: "fingenius"
+title: "FinGenius"
 date: "2025-01-01T00:00:00+08:00"
 description: "A股AI博弈多智能体"
 slug: fingenius
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## fingenius
 
 A股AI博弈多智能体
 

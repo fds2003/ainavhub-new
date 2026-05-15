@@ -1,5 +1,5 @@
 ---
-title: "llmpdf"
+title: "Llm.pdf"
 date: "2025-01-01T00:00:00+08:00"
 description: "llm.pdf是一个概念验证项目，展示了在PDF文件中运行完整大型语言模型(LLM)的可能性。"
 slug: llmpdf
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## llmpdf
 
 llm.pdf是一个概念验证项目，展示了在PDF文件中运行完整大型语言模型(LLM)的可能性。
 

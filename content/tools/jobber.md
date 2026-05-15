@@ -1,5 +1,5 @@
 ---
-title: "jobber"
+title: "Jobber"
 date: "2025-01-01T00:00:00+08:00"
 description: "Jobber是一个AI代理，它能自动搜索并申请符合您要求的职位。"
 slug: jobber
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## jobber
 
 Jobber是一个AI代理，它能自动搜索并申请符合您要求的职位。
 

@@ -1,5 +1,5 @@
 ---
-title: "codeindexer"
+title: "CodeIndexer"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI代码智能索引与语义搜索"
 slug: codeindexer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## codeindexer
 
 AI代码智能索引与语义搜索
 

@@ -1,5 +1,5 @@
 ---
-title: "magicclothing"
+title: "MagicClothing"
 date: "2025-01-01T00:00:00+08:00"
 description: "虚拟服装试穿技术"
 slug: magicclothing
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## magicclothing
 
 虚拟服装试穿技术
 

@@ -1,5 +1,5 @@
 ---
-title: "fast-rag"
+title: "Fast RAG"
 date: "2025-01-01T00:00:00+08:00"
 description: "本地隐私RAG"
 slug: fast-rag
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## fast-rag
 
 本地隐私RAG
 

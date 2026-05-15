@@ -1,5 +1,5 @@
 ---
-title: "kimi-k2"
+title: "Kimi K2"
 date: "2025-01-01T00:00:00+08:00"
 description: "开放智能体智能"
 slug: kimi-k2
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## kimi-k2
 
 开放智能体智能
 

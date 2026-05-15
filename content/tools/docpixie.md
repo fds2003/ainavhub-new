@@ -1,5 +1,5 @@
 ---
-title: "docpixie"
+title: "DocPixie"
 date: "2025-01-01T00:00:00+08:00"
 description: "视觉AI文档RAG"
 slug: docpixie
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## docpixie
 
 视觉AI文档RAG
 

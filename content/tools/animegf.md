@@ -1,5 +1,5 @@
 ---
-title: "animegf"
+title: "Anime.gf"
 date: "2025-01-01T00:00:00+08:00"
 description: "CharacterAI复现版开源，以创建角色、自定义主题并开始聊天"
 slug: animegf
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## animegf
 
 CharacterAI复现版开源，以创建角色、自定义主题并开始聊天
 

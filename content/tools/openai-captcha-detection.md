@@ -1,5 +1,5 @@
 ---
-title: "openai-captcha-detection"
+title: "Openai-Captcha-Detection"
 date: "2025-01-01T00:00:00+08:00"
 description: "openai-captcha-detection 是一个基于 OpenAI 技术的高效验证码识别工具，准确率达100%。"
 slug: openai-captcha-detection
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openai-captcha-detection
 
 openai-captcha-detection 是一个基于 OpenAI 技术的高效验证码识别工具，准确率达100%。
 

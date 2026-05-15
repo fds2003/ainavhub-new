@@ -1,5 +1,5 @@
 ---
-title: "deepsearch-ai-agent"
+title: "DeepSearch AI Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI智能体专业文章生成"
 slug: deepsearch-ai-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deepsearch-ai-agent
 
 AI智能体专业文章生成
 

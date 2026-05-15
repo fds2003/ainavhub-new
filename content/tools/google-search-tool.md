@@ -1,5 +1,5 @@
 ---
-title: "google-search-tool"
+title: "Google Search Tool"
 date: "2025-01-01T00:00:00+08:00"
 description: "Google 反爬搜索与AI集成"
 slug: google-search-tool
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## google-search-tool
 
 Google 反爬搜索与AI集成
 

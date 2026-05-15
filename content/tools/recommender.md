@@ -1,5 +1,5 @@
 ---
-title: "recommender"
+title: "Recommender"
 date: "2025-01-01T00:00:00+08:00"
 description: "Recommender 是一款基于 Plex 库和评分提供个性化电影与电视节目推荐的应用。"
 slug: recommender
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## recommender
 
 Recommender 是一款基于 Plex 库和评分提供个性化电影与电视节目推荐的应用。
 

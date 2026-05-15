@@ -1,5 +1,5 @@
 ---
-title: "streamv2v"
+title: "StreamV2V"
 date: "2025-01-01T00:00:00+08:00"
 description: "RTX 4090上实现实时的视频转视频翻译和风格化功能"
 slug: streamv2v
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## streamv2v
 
 RTX 4090上实现实时的视频转视频翻译和风格化功能
 

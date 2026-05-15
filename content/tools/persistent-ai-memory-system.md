@@ -1,5 +1,5 @@
 ---
-title: "persistent-ai-memory-system"
+title: "Persistent AI Memory System"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI持久化记忆与行为追踪"
 slug: persistent-ai-memory-system
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## persistent-ai-memory-system
 
 AI持久化记忆与行为追踪
 

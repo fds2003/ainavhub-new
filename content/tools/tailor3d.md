@@ -1,5 +1,5 @@
 ---
-title: "tailor3d"
+title: "Tailor3D"
 date: "2025-01-01T00:00:00+08:00"
 description: "Tailor3D是一种通过双面图像定制3D资产编辑和生成的新方法。"
 slug: tailor3d
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## tailor3d
 
 Tailor3D是一种通过双面图像定制3D资产编辑和生成的新方法。
 

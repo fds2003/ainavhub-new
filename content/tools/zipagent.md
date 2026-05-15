@@ -1,5 +1,5 @@
 ---
-title: "zipagent"
+title: "ZipAgent"
 date: "2025-01-01T00:00:00+08:00"
 description: "极简 AI 智能体框架"
 slug: zipagent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## zipagent
 
 极简 AI 智能体框架
 

@@ -1,5 +1,5 @@
 ---
-title: "pianomotion10m"
+title: "PianoMotion10M"
 date: "2025-01-01T00:00:00+08:00"
 description: "PianoMotion10M 是一个用于钢琴演奏手部动作生成的百万级数据集和基准。"
 slug: pianomotion10m
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pianomotion10m
 
 PianoMotion10M 是一个用于钢琴演奏手部动作生成的百万级数据集和基准。
 

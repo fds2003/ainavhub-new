@@ -1,5 +1,5 @@
 ---
-title: "glm-4-voice"
+title: "GLM-4-Voice"
 date: "2025-01-01T00:00:00+08:00"
 description: "GLM-4-Voice是智谱AI推出的语音模型，可进行中英文实时语音对话并调节语音特性。"
 slug: glm-4-voice
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## glm-4-voice
 
 GLM-4-Voice是智谱AI推出的语音模型，可进行中英文实时语音对话并调节语音特性。
 

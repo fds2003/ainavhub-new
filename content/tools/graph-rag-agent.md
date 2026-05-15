@@ -1,5 +1,5 @@
 ---
-title: "graph-rag-agent"
+title: "Graph-Rag-Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "GraphRAG与DeepSearch融合的智能问答Agent"
 slug: graph-rag-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## graph-rag-agent
 
 GraphRAG与DeepSearch融合的智能问答Agent
 

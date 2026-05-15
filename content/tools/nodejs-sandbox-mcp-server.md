@@ -1,5 +1,5 @@
 ---
-title: "nodejs-sandbox-mcp-server"
+title: "Node.js Sandbox MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "Node.js Sandbox MCP Server是一个用Docker隔离运行JavaScript代码并动态安装npm依赖的Node.js服务器。"
 slug: nodejs-sandbox-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## nodejs-sandbox-mcp-server
 
 Node.js Sandbox MCP Server是一个用Docker隔离运行JavaScript代码并动态安装npm依赖的Node.js服务器。
 

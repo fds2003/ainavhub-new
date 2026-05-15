@@ -1,5 +1,5 @@
 ---
-title: "chatsage"
+title: "Chatsage"
 date: "2025-01-01T00:00:00+08:00"
 description: "Chatsage是一个开源的AI聊天机器人，适用于网站，提供Chatbase替代方案。"
 slug: chatsage
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## chatsage
 
 Chatsage是一个开源的AI聊天机器人，适用于网站，提供Chatbase替代方案。
 

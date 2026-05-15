@@ -1,5 +1,5 @@
 ---
-title: "rag-me-up"
+title: "RAG Me Up"
 date: "2025-01-01T00:00:00+08:00"
 description: "RAG Me Up 是一款轻量级框架，方便用户在自己数据集上运行RAG。"
 slug: rag-me-up
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## rag-me-up
 
 RAG Me Up 是一款轻量级框架，方便用户在自己数据集上运行RAG。
 

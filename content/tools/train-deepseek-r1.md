@@ -1,5 +1,5 @@
 ---
-title: "train-deepseek-r1"
+title: "Train-Deepseek-R1"
 date: "2025-01-01T00:00:00+08:00"
 description: "DeepSeek R1 通过强化学习和手绘示意图，逐步实现高效的模型训练，以提升其推理能力。"
 slug: train-deepseek-r1
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## train-deepseek-r1
 
 DeepSeek R1 通过强化学习和手绘示意图，逐步实现高效的模型训练，以提升其推理能力。
 

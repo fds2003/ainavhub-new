@@ -1,5 +1,5 @@
 ---
-title: "langchain"
+title: "LangChain"
 date: "2025-01-01T00:00:00+08:00"
 description: ".NET实现LangChain"
 slug: langchain
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## langchain
 
 .NET实现LangChain
 

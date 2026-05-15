@@ -1,5 +1,5 @@
 ---
-title: "vector-companion"
+title: "Vector Companion"
 date: "2025-01-01T00:00:00+08:00"
 description: "一个友好的人工智能助手，具备两个独特人格，相互对话并与用户实时互动"
 slug: vector-companion
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## vector-companion
 
 一个友好的人工智能助手，具备两个独特人格，相互对话并与用户实时互动
 

@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Pleias Scholasticai
 
 Pleias Scholasticai is an AI-powered tool designed for developers and creators.
 

@@ -1,5 +1,5 @@
 ---
-title: "describe-anything"
+title: "Describe Anything"
 date: "2025-01-01T00:00:00+08:00"
 description: "Describe Anything模型(DAM)能根据图像/视频区域生成详细描述，并提供DLC-Bench评估基准。"
 slug: describe-anything
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## describe-anything
 
 Describe Anything模型(DAM)能根据图像/视频区域生成详细描述，并提供DLC-Bench评估基准。
 

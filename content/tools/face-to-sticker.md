@@ -1,5 +1,5 @@
 ---
-title: "face-to-sticker"
+title: "Face-To-Sticker"
 date: "2025-01-01T00:00:00+08:00"
 description: "“face-to-sticker”可以将任何面孔转换成贴纸。"
 slug: face-to-sticker
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## face-to-sticker
 
 “face-to-sticker”可以将任何面孔转换成贴纸。
 

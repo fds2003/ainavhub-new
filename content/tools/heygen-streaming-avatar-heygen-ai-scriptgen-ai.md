@@ -1,5 +1,5 @@
 ---
-title: "HeyGen"
+title: "Heygen Streaming Avatar Heygen Ai Scriptgen Ai"
 date: "2025-01-01T00:00:00+08:00"
 description: "[新功能] — Avatar in Motion 1.0 🏃‍♂️ ✨"
 slug: heygen-streaming-avatar-heygen-ai-scriptgen-ai
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## HeyGen
 
 [新功能] — Avatar in Motion 1.0 🏃‍♂️ ✨
 

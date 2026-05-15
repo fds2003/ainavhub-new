@@ -1,5 +1,5 @@
 ---
-title: "ssh-ai-chat"
+title: "SSH AI Chat"
 date: "2025-01-01T00:00:00+08:00"
 description: "SSH 上的 AI 聊天"
 slug: ssh-ai-chat
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ssh-ai-chat
 
 SSH 上的 AI 聊天
 

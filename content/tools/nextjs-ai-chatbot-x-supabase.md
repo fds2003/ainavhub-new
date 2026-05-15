@@ -1,5 +1,5 @@
 ---
-title: "nextjs-ai-chatbot-x-supabase"
+title: "Next.js AI Chatbot x Supabase"
 date: "2025-01-01T00:00:00+08:00"
 description: "Next.js AI Chatbot结合Supabase，开源模板提供高效的聊天功能与数据存储解决方案。"
 slug: nextjs-ai-chatbot-x-supabase
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## nextjs-ai-chatbot-x-supabase
 
 Next.js AI Chatbot结合Supabase，开源模板提供高效的聊天功能与数据存储解决方案。
 

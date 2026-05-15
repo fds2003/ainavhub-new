@@ -1,5 +1,5 @@
 ---
-title: "zin-mcp-client"
+title: "ZIN MCP Client"
 date: "2025-01-01T00:00:00+08:00"
 description: "轻量级CLI MCP客户端：桥接本地LLM与MCP服务器"
 slug: zin-mcp-client
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## zin-mcp-client
 
 轻量级CLI MCP客户端：桥接本地LLM与MCP服务器
 

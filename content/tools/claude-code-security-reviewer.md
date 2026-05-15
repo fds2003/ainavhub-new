@@ -1,5 +1,5 @@
 ---
-title: "claude-code-security-reviewer"
+title: "Claude Code Security Reviewer"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude AI 代码安全审查"
 slug: claude-code-security-reviewer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-code-security-reviewer
 
 Claude AI 代码安全审查
 

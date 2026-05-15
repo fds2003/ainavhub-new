@@ -1,5 +1,5 @@
 ---
-title: "sageread"
+title: "SageRead"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI对话电子书阅读器"
 slug: sageread
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## sageread
 
 AI对话电子书阅读器
 

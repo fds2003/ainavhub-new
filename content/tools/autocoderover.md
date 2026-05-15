@@ -1,5 +1,5 @@
 ---
-title: "autocoderover"
+title: "AutoCodeRover"
 date: "2025-01-01T00:00:00+08:00"
 description: "又一个开源AI Devin 程序员"
 slug: autocoderover
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## autocoderover
 
 又一个开源AI Devin 程序员
 

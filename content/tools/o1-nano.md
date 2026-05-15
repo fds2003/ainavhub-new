@@ -1,5 +1,5 @@
 ---
-title: "o1-nano"
+title: "O1 Nano"
 date: "2025-01-01T00:00:00+08:00"
 description: "O1 Nano是一个简化版的O1模型，专注于算术问题解决，结合推理和强化学习。"
 slug: o1-nano
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## o1-nano
 
 O1 Nano是一个简化版的O1模型，专注于算术问题解决，结合推理和强化学习。
 

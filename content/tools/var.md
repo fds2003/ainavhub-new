@@ -1,5 +1,5 @@
 ---
-title: "var"
+title: "VAR"
 date: "2025-01-01T00:00:00+08:00"
 description: "北大发布新兴的图像生成方法"
 slug: var
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## var
 
 北大发布新兴的图像生成方法
 

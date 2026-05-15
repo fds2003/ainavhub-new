@@ -1,5 +1,5 @@
 ---
-title: "hackgpt-enterprise"
+title: "HackGPT Enterprise"
 date: "2025-01-01T00:00:00+08:00"
 description: "企业级AI渗透测试平台"
 slug: hackgpt-enterprise
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## hackgpt-enterprise
 
 企业级AI渗透测试平台
 

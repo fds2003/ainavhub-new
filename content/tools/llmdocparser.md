@@ -1,5 +1,5 @@
 ---
-title: "llmdocparser"
+title: "LLMDocParser"
 date: "2025-01-01T00:00:00+08:00"
 description: "LLMDocParser是一个使用大语言模型解析和分析PDF内容的工具包。"
 slug: llmdocparser
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## llmdocparser
 
 LLMDocParser是一个使用大语言模型解析和分析PDF内容的工具包。
 

@@ -1,5 +1,5 @@
 ---
-title: "geminicli2api"
+title: "GeminiCli2API"
 date: "2025-01-01T00:00:00+08:00"
 description: "Gemini CLI 本地 API 封装与 OpenAI 兼容代理"
 slug: geminicli2api
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## geminicli2api
 
 Gemini CLI 本地 API 封装与 OpenAI 兼容代理
 

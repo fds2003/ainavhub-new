@@ -1,5 +1,5 @@
 ---
-title: "pocket-flow-framework"
+title: "Pocket Flow Framework"
 date: "2025-01-01T00:00:00+08:00"
 description: "Pocket Flow是一个快速构建企业级AI系统的框架，基于嵌套有向图，模块化且不依赖特定厂商。"
 slug: pocket-flow-framework
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pocket-flow-framework
 
 Pocket Flow是一个快速构建企业级AI系统的框架，基于嵌套有向图，模块化且不依赖特定厂商。
 

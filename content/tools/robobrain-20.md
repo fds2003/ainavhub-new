@@ -1,5 +1,5 @@
 ---
-title: "robobrain-20"
+title: "RoboBrain 2.0"
 date: "2025-01-01T00:00:00+08:00"
 description: "RoboBrain 2.0：更强大的具身智能大脑模型"
 slug: robobrain-20
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## robobrain-20
 
 RoboBrain 2.0：更强大的具身智能大脑模型
 

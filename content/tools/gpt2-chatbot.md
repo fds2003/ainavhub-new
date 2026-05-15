@@ -1,5 +1,5 @@
 ---
-title: "gpt2-chatbot"
+title: "GPT2 Chatbot"
 date: "2025-01-01T00:00:00+08:00"
 description: "基于GPT-2模型的聊天机器人"
 slug: gpt2-chatbot
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gpt2-chatbot
 
 基于GPT-2模型的聊天机器人
 

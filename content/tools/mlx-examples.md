@@ -1,5 +1,5 @@
 ---
-title: "mlx-examples"
+title: "MLX Examples"
 date: "2025-01-01T00:00:00+08:00"
 description: "在 iPhone 15 Pro 上运行 Llama-3.1 8B"
 slug: mlx-examples
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## mlx-examples
 
 在 iPhone 15 Pro 上运行 Llama-3.1 8B
 

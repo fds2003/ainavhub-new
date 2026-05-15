@@ -1,5 +1,5 @@
 ---
-title: "mcp-gateway"
+title: "MCP Gateway"
 date: "2025-01-01T00:00:00+08:00"
 description: "MCP Gateway是LLM的中间层，集中管理MCP服务器，拦截请求和响应，并提供统一的接口，增强AI安全性。"
 slug: mcp-gateway
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## mcp-gateway
 
 MCP Gateway是LLM的中间层，集中管理MCP服务器，拦截请求和响应，并提供统一的接口，增强AI安全性。
 

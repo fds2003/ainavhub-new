@@ -1,5 +1,5 @@
 ---
-title: "diffusion-toolkit"
+title: "Diffusion Toolkit"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI图像管理工具"
 slug: diffusion-toolkit
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## diffusion-toolkit
 
 AI图像管理工具
 

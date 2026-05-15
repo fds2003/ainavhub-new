@@ -1,5 +1,5 @@
 ---
-title: "tango"
+title: "TANGO"
 date: "2025-01-01T00:00:00+08:00"
 description: "TANGO是一种通过层次音频-运动嵌入和扩散插值进行的共语手势视频重现技术。"
 slug: tango
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## tango
 
 TANGO是一种通过层次音频-运动嵌入和扩散插值进行的共语手势视频重现技术。
 

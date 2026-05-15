@@ -1,5 +1,5 @@
 ---
-title: "claude-engineer"
+title: "Claude Engineer"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude Engineer是一款在GitHub上托管的开源开发工具，致力于自动化工作流和提高开发效率。"
 slug: claude-engineer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-engineer
 
 Claude Engineer是一款在GitHub上托管的开源开发工具，致力于自动化工作流和提高开发效率。
 

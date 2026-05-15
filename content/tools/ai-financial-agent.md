@@ -1,5 +1,5 @@
 ---
-title: "ai-financial-agent"
+title: "AI Financial Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI金融代理是一个旨在探索AI在投资研究中应用的教育项目，不用于真实交易。"
 slug: ai-financial-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-financial-agent
 
 AI金融代理是一个旨在探索AI在投资研究中应用的教育项目，不用于真实交易。
 

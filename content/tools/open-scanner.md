@@ -1,5 +1,5 @@
 ---
-title: "open-scanner"
+title: "Open Scanner"
 date: "2025-01-01T00:00:00+08:00"
 description: "Open Scanner是一款免费快速的文档扫描应用，支持多设备同步，尊重隐私。"
 slug: open-scanner
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## open-scanner
 
 Open Scanner是一款免费快速的文档扫描应用，支持多设备同步，尊重隐私。
 

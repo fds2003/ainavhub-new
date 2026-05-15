@@ -1,5 +1,5 @@
 ---
-title: "antsk-filechunk"
+title: "AntSK-FileChunk"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI语义文档切片服务"
 slug: antsk-filechunk
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## antsk-filechunk
 
 AI语义文档切片服务
 

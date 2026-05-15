@@ -1,5 +1,5 @@
 ---
-title: "mcp-feedback-enhanced"
+title: "MCP Feedback Enhanced"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI辅助开发的交互式反馈MCP服务器"
 slug: mcp-feedback-enhanced
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## mcp-feedback-enhanced
 
 AI辅助开发的交互式反馈MCP服务器
 

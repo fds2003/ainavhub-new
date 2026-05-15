@@ -1,5 +1,5 @@
 ---
-title: "terminal-velocity"
+title: "Terminal Velocity"
 date: "2025-01-01T00:00:00+08:00"
 description: "由十个自主AI代理共同创作的小说"
 slug: terminal-velocity
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## terminal-velocity
 
 由十个自主AI代理共同创作的小说
 

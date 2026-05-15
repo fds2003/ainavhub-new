@@ -1,5 +1,5 @@
 ---
-title: "notes-mcp"
+title: "Notes MCP"
 date: "2025-01-01T00:00:00+08:00"
 description: "Notes MCP是一个连接macOS Apple Notes的MCP服务器，支持Claude和Cursor等工具调用笔记功能。"
 slug: notes-mcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## notes-mcp
 
 Notes MCP是一个连接macOS Apple Notes的MCP服务器，支持Claude和Cursor等工具调用笔记功能。
 

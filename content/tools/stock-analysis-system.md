@@ -1,5 +1,5 @@
 ---
-title: "stock-analysis-system"
+title: "Stock Analysis System"
 date: "2025-01-01T00:00:00+08:00"
 description: "股票分析系统是A股专业分析工具，提供单股、批量扫描及高级技术指标分析，辅助投资决策。"
 slug: stock-analysis-system
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## stock-analysis-system
 
 股票分析系统是A股专业分析工具，提供单股、批量扫描及高级技术指标分析，辅助投资决策。
 

@@ -1,5 +1,5 @@
 ---
-title: "fasterliveportrait"
+title: "FasterLivePortrait"
 date: "2025-01-01T00:00:00+08:00"
 description: "FasterLivePortrait利用TensorRT在RTX 3090上实现真人肖像实时生成，速度达30+ FPS。"
 slug: fasterliveportrait
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## fasterliveportrait
 
 FasterLivePortrait利用TensorRT在RTX 3090上实现真人肖像实时生成，速度达30+ FPS。
 

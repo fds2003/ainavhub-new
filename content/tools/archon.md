@@ -1,5 +1,5 @@
 ---
-title: "archon"
+title: "Archon"
 date: "2025-01-01T00:00:00+08:00"
 description: "Archon是AI Agent构建器，能自主构建、优化AI智能体，并提供Streamlit用户界面进行管理。"
 slug: archon
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## archon
 
 Archon是AI Agent构建器，能自主构建、优化AI智能体，并提供Streamlit用户界面进行管理。
 

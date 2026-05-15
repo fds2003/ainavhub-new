@@ -1,5 +1,5 @@
 ---
-title: "freegpt35"
+title: "FreeGPT35"
 date: "2025-01-01T00:00:00+08:00"
 description: "允许用户无需登录就可以免费使用 GPT-3.5-Turbo API服务"
 slug: freegpt35
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## freegpt35
 
 允许用户无需登录就可以免费使用 GPT-3.5-Turbo API服务
 

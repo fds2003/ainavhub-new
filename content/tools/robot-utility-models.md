@@ -1,5 +1,5 @@
 ---
-title: "robot-utility-models"
+title: "Robot Utility Models"
 date: "2025-01-01T00:00:00+08:00"
 description: "Robot Utility Models（RUMs）是一种无需微调即可在新环境中直接应用的机器人政策训练框架。"
 slug: robot-utility-models
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## robot-utility-models
 
 Robot Utility Models（RUMs）是一种无需微调即可在新环境中直接应用的机器人政策训练框架。
 

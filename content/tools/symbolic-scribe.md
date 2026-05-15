@@ -1,5 +1,5 @@
 ---
-title: "symbolic-scribe"
+title: "Symbolic Scribe"
 date: "2025-01-01T00:00:00+08:00"
 description: "Symbolic Scribe 是一款通过数学框架优化 AI 提示，显著降低成本并提高处理速度的工具。"
 slug: symbolic-scribe
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## symbolic-scribe
 
 Symbolic Scribe 是一款通过数学框架优化 AI 提示，显著降低成本并提高处理速度的工具。
 

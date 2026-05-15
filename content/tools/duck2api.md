@@ -1,5 +1,5 @@
 ---
-title: "duck2api"
+title: "Duck2api"
 date: "2025-01-01T00:00:00+08:00"
 description: "能够将 ChatGPT 接口化，让用户能够通过HTTP请求来使用ChatGPT的功能"
 slug: duck2api
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## duck2api
 
 能够将 ChatGPT 接口化，让用户能够通过HTTP请求来使用ChatGPT的功能
 

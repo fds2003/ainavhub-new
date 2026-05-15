@@ -1,5 +1,5 @@
 ---
-title: "playwrightess-mcp"
+title: "Playwrightess MCP"
 date: "2025-01-01T00:00:00+08:00"
 description: "Playwright 持久化评估环境"
 slug: playwrightess-mcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## playwrightess-mcp
 
 Playwright 持久化评估环境
 

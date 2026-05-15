@@ -1,5 +1,5 @@
 ---
-title: "physdreamer"
+title: "PhysDreamer"
 date: "2025-01-01T00:00:00+08:00"
 description: "用户通过视频生成技术与3D对象进行互动，模拟真实世界中的物理现象"
 slug: physdreamer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## physdreamer
 
 用户通过视频生成技术与3D对象进行互动，模拟真实世界中的物理现象
 

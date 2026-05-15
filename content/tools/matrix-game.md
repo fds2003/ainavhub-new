@@ -1,5 +1,5 @@
 ---
-title: "matrix-game"
+title: "Matrix-Game"
 date: "2025-01-01T00:00:00+08:00"
 description: "Matrix-Game是一个170亿参数的交互式世界基础模型，用于可控的游戏世界生成。"
 slug: matrix-game
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## matrix-game
 
 Matrix-Game是一个170亿参数的交互式世界基础模型，用于可控的游戏世界生成。
 

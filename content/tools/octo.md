@@ -1,5 +1,5 @@
 ---
-title: "octo"
+title: "Octo"
 date: "2025-01-01T00:00:00+08:00"
 description: "多模型编程助手"
 slug: octo
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## octo
 
 多模型编程助手
 

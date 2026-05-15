@@ -1,5 +1,5 @@
 ---
-title: "google-gemini"
+title: "Google Gemini"
 date: "2025-01-01T00:00:00+08:00"
 description: "Google Gemini是一款AI助手应用，旨在提升用户的创造力和生产力，支持多种功能与Google服务连接。"
 slug: google-gemini
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## google-gemini
 
 Google Gemini是一款AI助手应用，旨在提升用户的创造力和生产力，支持多种功能与Google服务连接。
 

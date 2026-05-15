@@ -1,5 +1,5 @@
 ---
-title: "ai-math-notes"
+title: "AI Math Notes"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI Math Notes 是一个交互式绘图应用，可绘制并计算数学方程。"
 slug: ai-math-notes
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-math-notes
 
 AI Math Notes 是一个交互式绘图应用，可绘制并计算数学方程。
 

@@ -1,5 +1,5 @@
 ---
-title: "pypalettes"
+title: "Pypalettes"
 date: "2025-01-01T00:00:00+08:00"
 description: "pypalettes 为Python提供超过2500种色彩映射的集合，适用于matplotlib和seaborn。"
 slug: pypalettes
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pypalettes
 
 pypalettes 为Python提供超过2500种色彩映射的集合，适用于matplotlib和seaborn。
 

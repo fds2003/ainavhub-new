@@ -1,5 +1,5 @@
 ---
-title: "tabby-vscode-agent"
+title: "Tabby VSCode Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "Tabby VSCode AI 终端控制"
 slug: tabby-vscode-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## tabby-vscode-agent
 
 Tabby VSCode AI 终端控制
 

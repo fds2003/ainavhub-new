@@ -1,5 +1,5 @@
 ---
-title: "owl"
+title: "OWL"
 date: "2025-01-01T00:00:00+08:00"
 description: "OWL是一个多智能体协作框架，通过优化劳动力学习，实现现实世界任务的通用自动化辅助。"
 slug: owl
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## owl
 
 OWL是一个多智能体协作框架，通过优化劳动力学习，实现现实世界任务的通用自动化辅助。
 

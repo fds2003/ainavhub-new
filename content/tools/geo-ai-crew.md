@@ -1,5 +1,5 @@
 ---
-title: "geo-ai-crew"
+title: "GEO AI Crew"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI网页内容优化审计"
 slug: geo-ai-crew
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## geo-ai-crew
 
 AI网页内容优化审计
 

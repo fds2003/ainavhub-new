@@ -8,7 +8,6 @@ tags: ["Developer Tools"]
 draft: false
 ---
 
-## Claude Code + Gemini MCP Server
 
 Claude Code + Gemini AI 协作平台
 

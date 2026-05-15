@@ -1,5 +1,5 @@
 ---
-title: "ebook2audiobook"
+title: "Ebook2audiobook"
 date: "2025-01-01T00:00:00+08:00"
 description: "ebook2audiobook是一款将电子书转换为有声书的工具，支持多语言和语音克隆功能。"
 slug: ebook2audiobook
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ebook2audiobook
 
 ebook2audiobook是一款将电子书转换为有声书的工具，支持多语言和语音克隆功能。
 

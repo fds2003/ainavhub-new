@@ -1,5 +1,5 @@
 ---
-title: "ai-fleet"
+title: "Ai-Fleet"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI Fleet：终端AI开发者助手，轻松管理AI Agent集群"
 slug: ai-fleet
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-fleet
 
 AI Fleet：终端AI开发者助手，轻松管理AI Agent集群
 

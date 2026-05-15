@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Goose Googleai
 
 Goose Googleai is an AI-powered tool designed for developers and creators.
 

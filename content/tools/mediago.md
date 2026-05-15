@@ -1,5 +1,5 @@
 ---
-title: "mediago"
+title: "Mediago"
 date: "2025-01-01T00:00:00+08:00"
 description: "MediaGo是一款支持m3u8视频提取和流媒体下载的多功能工具。"
 slug: mediago
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## mediago
 
 MediaGo是一款支持m3u8视频提取和流媒体下载的多功能工具。
 

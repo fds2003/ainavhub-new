@@ -1,5 +1,5 @@
 ---
-title: "suno"
+title: "Suno"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI创作一首属于自己的音乐"
 slug: suno
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## suno
 
 AI创作一首属于自己的音乐
 

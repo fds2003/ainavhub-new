@@ -1,5 +1,5 @@
 ---
-title: "mcp-hfspace-mcp-server"
+title: "mcp-hfspace MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "mcp-hfspace是连接Hugging Face Spaces的MCP服务器，简化配置，支持图像生成、语音转录等多种功能。"
 slug: mcp-hfspace-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## mcp-hfspace-mcp-server
 
 mcp-hfspace是连接Hugging Face Spaces的MCP服务器，简化配置，支持图像生成、语音转录等多种功能。
 

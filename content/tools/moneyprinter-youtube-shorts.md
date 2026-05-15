@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Moneyprinter Youtube Shorts
 
 Moneyprinter Youtube Shorts is an AI-powered tool designed for developers and creators.
 

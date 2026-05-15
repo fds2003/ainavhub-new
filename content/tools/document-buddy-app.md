@@ -1,5 +1,5 @@
 ---
-title: "document-buddy-app"
+title: "Document-Buddy-App"
 date: "2025-01-01T00:00:00+08:00"
 description: "Document Buddy App是一款基于Streamlit的应用，简化PDF文档管理并提供智能聊天功能。"
 slug: document-buddy-app
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## document-buddy-app
 
 Document Buddy App是一款基于Streamlit的应用，简化PDF文档管理并提供智能聊天功能。
 

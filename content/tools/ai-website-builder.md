@@ -1,5 +1,5 @@
 ---
-title: "ai-website-builder"
+title: "AI WEBSITE BUILDER"
 date: "2025-01-01T00:00:00+08:00"
 description: "人工智能帮助用户在短时间内创建网站的工具"
 slug: ai-website-builder
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-website-builder
 
 人工智能帮助用户在短时间内创建网站的工具
 

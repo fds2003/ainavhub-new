@@ -1,5 +1,5 @@
 ---
-title: "spikingbrain"
+title: "SpikingBrain"
 date: "2025-01-01T00:00:00+08:00"
 description: "脉冲类脑大模型"
 slug: spikingbrain
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## spikingbrain
 
 脉冲类脑大模型
 

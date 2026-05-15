@@ -1,5 +1,5 @@
 ---
-title: "consistent-character"
+title: "Consistent character"
 date: "2025-01-01T00:00:00+08:00"
 description: "Consistent Character 能生成同一角色的多个不同姿势图像。"
 slug: consistent-character
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## consistent-character
 
 Consistent Character 能生成同一角色的多个不同姿势图像。
 

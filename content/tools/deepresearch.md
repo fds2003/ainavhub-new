@@ -1,5 +1,5 @@
 ---
-title: "deepresearch"
+title: "DeepResearch"
 date: "2025-01-01T00:00:00+08:00"
 description: "深度研究智能体大模型"
 slug: deepresearch
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deepresearch
 
 深度研究智能体大模型
 

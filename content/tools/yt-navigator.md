@@ -1,5 +1,5 @@
 ---
-title: "yt-navigator"
+title: "YT Navigator"
 date: "2025-01-01T00:00:00+08:00"
 description: "YT Navigator 是一个AI驱动的YouTube频道内容搜索工具，可高效地搜索、聊天和定位视频内容。"
 slug: yt-navigator
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## yt-navigator
 
 YT Navigator 是一个AI驱动的YouTube频道内容搜索工具，可高效地搜索、聊天和定位视频内容。
 

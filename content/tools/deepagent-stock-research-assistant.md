@@ -1,5 +1,5 @@
 ---
-title: "deepagent-stock-research-assistant"
+title: "DeepAgent Stock Research Assistant"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI驱动股票研究助手"
 slug: deepagent-stock-research-assistant
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deepagent-stock-research-assistant
 
 AI驱动股票研究助手
 

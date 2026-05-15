@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Openalpha Evolve
 
 Openalpha Evolve is an AI-powered tool designed for developers and creators.
 

@@ -1,5 +1,5 @@
 ---
-title: "solospeech"
+title: "SoloSpeech"
 date: "2025-01-01T00:00:00+08:00"
 description: "SoloSpeech是一个级联生成管道，通过压缩、提取、重建和校正，提升目标语音提取的清晰度和质量，泛化能力强。"
 slug: solospeech
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## solospeech
 
 SoloSpeech是一个级联生成管道，通过压缩、提取、重建和校正，提升目标语音提取的清晰度和质量，泛化能力强。
 

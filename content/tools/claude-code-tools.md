@@ -1,5 +1,5 @@
 ---
-title: "claude-code-tools"
+title: "Claude-Code-Tools"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude Code CLI 自动化与安全"
 slug: claude-code-tools
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-code-tools
 
 Claude Code CLI 自动化与安全
 

@@ -1,5 +1,5 @@
 ---
-title: "ai-video-transcriber"
+title: "AI Video Transcriber"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI视频多平台转录、翻译与摘要"
 slug: ai-video-transcriber
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-video-transcriber
 
 AI视频多平台转录、翻译与摘要
 

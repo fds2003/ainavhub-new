@@ -1,5 +1,5 @@
 ---
-title: "deepgemm"
+title: "DeepGEMM"
 date: "2025-01-01T00:00:00+08:00"
 description: "DeepGEMM是一个高效的FP8矩阵乘法库，针对Hopper架构，性能优异，代码简洁易懂。"
 slug: deepgemm
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deepgemm
 
 DeepGEMM是一个高效的FP8矩阵乘法库，针对Hopper架构，性能优异，代码简洁易懂。
 

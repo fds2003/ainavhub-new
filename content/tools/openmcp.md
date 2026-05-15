@@ -1,5 +1,5 @@
 ---
-title: "openmcp"
+title: "OpenMCP"
 date: "2025-01-01T00:00:00+08:00"
 description: "OpenAPI 转 MCP 服务器工具"
 slug: openmcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openmcp
 
 OpenAPI 转 MCP 服务器工具
 

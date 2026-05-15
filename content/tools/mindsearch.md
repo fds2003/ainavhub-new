@@ -1,5 +1,5 @@
 ---
-title: "mindsearch"
+title: "MindSearch"
 date: "2025-01-01T00:00:00+08:00"
 description: "MindSearch 是一个模拟人类思维的开源深度 AI 搜索引擎框架。"
 slug: mindsearch
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## mindsearch
 
 MindSearch 是一个模拟人类思维的开源深度 AI 搜索引擎框架。
 

@@ -1,5 +1,5 @@
 ---
-title: "orchestrator"
+title: "Orchestrator"
 date: "2025-01-01T00:00:00+08:00"
 description: "多智能体AI编程编排系统"
 slug: orchestrator
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## orchestrator
 
 多智能体AI编程编排系统
 

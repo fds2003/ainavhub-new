@@ -1,5 +1,5 @@
 ---
-title: "thinkchain"
+title: "ThinkChain"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude驱动的链式思维工具集成演示项目"
 slug: thinkchain
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## thinkchain
 
 Claude驱动的链式思维工具集成演示项目
 

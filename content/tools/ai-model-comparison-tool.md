@@ -1,5 +1,5 @@
 ---
-title: "ai-model-comparison-tool"
+title: "AI Model Comparison Tool"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI模型对比工具"
 slug: ai-model-comparison-tool
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-model-comparison-tool
 
 AI模型对比工具
 

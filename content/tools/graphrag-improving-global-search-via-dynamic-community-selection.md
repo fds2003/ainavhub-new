@@ -1,5 +1,5 @@
 ---
-title: "graphrag-improving-global-search-via-dynamic-community-selection"
+title: "GraphRAG: Improving global search via dynamic community selection"
 date: "2025-01-01T00:00:00+08:00"
 description: "GraphRAG通过动态社区选择优化全球搜索，提高搜索效率与准确性。"
 slug: graphrag-improving-global-search-via-dynamic-community-selection
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## graphrag-improving-global-search-via-dynamic-community-selection
 
 GraphRAG通过动态社区选择优化全球搜索，提高搜索效率与准确性。
 

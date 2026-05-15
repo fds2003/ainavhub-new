@@ -1,5 +1,5 @@
 ---
-title: "bazi-mcp"
+title: "Bazi MCP"
 date: "2025-01-01T00:00:00+08:00"
 description: "Bazi MCP是由Cantian AI推出的AI八字计算工具，旨在提供精准八字数据，赋能AI应用"
 slug: bazi-mcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## bazi-mcp
 
 Bazi MCP是由Cantian AI推出的AI八字计算工具，旨在提供精准八字数据，赋能AI应用
 

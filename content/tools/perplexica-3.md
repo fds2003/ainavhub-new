@@ -1,5 +1,5 @@
 ---
-title: "Perplexica"
+title: "Perplexica 3"
 date: "2025-01-01T00:00:00+08:00"
 description: "开源的AI驱动搜索引擎工具"
 slug: perplexica-3
@@ -8,7 +8,6 @@ tags: ["Developer Tools"]
 draft: false
 ---
 
-## Perplexica
 
 开源的AI驱动搜索引擎工具
 

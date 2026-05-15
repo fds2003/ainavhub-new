@@ -1,5 +1,5 @@
 ---
-title: "img-cool"
+title: "Img-Cool"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI智能绘图与图表"
 slug: img-cool
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## img-cool
 
 AI智能绘图与图表
 

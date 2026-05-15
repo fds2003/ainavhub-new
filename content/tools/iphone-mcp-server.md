@@ -1,5 +1,5 @@
 ---
-title: "iphone-mcp-server"
+title: "iPhone MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "iPhone MCP自动化服务器"
 slug: iphone-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## iphone-mcp-server
 
 iPhone MCP自动化服务器
 

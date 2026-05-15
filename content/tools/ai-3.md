@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Ai 3
 
 Ai 3 is an AI-powered tool designed for developers and creators.
 

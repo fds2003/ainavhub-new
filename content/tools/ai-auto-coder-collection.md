@@ -1,5 +1,5 @@
 ---
-title: "ai-auto-coder-collection"
+title: "AI Auto Coder Collection"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI Auto Coder Collection是一款智能代码生成与改进系统，可根据需求自动生成和优化Python代码。"
 slug: ai-auto-coder-collection
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-auto-coder-collection
 
 AI Auto Coder Collection是一款智能代码生成与改进系统，可根据需求自动生成和优化Python代码。
 

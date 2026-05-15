@@ -1,5 +1,5 @@
 ---
-title: "qwen-agent"
+title: "Qwen-Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "Qwen的指令跟随、工具使用、规划和记忆能力开发LLM应用的框架"
 slug: qwen-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## qwen-agent
 
 Qwen的指令跟随、工具使用、规划和记忆能力开发LLM应用的框架
 

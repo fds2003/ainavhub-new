@@ -1,5 +1,5 @@
 ---
-title: "ideogram-10"
+title: "Ideogram 1.0"
 date: "2025-01-01T00:00:00+08:00"
 description: "先进的文本转图像模型，具有准确的文本渲染、逼真度和忠实度，并且拥有Magic Prompt功能，帮助用户创作美丽的创意图像"
 slug: ideogram-10
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ideogram-10
 
 先进的文本转图像模型，具有准确的文本渲染、逼真度和忠实度，并且拥有Magic Prompt功能，帮助用户创作美丽的创意图像
 

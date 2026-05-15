@@ -1,5 +1,5 @@
 ---
-title: "geminicli-to-api"
+title: "GeminiCLI to API"
 date: "2025-01-01T00:00:00+08:00"
 description: "Gemini 转 OpenAI 兼容 API"
 slug: geminicli-to-api
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## geminicli-to-api
 
 Gemini 转 OpenAI 兼容 API
 

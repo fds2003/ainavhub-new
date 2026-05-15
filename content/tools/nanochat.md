@@ -1,5 +1,5 @@
 ---
-title: "nanochat"
+title: "Nanochat"
 date: "2025-01-01T00:00:00+08:00"
 description: "百元级ChatGPT全栈实现"
 slug: nanochat
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## nanochat
 
 百元级ChatGPT全栈实现
 

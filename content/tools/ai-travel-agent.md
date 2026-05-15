@@ -1,5 +1,5 @@
 ---
-title: "ai-travel-agent"
+title: "AI Travel Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI旅行代理人利用LangGraph构建智能旅行助手，支持航班查询、酒店预订及个性化邮件发送。"
 slug: ai-travel-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-travel-agent
 
 AI旅行代理人利用LangGraph构建智能旅行助手，支持航班查询、酒店预订及个性化邮件发送。
 

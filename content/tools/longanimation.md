@@ -1,5 +1,5 @@
 ---
-title: "longanimation"
+title: "LongAnimation"
 date: "2025-01-01T00:00:00+08:00"
 description: "长动画动态记忆生成"
 slug: longanimation
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## longanimation
 
 长动画动态记忆生成
 

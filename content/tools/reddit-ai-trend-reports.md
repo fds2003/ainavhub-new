@@ -1,5 +1,5 @@
 ---
-title: "reddit-ai-trend-reports"
+title: "Reddit AI Trend Reports"
 date: "2025-01-01T00:00:00+08:00"
 description: "Reddit AI趋势自动化报告"
 slug: reddit-ai-trend-reports
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## reddit-ai-trend-reports
 
 Reddit AI趋势自动化报告
 

@@ -1,5 +1,5 @@
 ---
-title: "nxtscape-browser"
+title: "Nxtscape Browser"
 date: "2025-01-01T00:00:00+08:00"
 description: "本地AI代理浏览器"
 slug: nxtscape-browser
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## nxtscape-browser
 
 本地AI代理浏览器
 

@@ -1,5 +1,5 @@
 ---
-title: "clevrr-computer"
+title: "Clevrr Computer"
 date: "2025-01-01T00:00:00+08:00"
 description: "Clevrr Computer 是一个自动化代理，使用 PyAutoGUI 库高效精确地执行用户系统操作。"
 slug: clevrr-computer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## clevrr-computer
 
 Clevrr Computer 是一个自动化代理，使用 PyAutoGUI 库高效精确地执行用户系统操作。
 

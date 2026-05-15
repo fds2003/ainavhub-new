@@ -1,5 +1,5 @@
 ---
-title: "whisper-app"
+title: "Whisper App"
 date: "2025-01-01T00:00:00+08:00"
 description: "音频转录与文本转换"
 slug: whisper-app
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## whisper-app
 
 音频转录与文本转换
 

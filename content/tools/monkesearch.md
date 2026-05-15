@@ -1,5 +1,5 @@
 ---
-title: "monkesearch"
+title: "monkeSearch"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI自然语言文件搜索"
 slug: monkesearch
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## monkesearch
 
 AI自然语言文件搜索
 

@@ -1,5 +1,5 @@
 ---
-title: "skyvern"
+title: "Skyvern"
 date: "2025-01-01T00:00:00+08:00"
 description: "使用大模型自动执行基于浏览器的工作流"
 slug: skyvern
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## skyvern
 
 使用大模型自动执行基于浏览器的工作流
 

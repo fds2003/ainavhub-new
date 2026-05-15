@@ -1,5 +1,5 @@
 ---
-title: "wozway"
+title: "Wozway"
 date: "2025-01-01T00:00:00+08:00"
 description: "Wozway 是一个安全高效的服务，帮助开发者管理聊天应用与大型语言模型的通信。"
 slug: wozway
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## wozway
 
 Wozway 是一个安全高效的服务，帮助开发者管理聊天应用与大型语言模型的通信。
 

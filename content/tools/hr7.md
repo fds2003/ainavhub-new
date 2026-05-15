@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Hr7
 
 Hr7 is an AI-powered tool designed for developers and creators.
 

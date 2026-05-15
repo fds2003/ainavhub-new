@@ -1,5 +1,5 @@
 ---
-title: "draganything"
+title: "DragAnything"
 date: "2025-01-01T00:00:00+08:00"
 description: "DragAnything是一种通过实体表示实现可控视频生成中对象运动控制的先进方法。"
 slug: draganything
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## draganything
 
 DragAnything是一种通过实体表示实现可控视频生成中对象运动控制的先进方法。
 

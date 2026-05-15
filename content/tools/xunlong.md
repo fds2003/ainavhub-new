@@ -1,5 +1,5 @@
 ---
-title: "xunlong"
+title: "XunLong"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI多模态内容生成系统"
 slug: xunlong
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## xunlong
 
 AI多模态内容生成系统
 

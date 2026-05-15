@@ -1,5 +1,5 @@
 ---
-title: "icons8"
+title: "Icons8"
 date: "2025-01-01T00:00:00+08:00"
 description: "Icons8 提供图标、插图和照片，适用于Figma设计工具。"
 slug: icons8
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## icons8
 
 Icons8 提供图标、插图和照片，适用于Figma设计工具。
 

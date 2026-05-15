@@ -1,5 +1,5 @@
 ---
-title: "airouter"
+title: "AIRouter"
 date: "2025-01-01T00:00:00+08:00"
 description: "LLM统一API智能路由器"
 slug: airouter
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## airouter
 
 LLM统一API智能路由器
 

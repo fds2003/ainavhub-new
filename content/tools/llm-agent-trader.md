@@ -1,5 +1,5 @@
 ---
-title: "llm-agent-trader"
+title: "LLM Agent Trader"
 date: "2025-01-01T00:00:00+08:00"
 description: "大模型回测交易智能体"
 slug: llm-agent-trader
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## llm-agent-trader
 
 大模型回测交易智能体
 

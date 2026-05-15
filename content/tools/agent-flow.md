@@ -1,5 +1,5 @@
 ---
-title: "agent-flow"
+title: "Agent Flow"
 date: "2025-01-01T00:00:00+08:00"
 description: "可视化AI工作流编排平台"
 slug: agent-flow
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## agent-flow
 
 可视化AI工作流编排平台
 

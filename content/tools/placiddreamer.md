@@ -1,5 +1,5 @@
 ---
-title: "placiddreamer"
+title: "PlacidDreamer"
 date: "2025-01-01T00:00:00+08:00"
 description: "PlacidDreamer是用于提升文本到3D生成效果的工具，由清华大学和快手研究团队开发。"
 slug: placiddreamer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## placiddreamer
 
 PlacidDreamer是用于提升文本到3D生成效果的工具，由清华大学和快手研究团队开发。
 

@@ -1,5 +1,5 @@
 ---
-title: "Mira"
+title: "Mira 1"
 date: "2025-01-01T00:00:00+08:00"
 description: "Mira 是腾讯推出的用于长时视频生成的初步框架。"
 slug: mira-1
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Mira
 
 Mira 是腾讯推出的用于长时视频生成的初步框架。
 

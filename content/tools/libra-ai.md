@@ -1,5 +1,5 @@
 ---
-title: "libra-ai"
+title: "Libra AI"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI原生的Web应用开发平台"
 slug: libra-ai
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## libra-ai
 
 AI原生的Web应用开发平台
 

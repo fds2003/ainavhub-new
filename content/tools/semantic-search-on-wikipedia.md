@@ -1,5 +1,5 @@
 ---
-title: "semantic-search-on-wikipedia"
+title: "Semantic Search on Wikipedia"
 date: "2025-01-01T00:00:00+08:00"
 description: "维基百科向量搜索"
 slug: semantic-search-on-wikipedia
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## semantic-search-on-wikipedia
 
 维基百科向量搜索
 

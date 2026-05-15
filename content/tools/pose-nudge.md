@@ -1,5 +1,5 @@
 ---
-title: "pose-nudge"
+title: "Pose Nudge"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI实时姿态监测与提醒"
 slug: pose-nudge
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## pose-nudge
 
 AI实时姿态监测与提醒
 

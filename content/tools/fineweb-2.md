@@ -1,5 +1,5 @@
 ---
-title: "fineweb-2"
+title: "FineWeb 2"
 date: "2025-01-01T00:00:00+08:00"
 description: "FineWeb 2 是一个多语言高质量预训练数据集，支持超千种语言，为模型训练提供丰富数据。"
 slug: fineweb-2
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## fineweb-2
 
 FineWeb 2 是一个多语言高质量预训练数据集，支持超千种语言，为模型训练提供丰富数据。
 

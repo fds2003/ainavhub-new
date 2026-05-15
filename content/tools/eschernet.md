@@ -1,5 +1,5 @@
 ---
-title: "eschernet"
+title: "EscherNet"
 date: "2025-01-01T00:00:00+08:00"
 description: "EscherNet是一个通过多视图条件编码实现高精度与连续相机变换的生成式模型"
 slug: eschernet
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## eschernet
 
 EscherNet是一个通过多视图条件编码实现高精度与连续相机变换的生成式模型
 

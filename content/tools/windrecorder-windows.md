@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Windrecorder Windows
 
 Windrecorder Windows is an AI-powered tool designed for developers and creators.
 

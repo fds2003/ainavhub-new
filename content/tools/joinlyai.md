@@ -1,5 +1,5 @@
 ---
-title: "joinlyai"
+title: "Joinly.ai"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI助手参与会议，赋能实时互动"
 slug: joinlyai
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## joinlyai
 
 AI助手参与会议，赋能实时互动
 

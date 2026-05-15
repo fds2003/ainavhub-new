@@ -1,5 +1,5 @@
 ---
-title: "agent-tools"
+title: "Agent Tools"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI智能体工具框架"
 slug: agent-tools
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## agent-tools
 
 AI智能体工具框架
 

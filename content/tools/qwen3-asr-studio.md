@@ -1,5 +1,5 @@
 ---
-title: "qwen3-asr-studio"
+title: "Qwen3-ASR-Studio"
 date: "2025-01-01T00:00:00+08:00"
 description: "Qwen ASR 语音转录工作台"
 slug: qwen3-asr-studio
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## qwen3-asr-studio
 
 Qwen ASR 语音转录工作台
 

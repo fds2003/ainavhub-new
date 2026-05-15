@@ -1,5 +1,5 @@
 ---
-title: "aichatweb"
+title: "AIChatWeb"
 date: "2025-01-01T00:00:00+08:00"
 description: "基于现代聊天模型（例如GPT系列）构建的Web应用程序框架"
 slug: aichatweb
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## aichatweb
 
 基于现代聊天模型（例如GPT系列）构建的Web应用程序框架
 

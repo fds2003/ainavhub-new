@@ -1,5 +1,5 @@
 ---
-title: "chrome-mcp-server"
+title: "Chrome MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "Chrome MCP Server：AI驱动的浏览器自动化助手"
 slug: chrome-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## chrome-mcp-server
 
 Chrome MCP Server：AI驱动的浏览器自动化助手
 

@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Magi Ocr
 
 Magi Ocr is an AI-powered tool designed for developers and creators.
 

@@ -1,5 +1,5 @@
 ---
-title: "mcp-echarts"
+title: "MCP ECharts"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI动态生成ECharts图表与分析"
 slug: mcp-echarts
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## mcp-echarts
 
 AI动态生成ECharts图表与分析
 

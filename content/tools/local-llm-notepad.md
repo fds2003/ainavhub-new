@@ -1,5 +1,5 @@
 ---
-title: "local-llm-notepad"
+title: "Local LLM Notepad"
 date: "2025-01-01T00:00:00+08:00"
 description: "便携式离线大模型记事本"
 slug: local-llm-notepad
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## local-llm-notepad
 
 便携式离线大模型记事本
 

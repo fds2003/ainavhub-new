@@ -1,5 +1,5 @@
 ---
-title: "open-operator"
+title: "Open Operator"
 date: "2025-01-01T00:00:00+08:00"
 description: "Open Operator是一个概念验证工具，旨在提供构建网页代理所需的所有工具。"
 slug: open-operator
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## open-operator
 
 Open Operator是一个概念验证工具，旨在提供构建网页代理所需的所有工具。
 

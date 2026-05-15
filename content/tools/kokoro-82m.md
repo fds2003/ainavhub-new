@@ -1,5 +1,5 @@
 ---
-title: "kokoro-82m"
+title: "Kokoro-82M"
 date: "2025-01-01T00:00:00+08:00"
 description: "Kokoro-82M是一个先进的文本转语音模型，参数量为8200万。"
 slug: kokoro-82m
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## kokoro-82m
 
 Kokoro-82M是一个先进的文本转语音模型，参数量为8200万。
 

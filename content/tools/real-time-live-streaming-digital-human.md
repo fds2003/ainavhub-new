@@ -1,5 +1,5 @@
 ---
-title: "real-time-live-streaming-digital-human"
+title: "Real-time Live Streaming Digital Human"
 date: "2025-01-01T00:00:00+08:00"
 description: "实时直播数字人通过少样本学习在30和40系列显卡上流畅运行，提供交互体验。"
 slug: real-time-live-streaming-digital-human
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## real-time-live-streaming-digital-human
 
 实时直播数字人通过少样本学习在30和40系列显卡上流畅运行，提供交互体验。
 

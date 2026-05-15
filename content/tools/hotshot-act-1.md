@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Hotshot - ACT 1
 
 先进的直接文本到视频合成系统，以高清晰度和多样的比例生成视频，不带水印
 

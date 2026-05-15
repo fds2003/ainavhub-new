@@ -1,5 +1,5 @@
 ---
-title: "microsoft-power-automate"
+title: "Microsoft Power Automate"
 date: "2025-01-01T00:00:00+08:00"
 description: "Microsoft Power Automate利用自动化和AI来革新工作方式，提高生产力。"
 slug: microsoft-power-automate
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## microsoft-power-automate
 
 Microsoft Power Automate利用自动化和AI来革新工作方式，提高生产力。
 

@@ -1,5 +1,5 @@
 ---
-title: "deep-agents"
+title: "Deep Agents"
 date: "2025-01-01T00:00:00+08:00"
 description: "深度LLM智能体框架"
 slug: deep-agents
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deep-agents
 
 深度LLM智能体框架
 

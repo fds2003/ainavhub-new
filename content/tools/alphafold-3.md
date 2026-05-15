@@ -1,5 +1,5 @@
 ---
-title: "alphafold-3"
+title: "AlphaFold 3"
 date: "2025-01-01T00:00:00+08:00"
 description: "谷歌DeepMind和同构实验室推出AlphaFold 3 AI模型，旨在精确预测生命分子的结构和相互作用。"
 slug: alphafold-3
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## alphafold-3
 
 谷歌DeepMind和同构实验室推出AlphaFold 3 AI模型，旨在精确预测生命分子的结构和相互作用。
 

@@ -1,5 +1,5 @@
 ---
-title: "freepdf"
+title: "FreePDF"
 date: "2025-01-01T00:00:00+08:00"
 description: "多语言PDF阅读翻译问答"
 slug: freepdf
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## freepdf
 
 多语言PDF阅读翻译问答
 

@@ -1,5 +1,5 @@
 ---
-title: "outfit-anyone"
+title: "Outfit Anyone"
 date: "2025-01-01T00:00:00+08:00"
 description: "高质量的虚拟试穿系统"
 slug: outfit-anyone
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## outfit-anyone
 
 高质量的虚拟试穿系统
 

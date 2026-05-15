@@ -1,5 +1,5 @@
 ---
-title: "gemini-cli-openai-worker"
+title: "Gemini CLI OpenAI Worker"
 date: "2025-01-01T00:00:00+08:00"
 description: "Gemini OpenAI API 适配器"
 slug: gemini-cli-openai-worker
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gemini-cli-openai-worker
 
 Gemini OpenAI API 适配器
 

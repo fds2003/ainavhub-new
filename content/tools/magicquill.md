@@ -1,5 +1,5 @@
 ---
-title: "magicquill"
+title: "MagicQuill"
 date: "2025-01-01T00:00:00+08:00"
 description: "MagicQuill是一款智能交互的图像编辑系统，提供精准的本地编辑和AI建议。"
 slug: magicquill
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## magicquill
 
 MagicQuill是一款智能交互的图像编辑系统，提供精准的本地编辑和AI建议。
 

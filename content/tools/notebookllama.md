@@ -1,5 +1,5 @@
 ---
-title: "notebookllama"
+title: "NotebookLlama"
 date: "2025-01-01T00:00:00+08:00"
 description: "NotebookLlama是一个开源项目，旨在将PDF文档转换为播客，涵盖多个处理步骤。"
 slug: notebookllama
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## notebookllama
 
 NotebookLlama是一个开源项目，旨在将PDF文档转换为播客，涵盖多个处理步骤。
 

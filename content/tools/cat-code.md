@@ -1,5 +1,5 @@
 ---
-title: "cat-code"
+title: "Cat Code"
 date: "2025-01-01T00:00:00+08:00"
 description: "猫咪代码随机修改"
 slug: cat-code
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## cat-code
 
 猫咪代码随机修改
 

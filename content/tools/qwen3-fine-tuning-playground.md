@@ -1,5 +1,5 @@
 ---
-title: "qwen3-fine-tuning-playground"
+title: "Qwen3 Fine-Tuning Playground"
 date: "2025-01-01T00:00:00+08:00"
 description: "Qwen3大模型微调实战"
 slug: qwen3-fine-tuning-playground
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## qwen3-fine-tuning-playground
 
 Qwen3大模型微调实战
 

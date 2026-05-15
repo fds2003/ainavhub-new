@@ -1,5 +1,5 @@
 ---
-title: "ytt-mcp"
+title: "Ytt-Mcp"
 date: "2025-01-01T00:00:00+08:00"
 description: "YouTube 转录 MCP 服务器"
 slug: ytt-mcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ytt-mcp
 
 YouTube 转录 MCP 服务器
 

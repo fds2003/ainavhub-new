@@ -1,5 +1,5 @@
 ---
-title: "world-labs-ai-interactive-3d-scenes"
+title: "World Labs AI interactive 3D scenes"
 date: "2025-01-01T00:00:00+08:00"
 description: "World Labs的人工智能系统能从单张照片生成可互动的3D场景，为用户提供沉浸式体验。"
 slug: world-labs-ai-interactive-3d-scenes
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## world-labs-ai-interactive-3d-scenes
 
 World Labs的人工智能系统能从单张照片生成可互动的3D场景，为用户提供沉浸式体验。
 

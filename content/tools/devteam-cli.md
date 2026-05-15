@@ -1,5 +1,5 @@
 ---
-title: "devteam-cli"
+title: "DevTeam CLI"
 date: "2025-01-01T00:00:00+08:00"
 description: "多代理并行开发CLI"
 slug: devteam-cli
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## devteam-cli
 
 多代理并行开发CLI
 

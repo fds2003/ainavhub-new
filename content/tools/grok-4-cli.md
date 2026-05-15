@@ -1,5 +1,5 @@
 ---
-title: "grok-4-cli"
+title: "Grok 4 CLI"
 date: "2025-01-01T00:00:00+08:00"
 description: "Grok 4 命令行工具"
 slug: grok-4-cli
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## grok-4-cli
 
 Grok 4 命令行工具
 

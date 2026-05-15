@@ -1,5 +1,5 @@
 ---
-title: "agentic-rag-support-bot"
+title: "Agentic RAG Support Bot"
 date: "2025-01-01T00:00:00+08:00"
 description: "专门为雪佛兰汽车设计的客服聊天机器人"
 slug: agentic-rag-support-bot
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## agentic-rag-support-bot
 
 专门为雪佛兰汽车设计的客服聊天机器人
 

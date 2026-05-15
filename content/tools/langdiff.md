@@ -1,5 +1,5 @@
 ---
-title: "langdiff"
+title: "LangDiff"
 date: "2025-01-01T00:00:00+08:00"
 description: "LLM结构化流式输出UI同步"
 slug: langdiff
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## langdiff
 
 LLM结构化流式输出UI同步
 

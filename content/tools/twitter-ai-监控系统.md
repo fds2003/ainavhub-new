@@ -1,5 +1,5 @@
 ---
-title: "twitter-ai-监控系统"
+title: "Twitter AI 监控系统"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI智能Twitter推文分析与推送"
 slug: twitter-ai-监控系统
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## twitter-ai-监控系统
 
 AI智能Twitter推文分析与推送
 

@@ -1,5 +1,5 @@
 ---
-title: "character"
+title: "Character"
 date: "2025-01-01T00:00:00+08:00"
 description: "Elon Musk的公司xAI已经开始与人工智能聊天机器人初创公司Character.AI进行谈判，双方正在商讨可能的交易。"
 slug: character
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## character
 
 Elon Musk的公司xAI已经开始与人工智能聊天机器人初创公司Character.AI进行谈判，双方正在商讨可能的交易。
 

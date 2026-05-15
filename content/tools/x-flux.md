@@ -1,5 +1,5 @@
 ---
-title: "x-flux"
+title: "X-Flux"
 date: "2025-01-01T00:00:00+08:00"
 description: "该项目提供用于微调Flux模型的脚本，包括LoRA和ControlNet两种模型。"
 slug: x-flux
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## x-flux
 
 该项目提供用于微调Flux模型的脚本，包括LoRA和ControlNet两种模型。
 

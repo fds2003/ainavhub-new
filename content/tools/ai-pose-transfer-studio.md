@@ -1,5 +1,5 @@
 ---
-title: "ai-pose-transfer-studio"
+title: "AI Pose Transfer Studio"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI 照片姿态迁移"
 slug: ai-pose-transfer-studio
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-pose-transfer-studio
 
 AI 照片姿态迁移
 

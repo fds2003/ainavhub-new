@@ -1,5 +1,5 @@
 ---
-title: "universal-tool-calling-protocol"
+title: "Universal Tool Calling Protocol"
 date: "2025-01-01T00:00:00+08:00"
 description: "跨协议工具调用标准"
 slug: universal-tool-calling-protocol
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## universal-tool-calling-protocol
 
 跨协议工具调用标准
 

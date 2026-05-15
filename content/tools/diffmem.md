@@ -1,5 +1,5 @@
 ---
-title: "diffmem"
+title: "DiffMem"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI代理Git差分记忆"
 slug: diffmem
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## diffmem
 
 AI代理Git差分记忆
 

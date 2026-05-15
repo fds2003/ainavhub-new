@@ -1,5 +1,5 @@
 ---
-title: "iphone-ai预览版"
+title: "iPhone AI预览版"
 date: "2025-01-01T00:00:00+08:00"
 description: "苹果推送iOS 18.1带来Apple Intelligence预览"
 slug: iphone-ai预览版
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## iphone-ai预览版
 
 苹果推送iOS 18.1带来Apple Intelligence预览
 

@@ -1,5 +1,5 @@
 ---
-title: "astra"
+title: "ASTRA"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI软件助手自主红队系统"
 slug: astra
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## astra
 
 AI软件助手自主红队系统
 

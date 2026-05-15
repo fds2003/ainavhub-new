@@ -1,5 +1,5 @@
 ---
-title: "yi-9b"
+title: "Yi-9B"
 date: "2025-01-01T00:00:00+08:00"
 description: "李开复01.AI开源9B大型语言模型"
 slug: yi-9b
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## yi-9b
 
 李开复01.AI开源9B大型语言模型
 

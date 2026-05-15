@@ -1,5 +1,5 @@
 ---
-title: "ollama-app"
+title: "Ollama App"
 date: "2025-01-01T00:00:00+08:00"
 description: "Ollama App 是一款现代易用的客户端，为您提供本地网络隐私保护的极佳体验。"
 slug: ollama-app
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ollama-app
 
 Ollama App 是一款现代易用的客户端，为您提供本地网络隐私保护的极佳体验。
 

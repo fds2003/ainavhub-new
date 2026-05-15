@@ -1,5 +1,5 @@
 ---
-title: "Jarvis"
+title: "Jarvis 1"
 date: "2025-01-01T00:00:00+08:00"
 description: "Jarvis是一款命令行个人助理，集成Gmail、Google日历和任务管理，帮助高效管理数字生活。"
 slug: jarvis-1
@@ -8,7 +8,6 @@ tags: ["Developer Tools"]
 draft: false
 ---
 
-## Jarvis
 
 Jarvis是一款命令行个人助理，集成Gmail、Google日历和任务管理，帮助高效管理数字生活。
 

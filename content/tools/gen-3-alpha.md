@@ -1,5 +1,5 @@
 ---
-title: "gen-3-alpha"
+title: "Gen-3 Alpha"
 date: "2025-01-01T00:00:00+08:00"
 description: "由Runway推出的高保真可控视频生成模型。"
 slug: gen-3-alpha
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gen-3-alpha
 
 由Runway推出的高保真可控视频生成模型。
 

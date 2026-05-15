@@ -1,5 +1,5 @@
 ---
-title: "ghostcrew"
+title: "GHOSTCREW"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI渗透测试助手：GHOSTCREW"
 slug: ghostcrew
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ghostcrew
 
 AI渗透测试助手：GHOSTCREW
 

@@ -1,5 +1,5 @@
 ---
-title: "chatgpt-conversation-timeline-extension"
+title: "ChatGPT Conversation Timeline Extension"
 date: "2025-01-01T00:00:00+08:00"
 description: "ChatGPT对话时间线导航"
 slug: chatgpt-conversation-timeline-extension
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## chatgpt-conversation-timeline-extension
 
 ChatGPT对话时间线导航
 

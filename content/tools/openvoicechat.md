@@ -1,5 +1,5 @@
 ---
-title: "openvoicechat"
+title: "OpenVoiceChat"
 date: "2025-01-01T00:00:00+08:00"
 description: "OpenVoiceChat 是一个开源项目，支持与大型语言模型进行自然语音对话。"
 slug: openvoicechat
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openvoicechat
 
 OpenVoiceChat 是一个开源项目，支持与大型语言模型进行自然语音对话。
 

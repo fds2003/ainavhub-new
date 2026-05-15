@@ -1,5 +1,5 @@
 ---
-title: "research"
+title: "ReSearch"
 date: "2025-01-01T00:00:00+08:00"
 description: "ReSearch利用强化学习训练LLM，使其学会通过搜索进行推理，从而提高问答效果，无需监督数据。"
 slug: research
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## research
 
 ReSearch利用强化学习训练LLM，使其学会通过搜索进行推理，从而提高问答效果，无需监督数据。
 

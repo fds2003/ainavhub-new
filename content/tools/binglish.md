@@ -1,5 +1,5 @@
 ---
-title: "binglish"
+title: "Binglish"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI 桌面英语"
 slug: binglish
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## binglish
 
 AI 桌面英语
 

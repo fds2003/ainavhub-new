@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Ppt Aippt
 
 Ppt Aippt is an AI-powered tool designed for developers and creators.
 

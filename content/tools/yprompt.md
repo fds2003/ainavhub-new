@@ -1,5 +1,5 @@
 ---
-title: "yprompt"
+title: "YPrompt"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI引导式提示词生成"
 slug: yprompt
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## yprompt
 
 AI引导式提示词生成
 

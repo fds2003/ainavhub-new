@@ -1,5 +1,5 @@
 ---
-title: "deep-research-assistant-py"
+title: "Deep Research Assistant PY"
 date: "2025-01-01T00:00:00+08:00"
 description: "Deep Research Assistant PY 是一款基于AI的Python研究工具，助您深入探索话题并生成报告。"
 slug: deep-research-assistant-py
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deep-research-assistant-py
 
 Deep Research Assistant PY 是一款基于AI的Python研究工具，助您深入探索话题并生成报告。
 

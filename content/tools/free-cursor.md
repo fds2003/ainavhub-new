@@ -1,5 +1,5 @@
 ---
-title: "free-cursor"
+title: "Free-Cursor"
 date: "2025-01-01T00:00:00+08:00"
 description: "Cursor免费使用助手"
 slug: free-cursor
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## free-cursor
 
 Cursor免费使用助手
 

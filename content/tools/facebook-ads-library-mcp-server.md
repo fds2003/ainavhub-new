@@ -1,5 +1,5 @@
 ---
-title: "facebook-ads-library-mcp-server"
+title: "Facebook Ads Library MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "Facebook广告库MCP服务器"
 slug: facebook-ads-library-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## facebook-ads-library-mcp-server
 
 Facebook广告库MCP服务器
 

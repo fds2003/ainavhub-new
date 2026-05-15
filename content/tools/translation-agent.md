@@ -1,5 +1,5 @@
 ---
-title: "translation-agent"
+title: "Translation Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "Translation Agent 吴恩达老师开源翻译工作流Agent"
 slug: translation-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## translation-agent
 
 Translation Agent 吴恩达老师开源翻译工作流Agent
 

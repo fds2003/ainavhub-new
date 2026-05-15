@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Groq 500Token
 
 Groq 500Token is an AI-powered tool designed for developers and creators.
 

@@ -1,5 +1,5 @@
 ---
-title: "qwen-image"
+title: "Qwen-Image"
 date: "2025-01-01T00:00:00+08:00"
 description: "高保真文本渲染图像生成与编辑"
 slug: qwen-image
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## qwen-image
 
 高保真文本渲染图像生成与编辑
 

@@ -1,5 +1,5 @@
 ---
-title: "deepseek-engineer"
+title: "DeepSeek Engineer"
 date: "2025-01-01T00:00:00+08:00"
 description: "DeepSeek工程师是一款强大的编码助手应用，集成DeepSeek API进行用户对话处理和文件操作。"
 slug: deepseek-engineer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deepseek-engineer
 
 DeepSeek工程师是一款强大的编码助手应用，集成DeepSeek API进行用户对话处理和文件操作。
 

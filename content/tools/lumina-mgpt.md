@@ -1,5 +1,5 @@
 ---
-title: "lumina-mgpt"
+title: "Lumina-mGPT"
 date: "2025-01-01T00:00:00+08:00"
 description: "Lumina-mGPT是一种多模态自回归模型，尤其擅长将文本描述生成灵活逼真的图像。"
 slug: lumina-mgpt
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## lumina-mgpt
 
 Lumina-mGPT是一种多模态自回归模型，尤其擅长将文本描述生成灵活逼真的图像。
 

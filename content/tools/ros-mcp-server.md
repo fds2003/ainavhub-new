@@ -1,5 +1,5 @@
 ---
-title: "ros-mcp-server"
+title: "ROS MCP Server"
 date: "2025-01-01T00:00:00+08:00"
 description: "ROS MCP Server利用LLM将自然语言指令转化为ROS指令控制机器人，兼容ROS/ROS2，适用于多种平台。"
 slug: ros-mcp-server
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ros-mcp-server
 
 ROS MCP Server利用LLM将自然语言指令转化为ROS指令控制机器人，兼容ROS/ROS2，适用于多种平台。
 

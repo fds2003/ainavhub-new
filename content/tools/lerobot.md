@@ -1,5 +1,5 @@
 ---
-title: "lerobot"
+title: "LeRobot"
 date: "2025-01-01T00:00:00+08:00"
 description: "抱抱脸开源了LeRobot项目针对实际机器人技术的尖端机器学习"
 slug: lerobot
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## lerobot
 
 抱抱脸开源了LeRobot项目针对实际机器人技术的尖端机器学习
 

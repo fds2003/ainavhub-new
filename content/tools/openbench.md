@@ -1,5 +1,5 @@
 ---
-title: "openbench"
+title: "OpenBench"
 date: "2025-01-01T00:00:00+08:00"
 description: "语言模型开放基准"
 slug: openbench
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## openbench
 
 语言模型开放基准
 

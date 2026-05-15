@@ -1,5 +1,5 @@
 ---
-title: "4o-image-generation"
+title: "4o-Image-Generation"
 date: "2025-01-01T00:00:00+08:00"
 description: "OpenAI推出了其最新的图像生成能力集成于 GPT-4o 模型中"
 slug: 4o-image-generation
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## 4o-image-generation
 
 OpenAI推出了其最新的图像生成能力集成于 GPT-4o 模型中
 

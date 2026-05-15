@@ -1,5 +1,5 @@
 ---
-title: "lang-agent"
+title: "Lang-Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "LangGraph AI Agent 可视化编排"
 slug: lang-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## lang-agent
 
 LangGraph AI Agent 可视化编排
 

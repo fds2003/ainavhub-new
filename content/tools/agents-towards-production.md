@@ -1,5 +1,5 @@
 ---
-title: "agents-towards-production"
+title: "Agents Towards Production"
 date: "2025-01-01T00:00:00+08:00"
 description: "GenAI智能体生产实战手册"
 slug: agents-towards-production
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## agents-towards-production
 
 GenAI智能体生产实战手册
 

@@ -1,5 +1,5 @@
 ---
-title: "ai-proxy-worker"
+title: "AI Proxy Worker"
 date: "2025-01-01T00:00:00+08:00"
 description: "Cloudflare Workers AI 安全代理"
 slug: ai-proxy-worker
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## ai-proxy-worker
 
 Cloudflare Workers AI 安全代理
 

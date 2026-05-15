@@ -1,5 +1,5 @@
 ---
-title: "vertex-ai-rag-agent-with-adk"
+title: "Vertex AI RAG Agent with ADK"
 date: "2025-01-01T00:00:00+08:00"
 description: "Vertex AI RAG Agent with ADK：文档问答及管理"
 slug: vertex-ai-rag-agent-with-adk
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## vertex-ai-rag-agent-with-adk
 
 Vertex AI RAG Agent with ADK：文档问答及管理
 

@@ -1,5 +1,5 @@
 ---
-title: "moviellm"
+title: "MovieLLM"
 date: "2025-01-01T00:00:00+08:00"
 description: "复旦大学和腾讯PCG团队利用AI生成长视频数据的创新框架"
 slug: moviellm
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## moviellm
 
 复旦大学和腾讯PCG团队利用AI生成长视频数据的创新框架
 

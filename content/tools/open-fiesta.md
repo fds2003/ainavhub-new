@@ -1,5 +1,5 @@
 ---
-title: "open-fiesta"
+title: "Open-Fiesta"
 date: "2025-01-01T00:00:00+08:00"
 description: "多模型AI对话平台"
 slug: open-fiesta
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## open-fiesta
 
 多模型AI对话平台
 

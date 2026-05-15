@@ -1,5 +1,5 @@
 ---
-title: "seed-tts"
+title: "Seed-TTS"
 date: "2025-01-01T00:00:00+08:00"
 description: "强大的文本到语音转换工具"
 slug: seed-tts
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## seed-tts
 
 强大的文本到语音转换工具
 

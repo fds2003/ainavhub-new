@@ -1,5 +1,5 @@
 ---
-title: "vllm-cli"
+title: "vLLM CLI"
 date: "2025-01-01T00:00:00+08:00"
 description: "vLLM大模型服务CLI"
 slug: vllm-cli
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## vllm-cli
 
 vLLM大模型服务CLI
 

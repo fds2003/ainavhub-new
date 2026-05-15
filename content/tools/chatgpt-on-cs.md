@@ -1,5 +1,5 @@
 ---
-title: "chatgpt-on-cs"
+title: "ChatGPT-On-CS"
 date: "2025-01-01T00:00:00+08:00"
 description: "基于大型语言模型的智能对话客服工具"
 slug: chatgpt-on-cs
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## chatgpt-on-cs
 
 基于大型语言模型的智能对话客服工具
 

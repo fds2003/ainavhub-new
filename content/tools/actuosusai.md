@@ -1,5 +1,5 @@
 ---
-title: "actuosusai"
+title: "ActuosusAI"
 date: "2025-01-01T00:00:00+08:00"
 description: "ActuosusAI是一款支持模型下载和管理的聊天应用，能够在GPU上高效运行。"
 slug: actuosusai
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## actuosusai
 
 ActuosusAI是一款支持模型下载和管理的聊天应用，能够在GPU上高效运行。
 

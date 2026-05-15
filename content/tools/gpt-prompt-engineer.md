@@ -1,5 +1,5 @@
 ---
-title: "gpt-prompt-engineer"
+title: "Gpt-Prompt-Engineer"
 date: "2025-01-01T00:00:00+08:00"
 description: "地址：https://github.com/mshumer/gpt-prompt-engineer"
 slug: gpt-prompt-engineer
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gpt-prompt-engineer
 
 地址：https://github.com/mshumer/gpt-prompt-engineer
 

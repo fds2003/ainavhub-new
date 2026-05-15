@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Clean Up
 
 Apple 推出了新的“清理”功能，可从 iOS 18.1 Beta 上的照片中删除任何不需要的人物或物体。
 

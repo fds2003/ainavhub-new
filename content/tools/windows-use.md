@@ -1,5 +1,5 @@
 ---
-title: "windows-use"
+title: "Windows-Use"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI自动化Windows"
 slug: windows-use
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## windows-use
 
 AI自动化Windows
 

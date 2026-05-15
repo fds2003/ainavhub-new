@@ -1,5 +1,5 @@
 ---
-title: "rag-search"
+title: "Rag-Search"
 date: "2025-01-01T00:00:00+08:00"
 description: "thinkany.ai提供的，支持详细配置的搜索API服务"
 slug: rag-search
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## rag-search
 
 thinkany.ai提供的，支持详细配置的搜索API服务
 

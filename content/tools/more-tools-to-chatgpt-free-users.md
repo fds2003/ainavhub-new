@@ -1,5 +1,5 @@
 ---
-title: "more-tools-to-chatgpt-free-users"
+title: "more tools to ChatGPT free users"
 date: "2025-01-01T00:00:00+08:00"
 description: "GPT-4o的5个使用场景"
 slug: more-tools-to-chatgpt-free-users
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## more-tools-to-chatgpt-free-users
 
 GPT-4o的5个使用场景
 

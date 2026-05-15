@@ -1,5 +1,5 @@
 ---
-title: "gui-actor"
+title: "GUI-Actor"
 date: "2025-01-01T00:00:00+08:00"
 description: "GUI-Actor：无坐标的GUI代理视觉定位"
 slug: gui-actor
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gui-actor
 
 GUI-Actor：无坐标的GUI代理视觉定位
 

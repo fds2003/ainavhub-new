@@ -1,5 +1,5 @@
 ---
-title: "claude-autopilot"
+title: "Claude Autopilot"
 date: "2025-01-01T00:00:00+08:00"
 description: "Claude 自动化任务管理"
 slug: claude-autopilot
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## claude-autopilot
 
 Claude 自动化任务管理
 

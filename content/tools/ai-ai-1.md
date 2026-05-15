@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Ai Ai 1
 
 Ai Ai 1 is an AI-powered tool designed for developers and creators.
 

@@ -1,5 +1,5 @@
 ---
-title: "cairn"
+title: "Cairn"
 date: "2025-01-01T00:00:00+08:00"
 description: "GitHub AI自动化开发代理"
 slug: cairn
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## cairn
 
 GitHub AI自动化开发代理
 

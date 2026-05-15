@@ -1,5 +1,5 @@
 ---
-title: "deepseek4free"
+title: "DeepSeek4Free"
 date: "2025-01-01T00:00:00+08:00"
 description: "DeepSeek4Free是一个Python库，方便与DeepSeek AI聊天API交互，支持流式响应和网页搜索功能。"
 slug: deepseek4free
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deepseek4free
 
 DeepSeek4Free是一个Python库，方便与DeepSeek AI聊天API交互，支持流式响应和网页搜索功能。
 

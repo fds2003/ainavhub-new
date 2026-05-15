@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## Remove Background Webgpu Webgpu
 
 Remove Background Webgpu Webgpu is an AI-powered tool designed for developers and creators.
 

@@ -1,5 +1,5 @@
 ---
-title: "helicone-ai-gateway"
+title: "Helicone AI Gateway"
 date: "2025-01-01T00:00:00+08:00"
 description: "统一大模型API网关"
 slug: helicone-ai-gateway
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## helicone-ai-gateway
 
 统一大模型API网关
 

@@ -1,5 +1,5 @@
 ---
-title: "open-computer-use"
+title: "Open Computer Use"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI自主电脑操作平台"
 slug: open-computer-use
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## open-computer-use
 
 AI自主电脑操作平台
 

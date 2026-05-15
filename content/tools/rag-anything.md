@@ -1,5 +1,5 @@
 ---
-title: "rag-anything"
+title: "RAG-Anything"
 date: "2025-01-01T00:00:00+08:00"
 description: "RAG-Anything：一体化多模态文档处理RAG系统"
 slug: rag-anything
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## rag-anything
 
 RAG-Anything：一体化多模态文档处理RAG系统
 

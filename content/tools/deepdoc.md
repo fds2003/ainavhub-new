@@ -1,5 +1,5 @@
 ---
-title: "deepdoc"
+title: "DeepDoc"
 date: "2025-01-01T00:00:00+08:00"
 description: "本地文档智能研究报告"
 slug: deepdoc
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## deepdoc
 
 本地文档智能研究报告
 

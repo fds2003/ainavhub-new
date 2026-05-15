@@ -1,5 +1,5 @@
 ---
-title: "graphrag"
+title: "GraphRAG"
 date: "2025-01-01T00:00:00+08:00"
 description: "GraphRAG 微软开源的知识图谱RAG"
 slug: graphrag
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## graphrag
 
 GraphRAG 微软开源的知识图谱RAG
 

@@ -1,5 +1,5 @@
 ---
-title: "gpt-home"
+title: "GPT Home"
 date: "2025-01-01T00:00:00+08:00"
 description: "基于Raspberry Pi和OpenAI API搭建的智能家居助手"
 slug: gpt-home
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gpt-home
 
 基于Raspberry Pi和OpenAI API搭建的智能家居助手
 

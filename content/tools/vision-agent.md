@@ -1,5 +1,5 @@
 ---
-title: "vision-agent"
+title: "Vision Agent"
 date: "2025-01-01T00:00:00+08:00"
 description: "Vision Agent 是一个通过代理系统自动生成代码解决视觉任务的库。"
 slug: vision-agent
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## vision-agent
 
 Vision Agent 是一个通过代理系统自动生成代码解决视觉任务的库。
 

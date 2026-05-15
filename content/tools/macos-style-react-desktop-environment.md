@@ -1,5 +1,5 @@
 ---
-title: "macos-style-react-desktop-environment"
+title: "macOS-Style React Desktop Environment"
 date: "2025-01-01T00:00:00+08:00"
 description: "MacAlverse 是一个用React构建的开源macOS风格桌面环境。"
 slug: macos-style-react-desktop-environment
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## macos-style-react-desktop-environment
 
 MacAlverse 是一个用React构建的开源macOS风格桌面环境。
 

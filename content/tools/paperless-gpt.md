@@ -1,5 +1,5 @@
 ---
-title: "paperless-gpt"
+title: "Paperless-Gpt"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI赋能的Paperless-ngx文档管理工具"
 slug: paperless-gpt
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## paperless-gpt
 
 AI赋能的Paperless-ngx文档管理工具
 

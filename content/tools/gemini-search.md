@@ -1,5 +1,5 @@
 ---
-title: "gemini-search"
+title: "Gemini-Search"
 date: "2025-01-01T00:00:00+08:00"
 description: "Gemini-Search是一个基于Google Gemini 2.0的搜索引擎，可实时获取带引用的AI答案。"
 slug: gemini-search
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## gemini-search
 
 Gemini-Search是一个基于Google Gemini 2.0的搜索引擎，可实时获取带引用的AI答案。
 

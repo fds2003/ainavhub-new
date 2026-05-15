@@ -1,5 +1,5 @@
 ---
-title: "minusx"
+title: "MinusX"
 date: "2025-01-01T00:00:00+08:00"
 description: "MinusX是一个AI数据科学家，能在Jupyter和Metabase等工具中进行数据分析和处理。"
 slug: minusx
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## minusx
 
 MinusX是一个AI数据科学家，能在Jupyter和Metabase等工具中进行数据分析和处理。
 

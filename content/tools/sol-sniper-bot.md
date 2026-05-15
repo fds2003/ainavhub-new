@@ -1,5 +1,5 @@
 ---
-title: "sol-sniper-bot"
+title: "Sol-Sniper-Bot"
 date: "2025-01-01T00:00:00+08:00"
 description: "Sol Sniper Bot 是一个自动购Token的工具，可在Solana平台快速获取新Raydium WSOL流动性池的Token。"
 slug: sol-sniper-bot
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## sol-sniper-bot
 
 Sol Sniper Bot 是一个自动购Token的工具，可在Solana平台快速获取新Raydium WSOL流动性池的Token。
 

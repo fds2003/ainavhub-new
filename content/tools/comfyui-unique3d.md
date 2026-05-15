@@ -1,5 +1,5 @@
 ---
-title: "comfyui-unique3d"
+title: "ComfyUI-Unique3D"
 date: "2025-01-01T00:00:00+08:00"
 description: "ComfyUI Unique3D 是将 Unique3D 集成到 ComfyUI 的自定义节点。"
 slug: comfyui-unique3d
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## comfyui-unique3d
 
 ComfyUI Unique3D 是将 Unique3D 集成到 ComfyUI 的自定义节点。
 

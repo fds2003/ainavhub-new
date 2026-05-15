@@ -1,5 +1,5 @@
 ---
-title: "wuhr-ai-ops"
+title: "Wuhr AI Ops"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI智能运维管理平台"
 slug: wuhr-ai-ops
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## wuhr-ai-ops
 
 AI智能运维管理平台
 

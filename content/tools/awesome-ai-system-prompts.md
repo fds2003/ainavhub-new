@@ -1,5 +1,5 @@
 ---
-title: "awesome-ai-system-prompts"
+title: "Awesome AI System Prompts"
 date: "2025-01-01T00:00:00+08:00"
 description: "Awesome AI System Prompts 收集了多个AI平台（如ChatGPT、Claude等）的系统提示，用于提升AI性能。"
 slug: awesome-ai-system-prompts
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## awesome-ai-system-prompts
 
 Awesome AI System Prompts 收集了多个AI平台（如ChatGPT、Claude等）的系统提示，用于提升AI性能。
 

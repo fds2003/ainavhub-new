@@ -1,5 +1,5 @@
 ---
-title: "codemachine-cli"
+title: "CodeMachine CLI"
 date: "2025-01-01T00:00:00+08:00"
 description: "AI多智能体代码生成平台"
 slug: codemachine-cli
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## codemachine-cli
 
 AI多智能体代码生成平台
 

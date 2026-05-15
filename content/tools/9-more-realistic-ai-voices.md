@@ -1,5 +1,5 @@
 ---
-title: "9-more-realistic-ai-voices"
+title: "9 More Realistic AI Voices"
 date: "2025-01-01T00:00:00+08:00"
 description: "微软推出9款更逼真的AI语音，现已全面开放使用，适合各种对话场景"
 slug: 9-more-realistic-ai-voices
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## 9-more-realistic-ai-voices
 
 微软推出9款更逼真的AI语音，现已全面开放使用，适合各种对话场景
 

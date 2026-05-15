@@ -1,5 +1,5 @@
 ---
-title: "github-copilot-workspace"
+title: "GitHub Copilot Workspace"
 date: "2025-01-01T00:00:00+08:00"
 description: "以Copilot 为中心的创新开发者环境，让开发者能用自然语言从构思到编码再到软件开发。"
 slug: github-copilot-workspace
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## github-copilot-workspace
 
 以Copilot 为中心的创新开发者环境，让开发者能用自然语言从构思到编码再到软件开发。
 

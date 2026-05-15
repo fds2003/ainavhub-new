@@ -1,5 +1,5 @@
 ---
-title: "apple-doc-mcp"
+title: "Apple Doc MCP"
 date: "2025-01-01T00:00:00+08:00"
 description: "苹果文档AI助手集成"
 slug: apple-doc-mcp
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## apple-doc-mcp
 
 苹果文档AI助手集成
 

@@ -1,5 +1,5 @@
 ---
-title: "monkeycode"
+title: "MonkeyCode"
 date: "2025-01-01T00:00:00+08:00"
 description: "企业智能编程与安全管理平台"
 slug: monkeycode
@@ -8,7 +8,6 @@ tags: ["AI Tools"]
 draft: false
 ---
 
-## monkeycode
 
 企业智能编程与安全管理平台
 
