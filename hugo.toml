@@ -24,7 +24,6 @@ disableKinds = ["RSS"]
   tools = "/tools/:slug/"
   guides = "/guides/:slug/"
   insights = "/insights/:slug/"
-  openclaw = "/openclaw/:slug/"
 
 # Navigation
 [[menu.main]]
