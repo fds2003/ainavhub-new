@@ -1,8 +1,9 @@
 ---
-layout: default
-title: OpenClaw 使用场景（三）：基础设施与 DevOps
-description: 用 n8n Webhook 把凭证隔离在可视化工作流里，以及家庭服务器自愈巡检类 OpenClaw 场景导读。
-keywords: OpenClaw, n8n, DevOps, Webhook, 家庭服务器, SSH, 自动化运维, 龙虾教程
+title: "OpenClaw 使用场景（三）：基础设施与 DevOps"
+description: "用 n8n Webhook 把凭证隔离在可视化工作流里，以及家庭服务器自愈巡检类 OpenClaw 场景导读。"
+keywords: "OpenClaw, n8n, DevOps, Webhook, 家庭服务器, SSH, 自动化运维, 龙虾教程"
+slug: "openclaw-devops"
+layout: "default"
 date: "2026-03-23T11:15:00+08:00"
 ---
 

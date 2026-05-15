@@ -1,10 +1,12 @@
 ---
-layout: default
-title: OpenClaw 在微信平台的应用场景与接入方案
-description: 根据提供的文档内容，OpenClaw…
-keywords: OpenClaw 在微信平台的应用场景与接入方案, 龙虾, 大龙虾, claw, openclaw, OpenClaw, OpenClaw教程, 龙虾教程, AI助手, 飞书机器人, Skills, 安装配置, 快速上手, 实战案例, 中文教程
-date: 2026-03-11
+title: "OpenClaw 在微信平台的应用场景与接入方案"
+description: "根据提供的文档内容，OpenClaw…"
+keywords: "OpenClaw 在微信平台的应用场景与接入方案, 龙虾, 大龙虾, claw, openclaw, OpenClaw, OpenClaw教程, 龙虾教程, AI助手, 飞书机器人, Skills, 安装配置, 快速上手, 实战案例, 中文教程"
+slug: "openclaw-wechat-platform"
+layout: "default"
+date: "2026-03-11"
 ---
+
 # OpenClaw 在微信平台的应用场景与接入方案
 
 根据提供的文档内容，OpenClaw 在微信生态中的应用是其国内落地的重要方向。由于微信个人号缺乏官方机器人接口，所有方案均存在一定限制。其核心价值在于将AI助手的能力延伸至微信这一高频社交与工作场景。

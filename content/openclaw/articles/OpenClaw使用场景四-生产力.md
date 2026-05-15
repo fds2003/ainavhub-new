@@ -1,8 +1,9 @@
 ---
-layout: default
-title: OpenClaw 使用场景（四）：生产力
-description: 从晨间简报、会议纪要、多通道助理、个人 CRM、Second Brain 到本地 CRM 框架等 20 类 OpenClaw 生产力场景导读，附社区文档链接。
-keywords: OpenClaw, 生产力, CRM, 会议纪要, Todoist, Second Brain, 多Agent, 飞书, 龙虾教程
+title: "OpenClaw 使用场景（四）：生产力"
+description: "从晨间简报、会议纪要、多通道助理、个人 CRM、Second Brain 到本地 CRM 框架等 20 类 OpenClaw 生产力场景导读，附社区文档链接。"
+keywords: "OpenClaw, 生产力, CRM, 会议纪要, Todoist, Second Brain, 多Agent, 飞书, 龙虾教程"
+slug: "openclaw-productivity"
+layout: "default"
 date: "2026-03-23T14:00:00+08:00"
 ---
 

@@ -1,9 +1,11 @@
 ---
-layout: default
-title: OpenClaw企业微信：自动销售接待解决方案
-keywords: OpenClaw企业微信：自动销售接待解决方案, 龙虾, 大龙虾, claw, openclaw, OpenClaw, OpenClaw教程, 龙虾教程, AI助手, 飞书机器人, Skills, 安装配置, 快速上手, 实战案例, 中文教程
-date: 2026-03-11
+title: "OpenClaw企业微信：自动销售接待解决方案"
+keywords: "OpenClaw企业微信：自动销售接待解决方案, 龙虾, 大龙虾, claw, openclaw, OpenClaw, OpenClaw教程, 龙虾教程, AI助手, 飞书机器人, Skills, 安装配置, 快速上手, 实战案例, 中文教程"
+slug: "openclaw-wechat-sales"
+layout: "default"
+date: "2026-03-11"
 ---
+
 # OpenClaw企业微信：自动销售接待解决方案
 
 ## 一、方案核心价值
