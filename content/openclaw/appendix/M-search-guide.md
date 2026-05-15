@@ -226,7 +226,7 @@ https://your-site.com/search?q=飞书
 ## 📚 相关资源
 
 - [教程目录](/)
-- [常见问题](/openclaw/E-common-problems/)
+- [常见问题](/openclaw/appendix/E-common-problems/)
 
 ---
 

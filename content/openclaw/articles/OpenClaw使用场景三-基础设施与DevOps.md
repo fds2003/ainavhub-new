@@ -32,4 +32,4 @@ draft: false
 
 - **SSH 密钥与权限**：最小权限原则，生产与家庭网络建议分账户、分密钥。  
 - **自动修复脚本**：先在沙箱/ staging 验证，避免「自愈变自毁」。  
-- 更多安全配置见本教程 [安全指南](/openclaw/11-advanced-configuration/)
+- 更多安全配置见本教程 [安全指南](/openclaw/03-advanced/11-advanced-configuration/)

@@ -585,7 +585,7 @@ openclaw models list
 
 ## 📚 相关文档
 
-- [附录L：配置文件结构完整指南](/openclaw/11-advanced-configuration/) - 高级配置技巧
+- [附录L：配置文件结构完整指南](/openclaw/03-advanced/11-advanced-configuration/) - 高级配置技巧
 
 ---
 

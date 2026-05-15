@@ -996,9 +996,9 @@ openclaw info
 
 ## 📚 相关资源
 
-- [附录F：避坑指南与最佳实践](\/openclaw/F-best-practices/)
-- [附录A：命令速查表](\/openclaw/A-command-reference/)
-- [附录D：社区资源导航](\/openclaw/D-community-resources/)
+- [附录F：避坑指南与最佳实践](\/openclaw/appendix/F-best-practices/)
+- [附录A：命令速查表](\/openclaw/appendix/A-command-reference/)
+- [附录D：社区资源导航](\/openclaw/appendix/D-community-resources/)
 
 ---
 

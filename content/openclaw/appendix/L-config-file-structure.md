@@ -505,7 +505,7 @@ source ~/.zshrc
 
 ## 🔗 相关文档
 
-- [第2章：安装配置](/openclaw/H-config-templates/) - 更多配置模板
+- [第2章：安装配置](/openclaw/appendix/H-config-templates/) - 更多配置模板
 
 ---
 

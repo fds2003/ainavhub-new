@@ -881,10 +881,10 @@ echo "访问 http://localhost:18789 开始使用"
 
 ## 📚 相关资源
 
-- [第2章：环境搭建](\/openclaw/02-installation/)
-- [第11章：高级配置](\/openclaw/11-advanced-configuration/)
-- [附录A：命令速查表](\/openclaw/A-command-reference/)
-- [附录G：文档链接验证](\/openclaw/G-links-validation/)
+- [第2章：环境搭建](\/openclaw/01-basics/02-installation/)
+- [第11章：高级配置](\/openclaw/03-advanced/11-advanced-configuration/)
+- [附录A：命令速查表](\/openclaw/appendix/A-command-reference/)
+- [附录G：文档链接验证](\/openclaw/appendix/G-links-validation/)
 
 ---
 

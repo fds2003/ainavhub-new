@@ -34,9 +34,9 @@ draft: false
 - 浪费大量时间试错
 
 **正确做法**：
-1. ✅ 先阅读[第1章：认识OpenClaw](\/openclaw/01-introduction/)
-2. ✅ 按照[快速上手指南](\/openclaw/03-quick-start/)操作
-3. ✅ 遇到问题先查[常见问题](\/openclaw/E-common-problems/)
+1. ✅ 先阅读[第1章：认识OpenClaw](\/openclaw/01-basics/01-introduction/)
+2. ✅ 按照[快速上手指南](\/openclaw/01-basics/03-quick-start/)操作
+3. ✅ 遇到问题先查[常见问题](\/openclaw/appendix/E-common-problems/)
 
 **时间节省**：至少节省2-3小时的试错时间
 
@@ -959,9 +959,9 @@ if (!await fileExists('report.txt')) {
 
 ## 📚 相关资源
 
-- [附录E：常见问题速查](\/openclaw/E-common-problems/)
-- [附录A：命令速查表](\/openclaw/A-command-reference/)
-- [附录C：API服务商对比](\/openclaw/C-api-comparison/)
+- [附录E：常见问题速查](\/openclaw/appendix/E-common-problems/)
+- [附录A：命令速查表](\/openclaw/appendix/A-command-reference/)
+- [附录C：API服务商对比](\/openclaw/appendix/C-api-comparison/)
 
 ---
 

@@ -9,7 +9,7 @@ draft: false
 
 > 💡 **本章目标**：学会将OpenClaw接入飞书、企业微信、钉钉、QQ等国内主流平台，实现随时随地使用AI助手。飞书作为最现代化、开发友好的平台，将优先介绍。
 
-> 🔗 **配置前推荐阅读**：先按 [飞书 Bot 配置检查清单](/openclaw/99-security-guide/)。
+> 🔗 **配置前推荐阅读**：先按 [飞书 Bot 配置检查清单](/openclaw/03-advanced/99-security-guide/)。
 
 ## 📱 本章内容
 
