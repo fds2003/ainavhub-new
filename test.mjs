@@ -57,6 +57,7 @@ test('layouts 所有必需模板文件存在', () => {
     'partials/footer.html',
     'partials/breadcrumb.html',
     'partials/category-icon.html',
+    '_default/list.index.json',
     '404.html',
   ];
   for (const f of required) {
@@ -78,6 +79,10 @@ test('content/_index.md 存在', () => {
 
 test('static/robots.txt 存在', () => {
   assert(existsSync(join(ROOT, 'static/robots.txt')), '缺少 robots.txt');
+});
+
+test('static/favicon.svg 存在', () => {
+  assert(existsSync(join(ROOT, 'static/favicon.svg')), '缺少 favicon.svg');
 });
 
 test('static/llms.txt 存在', () => {
