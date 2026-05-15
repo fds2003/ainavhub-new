@@ -1,7 +1,7 @@
 ---
 title: "AAIELA"
 date: "2024-01-01 00:00:00+08:00"
-description: 'AAIELA AAIELA: AI AAIELA'
+description: 'AAIELA: AI辅助图像编辑系统，支持语音指令驱动图像修改、对象识别和掩码修复'
 slug: aaiela-llms
 tags:
 - sd
