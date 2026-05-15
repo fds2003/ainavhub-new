@@ -10,7 +10,7 @@
         {{ range .Paginator.Pages }}
         <article class="tool-card animate-in">
             <div class="tool-card-header">
-                <div class="tool-icon">{{ if .Params.category }}{{ if eq .Params.category "Coding" }}💻{{ else if eq .Params.category "Chat/LLM" }}💬{{ else if eq .Params.category "Video" }}🎬{{ else if eq .Params.category "Audio" }}🎵{{ else if eq .Params.category "Image Generation" }}🎨{{ else if eq .Params.category "Research" }}🔬{{ else if eq .Params.category "Productivity" }}⚡{{ else if eq .Params.category "Writing" }}✍️{{ else if eq .Params.category "AI Tools" }}🤖{{ else }}📦{{ end }}{{ else }}📦{{ end }}</div>
+                <div class="tool-icon">{{ partial "category-icon" (dict "category" .Params.category) }}</div>
                 <div class="tool-info">
                     <h3 class="tool-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     {{ with .Params.category }}<span class="tool-category">{{ . }}</span>{{ end }}

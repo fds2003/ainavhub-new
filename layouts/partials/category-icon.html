@@ -1,0 +1,11 @@
+{{ $category := .category }}
+{{ $default := .default | default "📦" }}
+{{ with site.Data.category_icons }}
+  {{ with index . $category }}
+    {{ . }}
+  {{ else }}
+    {{ $default }}
+  {{ end }}
+{{ else }}
+  {{ $default }}
+{{ end }}

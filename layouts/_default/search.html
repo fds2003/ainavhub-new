@@ -2,51 +2,135 @@
 <div class="page-container" style="text-align: center; padding: 6rem 2rem;">
     <div style="font-size: 3rem; margin-bottom: 1rem;">🔍</div>
     <h1 style="font-size: 2rem; font-weight: 700; margin-bottom: 1rem;">搜索AI工具</h1>
+    <p style="color: var(--text-secondary); margin-bottom: 2rem;">输入关键词，自动模糊匹配工具和指南</p>
     <div style="max-width: 600px; margin: 0 auto 3rem;">
         <div style="position: relative;">
             🔍
-            <input type="search" id="search-input" placeholder="搜索 AI工具、指南、OpenClaw教程..." 
+            <input type="search" id="search-input" placeholder="搜索 AI工具、指南、OpenClaw教程..."
                 style="width: 100%; padding: 1rem 1.25rem 1rem 3.25rem; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: var(--radius-lg); font-size: 1rem; color: var(--text-primary); outline: none; box-sizing: border-box;">
         </div>
     </div>
+    <div id="search-status" style="color: var(--text-muted); font-size: 0.875rem; margin-bottom: 1rem;"></div>
     <div id="search-results" style="max-width: 800px; margin: 0 auto; text-align: left;"></div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
 <script>
+(function() {
 const searchInput = document.getElementById('search-input');
 const resultsDiv = document.getElementById('search-results');
+const statusDiv = document.getElementById('search-status');
 let allItems = [];
+let fuse = null;
+let loaded = 0;
 
-fetch('/tools/index.xml').then(r => r.text()).then(xml => {
-    const doc = new DOMParser().parseFromString(xml, 'text/xml');
-    doc.querySelectorAll('item').forEach(item => {
-        allItems.push({type: 'tool', title: item.querySelector('title')?.textContent || '', desc: item.querySelector('description')?.textContent || '', link: item.querySelector('link')?.textContent || ''});
+function onDataReady() {
+    loaded++;
+    if (loaded < 2) return;
+    fuse = new Fuse(allItems, {
+        keys: [
+            { name: 'title', weight: 2 },
+            { name: 'desc', weight: 1 }
+        ],
+        threshold: 0.35,
+        distance: 80,
+        minMatchCharLength: 1,
+        shouldSort: true,
+        includeScore: true,
     });
-});
-fetch('/guides/index.xml').then(r => r.text()).then(xml => {
-    const doc = new DOMParser().parseFromString(xml, 'text/xml');
-    doc.querySelectorAll('item').forEach(item => {
-        allItems.push({type: 'guide', title: item.querySelector('title')?.textContent || '', desc: item.querySelector('description')?.textContent || '', link: item.querySelector('link')?.textContent || ''});
-    });
-});
+    statusDiv.textContent = `共 ${allItems.length} 条数据，已就绪`;
+    // Trigger search if input already has text
+    if (searchInput.value.trim()) {
+        doSearch();
+    }
+}
 
-searchInput.addEventListener('input', function() {
-    const q = this.value.trim().toLowerCase();
-    if (!q) { resultsDiv.innerHTML = ''; return; }
-    const results = allItems.filter(t => t.title.toLowerCase().includes(q) || t.desc.toLowerCase().includes(q)).slice(0, 20);
-    if (results.length === 0) {
-        resultsDiv.innerHTML = '<p style="color: var(--text-muted); text-align: center;">未找到结果</p>';
+function fetchIndex(path, type) {
+    fetch(path).then(r => {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.text();
+    }).then(xml => {
+        const doc = new DOMParser().parseFromString(xml, 'text/xml');
+        doc.querySelectorAll('item').forEach(item => {
+            allItems.push({
+                type: type,
+                title: item.querySelector('title')?.textContent?.trim() || '',
+                desc: item.querySelector('description')?.textContent?.trim() || '',
+                link: item.querySelector('link')?.textContent?.trim() || '',
+            });
+        });
+        onDataReady();
+    }).catch(err => {
+        console.warn('Failed to load ' + type + ' index:', err);
+        onDataReady();
+    });
+}
+
+fetchIndex('/tools/index.xml', 'tool');
+fetchIndex('/guides/index.xml', 'guide');
+
+function highlightText(text, indices) {
+    if (!indices || indices.length === 0) return escapeHtml(text);
+    let result = '';
+    let lastEnd = 0;
+    for (const [start, end] of indices) {
+        result += escapeHtml(text.slice(lastEnd, start));
+        result += '<mark style="background: rgba(79,140,255,0.2); color: var(--accent-primary); border-radius: 2px; padding: 0 2px;">' + escapeHtml(text.slice(start, end + 1)) + '</mark>';
+        lastEnd = end + 1;
+    }
+    result += escapeHtml(text.slice(lastEnd));
+    return result;
+}
+
+function escapeHtml(str) {
+    const div = document.createElement('div');
+    div.textContent = str;
+    return div.innerHTML;
+}
+
+function doSearch() {
+    const q = searchInput.value.trim();
+    if (!q) {
+        resultsDiv.innerHTML = '';
+        statusDiv.textContent = allItems.length ? `共 ${allItems.length} 条数据，已就绪` : '正在加载数据...';
         return;
     }
-    resultsDiv.innerHTML = results.map((item, i) => `
-        <a href="${item.link}" class="search-result-item" style="animation-delay: ${i * 30}ms">
+    if (!fuse) {
+        resultsDiv.innerHTML = '<p style="color: var(--text-muted); text-align: center;">正在加载索引，请稍候...</p>';
+        return;
+    }
+    const raw = fuse.search(q);
+    const results = raw.slice(0, 20);
+    if (results.length === 0) {
+        resultsDiv.innerHTML = '<p style="color: var(--text-muted); text-align: center;">未找到结果，试试其他关键词</p>';
+        statusDiv.textContent = `"${q}" 无匹配结果`;
+        return;
+    }
+    statusDiv.textContent = `"${q}" 找到 ${results.length} 条结果`;
+    resultsDiv.innerHTML = results.map((item, i) => {
+        const t = item.item;
+        const matches = item.matches || [];
+        const titleMatch = matches.find(m => m.key === 'title');
+        const descMatch = matches.find(m => m.key === 'desc');
+        const displayTitle = titleMatch ? highlightText(t.title, titleMatch.indices) : escapeHtml(t.title);
+        const displayDesc = descMatch ? highlightText(t.desc, descMatch.indices) : escapeHtml(t.desc);
+        return `
+        <a href="${t.link}" class="search-result-item" style="animation-delay: ${i * 30}ms">
             <div class="search-result-header">
-                <span class="search-type-badge search-type-${item.type}">${item.type === 'tool' ? '🔧 工具' : '📖 指南'}</span>
-                <h3>${item.title}</h3>
+                <span class="search-type-badge search-type-${t.type}">${t.type === 'tool' ? '🔧 工具' : '📖 指南'}</span>
+                <h3>${displayTitle}</h3>
             </div>
-            <p>${item.desc}</p>
+            <p>${displayDesc}</p>
         </a>
-    `).join('');
+        `;
+    }).join('');
+}
+
+let debounceTimer;
+searchInput.addEventListener('input', function() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(doSearch, 100);
 });
+})();
 </script>
 {{ end }}

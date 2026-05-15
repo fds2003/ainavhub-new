@@ -8,7 +8,7 @@
     <div class="categories-overview">
         {{ range .Pages.ByTitle }}
         <a href="{{ .RelPermalink }}" class="category-block">
-            <div class="cat-icon-bg">{{ if eq .Title "Coding" }}💻{{ else if eq .Title "Chat/LLM" }}💬{{ else if eq .Title "Video" }}🎬{{ else if eq .Title "Audio" }}🎵{{ else if eq .Title "Image Generation" }}🎨{{ else if eq .Title "Research" }}🔬{{ else if eq .Title "Productivity" }}⚡{{ else if eq .Title "Writing" }}✍️{{ else if eq .Title "AI Tools" }}🤖{{ else }}📁{{ end }}</div>
+            <div class="cat-icon-bg">{{ partial "category-icon" (dict "category" .Title "default" "📁") }}</div>
             <h3>{{ .Title }}</h3>
             <span class="cat-count">{{ len .Pages }} 工具</span>
         </a>

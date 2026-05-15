@@ -1,0 +1,14 @@
+# Category → Emoji mapping for AINavHub
+# Used by layouts/partials/category-icon.html
+# To add a new category icon, add an entry here (no template changes needed)
+
+Coding: 💻
+Chat/LLM: 💬
+Video: 🎬
+Audio: 🎵
+Image Generation: 🎨
+Research: 🔬
+Productivity: ⚡
+Writing: ✍️
+AI Tools: 🤖
+AI Agents: 🤖
