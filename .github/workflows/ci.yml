@@ -29,9 +29,17 @@ jobs:
       - name: Hugo build
         run: hugo --gc
 
-      - name: Check output size
+      - name: Split sitemap
+        run: node split-sitemap.mjs
+
+      - name: Check output
         run: |
           echo "Build output:"
           du -sh public/
           echo "HTML files: $(find public/ -name '*.html' | wc -l)"
-          echo "JSON index files: $(find public/ -name 'index.json' | wc -l)"
+          echo "Sitemaps:"
+          ls -lh public/sitemap*.xml
+          for f in public/sitemap*.xml; do
+            count=$(grep -c '<loc>' "$f" || true)
+            echo "  $f → $count URLs"
+          done

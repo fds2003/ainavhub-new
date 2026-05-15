@@ -71,14 +71,14 @@ ainavhub-new/
 2. Cloudflare Dashboard → Workers & Pages → Create → Connect to Git
 3. 选择仓库 `ainavhub/ainavhub.top`
 4. 构建配置:
-   - **Build command:** `hugo --gc`
+   - **Build command:** `hugo --gc && node split-sitemap.mjs`
    - **Output directory:** `public`
 5. 部署后在 Pages 设置中添加自定义域名 `ainavhub.top`
 6. SSL/TLS 自动配置
 
 ### Vercel / Netlify
 
-- Build command: `hugo`
+- Build command: `hugo && node split-sitemap.mjs`
 - Output directory: `public`
 
 ## SEO
