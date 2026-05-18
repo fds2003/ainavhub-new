@@ -16,7 +16,7 @@ jobs:
 
       - uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: "0.145.0"
+          hugo-version: "0.147.0"
           extended: true
 
       - uses: actions/setup-node@v4
@@ -26,11 +26,8 @@ jobs:
       - name: Run source tests
         run: node test.mjs
 
-      - name: Hugo build
-        run: hugo --gc
-
-      - name: Split sitemap
-        run: node split-sitemap.mjs
+      - name: Build site and sitemaps
+        run: npm run build
 
       - name: Check output
         run: |

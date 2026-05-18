@@ -1,0 +1,8 @@
+{
+  "name": "ainavhub",
+  "private": true,
+  "scripts": {
+    "build": "hugo --gc && node split-sitemap.mjs",
+    "verify:sitemap": "node split-sitemap.mjs --verify-only"
+  }
+}
