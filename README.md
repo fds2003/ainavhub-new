@@ -71,10 +71,10 @@ ainavhub-new/
 2. Cloudflare Dashboard → Workers & Pages → Create → Connect to Git
 3. 选择仓库 `ainavhub/ainavhub.top`
 4. 构建配置:
-   - **Build command:** `npm run build`（或 `hugo --gc && node split-sitemap.mjs`）
+   - **Build command:** `npm run build`（**必须**使用此命令，仅 `hugo` 不会生成搜索索引和分片 sitemap）
    - **Output directory:** `public`
    - **Environment variable:** `HUGO_VERSION` = `0.147.0`（PaperMod 需要 ≥ 0.146.0）
-   - **Node version:** 22（可选，用于 `npm run build`）
+   - **Node version:** 22（必须，用于 `npm run build` 和 sitemap 分片脚本）
 5. 部署后在 Pages 设置中添加自定义域名 `ainavhub.top`
 6. SSL/TLS 自动配置
 
