@@ -19,10 +19,6 @@ disableKinds = ["RSS"]
     isPlainText = true
     notAlternative = true
 
-[outputs]
-  tools = ["HTML", "INDEX"]
-  guides = ["HTML", "INDEX"]
-
 # Pagination - 200 per page to reduce pagination pages
 [pagination]
   pagerSize = 200

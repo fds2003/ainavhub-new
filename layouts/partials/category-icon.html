@@ -1,6 +1,6 @@
 {{ $category := .category }}
 {{ $default := .default | default "📦" }}
-{{ with site.Data.category_icons }}
+{{ with hugo.Data.category_icons }}
   {{ with index . $category }}
     {{ . }}
   {{ else }}

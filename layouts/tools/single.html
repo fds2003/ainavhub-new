@@ -67,7 +67,7 @@
             <h3>相关指南</h3>
             {{ $toolSlug := .Page.Params.slug | default "" }}
             {{ if $toolSlug }}
-                {{ $toolGuides := index site.Data.tool_guides $toolSlug | default slice }}
+                {{ $toolGuides := index hugo.Data.tool_guides $toolSlug | default slice }}
                 {{ if $toolGuides }}
                 <ul class="related-list">
                     {{ range $toolGuides }}
